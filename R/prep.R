@@ -16,7 +16,7 @@ process_primary <- function(file, prime_office, prime_party) {
   
   # Read raw file from path, filter blank rows, remove unused "Ward" column and totals column, rename columns
   primary <- read_csv(file) %>%
-    filter(!is.na(`City/Town`)) %>%
+    filter(!is.na(`City/Town`) & (`City/Town` != "TOTALS")) %>%
     select(-Ward, -`Total Votes Cast`) %>%
     rename(town = `City/Town`, precinct = Pct)
 
@@ -48,7 +48,7 @@ process_general <- function(file, gen_office){
 
   # Filter blank rows, remove unused columns
   general <- general %>%
-    filter(!is.na(`City/Town`)) %>%
+    filter(!is.na(`City/Town`) & (`City/Town` != "TOTALS")) %>%
     select(-Ward, -`Total Votes Cast`) %>%
     rename(town = `City/Town`, precinct = Pct)
 
