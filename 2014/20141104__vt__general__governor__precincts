@@ -1,0 +1,2476 @@
+county,town,precinct,office,district,party,candidate,votes
+Addison,Addison,NA,Governor,NA,Democratic,Peter Shumlin,166
+Orleans,Albany,NA,Governor,NA,Democratic,Peter Shumlin,88
+Grand Isle,Alburgh,NA,Governor,NA,Democratic,Peter Shumlin,257
+Windsor,Andover,NA,Governor,NA,Democratic,Peter Shumlin,99
+Bennington,Arlington,NA,Governor,NA,Democratic,Peter Shumlin,400
+Windham,Athens,NA,Governor,NA,Democratic,Peter Shumlin,44
+Franklin,Bakersfield,NA,Governor,NA,Democratic,Peter Shumlin,151
+Windsor,Baltimore,NA,Governor,NA,Democratic,Peter Shumlin,23
+Windsor,Barnard,NA,Governor,NA,Democratic,Peter Shumlin,200
+Caledonia,Barnet,NA,Governor,NA,Democratic,Peter Shumlin,252
+Washington,Barre City,NA,Governor,NA,Democratic,Peter Shumlin,769
+Washington,Barre Town,NA,Governor,NA,Democratic,Peter Shumlin,771
+Orleans,Barton,NA,Governor,NA,Democratic,Peter Shumlin,185
+Lamoille,Belvidere,NA,Governor,NA,Democratic,Peter Shumlin,30
+Bennington,Bennington,Bennington 2-1,Governor,NA,Democratic,Peter Shumlin,"1,282"
+Bennington,Bennington,Bennington 2-2,Governor,NA,Democratic,Peter Shumlin,"1,111"
+Rutland,Benson,NA,Governor,NA,Democratic,Peter Shumlin,88
+Franklin,Berkshire,NA,Governor,NA,Democratic,Peter Shumlin,123
+Washington,Berlin,NA,Governor,NA,Democratic,Peter Shumlin,304
+Windsor,Bethel,NA,Governor,NA,Democratic,Peter Shumlin,302
+Essex,Bloomfield,NA,Governor,NA,Democratic,Peter Shumlin,29
+Chittenden,Bolton,NA,Governor,NA,Democratic,Peter Shumlin,212
+Orange,Bradford,NA,Governor,NA,Democratic,Peter Shumlin,308
+Orange,Braintree,NA,Governor,NA,Democratic,Peter Shumlin,162
+Rutland,Brandon,NA,Governor,NA,Democratic,Peter Shumlin,552
+Windham,Brattleboro,Windham 2-1,Governor,NA,Democratic,Peter Shumlin,730
+Windham,Brattleboro,Windham 2-2,Governor,NA,Democratic,Peter Shumlin,696
+Windham,Brattleboro,Windham 2-3,Governor,NA,Democratic,Peter Shumlin,794
+Windsor,Bridgewater,NA,Governor,NA,Democratic,Peter Shumlin,134
+Addison,Bridport,NA,Governor,NA,Democratic,Peter Shumlin,154
+Essex,Brighton,NA,Governor,NA,Democratic,Peter Shumlin,103
+Addison,Bristol,NA,Governor,NA,Democratic,Peter Shumlin,718
+Orange,Brookfield,NA,Governor,NA,Democratic,Peter Shumlin,191
+Windham,Brookline,NA,Governor,NA,Democratic,Peter Shumlin,103
+Orleans,Brownington,NA,Governor,NA,Democratic,Peter Shumlin,102
+Essex,Brunswick,NA,Governor,NA,Democratic,Peter Shumlin,14
+Caledonia,Burke,NA,Governor,NA,Democratic,Peter Shumlin,138
+Chittenden,Burlington,Chittenden 6-1,Governor,NA,Democratic,Peter Shumlin,"1,498"
+Chittenden,Burlington,Chittenden 6-2,Governor,NA,Democratic,Peter Shumlin,924
+Chittenden,Burlington,Chittenden 6-3,Governor,NA,Democratic,Peter Shumlin,"1,053"
+Chittenden,Burlington,Chittenden 6-4,Governor,NA,Democratic,Peter Shumlin,798
+Chittenden,Burlington,Chittenden 6-5,Governor,NA,Democratic,Peter Shumlin,"1,849"
+Chittenden,Burlington,Chittenden 6-6,Governor,NA,Democratic,Peter Shumlin,249
+Chittenden,Burlington,Chittenden 6-7,Governor,NA,Democratic,Peter Shumlin,30
+Washington,Cabot,NA,Governor,NA,Democratic,Peter Shumlin,192
+Washington,Calais,NA,Governor,NA,Democratic,Peter Shumlin,398
+Lamoille,Cambridge,NA,Governor,NA,Democratic,Peter Shumlin,517
+Essex,Canaan,NA,Governor,NA,Democratic,Peter Shumlin,83
+Rutland,Castleton,NA,Governor,NA,Democratic,Peter Shumlin,326
+Windsor,Cavendish,NA,Governor,NA,Democratic,Peter Shumlin,202
+Orleans,Charleston,NA,Governor,NA,Democratic,Peter Shumlin,85
+Chittenden,Charlotte,NA,Governor,NA,Democratic,Peter Shumlin,784
+Orange,Chelsea,NA,Governor,NA,Democratic,Peter Shumlin,155
+Windsor,Chester,NA,Governor,NA,Democratic,Peter Shumlin,467
+Rutland,Chittenden,NA,Governor,NA,Democratic,Peter Shumlin,209
+Rutland,Clarendon,NA,Governor,NA,Democratic,Peter Shumlin,231
+Chittenden,Colchester,Chittenden 9-1,Governor,NA,Democratic,Peter Shumlin,775
+Chittenden,Colchester,Chittenden 9-2,Governor,NA,Democratic,Peter Shumlin,"1,061"
+Essex,Concord,NA,Governor,NA,Democratic,Peter Shumlin,88
+Orange,Corinth,NA,Governor,NA,Democratic,Peter Shumlin,195
+Addison,Cornwall,NA,Governor,NA,Democratic,Peter Shumlin,237
+Orleans,Coventry,NA,Governor,NA,Democratic,Peter Shumlin,114
+Orleans,Craftsbury,NA,Governor,NA,Democratic,Peter Shumlin,134
+Rutland,Danby,NA,Governor,NA,Democratic,Peter Shumlin,144
+Caledonia,Danville,NA,Governor,NA,Democratic,Peter Shumlin,322
+Orleans,Derby,NA,Governor,NA,Democratic,Peter Shumlin,454
+Bennington,Dorset,NA,Governor,NA,Democratic,Peter Shumlin,381
+Windham,Dover,NA,Governor,NA,Democratic,Peter Shumlin,207
+Windham,Dummerston,NA,Governor,NA,Democratic,Peter Shumlin,481
+Washington,Duxbury,NA,Governor,NA,Democratic,Peter Shumlin,176
+Essex,E. Haven,NA,Governor,NA,Democratic,Peter Shumlin,23
+Washington,E. Montpelier,NA,Governor,NA,Democratic,Peter Shumlin,533
+Lamoille,Eden,NA,Governor,NA,Democratic,Peter Shumlin,77
+Lamoille,Elmore,NA,Governor,NA,Democratic,Peter Shumlin,155
+Franklin,Enosburgh,NA,Governor,NA,Democratic,Peter Shumlin,414
+Chittenden,Essex,Chittenden 8-1,Governor,NA,Democratic,Peter Shumlin,962
+Chittenden,Essex,Chittenden 8-2,Governor,NA,Democratic,Peter Shumlin,"1,272"
+Chittenden,Essex,Chittenden 8-3,Governor,NA,Democratic,Peter Shumlin,381
+Rutland,Fair Haven,NA,Governor,NA,Democratic,Peter Shumlin,225
+Franklin,Fairfax,NA,Governor,NA,Democratic,Peter Shumlin,507
+Franklin,Fairfield,NA,Governor,NA,Democratic,Peter Shumlin,248
+Orange,Fairlee,NA,Governor,NA,Democratic,Peter Shumlin,223
+Washington,Fayston,NA,Governor,NA,Democratic,Peter Shumlin,287
+Addison,Ferrisburgh,NA,Governor,NA,Democratic,Peter Shumlin,412
+Franklin,Fletcher,NA,Governor,NA,Democratic,Peter Shumlin,159
+Franklin,Franklin,NA,Governor,NA,Democratic,Peter Shumlin,129
+Franklin,Georgia,NA,Governor,NA,Democratic,Peter Shumlin,407
+Orleans,Glover,NA,Governor,NA,Democratic,Peter Shumlin,153
+Addison,Goshen,NA,Governor,NA,Democratic,Peter Shumlin,38
+Windham,Grafton,NA,Governor,NA,Democratic,Peter Shumlin,119
+Essex,Granby,NA,Governor,NA,Democratic,Peter Shumlin,10
+Grand Isle,Grand Isle,NA,Governor,NA,Democratic,Peter Shumlin,365
+Addison,Granville,NA,Governor,NA,Democratic,Peter Shumlin,60
+Orleans,Greensboro,NA,Governor,NA,Democratic,Peter Shumlin,140
+Caledonia,Groton,NA,Governor,NA,Democratic,Peter Shumlin,87
+Essex,Guildhall,NA,Governor,NA,Democratic,Peter Shumlin,38
+Windham,Guilford,NA,Governor,NA,Democratic,Peter Shumlin,412
+Windham,Halifax,NA,Governor,NA,Democratic,Peter Shumlin,120
+Addison,Hancock,NA,Governor,NA,Democratic,Peter Shumlin,43
+Caledonia,Hardwick,NA,Governor,NA,Democratic,Peter Shumlin,346
+Windsor,Hartford,Windsor 4-1,Governor,NA,Democratic,Peter Shumlin,376
+Windsor,Hartford,Windsor 4-2,Governor,NA,Democratic,Peter Shumlin,"1,368"
+Windsor,Hartland,NA,Governor,NA,Democratic,Peter Shumlin,615
+Franklin,Highgate,NA,Governor,NA,Democratic,Peter Shumlin,257
+Chittenden,Hinesburg,Chittenden 4-1,Governor,NA,Democratic,Peter Shumlin,9
+Chittenden,Hinesburg,Chittenden 4-2,Governor,NA,Democratic,Peter Shumlin,899
+Orleans,Holland,NA,Governor,NA,Democratic,Peter Shumlin,38
+Rutland,Hubbardton,NA,Governor,NA,Democratic,Peter Shumlin,72
+Chittenden,Huntington,NA,Governor,NA,Democratic,Peter Shumlin,474
+Lamoille,Hyde Park,NA,Governor,NA,Democratic,Peter Shumlin,480
+Rutland,Ira,NA,Governor,NA,Democratic,Peter Shumlin,38
+Orleans,Irasburg,NA,Governor,NA,Democratic,Peter Shumlin,85
+Grand Isle,Isle La Motte,NA,Governor,NA,Democratic,Peter Shumlin,69
+Windham,Jamaica,NA,Governor,NA,Democratic,Peter Shumlin,141
+Orleans,Jay,NA,Governor,NA,Democratic,Peter Shumlin,43
+Chittenden,Jericho,NA,Governor,NA,Democratic,Peter Shumlin,"1,025"
+Lamoille,Johnson,NA,Governor,NA,Democratic,Peter Shumlin,341
+Rutland,Killington,NA,Governor,NA,Democratic,Peter Shumlin,165
+Caledonia,Kirby,NA,Governor,NA,Democratic,Peter Shumlin,42
+Bennington,Landgrove,NA,Governor,NA,Democratic,Peter Shumlin,42
+Addison,Leicester,NA,Governor,NA,Democratic,Peter Shumlin,104
+Essex,Lemington,NA,Governor,NA,Democratic,Peter Shumlin,13
+Addison,Lincoln,NA,Governor,NA,Democratic,Peter Shumlin,345
+Windham,Londonderry,NA,Governor,NA,Democratic,Peter Shumlin,212
+Orleans,Lowell,NA,Governor,NA,Democratic,Peter Shumlin,65
+Windsor,Ludlow,NA,Governor,NA,Democratic,Peter Shumlin,285
+Essex,Lunenburg,NA,Governor,NA,Democratic,Peter Shumlin,90
+Caledonia,Lyndon,NA,Governor,NA,Democratic,Peter Shumlin,357
+Essex,Maidstone,NA,Governor,NA,Democratic,Peter Shumlin,22
+Bennington,Manchester,NA,Governor,NA,Democratic,Peter Shumlin,723
+Windham,Marlboro,NA,Governor,NA,Democratic,Peter Shumlin,271
+Washington,Marshfield,NA,Governor,NA,Democratic,Peter Shumlin,245
+Rutland,Mendon,NA,Governor,NA,Democratic,Peter Shumlin,156
+Addison,Middlebury,NA,Governor,NA,Democratic,Peter Shumlin,"1,341"
+Washington,Middlesex,NA,Governor,NA,Democratic,Peter Shumlin,442
+Rutland,Middletown Springs,NA,Governor,NA,Democratic,Peter Shumlin,161
+Chittenden,Milton,Chittenden 10,Governor,NA,Democratic,Peter Shumlin,729
+Chittenden,Milton,Grand Isle-Chittenden,Governor,NA,Democratic,Peter Shumlin,128
+Addison,Monkton,NA,Governor,NA,Democratic,Peter Shumlin,365
+Franklin,Montgomery,NA,Governor,NA,Democratic,Peter Shumlin,224
+Washington,Montpelier,NA,Governor,NA,Democratic,Peter Shumlin,"1,918"
+Washington,Moretown,NA,Governor,NA,Democratic,Peter Shumlin,308
+Orleans,Morgan,NA,Governor,NA,Democratic,Peter Shumlin,49
+Lamoille,Morristown,NA,Governor,NA,Democratic,Peter Shumlin,682
+Rutland,Mount Holly,NA,Governor,NA,Democratic,Peter Shumlin,223
+Rutland,Mount Tabor,NA,Governor,NA,Democratic,Peter Shumlin,25
+Addison,New Haven,NA,Governor,NA,Democratic,Peter Shumlin,341
+Caledonia,Newark,NA,Governor,NA,Democratic,Peter Shumlin,36
+Orange,Newbury,NA,Governor,NA,Democratic,Peter Shumlin,318
+Windham,Newfane,NA,Governor,NA,Democratic,Peter Shumlin,411
+Orleans,Newport City,NA,Governor,NA,Democratic,Peter Shumlin,372
+Orleans,Newport Town,NA,Governor,NA,Democratic,Peter Shumlin,97
+Grand Isle,N. Hero,NA,Governor,NA,Democratic,Peter Shumlin,151
+Washington,Northfield,NA,Governor,NA,Democratic,Peter Shumlin,491
+Essex,Norton,NA,Governor,NA,Democratic,Peter Shumlin,10
+Windsor,Norwich,NA,Governor,NA,Democratic,Peter Shumlin,"1,105"
+Orange,Orange,NA,Governor,NA,Democratic,Peter Shumlin,75
+Addison,Orwell,NA,Governor,NA,Democratic,Peter Shumlin,138
+Addison,Panton,NA,Governor,NA,Democratic,Peter Shumlin,84
+Rutland,Pawlet,NA,Governor,NA,Democratic,Peter Shumlin,252
+Caledonia,Peacham,NA,Governor,NA,Democratic,Peter Shumlin,171
+Bennington,Peru,NA,Governor,NA,Democratic,Peter Shumlin,75
+Rutland,Pittsfield,NA,Governor,NA,Democratic,Peter Shumlin,81
+Rutland,Pittsford,NA,Governor,NA,Democratic,Peter Shumlin,305
+Washington,Plainfield,NA,Governor,NA,Democratic,Peter Shumlin,249
+Windsor,Plymouth,NA,Governor,NA,Democratic,Peter Shumlin,88
+Windsor,Pomfret,NA,Governor,NA,Democratic,Peter Shumlin,214
+Rutland,Poultney,NA,Governor,NA,Democratic,Peter Shumlin,356
+Bennington,Pownal,NA,Governor,NA,Democratic,Peter Shumlin,765
+Rutland,Proctor,NA,Governor,NA,Democratic,Peter Shumlin,219
+Windham,Putney,NA,Governor,NA,Democratic,Peter Shumlin,608
+Orange,Randolph,NA,Governor,NA,Democratic,Peter Shumlin,707
+Windsor,Reading,NA,Governor,NA,Democratic,Peter Shumlin,113
+Bennington,Readsboro,NA,Governor,NA,Democratic,Peter Shumlin,131
+Franklin,Richford,NA,Governor,NA,Democratic,Peter Shumlin,174
+Chittenden,Richmond,NA,Governor,NA,Democratic,Peter Shumlin,878
+Addison,Ripton,NA,Governor,NA,Democratic,Peter Shumlin,157
+Windsor,Rochester,NA,Governor,NA,Democratic,Peter Shumlin,256
+Windham,Rockingham,NA,Governor,NA,Democratic,Peter Shumlin,730
+Washington,Roxbury,NA,Governor,NA,Democratic,Peter Shumlin,101
+Windsor,Royalton,NA,Governor,NA,Democratic,Peter Shumlin,366
+Bennington,Rupert,NA,Governor,NA,Democratic,Peter Shumlin,143
+Rutland,Rutland City,Rutland 5-1,Governor,NA,Democratic,Peter Shumlin,571
+Rutland,Rutland City,Rutland 5-2,Governor,NA,Democratic,Peter Shumlin,455
+Rutland,Rutland City,Rutland 5-3,Governor,NA,Democratic,Peter Shumlin,297
+Rutland,Rutland City,Rutland 5-4,Governor,NA,Democratic,Peter Shumlin,464
+Rutland,Rutland Town,NA,Governor,NA,Democratic,Peter Shumlin,547
+Caledonia,Ryegate,NA,Governor,NA,Democratic,Peter Shumlin,151
+Franklin,Salisbury,NA,Governor,NA,Democratic,Peter Shumlin,122
+Franklin,Sandgate,NA,Governor,NA,Democratic,Peter Shumlin,65
+Chittenden,Searsburg,NA,Governor,NA,Democratic,Peter Shumlin,9
+Caledonia,Shaftsbury,NA,Governor,NA,Democratic,Peter Shumlin,581
+Addison,Sharon,NA,Governor,NA,Democratic,Peter Shumlin,253
+Bennington,Sheffield,NA,Governor,NA,Democratic,Peter Shumlin,51
+Bennington,Shelburne,Chittenden 5-1,Governor,NA,Democratic,Peter Shumlin,915
+Bennington,Shelburne,Chittenden 5-2,Governor,NA,Democratic,Peter Shumlin,627
+Bennington,Sheldon,NA,Governor,NA,Democratic,Peter Shumlin,143
+Windsor,Shoreham,NA,Governor,NA,Democratic,Peter Shumlin,166
+Caledonia,Shrewsbury,NA,Governor,NA,Democratic,Peter Shumlin,196
+Chittenden,S. Burlington,Chittenden 7-1,Governor,NA,Democratic,Peter Shumlin,809
+Chittenden,S. Burlington,Chittenden 7-2,Governor,NA,Democratic,Peter Shumlin,809
+Chittenden,S. Burlington,Chittenden 7-3,Governor,NA,Democratic,Peter Shumlin,708
+Chittenden,S. Burlington,Chittenden 7-4,Governor,NA,Democratic,Peter Shumlin,609
+Franklin,S. Hero,NA,Governor,NA,Democratic,Peter Shumlin,354
+Addison,Springfield,Windsor 3-1,Governor,NA,Democratic,Peter Shumlin,26
+Addison,Springfield,Windsor 3-2,Governor,NA,Democratic,Peter Shumlin,941
+Rutland,St. Albans City,NA,Governor,NA,Democratic,Peter Shumlin,740
+Chittenden,St. Albans Town,Franklin 3-1,Governor,NA,Democratic,Peter Shumlin,213
+Chittenden,St. Albans Town,Franklin 3-2,Governor,NA,Democratic,Peter Shumlin,443
+Grand Isle,St. George,NA,Governor,NA,Democratic,Peter Shumlin,88
+Windsor,St. Johnsbury,NA,Governor,NA,Democratic,Peter Shumlin,728
+Bennington,Stamford,NA,Governor,NA,Democratic,Peter Shumlin,139
+Caledonia,Stannard,NA,Governor,NA,Democratic,Peter Shumlin,37
+Addison,Starksboro,NA,Governor,NA,Democratic,Peter Shumlin,338
+Windsor,Stockbridge,NA,Governor,NA,Democratic,Peter Shumlin,105
+Lamoille,Stowe,NA,Governor,NA,Democratic,Peter Shumlin,641
+Orange,Strafford,NA,Governor,NA,Democratic,Peter Shumlin,315
+Windham,Stratton,NA,Governor,NA,Democratic,Peter Shumlin,32
+Rutland,Sudbury,NA,Governor,NA,Democratic,Peter Shumlin,102
+Bennington,Sunderland,Bennington 3,Governor,NA,Democratic,Peter Shumlin,48
+Bennington,Sunderland,Bennington 4,Governor,NA,Democratic,Peter Shumlin,112
+Caledonia,Sutton,NA,Governor,NA,Democratic,Peter Shumlin,80
+Franklin,Swanton,NA,Governor,NA,Democratic,Peter Shumlin,518
+Orange,Thetford,NA,Governor,NA,Democratic,Peter Shumlin,730
+Rutland,Tinmouth,Rutland 2,Governor,NA,Democratic,Peter Shumlin,23
+Rutland,Tinmouth,Rutland-Bennington,Governor,NA,Democratic,Peter Shumlin,70
+Orange,Topsham,NA,Governor,NA,Democratic,Peter Shumlin,90
+Windham,Townshend,NA,Governor,NA,Democratic,Peter Shumlin,202
+Orleans,Troy,Orleans 2,Governor,NA,Democratic,Peter Shumlin,33
+Orleans,Troy,Orleans-Lamoille,Governor,NA,Democratic,Peter Shumlin,106
+Orange,Tunbridge,NA,Governor,NA,Democratic,Peter Shumlin,248
+Chittenden,Underhill,NA,Governor,NA,Democratic,Peter Shumlin,648
+Addison,Vergennes,NA,Governor,NA,Democratic,Peter Shumlin,351
+Windham,Vernon,NA,Governor,NA,Democratic,Peter Shumlin,153
+Orange,Vershire,NA,Governor,NA,Democratic,Peter Shumlin,114
+Essex,Victory,NA,Governor,NA,Democratic,Peter Shumlin,1
+Washington,Waitsfield,NA,Governor,NA,Democratic,Peter Shumlin,419
+Caledonia,Walden,NA,Governor,NA,Democratic,Peter Shumlin,139
+Rutland,Wallingford,NA,Governor,NA,Democratic,Peter Shumlin,284
+Addison,Waltham,NA,Governor,NA,Democratic,Peter Shumlin,78
+Windham,Wardsboro,NA,Governor,NA,Democratic,Peter Shumlin,153
+Washington,Warren,NA,Governor,NA,Democratic,Peter Shumlin,403
+Orange,Washington,NA,Governor,NA,Democratic,Peter Shumlin,99
+Washington,Waterbury,NA,Governor,NA,Democratic,Peter Shumlin,828
+Caledonia,Waterford,NA,Governor,NA,Democratic,Peter Shumlin,136
+Lamoille,Waterville,NA,Governor,NA,Democratic,Peter Shumlin,75
+Windsor,Weathersfield,NA,Governor,NA,Democratic,Peter Shumlin,380
+Rutland,Wells,NA,Governor,NA,Democratic,Peter Shumlin,153
+Orange,W. Fairlee,NA,Governor,NA,Democratic,Peter Shumlin,79
+Rutland,W. Haven,NA,Governor,NA,Democratic,Peter Shumlin,36
+Rutland,W. Rutland,NA,Governor,NA,Democratic,Peter Shumlin,184
+Windsor,W. Windsor,NA,Governor,NA,Democratic,Peter Shumlin,248
+Orleans,Westfield,NA,Governor,NA,Democratic,Peter Shumlin,62
+Chittenden,Westford,NA,Governor,NA,Democratic,Peter Shumlin,319
+Windham,Westminster,Windham 3,Governor,NA,Democratic,Peter Shumlin,23
+Windham,Westminster,Windham 4,Governor,NA,Democratic,Peter Shumlin,652
+Orleans,Westmore,NA,Governor,NA,Democratic,Peter Shumlin,43
+Windsor,Weston,NA,Governor,NA,Democratic,Peter Shumlin,157
+Addison,Weybridge,NA,Governor,NA,Democratic,Peter Shumlin,224
+Caledonia,Wheelock,NA,Governor,NA,Democratic,Peter Shumlin,64
+Addison,Whiting,NA,Governor,NA,Democratic,Peter Shumlin,43
+Windham,Whitingham,Windham 6,Governor,NA,Democratic,Peter Shumlin,147
+Windham,Whitingham,Windham-Bennington,Governor,NA,Democratic,Peter Shumlin,6
+Orange,Williamstown,NA,Governor,NA,Democratic,Peter Shumlin,320
+Chittenden,Williston,NA,Governor,NA,Democratic,Peter Shumlin,"1,404"
+Windham,Wilmington,NA,Governor,NA,Democratic,Peter Shumlin,309
+Windham,Windham,NA,Governor,NA,Democratic,Peter Shumlin,73
+Windsor,Windsor,NA,Governor,NA,Democratic,Peter Shumlin,573
+Bennington,Winhall,NA,Governor,NA,Democratic,Peter Shumlin,123
+Chittenden,Winooski,NA,Governor,NA,Democratic,Peter Shumlin,827
+Lamoille,Wolcott,NA,Governor,NA,Democratic,Peter Shumlin,209
+Washington,Woodbury,NA,Governor,NA,Democratic,Peter Shumlin,158
+Bennington,Woodford,NA,Governor,NA,Democratic,Peter Shumlin,77
+Windsor,Woodstock,NA,Governor,NA,Democratic,Peter Shumlin,708
+Washington,Worcester,NA,Governor,NA,Democratic,Peter Shumlin,198
+Addison,Addison,NA,Governor,NA,Republican,Scott Milne,335
+Orleans,Albany,NA,Governor,NA,Republican,Scott Milne,167
+Grand Isle,Alburgh,NA,Governor,NA,Republican,Scott Milne,317
+Windsor,Andover,NA,Governor,NA,Republican,Scott Milne,96
+Bennington,Arlington,NA,Governor,NA,Republican,Scott Milne,327
+Windham,Athens,NA,Governor,NA,Republican,Scott Milne,40
+Franklin,Bakersfield,NA,Governor,NA,Republican,Scott Milne,179
+Windsor,Baltimore,NA,Governor,NA,Republican,Scott Milne,40
+Windsor,Barnard,NA,Governor,NA,Republican,Scott Milne,199
+Caledonia,Barnet,NA,Governor,NA,Republican,Scott Milne,323
+Washington,Barre City,NA,Governor,NA,Republican,Scott Milne,"1,174"
+Washington,Barre Town,NA,Governor,NA,Republican,Scott Milne,"1,980"
+Orleans,Barton,NA,Governor,NA,Republican,Scott Milne,411
+Lamoille,Belvidere,NA,Governor,NA,Republican,Scott Milne,63
+Bennington,Bennington,Bennington 2-1,Governor,NA,Republican,Scott Milne,552
+Bennington,Bennington,Bennington 2-2,Governor,NA,Republican,Scott Milne,596
+Rutland,Benson,NA,Governor,NA,Republican,Scott Milne,128
+Franklin,Berkshire,NA,Governor,NA,Republican,Scott Milne,227
+Washington,Berlin,NA,Governor,NA,Republican,Scott Milne,484
+Windsor,Bethel,NA,Governor,NA,Republican,Scott Milne,300
+Essex,Bloomfield,NA,Governor,NA,Republican,Scott Milne,31
+Chittenden,Bolton,NA,Governor,NA,Republican,Scott Milne,180
+Orange,Bradford,NA,Governor,NA,Republican,Scott Milne,283
+Orange,Braintree,NA,Governor,NA,Republican,Scott Milne,205
+Rutland,Brandon,NA,Governor,NA,Republican,Scott Milne,675
+Windham,Brattleboro,Windham 2-1,Governor,NA,Republican,Scott Milne,290
+Windham,Brattleboro,Windham 2-2,Governor,NA,Republican,Scott Milne,159
+Windham,Brattleboro,Windham 2-3,Governor,NA,Republican,Scott Milne,175
+Windsor,Bridgewater,NA,Governor,NA,Republican,Scott Milne,146
+Addison,Bridport,NA,Governor,NA,Republican,Scott Milne,269
+Essex,Brighton,NA,Governor,NA,Republican,Scott Milne,221
+Addison,Bristol,NA,Governor,NA,Republican,Scott Milne,665
+Orange,Brookfield,NA,Governor,NA,Republican,Scott Milne,249
+Windham,Brookline,NA,Governor,NA,Republican,Scott Milne,56
+Orleans,Brownington,NA,Governor,NA,Republican,Scott Milne,202
+Essex,Brunswick,NA,Governor,NA,Republican,Scott Milne,16
+Caledonia,Burke,NA,Governor,NA,Republican,Scott Milne,271
+Chittenden,Burlington,Chittenden 6-1,Governor,NA,Republican,Scott Milne,"1,007"
+Chittenden,Burlington,Chittenden 6-2,Governor,NA,Republican,Scott Milne,335
+Chittenden,Burlington,Chittenden 6-3,Governor,NA,Republican,Scott Milne,200
+Chittenden,Burlington,Chittenden 6-4,Governor,NA,Republican,Scott Milne,149
+Chittenden,Burlington,Chittenden 6-5,Governor,NA,Republican,Scott Milne,498
+Chittenden,Burlington,Chittenden 6-6,Governor,NA,Republican,Scott Milne,84
+Chittenden,Burlington,Chittenden 6-7,Governor,NA,Republican,Scott Milne,3
+Washington,Cabot,NA,Governor,NA,Republican,Scott Milne,221
+Washington,Calais,NA,Governor,NA,Republican,Scott Milne,249
+Lamoille,Cambridge,NA,Governor,NA,Republican,Scott Milne,486
+Essex,Canaan,NA,Governor,NA,Republican,Scott Milne,96
+Rutland,Castleton,NA,Governor,NA,Republican,Scott Milne,628
+Windsor,Cavendish,NA,Governor,NA,Republican,Scott Milne,203
+Orleans,Charleston,NA,Governor,NA,Republican,Scott Milne,162
+Chittenden,Charlotte,NA,Governor,NA,Republican,Scott Milne,619
+Orange,Chelsea,NA,Governor,NA,Republican,Scott Milne,315
+Windsor,Chester,NA,Governor,NA,Republican,Scott Milne,355
+Rutland,Chittenden,NA,Governor,NA,Republican,Scott Milne,284
+Rutland,Clarendon,NA,Governor,NA,Republican,Scott Milne,481
+Chittenden,Colchester,Chittenden 9-1,Governor,NA,Republican,Scott Milne,905
+Chittenden,Colchester,Chittenden 9-2,Governor,NA,Republican,Scott Milne,"1,357"
+Essex,Concord,NA,Governor,NA,Republican,Scott Milne,181
+Orange,Corinth,NA,Governor,NA,Republican,Scott Milne,221
+Addison,Cornwall,NA,Governor,NA,Republican,Scott Milne,191
+Orleans,Coventry,NA,Governor,NA,Republican,Scott Milne,178
+Orleans,Craftsbury,NA,Governor,NA,Republican,Scott Milne,203
+Rutland,Danby,NA,Governor,NA,Republican,Scott Milne,250
+Caledonia,Danville,NA,Governor,NA,Republican,Scott Milne,450
+Orleans,Derby,NA,Governor,NA,Republican,Scott Milne,884
+Bennington,Dorset,NA,Governor,NA,Republican,Scott Milne,425
+Windham,Dover,NA,Governor,NA,Republican,Scott Milne,239
+Windham,Dummerston,NA,Governor,NA,Republican,Scott Milne,187
+Washington,Duxbury,NA,Governor,NA,Republican,Scott Milne,270
+Essex,E. Haven,NA,Governor,NA,Republican,Scott Milne,41
+Washington,E. Montpelier,NA,Governor,NA,Republican,Scott Milne,440
+Lamoille,Eden,NA,Governor,NA,Republican,Scott Milne,178
+Lamoille,Elmore,NA,Governor,NA,Republican,Scott Milne,150
+Franklin,Enosburgh,NA,Governor,NA,Republican,Scott Milne,457
+Chittenden,Essex,Chittenden 8-1,Governor,NA,Republican,Scott Milne,"1,240"
+Chittenden,Essex,Chittenden 8-2,Governor,NA,Republican,Scott Milne,"1,331"
+Chittenden,Essex,Chittenden 8-3,Governor,NA,Republican,Scott Milne,392
+Rutland,Fair Haven,NA,Governor,NA,Republican,Scott Milne,408
+Franklin,Fairfax,NA,Governor,NA,Republican,Scott Milne,751
+Franklin,Fairfield,NA,Governor,NA,Republican,Scott Milne,343
+Orange,Fairlee,NA,Governor,NA,Republican,Scott Milne,123
+Washington,Fayston,NA,Governor,NA,Republican,Scott Milne,206
+Addison,Ferrisburgh,NA,Governor,NA,Republican,Scott Milne,535
+Franklin,Fletcher,NA,Governor,NA,Republican,Scott Milne,170
+Franklin,Franklin,NA,Governor,NA,Republican,Scott Milne,274
+Franklin,Georgia,NA,Governor,NA,Republican,Scott Milne,862
+Orleans,Glover,NA,Governor,NA,Republican,Scott Milne,213
+Addison,Goshen,NA,Governor,NA,Republican,Scott Milne,32
+Windham,Grafton,NA,Governor,NA,Republican,Scott Milne,101
+Essex,Granby,NA,Governor,NA,Republican,Scott Milne,16
+Grand Isle,Grand Isle,NA,Governor,NA,Republican,Scott Milne,467
+Addison,Granville,NA,Governor,NA,Republican,Scott Milne,26
+Orleans,Greensboro,NA,Governor,NA,Republican,Scott Milne,91
+Caledonia,Groton,NA,Governor,NA,Republican,Scott Milne,209
+Essex,Guildhall,NA,Governor,NA,Republican,Scott Milne,60
+Windham,Guilford,NA,Governor,NA,Republican,Scott Milne,175
+Windham,Halifax,NA,Governor,NA,Republican,Scott Milne,85
+Addison,Hancock,NA,Governor,NA,Republican,Scott Milne,46
+Caledonia,Hardwick,NA,Governor,NA,Republican,Scott Milne,454
+Windsor,Hartford,Windsor 4-1,Governor,NA,Republican,Scott Milne,319
+Windsor,Hartford,Windsor 4-2,Governor,NA,Republican,Scott Milne,725
+Windsor,Hartland,NA,Governor,NA,Republican,Scott Milne,458
+Franklin,Highgate,NA,Governor,NA,Republican,Scott Milne,639
+Chittenden,Hinesburg,Chittenden 4-1,Governor,NA,Republican,Scott Milne,2
+Chittenden,Hinesburg,Chittenden 4-2,Governor,NA,Republican,Scott Milne,625
+Orleans,Holland,NA,Governor,NA,Republican,Scott Milne,117
+Rutland,Hubbardton,NA,Governor,NA,Republican,Scott Milne,116
+Chittenden,Huntington,NA,Governor,NA,Republican,Scott Milne,245
+Lamoille,Hyde Park,NA,Governor,NA,Republican,Scott Milne,640
+Rutland,Ira,NA,Governor,NA,Republican,Scott Milne,93
+Orleans,Irasburg,NA,Governor,NA,Republican,Scott Milne,210
+Grand Isle,Isle La Motte,NA,Governor,NA,Republican,Scott Milne,128
+Windham,Jamaica,NA,Governor,NA,Republican,Scott Milne,83
+Orleans,Jay,NA,Governor,NA,Republican,Scott Milne,69
+Chittenden,Jericho,NA,Governor,NA,Republican,Scott Milne,988
+Lamoille,Johnson,NA,Governor,NA,Republican,Scott Milne,356
+Rutland,Killington,NA,Governor,NA,Republican,Scott Milne,230
+Caledonia,Kirby,NA,Governor,NA,Republican,Scott Milne,90
+Bennington,Landgrove,NA,Governor,NA,Republican,Scott Milne,30
+Addison,Leicester,NA,Governor,NA,Republican,Scott Milne,166
+Essex,Lemington,NA,Governor,NA,Republican,Scott Milne,21
+Addison,Lincoln,NA,Governor,NA,Republican,Scott Milne,234
+Windham,Londonderry,NA,Governor,NA,Republican,Scott Milne,220
+Orleans,Lowell,NA,Governor,NA,Republican,Scott Milne,170
+Windsor,Ludlow,NA,Governor,NA,Republican,Scott Milne,350
+Essex,Lunenburg,NA,Governor,NA,Republican,Scott Milne,192
+Caledonia,Lyndon,NA,Governor,NA,Republican,Scott Milne,759
+Essex,Maidstone,NA,Governor,NA,Republican,Scott Milne,35
+Bennington,Manchester,NA,Governor,NA,Republican,Scott Milne,757
+Windham,Marlboro,NA,Governor,NA,Republican,Scott Milne,67
+Washington,Marshfield,NA,Governor,NA,Republican,Scott Milne,268
+Rutland,Mendon,NA,Governor,NA,Republican,Scott Milne,252
+Addison,Middlebury,NA,Governor,NA,Republican,Scott Milne,733
+Washington,Middlesex,NA,Governor,NA,Republican,Scott Milne,291
+Rutland,Middletown Springs,NA,Governor,NA,Republican,Scott Milne,167
+Chittenden,Milton,Chittenden 10,Governor,NA,Republican,Scott Milne,"1,433"
+Chittenden,Milton,Grand Isle-Chittenden,Governor,NA,Republican,Scott Milne,223
+Addison,Monkton,NA,Governor,NA,Republican,Scott Milne,397
+Franklin,Montgomery,NA,Governor,NA,Republican,Scott Milne,153
+Washington,Montpelier,NA,Governor,NA,Republican,Scott Milne,758
+Washington,Moretown,NA,Governor,NA,Republican,Scott Milne,291
+Orleans,Morgan,NA,Governor,NA,Republican,Scott Milne,153
+Lamoille,Morristown,NA,Governor,NA,Republican,Scott Milne,813
+Rutland,Mount Holly,NA,Governor,NA,Republican,Scott Milne,245
+Rutland,Mount Tabor,NA,Governor,NA,Republican,Scott Milne,30
+Addison,New Haven,NA,Governor,NA,Republican,Scott Milne,363
+Caledonia,Newark,NA,Governor,NA,Republican,Scott Milne,112
+Orange,Newbury,NA,Governor,NA,Republican,Scott Milne,271
+Windham,Newfane,NA,Governor,NA,Republican,Scott Milne,156
+Orleans,Newport City,NA,Governor,NA,Republican,Scott Milne,590
+Orleans,Newport Town,NA,Governor,NA,Republican,Scott Milne,286
+Grand Isle,N. Hero,NA,Governor,NA,Republican,Scott Milne,235
+Washington,Northfield,NA,Governor,NA,Republican,Scott Milne,790
+Essex,Norton,NA,Governor,NA,Republican,Scott Milne,31
+Windsor,Norwich,NA,Governor,NA,Republican,Scott Milne,225
+Orange,Orange,NA,Governor,NA,Republican,Scott Milne,241
+Addison,Orwell,NA,Governor,NA,Republican,Scott Milne,245
+Addison,Panton,NA,Governor,NA,Republican,Scott Milne,121
+Rutland,Pawlet,NA,Governor,NA,Republican,Scott Milne,200
+Caledonia,Peacham,NA,Governor,NA,Republican,Scott Milne,131
+Bennington,Peru,NA,Governor,NA,Republican,Scott Milne,65
+Rutland,Pittsfield,NA,Governor,NA,Republican,Scott Milne,95
+Rutland,Pittsford,NA,Governor,NA,Republican,Scott Milne,590
+Washington,Plainfield,NA,Governor,NA,Republican,Scott Milne,152
+Windsor,Plymouth,NA,Governor,NA,Republican,Scott Milne,137
+Windsor,Pomfret,NA,Governor,NA,Republican,Scott Milne,186
+Rutland,Poultney,NA,Governor,NA,Republican,Scott Milne,457
+Bennington,Pownal,NA,Governor,NA,Republican,Scott Milne,334
+Rutland,Proctor,NA,Governor,NA,Republican,Scott Milne,270
+Windham,Putney,NA,Governor,NA,Republican,Scott Milne,128
+Orange,Randolph,NA,Governor,NA,Republican,Scott Milne,721
+Windsor,Reading,NA,Governor,NA,Republican,Scott Milne,108
+Bennington,Readsboro,NA,Governor,NA,Republican,Scott Milne,90
+Franklin,Richford,NA,Governor,NA,Republican,Scott Milne,261
+Chittenden,Richmond,NA,Governor,NA,Republican,Scott Milne,621
+Addison,Ripton,NA,Governor,NA,Republican,Scott Milne,65
+Windsor,Rochester,NA,Governor,NA,Republican,Scott Milne,143
+Windham,Rockingham,NA,Governor,NA,Republican,Scott Milne,339
+Washington,Roxbury,NA,Governor,NA,Republican,Scott Milne,118
+Windsor,Royalton,NA,Governor,NA,Republican,Scott Milne,421
+Bennington,Rupert,NA,Governor,NA,Republican,Scott Milne,119
+Rutland,Rutland City,Rutland 5-1,Governor,NA,Republican,Scott Milne,846
+Rutland,Rutland City,Rutland 5-2,Governor,NA,Republican,Scott Milne,606
+Rutland,Rutland City,Rutland 5-3,Governor,NA,Republican,Scott Milne,338
+Rutland,Rutland City,Rutland 5-4,Governor,NA,Republican,Scott Milne,532
+Rutland,Rutland Town,NA,Governor,NA,Republican,Scott Milne,987
+Caledonia,Ryegate,NA,Governor,NA,Republican,Scott Milne,211
+Franklin,Salisbury,NA,Governor,NA,Republican,Scott Milne,154
+Franklin,Sandgate,NA,Governor,NA,Republican,Scott Milne,50
+Chittenden,Searsburg,NA,Governor,NA,Republican,Scott Milne,13
+Caledonia,Shaftsbury,NA,Governor,NA,Republican,Scott Milne,425
+Addison,Sharon,NA,Governor,NA,Republican,Scott Milne,177
+Bennington,Sheffield,NA,Governor,NA,Republican,Scott Milne,105
+Bennington,Shelburne,Chittenden 5-1,Governor,NA,Republican,Scott Milne,613
+Bennington,Shelburne,Chittenden 5-2,Governor,NA,Republican,Scott Milne,611
+Bennington,Sheldon,NA,Governor,NA,Republican,Scott Milne,288
+Windsor,Shoreham,NA,Governor,NA,Republican,Scott Milne,201
+Caledonia,Shrewsbury,NA,Governor,NA,Republican,Scott Milne,216
+Chittenden,S. Burlington,Chittenden 7-1,Governor,NA,Republican,Scott Milne,553
+Chittenden,S. Burlington,Chittenden 7-2,Governor,NA,Republican,Scott Milne,715
+Chittenden,S. Burlington,Chittenden 7-3,Governor,NA,Republican,Scott Milne,412
+Chittenden,S. Burlington,Chittenden 7-4,Governor,NA,Republican,Scott Milne,596
+Franklin,S. Hero,NA,Governor,NA,Republican,Scott Milne,343
+Addison,Springfield,Windsor 3-1,Governor,NA,Republican,Scott Milne,45
+Addison,Springfield,Windsor 3-2,Governor,NA,Republican,Scott Milne,936
+Rutland,St. Albans City,NA,Governor,NA,Republican,Scott Milne,713
+Chittenden,St. Albans Town,Franklin 3-1,Governor,NA,Republican,Scott Milne,327
+Chittenden,St. Albans Town,Franklin 3-2,Governor,NA,Republican,Scott Milne,754
+Grand Isle,St. George,NA,Governor,NA,Republican,Scott Milne,103
+Windsor,St. Johnsbury,NA,Governor,NA,Republican,Scott Milne,"1,059"
+Bennington,Stamford,NA,Governor,NA,Republican,Scott Milne,88
+Caledonia,Stannard,NA,Governor,NA,Republican,Scott Milne,31
+Addison,Starksboro,NA,Governor,NA,Republican,Scott Milne,289
+Windsor,Stockbridge,NA,Governor,NA,Republican,Scott Milne,114
+Lamoille,Stowe,NA,Governor,NA,Republican,Scott Milne,731
+Orange,Strafford,NA,Governor,NA,Republican,Scott Milne,127
+Windham,Stratton,NA,Governor,NA,Republican,Scott Milne,44
+Rutland,Sudbury,NA,Governor,NA,Republican,Scott Milne,98
+Bennington,Sunderland,Bennington 3,Governor,NA,Republican,Scott Milne,21
+Bennington,Sunderland,Bennington 4,Governor,NA,Republican,Scott Milne,105
+Caledonia,Sutton,NA,Governor,NA,Republican,Scott Milne,140
+Franklin,Swanton,NA,Governor,NA,Republican,Scott Milne,955
+Orange,Thetford,NA,Governor,NA,Republican,Scott Milne,285
+Rutland,Tinmouth,Rutland 2,Governor,NA,Republican,Scott Milne,28
+Rutland,Tinmouth,Rutland-Bennington,Governor,NA,Republican,Scott Milne,62
+Orange,Topsham,NA,Governor,NA,Republican,Scott Milne,176
+Windham,Townshend,NA,Governor,NA,Republican,Scott Milne,120
+Orleans,Troy,Orleans 2,Governor,NA,Republican,Scott Milne,63
+Orleans,Troy,Orleans-Lamoille,Governor,NA,Republican,Scott Milne,161
+Orange,Tunbridge,NA,Governor,NA,Republican,Scott Milne,293
+Chittenden,Underhill,NA,Governor,NA,Republican,Scott Milne,541
+Addison,Vergennes,NA,Governor,NA,Republican,Scott Milne,389
+Windham,Vernon,NA,Governor,NA,Republican,Scott Milne,368
+Orange,Vershire,NA,Governor,NA,Republican,Scott Milne,81
+Essex,Victory,NA,Governor,NA,Republican,Scott Milne,26
+Washington,Waitsfield,NA,Governor,NA,Republican,Scott Milne,297
+Caledonia,Walden,NA,Governor,NA,Republican,Scott Milne,172
+Rutland,Wallingford,NA,Governor,NA,Republican,Scott Milne,372
+Addison,Waltham,NA,Governor,NA,Republican,Scott Milne,99
+Windham,Wardsboro,NA,Governor,NA,Republican,Scott Milne,96
+Washington,Warren,NA,Governor,NA,Republican,Scott Milne,238
+Orange,Washington,NA,Governor,NA,Republican,Scott Milne,251
+Washington,Waterbury,NA,Governor,NA,Republican,Scott Milne,756
+Caledonia,Waterford,NA,Governor,NA,Republican,Scott Milne,316
+Lamoille,Waterville,NA,Governor,NA,Republican,Scott Milne,116
+Windsor,Weathersfield,NA,Governor,NA,Republican,Scott Milne,424
+Rutland,Wells,NA,Governor,NA,Republican,Scott Milne,182
+Orange,W. Fairlee,NA,Governor,NA,Republican,Scott Milne,72
+Rutland,W. Haven,NA,Governor,NA,Republican,Scott Milne,49
+Rutland,W. Rutland,NA,Governor,NA,Republican,Scott Milne,374
+Windsor,W. Windsor,NA,Governor,NA,Republican,Scott Milne,185
+Orleans,Westfield,NA,Governor,NA,Republican,Scott Milne,107
+Chittenden,Westford,NA,Governor,NA,Republican,Scott Milne,405
+Windham,Westminster,Windham 3,Governor,NA,Republican,Scott Milne,19
+Windham,Westminster,Windham 4,Governor,NA,Republican,Scott Milne,210
+Orleans,Westmore,NA,Governor,NA,Republican,Scott Milne,84
+Windsor,Weston,NA,Governor,NA,Republican,Scott Milne,103
+Addison,Weybridge,NA,Governor,NA,Republican,Scott Milne,146
+Caledonia,Wheelock,NA,Governor,NA,Republican,Scott Milne,129
+Addison,Whiting,NA,Governor,NA,Republican,Scott Milne,64
+Windham,Whitingham,Windham 6,Governor,NA,Republican,Scott Milne,155
+Windham,Whitingham,Windham-Bennington,Governor,NA,Republican,Scott Milne,3
+Orange,Williamstown,NA,Governor,NA,Republican,Scott Milne,618
+Chittenden,Williston,NA,Governor,NA,Republican,Scott Milne,"1,494"
+Windham,Wilmington,NA,Governor,NA,Republican,Scott Milne,210
+Windham,Windham,NA,Governor,NA,Republican,Scott Milne,51
+Windsor,Windsor,NA,Governor,NA,Republican,Scott Milne,296
+Bennington,Winhall,NA,Governor,NA,Republican,Scott Milne,156
+Chittenden,Winooski,NA,Governor,NA,Republican,Scott Milne,508
+Lamoille,Wolcott,NA,Governor,NA,Republican,Scott Milne,277
+Washington,Woodbury,NA,Governor,NA,Republican,Scott Milne,158
+Bennington,Woodford,NA,Governor,NA,Republican,Scott Milne,27
+Windsor,Woodstock,NA,Governor,NA,Republican,Scott Milne,461
+Washington,Worcester,NA,Governor,NA,Republican,Scott Milne,149
+Addison,Addison,NA,Governor,NA,Libertarian,Dan Feliciano,31
+Orleans,Albany,NA,Governor,NA,Libertarian,Dan Feliciano,13
+Grand Isle,Alburgh,NA,Governor,NA,Libertarian,Dan Feliciano,29
+Windsor,Andover,NA,Governor,NA,Libertarian,Dan Feliciano,9
+Bennington,Arlington,NA,Governor,NA,Libertarian,Dan Feliciano,13
+Windham,Athens,NA,Governor,NA,Libertarian,Dan Feliciano,4
+Franklin,Bakersfield,NA,Governor,NA,Libertarian,Dan Feliciano,24
+Windsor,Baltimore,NA,Governor,NA,Libertarian,Dan Feliciano,1
+Windsor,Barnard,NA,Governor,NA,Libertarian,Dan Feliciano,12
+Caledonia,Barnet,NA,Governor,NA,Libertarian,Dan Feliciano,21
+Washington,Barre City,NA,Governor,NA,Libertarian,Dan Feliciano,98
+Washington,Barre Town,NA,Governor,NA,Libertarian,Dan Feliciano,93
+Orleans,Barton,NA,Governor,NA,Libertarian,Dan Feliciano,21
+Lamoille,Belvidere,NA,Governor,NA,Libertarian,Dan Feliciano,6
+Bennington,Bennington,Bennington 2-1,Governor,NA,Libertarian,Dan Feliciano,31
+Bennington,Bennington,Bennington 2-2,Governor,NA,Libertarian,Dan Feliciano,24
+Rutland,Benson,NA,Governor,NA,Libertarian,Dan Feliciano,15
+Franklin,Berkshire,NA,Governor,NA,Libertarian,Dan Feliciano,26
+Washington,Berlin,NA,Governor,NA,Libertarian,Dan Feliciano,46
+Windsor,Bethel,NA,Governor,NA,Libertarian,Dan Feliciano,17
+Essex,Bloomfield,NA,Governor,NA,Libertarian,Dan Feliciano,1
+Chittenden,Bolton,NA,Governor,NA,Libertarian,Dan Feliciano,36
+Orange,Bradford,NA,Governor,NA,Libertarian,Dan Feliciano,22
+Orange,Braintree,NA,Governor,NA,Libertarian,Dan Feliciano,9
+Rutland,Brandon,NA,Governor,NA,Libertarian,Dan Feliciano,50
+Windham,Brattleboro,Windham 2-1,Governor,NA,Libertarian,Dan Feliciano,10
+Windham,Brattleboro,Windham 2-2,Governor,NA,Libertarian,Dan Feliciano,5
+Windham,Brattleboro,Windham 2-3,Governor,NA,Libertarian,Dan Feliciano,4
+Windsor,Bridgewater,NA,Governor,NA,Libertarian,Dan Feliciano,5
+Addison,Bridport,NA,Governor,NA,Libertarian,Dan Feliciano,12
+Essex,Brighton,NA,Governor,NA,Libertarian,Dan Feliciano,12
+Addison,Bristol,NA,Governor,NA,Libertarian,Dan Feliciano,76
+Orange,Brookfield,NA,Governor,NA,Libertarian,Dan Feliciano,19
+Windham,Brookline,NA,Governor,NA,Libertarian,Dan Feliciano,4
+Orleans,Brownington,NA,Governor,NA,Libertarian,Dan Feliciano,16
+Essex,Brunswick,NA,Governor,NA,Libertarian,Dan Feliciano,2
+Caledonia,Burke,NA,Governor,NA,Libertarian,Dan Feliciano,19
+Chittenden,Burlington,Chittenden 6-1,Governor,NA,Libertarian,Dan Feliciano,135
+Chittenden,Burlington,Chittenden 6-2,Governor,NA,Libertarian,Dan Feliciano,57
+Chittenden,Burlington,Chittenden 6-3,Governor,NA,Libertarian,Dan Feliciano,52
+Chittenden,Burlington,Chittenden 6-4,Governor,NA,Libertarian,Dan Feliciano,33
+Chittenden,Burlington,Chittenden 6-5,Governor,NA,Libertarian,Dan Feliciano,103
+Chittenden,Burlington,Chittenden 6-6,Governor,NA,Libertarian,Dan Feliciano,17
+Chittenden,Burlington,Chittenden 6-7,Governor,NA,Libertarian,Dan Feliciano,1
+Washington,Cabot,NA,Governor,NA,Libertarian,Dan Feliciano,19
+Washington,Calais,NA,Governor,NA,Libertarian,Dan Feliciano,30
+Lamoille,Cambridge,NA,Governor,NA,Libertarian,Dan Feliciano,76
+Essex,Canaan,NA,Governor,NA,Libertarian,Dan Feliciano,3
+Rutland,Castleton,NA,Governor,NA,Libertarian,Dan Feliciano,50
+Windsor,Cavendish,NA,Governor,NA,Libertarian,Dan Feliciano,50
+Orleans,Charleston,NA,Governor,NA,Libertarian,Dan Feliciano,7
+Chittenden,Charlotte,NA,Governor,NA,Libertarian,Dan Feliciano,76
+Orange,Chelsea,NA,Governor,NA,Libertarian,Dan Feliciano,10
+Windsor,Chester,NA,Governor,NA,Libertarian,Dan Feliciano,31
+Rutland,Chittenden,NA,Governor,NA,Libertarian,Dan Feliciano,27
+Rutland,Clarendon,NA,Governor,NA,Libertarian,Dan Feliciano,41
+Chittenden,Colchester,Chittenden 9-1,Governor,NA,Libertarian,Dan Feliciano,137
+Chittenden,Colchester,Chittenden 9-2,Governor,NA,Libertarian,Dan Feliciano,174
+Essex,Concord,NA,Governor,NA,Libertarian,Dan Feliciano,10
+Orange,Corinth,NA,Governor,NA,Libertarian,Dan Feliciano,20
+Addison,Cornwall,NA,Governor,NA,Libertarian,Dan Feliciano,18
+Orleans,Coventry,NA,Governor,NA,Libertarian,Dan Feliciano,7
+Orleans,Craftsbury,NA,Governor,NA,Libertarian,Dan Feliciano,26
+Rutland,Danby,NA,Governor,NA,Libertarian,Dan Feliciano,11
+Caledonia,Danville,NA,Governor,NA,Libertarian,Dan Feliciano,28
+Orleans,Derby,NA,Governor,NA,Libertarian,Dan Feliciano,35
+Bennington,Dorset,NA,Governor,NA,Libertarian,Dan Feliciano,15
+Windham,Dover,NA,Governor,NA,Libertarian,Dan Feliciano,11
+Windham,Dummerston,NA,Governor,NA,Libertarian,Dan Feliciano,6
+Washington,Duxbury,NA,Governor,NA,Libertarian,Dan Feliciano,34
+Essex,E. Haven,NA,Governor,NA,Libertarian,Dan Feliciano,3
+Washington,E. Montpelier,NA,Governor,NA,Libertarian,Dan Feliciano,49
+Lamoille,Eden,NA,Governor,NA,Libertarian,Dan Feliciano,13
+Lamoille,Elmore,NA,Governor,NA,Libertarian,Dan Feliciano,22
+Franklin,Enosburgh,NA,Governor,NA,Libertarian,Dan Feliciano,36
+Chittenden,Essex,Chittenden 8-1,Governor,NA,Libertarian,Dan Feliciano,293
+Chittenden,Essex,Chittenden 8-2,Governor,NA,Libertarian,Dan Feliciano,280
+Chittenden,Essex,Chittenden 8-3,Governor,NA,Libertarian,Dan Feliciano,90
+Rutland,Fair Haven,NA,Governor,NA,Libertarian,Dan Feliciano,29
+Franklin,Fairfax,NA,Governor,NA,Libertarian,Dan Feliciano,103
+Franklin,Fairfield,NA,Governor,NA,Libertarian,Dan Feliciano,28
+Orange,Fairlee,NA,Governor,NA,Libertarian,Dan Feliciano,3
+Washington,Fayston,NA,Governor,NA,Libertarian,Dan Feliciano,11
+Addison,Ferrisburgh,NA,Governor,NA,Libertarian,Dan Feliciano,57
+Franklin,Fletcher,NA,Governor,NA,Libertarian,Dan Feliciano,26
+Franklin,Franklin,NA,Governor,NA,Libertarian,Dan Feliciano,17
+Franklin,Georgia,NA,Governor,NA,Libertarian,Dan Feliciano,108
+Orleans,Glover,NA,Governor,NA,Libertarian,Dan Feliciano,16
+Addison,Goshen,NA,Governor,NA,Libertarian,Dan Feliciano,2
+Windham,Grafton,NA,Governor,NA,Libertarian,Dan Feliciano,3
+Essex,Granby,NA,Governor,NA,Libertarian,Dan Feliciano,0
+Grand Isle,Grand Isle,NA,Governor,NA,Libertarian,Dan Feliciano,57
+Addison,Granville,NA,Governor,NA,Libertarian,Dan Feliciano,3
+Orleans,Greensboro,NA,Governor,NA,Libertarian,Dan Feliciano,27
+Caledonia,Groton,NA,Governor,NA,Libertarian,Dan Feliciano,11
+Essex,Guildhall,NA,Governor,NA,Libertarian,Dan Feliciano,4
+Windham,Guilford,NA,Governor,NA,Libertarian,Dan Feliciano,9
+Windham,Halifax,NA,Governor,NA,Libertarian,Dan Feliciano,4
+Addison,Hancock,NA,Governor,NA,Libertarian,Dan Feliciano,5
+Caledonia,Hardwick,NA,Governor,NA,Libertarian,Dan Feliciano,37
+Windsor,Hartford,Windsor 4-1,Governor,NA,Libertarian,Dan Feliciano,14
+Windsor,Hartford,Windsor 4-2,Governor,NA,Libertarian,Dan Feliciano,39
+Windsor,Hartland,NA,Governor,NA,Libertarian,Dan Feliciano,25
+Franklin,Highgate,NA,Governor,NA,Libertarian,Dan Feliciano,43
+Chittenden,Hinesburg,Chittenden 4-1,Governor,NA,Libertarian,Dan Feliciano,0
+Chittenden,Hinesburg,Chittenden 4-2,Governor,NA,Libertarian,Dan Feliciano,65
+Orleans,Holland,NA,Governor,NA,Libertarian,Dan Feliciano,7
+Rutland,Hubbardton,NA,Governor,NA,Libertarian,Dan Feliciano,10
+Chittenden,Huntington,NA,Governor,NA,Libertarian,Dan Feliciano,48
+Lamoille,Hyde Park,NA,Governor,NA,Libertarian,Dan Feliciano,39
+Rutland,Ira,NA,Governor,NA,Libertarian,Dan Feliciano,7
+Orleans,Irasburg,NA,Governor,NA,Libertarian,Dan Feliciano,16
+Grand Isle,Isle La Motte,NA,Governor,NA,Libertarian,Dan Feliciano,19
+Windham,Jamaica,NA,Governor,NA,Libertarian,Dan Feliciano,5
+Orleans,Jay,NA,Governor,NA,Libertarian,Dan Feliciano,6
+Chittenden,Jericho,NA,Governor,NA,Libertarian,Dan Feliciano,137
+Lamoille,Johnson,NA,Governor,NA,Libertarian,Dan Feliciano,35
+Rutland,Killington,NA,Governor,NA,Libertarian,Dan Feliciano,12
+Caledonia,Kirby,NA,Governor,NA,Libertarian,Dan Feliciano,12
+Bennington,Landgrove,NA,Governor,NA,Libertarian,Dan Feliciano,0
+Addison,Leicester,NA,Governor,NA,Libertarian,Dan Feliciano,14
+Essex,Lemington,NA,Governor,NA,Libertarian,Dan Feliciano,2
+Addison,Lincoln,NA,Governor,NA,Libertarian,Dan Feliciano,29
+Windham,Londonderry,NA,Governor,NA,Libertarian,Dan Feliciano,20
+Orleans,Lowell,NA,Governor,NA,Libertarian,Dan Feliciano,6
+Windsor,Ludlow,NA,Governor,NA,Libertarian,Dan Feliciano,19
+Essex,Lunenburg,NA,Governor,NA,Libertarian,Dan Feliciano,17
+Caledonia,Lyndon,NA,Governor,NA,Libertarian,Dan Feliciano,62
+Essex,Maidstone,NA,Governor,NA,Libertarian,Dan Feliciano,0
+Bennington,Manchester,NA,Governor,NA,Libertarian,Dan Feliciano,24
+Windham,Marlboro,NA,Governor,NA,Libertarian,Dan Feliciano,3
+Washington,Marshfield,NA,Governor,NA,Libertarian,Dan Feliciano,18
+Rutland,Mendon,NA,Governor,NA,Libertarian,Dan Feliciano,16
+Addison,Middlebury,NA,Governor,NA,Libertarian,Dan Feliciano,60
+Washington,Middlesex,NA,Governor,NA,Libertarian,Dan Feliciano,43
+Rutland,Middletown Springs,NA,Governor,NA,Libertarian,Dan Feliciano,25
+Chittenden,Milton,Chittenden 10,Governor,NA,Libertarian,Dan Feliciano,168
+Chittenden,Milton,Grand Isle-Chittenden,Governor,NA,Libertarian,Dan Feliciano,42
+Addison,Monkton,NA,Governor,NA,Libertarian,Dan Feliciano,61
+Franklin,Montgomery,NA,Governor,NA,Libertarian,Dan Feliciano,17
+Washington,Montpelier,NA,Governor,NA,Libertarian,Dan Feliciano,128
+Washington,Moretown,NA,Governor,NA,Libertarian,Dan Feliciano,40
+Orleans,Morgan,NA,Governor,NA,Libertarian,Dan Feliciano,10
+Lamoille,Morristown,NA,Governor,NA,Libertarian,Dan Feliciano,80
+Rutland,Mount Holly,NA,Governor,NA,Libertarian,Dan Feliciano,17
+Rutland,Mount Tabor,NA,Governor,NA,Libertarian,Dan Feliciano,4
+Addison,New Haven,NA,Governor,NA,Libertarian,Dan Feliciano,36
+Caledonia,Newark,NA,Governor,NA,Libertarian,Dan Feliciano,20
+Orange,Newbury,NA,Governor,NA,Libertarian,Dan Feliciano,21
+Windham,Newfane,NA,Governor,NA,Libertarian,Dan Feliciano,12
+Orleans,Newport City,NA,Governor,NA,Libertarian,Dan Feliciano,34
+Orleans,Newport Town,NA,Governor,NA,Libertarian,Dan Feliciano,12
+Grand Isle,N. Hero,NA,Governor,NA,Libertarian,Dan Feliciano,20
+Washington,Northfield,NA,Governor,NA,Libertarian,Dan Feliciano,45
+Essex,Norton,NA,Governor,NA,Libertarian,Dan Feliciano,6
+Windsor,Norwich,NA,Governor,NA,Libertarian,Dan Feliciano,11
+Orange,Orange,NA,Governor,NA,Libertarian,Dan Feliciano,11
+Addison,Orwell,NA,Governor,NA,Libertarian,Dan Feliciano,22
+Addison,Panton,NA,Governor,NA,Libertarian,Dan Feliciano,13
+Rutland,Pawlet,NA,Governor,NA,Libertarian,Dan Feliciano,49
+Caledonia,Peacham,NA,Governor,NA,Libertarian,Dan Feliciano,13
+Bennington,Peru,NA,Governor,NA,Libertarian,Dan Feliciano,1
+Rutland,Pittsfield,NA,Governor,NA,Libertarian,Dan Feliciano,3
+Rutland,Pittsford,NA,Governor,NA,Libertarian,Dan Feliciano,46
+Washington,Plainfield,NA,Governor,NA,Libertarian,Dan Feliciano,18
+Windsor,Plymouth,NA,Governor,NA,Libertarian,Dan Feliciano,5
+Windsor,Pomfret,NA,Governor,NA,Libertarian,Dan Feliciano,11
+Rutland,Poultney,NA,Governor,NA,Libertarian,Dan Feliciano,43
+Bennington,Pownal,NA,Governor,NA,Libertarian,Dan Feliciano,25
+Rutland,Proctor,NA,Governor,NA,Libertarian,Dan Feliciano,23
+Windham,Putney,NA,Governor,NA,Libertarian,Dan Feliciano,6
+Orange,Randolph,NA,Governor,NA,Libertarian,Dan Feliciano,51
+Windsor,Reading,NA,Governor,NA,Libertarian,Dan Feliciano,6
+Bennington,Readsboro,NA,Governor,NA,Libertarian,Dan Feliciano,4
+Franklin,Richford,NA,Governor,NA,Libertarian,Dan Feliciano,17
+Chittenden,Richmond,NA,Governor,NA,Libertarian,Dan Feliciano,106
+Addison,Ripton,NA,Governor,NA,Libertarian,Dan Feliciano,8
+Windsor,Rochester,NA,Governor,NA,Libertarian,Dan Feliciano,15
+Windham,Rockingham,NA,Governor,NA,Libertarian,Dan Feliciano,35
+Washington,Roxbury,NA,Governor,NA,Libertarian,Dan Feliciano,15
+Windsor,Royalton,NA,Governor,NA,Libertarian,Dan Feliciano,27
+Bennington,Rupert,NA,Governor,NA,Libertarian,Dan Feliciano,5
+Rutland,Rutland City,Rutland 5-1,Governor,NA,Libertarian,Dan Feliciano,69
+Rutland,Rutland City,Rutland 5-2,Governor,NA,Libertarian,Dan Feliciano,51
+Rutland,Rutland City,Rutland 5-3,Governor,NA,Libertarian,Dan Feliciano,31
+Rutland,Rutland City,Rutland 5-4,Governor,NA,Libertarian,Dan Feliciano,51
+Rutland,Rutland Town,NA,Governor,NA,Libertarian,Dan Feliciano,68
+Caledonia,Ryegate,NA,Governor,NA,Libertarian,Dan Feliciano,12
+Franklin,Salisbury,NA,Governor,NA,Libertarian,Dan Feliciano,16
+Franklin,Sandgate,NA,Governor,NA,Libertarian,Dan Feliciano,8
+Chittenden,Searsburg,NA,Governor,NA,Libertarian,Dan Feliciano,2
+Caledonia,Shaftsbury,NA,Governor,NA,Libertarian,Dan Feliciano,21
+Addison,Sharon,NA,Governor,NA,Libertarian,Dan Feliciano,22
+Bennington,Sheffield,NA,Governor,NA,Libertarian,Dan Feliciano,9
+Bennington,Shelburne,Chittenden 5-1,Governor,NA,Libertarian,Dan Feliciano,66
+Bennington,Shelburne,Chittenden 5-2,Governor,NA,Libertarian,Dan Feliciano,53
+Bennington,Sheldon,NA,Governor,NA,Libertarian,Dan Feliciano,25
+Windsor,Shoreham,NA,Governor,NA,Libertarian,Dan Feliciano,17
+Caledonia,Shrewsbury,NA,Governor,NA,Libertarian,Dan Feliciano,20
+Chittenden,S. Burlington,Chittenden 7-1,Governor,NA,Libertarian,Dan Feliciano,69
+Chittenden,S. Burlington,Chittenden 7-2,Governor,NA,Libertarian,Dan Feliciano,78
+Chittenden,S. Burlington,Chittenden 7-3,Governor,NA,Libertarian,Dan Feliciano,52
+Chittenden,S. Burlington,Chittenden 7-4,Governor,NA,Libertarian,Dan Feliciano,85
+Franklin,S. Hero,NA,Governor,NA,Libertarian,Dan Feliciano,57
+Addison,Springfield,Windsor 3-1,Governor,NA,Libertarian,Dan Feliciano,8
+Addison,Springfield,Windsor 3-2,Governor,NA,Libertarian,Dan Feliciano,63
+Rutland,St. Albans City,NA,Governor,NA,Libertarian,Dan Feliciano,113
+Chittenden,St. Albans Town,Franklin 3-1,Governor,NA,Libertarian,Dan Feliciano,32
+Chittenden,St. Albans Town,Franklin 3-2,Governor,NA,Libertarian,Dan Feliciano,75
+Grand Isle,St. George,NA,Governor,NA,Libertarian,Dan Feliciano,6
+Windsor,St. Johnsbury,NA,Governor,NA,Libertarian,Dan Feliciano,71
+Bennington,Stamford,NA,Governor,NA,Libertarian,Dan Feliciano,1
+Caledonia,Stannard,NA,Governor,NA,Libertarian,Dan Feliciano,5
+Addison,Starksboro,NA,Governor,NA,Libertarian,Dan Feliciano,37
+Windsor,Stockbridge,NA,Governor,NA,Libertarian,Dan Feliciano,9
+Lamoille,Stowe,NA,Governor,NA,Libertarian,Dan Feliciano,62
+Orange,Strafford,NA,Governor,NA,Libertarian,Dan Feliciano,10
+Windham,Stratton,NA,Governor,NA,Libertarian,Dan Feliciano,0
+Rutland,Sudbury,NA,Governor,NA,Libertarian,Dan Feliciano,10
+Bennington,Sunderland,Bennington 3,Governor,NA,Libertarian,Dan Feliciano,2
+Bennington,Sunderland,Bennington 4,Governor,NA,Libertarian,Dan Feliciano,1
+Caledonia,Sutton,NA,Governor,NA,Libertarian,Dan Feliciano,15
+Franklin,Swanton,NA,Governor,NA,Libertarian,Dan Feliciano,76
+Orange,Thetford,NA,Governor,NA,Libertarian,Dan Feliciano,28
+Rutland,Tinmouth,Rutland 2,Governor,NA,Libertarian,Dan Feliciano,2
+Rutland,Tinmouth,Rutland-Bennington,Governor,NA,Libertarian,Dan Feliciano,4
+Orange,Topsham,NA,Governor,NA,Libertarian,Dan Feliciano,12
+Windham,Townshend,NA,Governor,NA,Libertarian,Dan Feliciano,11
+Orleans,Troy,Orleans 2,Governor,NA,Libertarian,Dan Feliciano,2
+Orleans,Troy,Orleans-Lamoille,Governor,NA,Libertarian,Dan Feliciano,8
+Orange,Tunbridge,NA,Governor,NA,Libertarian,Dan Feliciano,21
+Chittenden,Underhill,NA,Governor,NA,Libertarian,Dan Feliciano,104
+Addison,Vergennes,NA,Governor,NA,Libertarian,Dan Feliciano,38
+Windham,Vernon,NA,Governor,NA,Libertarian,Dan Feliciano,11
+Orange,Vershire,NA,Governor,NA,Libertarian,Dan Feliciano,6
+Essex,Victory,NA,Governor,NA,Libertarian,Dan Feliciano,0
+Washington,Waitsfield,NA,Governor,NA,Libertarian,Dan Feliciano,33
+Caledonia,Walden,NA,Governor,NA,Libertarian,Dan Feliciano,16
+Rutland,Wallingford,NA,Governor,NA,Libertarian,Dan Feliciano,32
+Addison,Waltham,NA,Governor,NA,Libertarian,Dan Feliciano,10
+Windham,Wardsboro,NA,Governor,NA,Libertarian,Dan Feliciano,6
+Washington,Warren,NA,Governor,NA,Libertarian,Dan Feliciano,23
+Orange,Washington,NA,Governor,NA,Libertarian,Dan Feliciano,14
+Washington,Waterbury,NA,Governor,NA,Libertarian,Dan Feliciano,122
+Caledonia,Waterford,NA,Governor,NA,Libertarian,Dan Feliciano,17
+Lamoille,Waterville,NA,Governor,NA,Libertarian,Dan Feliciano,3
+Windsor,Weathersfield,NA,Governor,NA,Libertarian,Dan Feliciano,39
+Rutland,Wells,NA,Governor,NA,Libertarian,Dan Feliciano,14
+Orange,W. Fairlee,NA,Governor,NA,Libertarian,Dan Feliciano,4
+Rutland,W. Haven,NA,Governor,NA,Libertarian,Dan Feliciano,3
+Rutland,W. Rutland,NA,Governor,NA,Libertarian,Dan Feliciano,28
+Windsor,W. Windsor,NA,Governor,NA,Libertarian,Dan Feliciano,20
+Orleans,Westfield,NA,Governor,NA,Libertarian,Dan Feliciano,7
+Chittenden,Westford,NA,Governor,NA,Libertarian,Dan Feliciano,75
+Windham,Westminster,Windham 3,Governor,NA,Libertarian,Dan Feliciano,0
+Windham,Westminster,Windham 4,Governor,NA,Libertarian,Dan Feliciano,20
+Orleans,Westmore,NA,Governor,NA,Libertarian,Dan Feliciano,2
+Windsor,Weston,NA,Governor,NA,Libertarian,Dan Feliciano,8
+Addison,Weybridge,NA,Governor,NA,Libertarian,Dan Feliciano,13
+Caledonia,Wheelock,NA,Governor,NA,Libertarian,Dan Feliciano,9
+Addison,Whiting,NA,Governor,NA,Libertarian,Dan Feliciano,6
+Windham,Whitingham,Windham 6,Governor,NA,Libertarian,Dan Feliciano,5
+Windham,Whitingham,Windham-Bennington,Governor,NA,Libertarian,Dan Feliciano,0
+Orange,Williamstown,NA,Governor,NA,Libertarian,Dan Feliciano,37
+Chittenden,Williston,NA,Governor,NA,Libertarian,Dan Feliciano,160
+Windham,Wilmington,NA,Governor,NA,Libertarian,Dan Feliciano,8
+Windham,Windham,NA,Governor,NA,Libertarian,Dan Feliciano,1
+Windsor,Windsor,NA,Governor,NA,Libertarian,Dan Feliciano,17
+Bennington,Winhall,NA,Governor,NA,Libertarian,Dan Feliciano,4
+Chittenden,Winooski,NA,Governor,NA,Libertarian,Dan Feliciano,61
+Lamoille,Wolcott,NA,Governor,NA,Libertarian,Dan Feliciano,27
+Washington,Woodbury,NA,Governor,NA,Libertarian,Dan Feliciano,18
+Bennington,Woodford,NA,Governor,NA,Libertarian,Dan Feliciano,1
+Windsor,Woodstock,NA,Governor,NA,Libertarian,Dan Feliciano,22
+Washington,Worcester,NA,Governor,NA,Libertarian,Dan Feliciano,27
+Addison,Addison,NA,Governor,NA,Independent,Emily Peyton,8
+Orleans,Albany,NA,Governor,NA,Independent,Emily Peyton,9
+Grand Isle,Alburgh,NA,Governor,NA,Independent,Emily Peyton,8
+Windsor,Andover,NA,Governor,NA,Independent,Emily Peyton,2
+Bennington,Arlington,NA,Governor,NA,Independent,Emily Peyton,17
+Windham,Athens,NA,Governor,NA,Independent,Emily Peyton,3
+Franklin,Bakersfield,NA,Governor,NA,Independent,Emily Peyton,7
+Windsor,Baltimore,NA,Governor,NA,Independent,Emily Peyton,2
+Windsor,Barnard,NA,Governor,NA,Independent,Emily Peyton,5
+Caledonia,Barnet,NA,Governor,NA,Independent,Emily Peyton,8
+Washington,Barre City,NA,Governor,NA,Independent,Emily Peyton,33
+Washington,Barre Town,NA,Governor,NA,Independent,Emily Peyton,22
+Orleans,Barton,NA,Governor,NA,Independent,Emily Peyton,6
+Lamoille,Belvidere,NA,Governor,NA,Independent,Emily Peyton,3
+Bennington,Bennington,Bennington 2-1,Governor,NA,Independent,Emily Peyton,52
+Bennington,Bennington,Bennington 2-2,Governor,NA,Independent,Emily Peyton,49
+Rutland,Benson,NA,Governor,NA,Independent,Emily Peyton,7
+Franklin,Berkshire,NA,Governor,NA,Independent,Emily Peyton,6
+Washington,Berlin,NA,Governor,NA,Independent,Emily Peyton,23
+Windsor,Bethel,NA,Governor,NA,Independent,Emily Peyton,8
+Essex,Bloomfield,NA,Governor,NA,Independent,Emily Peyton,1
+Chittenden,Bolton,NA,Governor,NA,Independent,Emily Peyton,8
+Orange,Bradford,NA,Governor,NA,Independent,Emily Peyton,8
+Orange,Braintree,NA,Governor,NA,Independent,Emily Peyton,9
+Rutland,Brandon,NA,Governor,NA,Independent,Emily Peyton,18
+Windham,Brattleboro,Windham 2-1,Governor,NA,Independent,Emily Peyton,32
+Windham,Brattleboro,Windham 2-2,Governor,NA,Independent,Emily Peyton,27
+Windham,Brattleboro,Windham 2-3,Governor,NA,Independent,Emily Peyton,34
+Windsor,Bridgewater,NA,Governor,NA,Independent,Emily Peyton,3
+Addison,Bridport,NA,Governor,NA,Independent,Emily Peyton,4
+Essex,Brighton,NA,Governor,NA,Independent,Emily Peyton,7
+Addison,Bristol,NA,Governor,NA,Independent,Emily Peyton,39
+Orange,Brookfield,NA,Governor,NA,Independent,Emily Peyton,6
+Windham,Brookline,NA,Governor,NA,Independent,Emily Peyton,4
+Orleans,Brownington,NA,Governor,NA,Independent,Emily Peyton,4
+Essex,Brunswick,NA,Governor,NA,Independent,Emily Peyton,1
+Caledonia,Burke,NA,Governor,NA,Independent,Emily Peyton,8
+Chittenden,Burlington,Chittenden 6-1,Governor,NA,Independent,Emily Peyton,44
+Chittenden,Burlington,Chittenden 6-2,Governor,NA,Independent,Emily Peyton,42
+Chittenden,Burlington,Chittenden 6-3,Governor,NA,Independent,Emily Peyton,65
+Chittenden,Burlington,Chittenden 6-4,Governor,NA,Independent,Emily Peyton,32
+Chittenden,Burlington,Chittenden 6-5,Governor,NA,Independent,Emily Peyton,58
+Chittenden,Burlington,Chittenden 6-6,Governor,NA,Independent,Emily Peyton,8
+Chittenden,Burlington,Chittenden 6-7,Governor,NA,Independent,Emily Peyton,1
+Washington,Cabot,NA,Governor,NA,Independent,Emily Peyton,12
+Washington,Calais,NA,Governor,NA,Independent,Emily Peyton,25
+Lamoille,Cambridge,NA,Governor,NA,Independent,Emily Peyton,12
+Essex,Canaan,NA,Governor,NA,Independent,Emily Peyton,4
+Rutland,Castleton,NA,Governor,NA,Independent,Emily Peyton,20
+Windsor,Cavendish,NA,Governor,NA,Independent,Emily Peyton,4
+Orleans,Charleston,NA,Governor,NA,Independent,Emily Peyton,8
+Chittenden,Charlotte,NA,Governor,NA,Independent,Emily Peyton,15
+Orange,Chelsea,NA,Governor,NA,Independent,Emily Peyton,4
+Windsor,Chester,NA,Governor,NA,Independent,Emily Peyton,13
+Rutland,Chittenden,NA,Governor,NA,Independent,Emily Peyton,9
+Rutland,Clarendon,NA,Governor,NA,Independent,Emily Peyton,4
+Chittenden,Colchester,Chittenden 9-1,Governor,NA,Independent,Emily Peyton,29
+Chittenden,Colchester,Chittenden 9-2,Governor,NA,Independent,Emily Peyton,21
+Essex,Concord,NA,Governor,NA,Independent,Emily Peyton,9
+Orange,Corinth,NA,Governor,NA,Independent,Emily Peyton,6
+Addison,Cornwall,NA,Governor,NA,Independent,Emily Peyton,11
+Orleans,Coventry,NA,Governor,NA,Independent,Emily Peyton,3
+Orleans,Craftsbury,NA,Governor,NA,Independent,Emily Peyton,20
+Rutland,Danby,NA,Governor,NA,Independent,Emily Peyton,12
+Caledonia,Danville,NA,Governor,NA,Independent,Emily Peyton,13
+Orleans,Derby,NA,Governor,NA,Independent,Emily Peyton,6
+Bennington,Dorset,NA,Governor,NA,Independent,Emily Peyton,6
+Windham,Dover,NA,Governor,NA,Independent,Emily Peyton,18
+Windham,Dummerston,NA,Governor,NA,Independent,Emily Peyton,7
+Washington,Duxbury,NA,Governor,NA,Independent,Emily Peyton,6
+Essex,E. Haven,NA,Governor,NA,Independent,Emily Peyton,5
+Washington,E. Montpelier,NA,Governor,NA,Independent,Emily Peyton,24
+Lamoille,Eden,NA,Governor,NA,Independent,Emily Peyton,3
+Lamoille,Elmore,NA,Governor,NA,Independent,Emily Peyton,8
+Franklin,Enosburgh,NA,Governor,NA,Independent,Emily Peyton,19
+Chittenden,Essex,Chittenden 8-1,Governor,NA,Independent,Emily Peyton,13
+Chittenden,Essex,Chittenden 8-2,Governor,NA,Independent,Emily Peyton,24
+Chittenden,Essex,Chittenden 8-3,Governor,NA,Independent,Emily Peyton,4
+Rutland,Fair Haven,NA,Governor,NA,Independent,Emily Peyton,8
+Franklin,Fairfax,NA,Governor,NA,Independent,Emily Peyton,19
+Franklin,Fairfield,NA,Governor,NA,Independent,Emily Peyton,9
+Orange,Fairlee,NA,Governor,NA,Independent,Emily Peyton,2
+Washington,Fayston,NA,Governor,NA,Independent,Emily Peyton,11
+Addison,Ferrisburgh,NA,Governor,NA,Independent,Emily Peyton,10
+Franklin,Fletcher,NA,Governor,NA,Independent,Emily Peyton,4
+Franklin,Franklin,NA,Governor,NA,Independent,Emily Peyton,9
+Franklin,Georgia,NA,Governor,NA,Independent,Emily Peyton,6
+Orleans,Glover,NA,Governor,NA,Independent,Emily Peyton,8
+Addison,Goshen,NA,Governor,NA,Independent,Emily Peyton,3
+Windham,Grafton,NA,Governor,NA,Independent,Emily Peyton,1
+Essex,Granby,NA,Governor,NA,Independent,Emily Peyton,0
+Grand Isle,Grand Isle,NA,Governor,NA,Independent,Emily Peyton,7
+Addison,Granville,NA,Governor,NA,Independent,Emily Peyton,4
+Orleans,Greensboro,NA,Governor,NA,Independent,Emily Peyton,13
+Caledonia,Groton,NA,Governor,NA,Independent,Emily Peyton,6
+Essex,Guildhall,NA,Governor,NA,Independent,Emily Peyton,0
+Windham,Guilford,NA,Governor,NA,Independent,Emily Peyton,21
+Windham,Halifax,NA,Governor,NA,Independent,Emily Peyton,4
+Addison,Hancock,NA,Governor,NA,Independent,Emily Peyton,1
+Caledonia,Hardwick,NA,Governor,NA,Independent,Emily Peyton,21
+Windsor,Hartford,Windsor 4-1,Governor,NA,Independent,Emily Peyton,5
+Windsor,Hartford,Windsor 4-2,Governor,NA,Independent,Emily Peyton,22
+Windsor,Hartland,NA,Governor,NA,Independent,Emily Peyton,15
+Franklin,Highgate,NA,Governor,NA,Independent,Emily Peyton,11
+Chittenden,Hinesburg,Chittenden 4-1,Governor,NA,Independent,Emily Peyton,0
+Chittenden,Hinesburg,Chittenden 4-2,Governor,NA,Independent,Emily Peyton,23
+Orleans,Holland,NA,Governor,NA,Independent,Emily Peyton,1
+Rutland,Hubbardton,NA,Governor,NA,Independent,Emily Peyton,4
+Chittenden,Huntington,NA,Governor,NA,Independent,Emily Peyton,18
+Lamoille,Hyde Park,NA,Governor,NA,Independent,Emily Peyton,21
+Rutland,Ira,NA,Governor,NA,Independent,Emily Peyton,3
+Orleans,Irasburg,NA,Governor,NA,Independent,Emily Peyton,2
+Grand Isle,Isle La Motte,NA,Governor,NA,Independent,Emily Peyton,3
+Windham,Jamaica,NA,Governor,NA,Independent,Emily Peyton,8
+Orleans,Jay,NA,Governor,NA,Independent,Emily Peyton,3
+Chittenden,Jericho,NA,Governor,NA,Independent,Emily Peyton,31
+Lamoille,Johnson,NA,Governor,NA,Independent,Emily Peyton,8
+Rutland,Killington,NA,Governor,NA,Independent,Emily Peyton,0
+Caledonia,Kirby,NA,Governor,NA,Independent,Emily Peyton,5
+Bennington,Landgrove,NA,Governor,NA,Independent,Emily Peyton,1
+Addison,Leicester,NA,Governor,NA,Independent,Emily Peyton,4
+Essex,Lemington,NA,Governor,NA,Independent,Emily Peyton,0
+Addison,Lincoln,NA,Governor,NA,Independent,Emily Peyton,14
+Windham,Londonderry,NA,Governor,NA,Independent,Emily Peyton,6
+Orleans,Lowell,NA,Governor,NA,Independent,Emily Peyton,0
+Windsor,Ludlow,NA,Governor,NA,Independent,Emily Peyton,3
+Essex,Lunenburg,NA,Governor,NA,Independent,Emily Peyton,8
+Caledonia,Lyndon,NA,Governor,NA,Independent,Emily Peyton,14
+Essex,Maidstone,NA,Governor,NA,Independent,Emily Peyton,0
+Bennington,Manchester,NA,Governor,NA,Independent,Emily Peyton,18
+Windham,Marlboro,NA,Governor,NA,Independent,Emily Peyton,9
+Washington,Marshfield,NA,Governor,NA,Independent,Emily Peyton,17
+Rutland,Mendon,NA,Governor,NA,Independent,Emily Peyton,4
+Addison,Middlebury,NA,Governor,NA,Independent,Emily Peyton,34
+Washington,Middlesex,NA,Governor,NA,Independent,Emily Peyton,34
+Rutland,Middletown Springs,NA,Governor,NA,Independent,Emily Peyton,4
+Chittenden,Milton,Chittenden 10,Governor,NA,Independent,Emily Peyton,21
+Chittenden,Milton,Grand Isle-Chittenden,Governor,NA,Independent,Emily Peyton,3
+Addison,Monkton,NA,Governor,NA,Independent,Emily Peyton,20
+Franklin,Montgomery,NA,Governor,NA,Independent,Emily Peyton,12
+Washington,Montpelier,NA,Governor,NA,Independent,Emily Peyton,117
+Washington,Moretown,NA,Governor,NA,Independent,Emily Peyton,16
+Orleans,Morgan,NA,Governor,NA,Independent,Emily Peyton,2
+Lamoille,Morristown,NA,Governor,NA,Independent,Emily Peyton,20
+Rutland,Mount Holly,NA,Governor,NA,Independent,Emily Peyton,3
+Rutland,Mount Tabor,NA,Governor,NA,Independent,Emily Peyton,2
+Addison,New Haven,NA,Governor,NA,Independent,Emily Peyton,15
+Caledonia,Newark,NA,Governor,NA,Independent,Emily Peyton,3
+Orange,Newbury,NA,Governor,NA,Independent,Emily Peyton,8
+Windham,Newfane,NA,Governor,NA,Independent,Emily Peyton,15
+Orleans,Newport City,NA,Governor,NA,Independent,Emily Peyton,16
+Orleans,Newport Town,NA,Governor,NA,Independent,Emily Peyton,8
+Grand Isle,N. Hero,NA,Governor,NA,Independent,Emily Peyton,2
+Washington,Northfield,NA,Governor,NA,Independent,Emily Peyton,16
+Essex,Norton,NA,Governor,NA,Independent,Emily Peyton,1
+Windsor,Norwich,NA,Governor,NA,Independent,Emily Peyton,11
+Orange,Orange,NA,Governor,NA,Independent,Emily Peyton,8
+Addison,Orwell,NA,Governor,NA,Independent,Emily Peyton,13
+Addison,Panton,NA,Governor,NA,Independent,Emily Peyton,5
+Rutland,Pawlet,NA,Governor,NA,Independent,Emily Peyton,7
+Caledonia,Peacham,NA,Governor,NA,Independent,Emily Peyton,4
+Bennington,Peru,NA,Governor,NA,Independent,Emily Peyton,2
+Rutland,Pittsfield,NA,Governor,NA,Independent,Emily Peyton,1
+Rutland,Pittsford,NA,Governor,NA,Independent,Emily Peyton,13
+Washington,Plainfield,NA,Governor,NA,Independent,Emily Peyton,18
+Windsor,Plymouth,NA,Governor,NA,Independent,Emily Peyton,2
+Windsor,Pomfret,NA,Governor,NA,Independent,Emily Peyton,3
+Rutland,Poultney,NA,Governor,NA,Independent,Emily Peyton,10
+Bennington,Pownal,NA,Governor,NA,Independent,Emily Peyton,45
+Rutland,Proctor,NA,Governor,NA,Independent,Emily Peyton,4
+Windham,Putney,NA,Governor,NA,Independent,Emily Peyton,31
+Orange,Randolph,NA,Governor,NA,Independent,Emily Peyton,18
+Windsor,Reading,NA,Governor,NA,Independent,Emily Peyton,7
+Bennington,Readsboro,NA,Governor,NA,Independent,Emily Peyton,4
+Franklin,Richford,NA,Governor,NA,Independent,Emily Peyton,5
+Chittenden,Richmond,NA,Governor,NA,Independent,Emily Peyton,28
+Addison,Ripton,NA,Governor,NA,Independent,Emily Peyton,5
+Windsor,Rochester,NA,Governor,NA,Independent,Emily Peyton,14
+Windham,Rockingham,NA,Governor,NA,Independent,Emily Peyton,35
+Washington,Roxbury,NA,Governor,NA,Independent,Emily Peyton,7
+Windsor,Royalton,NA,Governor,NA,Independent,Emily Peyton,18
+Bennington,Rupert,NA,Governor,NA,Independent,Emily Peyton,8
+Rutland,Rutland City,Rutland 5-1,Governor,NA,Independent,Emily Peyton,8
+Rutland,Rutland City,Rutland 5-2,Governor,NA,Independent,Emily Peyton,13
+Rutland,Rutland City,Rutland 5-3,Governor,NA,Independent,Emily Peyton,8
+Rutland,Rutland City,Rutland 5-4,Governor,NA,Independent,Emily Peyton,16
+Rutland,Rutland Town,NA,Governor,NA,Independent,Emily Peyton,17
+Caledonia,Ryegate,NA,Governor,NA,Independent,Emily Peyton,7
+Franklin,Salisbury,NA,Governor,NA,Independent,Emily Peyton,4
+Franklin,Sandgate,NA,Governor,NA,Independent,Emily Peyton,1
+Chittenden,Searsburg,NA,Governor,NA,Independent,Emily Peyton,0
+Caledonia,Shaftsbury,NA,Governor,NA,Independent,Emily Peyton,20
+Addison,Sharon,NA,Governor,NA,Independent,Emily Peyton,4
+Bennington,Sheffield,NA,Governor,NA,Independent,Emily Peyton,3
+Bennington,Shelburne,Chittenden 5-1,Governor,NA,Independent,Emily Peyton,18
+Bennington,Shelburne,Chittenden 5-2,Governor,NA,Independent,Emily Peyton,9
+Bennington,Sheldon,NA,Governor,NA,Independent,Emily Peyton,7
+Windsor,Shoreham,NA,Governor,NA,Independent,Emily Peyton,13
+Caledonia,Shrewsbury,NA,Governor,NA,Independent,Emily Peyton,3
+Chittenden,S. Burlington,Chittenden 7-1,Governor,NA,Independent,Emily Peyton,13
+Chittenden,S. Burlington,Chittenden 7-2,Governor,NA,Independent,Emily Peyton,12
+Chittenden,S. Burlington,Chittenden 7-3,Governor,NA,Independent,Emily Peyton,16
+Chittenden,S. Burlington,Chittenden 7-4,Governor,NA,Independent,Emily Peyton,30
+Franklin,S. Hero,NA,Governor,NA,Independent,Emily Peyton,9
+Addison,Springfield,Windsor 3-1,Governor,NA,Independent,Emily Peyton,2
+Addison,Springfield,Windsor 3-2,Governor,NA,Independent,Emily Peyton,25
+Rutland,St. Albans City,NA,Governor,NA,Independent,Emily Peyton,21
+Chittenden,St. Albans Town,Franklin 3-1,Governor,NA,Independent,Emily Peyton,5
+Chittenden,St. Albans Town,Franklin 3-2,Governor,NA,Independent,Emily Peyton,14
+Grand Isle,St. George,NA,Governor,NA,Independent,Emily Peyton,1
+Windsor,St. Johnsbury,NA,Governor,NA,Independent,Emily Peyton,25
+Bennington,Stamford,NA,Governor,NA,Independent,Emily Peyton,5
+Caledonia,Stannard,NA,Governor,NA,Independent,Emily Peyton,3
+Addison,Starksboro,NA,Governor,NA,Independent,Emily Peyton,12
+Windsor,Stockbridge,NA,Governor,NA,Independent,Emily Peyton,3
+Lamoille,Stowe,NA,Governor,NA,Independent,Emily Peyton,15
+Orange,Strafford,NA,Governor,NA,Independent,Emily Peyton,9
+Windham,Stratton,NA,Governor,NA,Independent,Emily Peyton,1
+Rutland,Sudbury,NA,Governor,NA,Independent,Emily Peyton,2
+Bennington,Sunderland,Bennington 3,Governor,NA,Independent,Emily Peyton,1
+Bennington,Sunderland,Bennington 4,Governor,NA,Independent,Emily Peyton,4
+Caledonia,Sutton,NA,Governor,NA,Independent,Emily Peyton,3
+Franklin,Swanton,NA,Governor,NA,Independent,Emily Peyton,16
+Orange,Thetford,NA,Governor,NA,Independent,Emily Peyton,10
+Rutland,Tinmouth,Rutland 2,Governor,NA,Independent,Emily Peyton,1
+Rutland,Tinmouth,Rutland-Bennington,Governor,NA,Independent,Emily Peyton,8
+Orange,Topsham,NA,Governor,NA,Independent,Emily Peyton,4
+Windham,Townshend,NA,Governor,NA,Independent,Emily Peyton,10
+Orleans,Troy,Orleans 2,Governor,NA,Independent,Emily Peyton,2
+Orleans,Troy,Orleans-Lamoille,Governor,NA,Independent,Emily Peyton,2
+Orange,Tunbridge,NA,Governor,NA,Independent,Emily Peyton,10
+Chittenden,Underhill,NA,Governor,NA,Independent,Emily Peyton,16
+Addison,Vergennes,NA,Governor,NA,Independent,Emily Peyton,12
+Windham,Vernon,NA,Governor,NA,Independent,Emily Peyton,15
+Orange,Vershire,NA,Governor,NA,Independent,Emily Peyton,4
+Essex,Victory,NA,Governor,NA,Independent,Emily Peyton,3
+Washington,Waitsfield,NA,Governor,NA,Independent,Emily Peyton,22
+Caledonia,Walden,NA,Governor,NA,Independent,Emily Peyton,11
+Rutland,Wallingford,NA,Governor,NA,Independent,Emily Peyton,8
+Addison,Waltham,NA,Governor,NA,Independent,Emily Peyton,4
+Windham,Wardsboro,NA,Governor,NA,Independent,Emily Peyton,6
+Washington,Warren,NA,Governor,NA,Independent,Emily Peyton,14
+Orange,Washington,NA,Governor,NA,Independent,Emily Peyton,4
+Washington,Waterbury,NA,Governor,NA,Independent,Emily Peyton,29
+Caledonia,Waterford,NA,Governor,NA,Independent,Emily Peyton,5
+Lamoille,Waterville,NA,Governor,NA,Independent,Emily Peyton,2
+Windsor,Weathersfield,NA,Governor,NA,Independent,Emily Peyton,18
+Rutland,Wells,NA,Governor,NA,Independent,Emily Peyton,5
+Orange,W. Fairlee,NA,Governor,NA,Independent,Emily Peyton,1
+Rutland,W. Haven,NA,Governor,NA,Independent,Emily Peyton,2
+Rutland,W. Rutland,NA,Governor,NA,Independent,Emily Peyton,7
+Windsor,W. Windsor,NA,Governor,NA,Independent,Emily Peyton,6
+Orleans,Westfield,NA,Governor,NA,Independent,Emily Peyton,5
+Chittenden,Westford,NA,Governor,NA,Independent,Emily Peyton,12
+Windham,Westminster,Windham 3,Governor,NA,Independent,Emily Peyton,0
+Windham,Westminster,Windham 4,Governor,NA,Independent,Emily Peyton,33
+Orleans,Westmore,NA,Governor,NA,Independent,Emily Peyton,3
+Windsor,Weston,NA,Governor,NA,Independent,Emily Peyton,2
+Addison,Weybridge,NA,Governor,NA,Independent,Emily Peyton,6
+Caledonia,Wheelock,NA,Governor,NA,Independent,Emily Peyton,5
+Addison,Whiting,NA,Governor,NA,Independent,Emily Peyton,2
+Windham,Whitingham,Windham 6,Governor,NA,Independent,Emily Peyton,16
+Windham,Whitingham,Windham-Bennington,Governor,NA,Independent,Emily Peyton,0
+Orange,Williamstown,NA,Governor,NA,Independent,Emily Peyton,10
+Chittenden,Williston,NA,Governor,NA,Independent,Emily Peyton,22
+Windham,Wilmington,NA,Governor,NA,Independent,Emily Peyton,23
+Windham,Windham,NA,Governor,NA,Independent,Emily Peyton,3
+Windsor,Windsor,NA,Governor,NA,Independent,Emily Peyton,11
+Bennington,Winhall,NA,Governor,NA,Independent,Emily Peyton,4
+Chittenden,Winooski,NA,Governor,NA,Independent,Emily Peyton,32
+Lamoille,Wolcott,NA,Governor,NA,Independent,Emily Peyton,10
+Washington,Woodbury,NA,Governor,NA,Independent,Emily Peyton,11
+Bennington,Woodford,NA,Governor,NA,Independent,Emily Peyton,4
+Windsor,Woodstock,NA,Governor,NA,Independent,Emily Peyton,11
+Washington,Worcester,NA,Governor,NA,Independent,Emily Peyton,9
+Addison,Addison,NA,Governor,NA,Liberty Union,Pete Diamondstone,5
+Orleans,Albany,NA,Governor,NA,Liberty Union,Pete Diamondstone,7
+Grand Isle,Alburgh,NA,Governor,NA,Liberty Union,Pete Diamondstone,5
+Windsor,Andover,NA,Governor,NA,Liberty Union,Pete Diamondstone,0
+Bennington,Arlington,NA,Governor,NA,Liberty Union,Pete Diamondstone,6
+Windham,Athens,NA,Governor,NA,Liberty Union,Pete Diamondstone,4
+Franklin,Bakersfield,NA,Governor,NA,Liberty Union,Pete Diamondstone,1
+Windsor,Baltimore,NA,Governor,NA,Liberty Union,Pete Diamondstone,1
+Windsor,Barnard,NA,Governor,NA,Liberty Union,Pete Diamondstone,3
+Caledonia,Barnet,NA,Governor,NA,Liberty Union,Pete Diamondstone,3
+Washington,Barre City,NA,Governor,NA,Liberty Union,Pete Diamondstone,19
+Washington,Barre Town,NA,Governor,NA,Liberty Union,Pete Diamondstone,13
+Orleans,Barton,NA,Governor,NA,Liberty Union,Pete Diamondstone,3
+Lamoille,Belvidere,NA,Governor,NA,Liberty Union,Pete Diamondstone,0
+Bennington,Bennington,Bennington 2-1,Governor,NA,Liberty Union,Pete Diamondstone,28
+Bennington,Bennington,Bennington 2-2,Governor,NA,Liberty Union,Pete Diamondstone,22
+Rutland,Benson,NA,Governor,NA,Liberty Union,Pete Diamondstone,7
+Franklin,Berkshire,NA,Governor,NA,Liberty Union,Pete Diamondstone,1
+Washington,Berlin,NA,Governor,NA,Liberty Union,Pete Diamondstone,10
+Windsor,Bethel,NA,Governor,NA,Liberty Union,Pete Diamondstone,5
+Essex,Bloomfield,NA,Governor,NA,Liberty Union,Pete Diamondstone,0
+Chittenden,Bolton,NA,Governor,NA,Liberty Union,Pete Diamondstone,2
+Orange,Bradford,NA,Governor,NA,Liberty Union,Pete Diamondstone,3
+Orange,Braintree,NA,Governor,NA,Liberty Union,Pete Diamondstone,5
+Rutland,Brandon,NA,Governor,NA,Liberty Union,Pete Diamondstone,6
+Windham,Brattleboro,Windham 2-1,Governor,NA,Liberty Union,Pete Diamondstone,22
+Windham,Brattleboro,Windham 2-2,Governor,NA,Liberty Union,Pete Diamondstone,32
+Windham,Brattleboro,Windham 2-3,Governor,NA,Liberty Union,Pete Diamondstone,22
+Windsor,Bridgewater,NA,Governor,NA,Liberty Union,Pete Diamondstone,4
+Addison,Bridport,NA,Governor,NA,Liberty Union,Pete Diamondstone,4
+Essex,Brighton,NA,Governor,NA,Liberty Union,Pete Diamondstone,2
+Addison,Bristol,NA,Governor,NA,Liberty Union,Pete Diamondstone,11
+Orange,Brookfield,NA,Governor,NA,Liberty Union,Pete Diamondstone,6
+Windham,Brookline,NA,Governor,NA,Liberty Union,Pete Diamondstone,2
+Orleans,Brownington,NA,Governor,NA,Liberty Union,Pete Diamondstone,2
+Essex,Brunswick,NA,Governor,NA,Liberty Union,Pete Diamondstone,0
+Caledonia,Burke,NA,Governor,NA,Liberty Union,Pete Diamondstone,4
+Chittenden,Burlington,Chittenden 6-1,Governor,NA,Liberty Union,Pete Diamondstone,14
+Chittenden,Burlington,Chittenden 6-2,Governor,NA,Liberty Union,Pete Diamondstone,19
+Chittenden,Burlington,Chittenden 6-3,Governor,NA,Liberty Union,Pete Diamondstone,31
+Chittenden,Burlington,Chittenden 6-4,Governor,NA,Liberty Union,Pete Diamondstone,21
+Chittenden,Burlington,Chittenden 6-5,Governor,NA,Liberty Union,Pete Diamondstone,29
+Chittenden,Burlington,Chittenden 6-6,Governor,NA,Liberty Union,Pete Diamondstone,10
+Chittenden,Burlington,Chittenden 6-7,Governor,NA,Liberty Union,Pete Diamondstone,1
+Washington,Cabot,NA,Governor,NA,Liberty Union,Pete Diamondstone,9
+Washington,Calais,NA,Governor,NA,Liberty Union,Pete Diamondstone,12
+Lamoille,Cambridge,NA,Governor,NA,Liberty Union,Pete Diamondstone,7
+Essex,Canaan,NA,Governor,NA,Liberty Union,Pete Diamondstone,2
+Rutland,Castleton,NA,Governor,NA,Liberty Union,Pete Diamondstone,11
+Windsor,Cavendish,NA,Governor,NA,Liberty Union,Pete Diamondstone,2
+Orleans,Charleston,NA,Governor,NA,Liberty Union,Pete Diamondstone,8
+Chittenden,Charlotte,NA,Governor,NA,Liberty Union,Pete Diamondstone,12
+Orange,Chelsea,NA,Governor,NA,Liberty Union,Pete Diamondstone,4
+Windsor,Chester,NA,Governor,NA,Liberty Union,Pete Diamondstone,10
+Rutland,Chittenden,NA,Governor,NA,Liberty Union,Pete Diamondstone,4
+Rutland,Clarendon,NA,Governor,NA,Liberty Union,Pete Diamondstone,5
+Chittenden,Colchester,Chittenden 9-1,Governor,NA,Liberty Union,Pete Diamondstone,18
+Chittenden,Colchester,Chittenden 9-2,Governor,NA,Liberty Union,Pete Diamondstone,17
+Essex,Concord,NA,Governor,NA,Liberty Union,Pete Diamondstone,2
+Orange,Corinth,NA,Governor,NA,Liberty Union,Pete Diamondstone,4
+Addison,Cornwall,NA,Governor,NA,Liberty Union,Pete Diamondstone,8
+Orleans,Coventry,NA,Governor,NA,Liberty Union,Pete Diamondstone,3
+Orleans,Craftsbury,NA,Governor,NA,Liberty Union,Pete Diamondstone,11
+Rutland,Danby,NA,Governor,NA,Liberty Union,Pete Diamondstone,4
+Caledonia,Danville,NA,Governor,NA,Liberty Union,Pete Diamondstone,5
+Orleans,Derby,NA,Governor,NA,Liberty Union,Pete Diamondstone,8
+Bennington,Dorset,NA,Governor,NA,Liberty Union,Pete Diamondstone,3
+Windham,Dover,NA,Governor,NA,Liberty Union,Pete Diamondstone,6
+Windham,Dummerston,NA,Governor,NA,Liberty Union,Pete Diamondstone,14
+Washington,Duxbury,NA,Governor,NA,Liberty Union,Pete Diamondstone,5
+Essex,E. Haven,NA,Governor,NA,Liberty Union,Pete Diamondstone,1
+Washington,E. Montpelier,NA,Governor,NA,Liberty Union,Pete Diamondstone,9
+Lamoille,Eden,NA,Governor,NA,Liberty Union,Pete Diamondstone,0
+Lamoille,Elmore,NA,Governor,NA,Liberty Union,Pete Diamondstone,5
+Franklin,Enosburgh,NA,Governor,NA,Liberty Union,Pete Diamondstone,10
+Chittenden,Essex,Chittenden 8-1,Governor,NA,Liberty Union,Pete Diamondstone,7
+Chittenden,Essex,Chittenden 8-2,Governor,NA,Liberty Union,Pete Diamondstone,12
+Chittenden,Essex,Chittenden 8-3,Governor,NA,Liberty Union,Pete Diamondstone,3
+Rutland,Fair Haven,NA,Governor,NA,Liberty Union,Pete Diamondstone,6
+Franklin,Fairfax,NA,Governor,NA,Liberty Union,Pete Diamondstone,9
+Franklin,Fairfield,NA,Governor,NA,Liberty Union,Pete Diamondstone,2
+Orange,Fairlee,NA,Governor,NA,Liberty Union,Pete Diamondstone,1
+Washington,Fayston,NA,Governor,NA,Liberty Union,Pete Diamondstone,2
+Addison,Ferrisburgh,NA,Governor,NA,Liberty Union,Pete Diamondstone,5
+Franklin,Fletcher,NA,Governor,NA,Liberty Union,Pete Diamondstone,4
+Franklin,Franklin,NA,Governor,NA,Liberty Union,Pete Diamondstone,4
+Franklin,Georgia,NA,Governor,NA,Liberty Union,Pete Diamondstone,4
+Orleans,Glover,NA,Governor,NA,Liberty Union,Pete Diamondstone,4
+Addison,Goshen,NA,Governor,NA,Liberty Union,Pete Diamondstone,1
+Windham,Grafton,NA,Governor,NA,Liberty Union,Pete Diamondstone,3
+Essex,Granby,NA,Governor,NA,Liberty Union,Pete Diamondstone,0
+Grand Isle,Grand Isle,NA,Governor,NA,Liberty Union,Pete Diamondstone,4
+Addison,Granville,NA,Governor,NA,Liberty Union,Pete Diamondstone,0
+Orleans,Greensboro,NA,Governor,NA,Liberty Union,Pete Diamondstone,5
+Caledonia,Groton,NA,Governor,NA,Liberty Union,Pete Diamondstone,1
+Essex,Guildhall,NA,Governor,NA,Liberty Union,Pete Diamondstone,0
+Windham,Guilford,NA,Governor,NA,Liberty Union,Pete Diamondstone,14
+Windham,Halifax,NA,Governor,NA,Liberty Union,Pete Diamondstone,4
+Addison,Hancock,NA,Governor,NA,Liberty Union,Pete Diamondstone,1
+Caledonia,Hardwick,NA,Governor,NA,Liberty Union,Pete Diamondstone,12
+Windsor,Hartford,Windsor 4-1,Governor,NA,Liberty Union,Pete Diamondstone,6
+Windsor,Hartford,Windsor 4-2,Governor,NA,Liberty Union,Pete Diamondstone,8
+Windsor,Hartland,NA,Governor,NA,Liberty Union,Pete Diamondstone,9
+Franklin,Highgate,NA,Governor,NA,Liberty Union,Pete Diamondstone,4
+Chittenden,Hinesburg,Chittenden 4-1,Governor,NA,Liberty Union,Pete Diamondstone,0
+Chittenden,Hinesburg,Chittenden 4-2,Governor,NA,Liberty Union,Pete Diamondstone,9
+Orleans,Holland,NA,Governor,NA,Liberty Union,Pete Diamondstone,0
+Rutland,Hubbardton,NA,Governor,NA,Liberty Union,Pete Diamondstone,0
+Chittenden,Huntington,NA,Governor,NA,Liberty Union,Pete Diamondstone,6
+Lamoille,Hyde Park,NA,Governor,NA,Liberty Union,Pete Diamondstone,8
+Rutland,Ira,NA,Governor,NA,Liberty Union,Pete Diamondstone,4
+Orleans,Irasburg,NA,Governor,NA,Liberty Union,Pete Diamondstone,1
+Grand Isle,Isle La Motte,NA,Governor,NA,Liberty Union,Pete Diamondstone,0
+Windham,Jamaica,NA,Governor,NA,Liberty Union,Pete Diamondstone,7
+Orleans,Jay,NA,Governor,NA,Liberty Union,Pete Diamondstone,1
+Chittenden,Jericho,NA,Governor,NA,Liberty Union,Pete Diamondstone,13
+Lamoille,Johnson,NA,Governor,NA,Liberty Union,Pete Diamondstone,9
+Rutland,Killington,NA,Governor,NA,Liberty Union,Pete Diamondstone,0
+Caledonia,Kirby,NA,Governor,NA,Liberty Union,Pete Diamondstone,1
+Bennington,Landgrove,NA,Governor,NA,Liberty Union,Pete Diamondstone,2
+Addison,Leicester,NA,Governor,NA,Liberty Union,Pete Diamondstone,2
+Essex,Lemington,NA,Governor,NA,Liberty Union,Pete Diamondstone,0
+Addison,Lincoln,NA,Governor,NA,Liberty Union,Pete Diamondstone,7
+Windham,Londonderry,NA,Governor,NA,Liberty Union,Pete Diamondstone,4
+Orleans,Lowell,NA,Governor,NA,Liberty Union,Pete Diamondstone,0
+Windsor,Ludlow,NA,Governor,NA,Liberty Union,Pete Diamondstone,2
+Essex,Lunenburg,NA,Governor,NA,Liberty Union,Pete Diamondstone,2
+Caledonia,Lyndon,NA,Governor,NA,Liberty Union,Pete Diamondstone,12
+Essex,Maidstone,NA,Governor,NA,Liberty Union,Pete Diamondstone,0
+Bennington,Manchester,NA,Governor,NA,Liberty Union,Pete Diamondstone,11
+Windham,Marlboro,NA,Governor,NA,Liberty Union,Pete Diamondstone,9
+Washington,Marshfield,NA,Governor,NA,Liberty Union,Pete Diamondstone,17
+Rutland,Mendon,NA,Governor,NA,Liberty Union,Pete Diamondstone,1
+Addison,Middlebury,NA,Governor,NA,Liberty Union,Pete Diamondstone,12
+Washington,Middlesex,NA,Governor,NA,Liberty Union,Pete Diamondstone,23
+Rutland,Middletown Springs,NA,Governor,NA,Liberty Union,Pete Diamondstone,4
+Chittenden,Milton,Chittenden 10,Governor,NA,Liberty Union,Pete Diamondstone,12
+Chittenden,Milton,Grand Isle-Chittenden,Governor,NA,Liberty Union,Pete Diamondstone,0
+Addison,Monkton,NA,Governor,NA,Liberty Union,Pete Diamondstone,7
+Franklin,Montgomery,NA,Governor,NA,Liberty Union,Pete Diamondstone,9
+Washington,Montpelier,NA,Governor,NA,Liberty Union,Pete Diamondstone,51
+Washington,Moretown,NA,Governor,NA,Liberty Union,Pete Diamondstone,6
+Orleans,Morgan,NA,Governor,NA,Liberty Union,Pete Diamondstone,3
+Lamoille,Morristown,NA,Governor,NA,Liberty Union,Pete Diamondstone,18
+Rutland,Mount Holly,NA,Governor,NA,Liberty Union,Pete Diamondstone,2
+Rutland,Mount Tabor,NA,Governor,NA,Liberty Union,Pete Diamondstone,0
+Addison,New Haven,NA,Governor,NA,Liberty Union,Pete Diamondstone,8
+Caledonia,Newark,NA,Governor,NA,Liberty Union,Pete Diamondstone,2
+Orange,Newbury,NA,Governor,NA,Liberty Union,Pete Diamondstone,6
+Windham,Newfane,NA,Governor,NA,Liberty Union,Pete Diamondstone,10
+Orleans,Newport City,NA,Governor,NA,Liberty Union,Pete Diamondstone,9
+Orleans,Newport Town,NA,Governor,NA,Liberty Union,Pete Diamondstone,0
+Grand Isle,N. Hero,NA,Governor,NA,Liberty Union,Pete Diamondstone,6
+Washington,Northfield,NA,Governor,NA,Liberty Union,Pete Diamondstone,11
+Essex,Norton,NA,Governor,NA,Liberty Union,Pete Diamondstone,1
+Windsor,Norwich,NA,Governor,NA,Liberty Union,Pete Diamondstone,11
+Orange,Orange,NA,Governor,NA,Liberty Union,Pete Diamondstone,0
+Addison,Orwell,NA,Governor,NA,Liberty Union,Pete Diamondstone,3
+Addison,Panton,NA,Governor,NA,Liberty Union,Pete Diamondstone,1
+Rutland,Pawlet,NA,Governor,NA,Liberty Union,Pete Diamondstone,8
+Caledonia,Peacham,NA,Governor,NA,Liberty Union,Pete Diamondstone,3
+Bennington,Peru,NA,Governor,NA,Liberty Union,Pete Diamondstone,1
+Rutland,Pittsfield,NA,Governor,NA,Liberty Union,Pete Diamondstone,0
+Rutland,Pittsford,NA,Governor,NA,Liberty Union,Pete Diamondstone,7
+Washington,Plainfield,NA,Governor,NA,Liberty Union,Pete Diamondstone,10
+Windsor,Plymouth,NA,Governor,NA,Liberty Union,Pete Diamondstone,3
+Windsor,Pomfret,NA,Governor,NA,Liberty Union,Pete Diamondstone,3
+Rutland,Poultney,NA,Governor,NA,Liberty Union,Pete Diamondstone,8
+Bennington,Pownal,NA,Governor,NA,Liberty Union,Pete Diamondstone,17
+Rutland,Proctor,NA,Governor,NA,Liberty Union,Pete Diamondstone,2
+Windham,Putney,NA,Governor,NA,Liberty Union,Pete Diamondstone,13
+Orange,Randolph,NA,Governor,NA,Liberty Union,Pete Diamondstone,10
+Windsor,Reading,NA,Governor,NA,Liberty Union,Pete Diamondstone,2
+Bennington,Readsboro,NA,Governor,NA,Liberty Union,Pete Diamondstone,2
+Franklin,Richford,NA,Governor,NA,Liberty Union,Pete Diamondstone,2
+Chittenden,Richmond,NA,Governor,NA,Liberty Union,Pete Diamondstone,11
+Addison,Ripton,NA,Governor,NA,Liberty Union,Pete Diamondstone,1
+Windsor,Rochester,NA,Governor,NA,Liberty Union,Pete Diamondstone,0
+Windham,Rockingham,NA,Governor,NA,Liberty Union,Pete Diamondstone,13
+Washington,Roxbury,NA,Governor,NA,Liberty Union,Pete Diamondstone,0
+Windsor,Royalton,NA,Governor,NA,Liberty Union,Pete Diamondstone,7
+Bennington,Rupert,NA,Governor,NA,Liberty Union,Pete Diamondstone,2
+Rutland,Rutland City,Rutland 5-1,Governor,NA,Liberty Union,Pete Diamondstone,6
+Rutland,Rutland City,Rutland 5-2,Governor,NA,Liberty Union,Pete Diamondstone,7
+Rutland,Rutland City,Rutland 5-3,Governor,NA,Liberty Union,Pete Diamondstone,10
+Rutland,Rutland City,Rutland 5-4,Governor,NA,Liberty Union,Pete Diamondstone,6
+Rutland,Rutland Town,NA,Governor,NA,Liberty Union,Pete Diamondstone,7
+Caledonia,Ryegate,NA,Governor,NA,Liberty Union,Pete Diamondstone,5
+Franklin,Salisbury,NA,Governor,NA,Liberty Union,Pete Diamondstone,1
+Franklin,Sandgate,NA,Governor,NA,Liberty Union,Pete Diamondstone,0
+Chittenden,Searsburg,NA,Governor,NA,Liberty Union,Pete Diamondstone,2
+Caledonia,Shaftsbury,NA,Governor,NA,Liberty Union,Pete Diamondstone,15
+Addison,Sharon,NA,Governor,NA,Liberty Union,Pete Diamondstone,2
+Bennington,Sheffield,NA,Governor,NA,Liberty Union,Pete Diamondstone,3
+Bennington,Shelburne,Chittenden 5-1,Governor,NA,Liberty Union,Pete Diamondstone,8
+Bennington,Shelburne,Chittenden 5-2,Governor,NA,Liberty Union,Pete Diamondstone,2
+Bennington,Sheldon,NA,Governor,NA,Liberty Union,Pete Diamondstone,4
+Windsor,Shoreham,NA,Governor,NA,Liberty Union,Pete Diamondstone,5
+Caledonia,Shrewsbury,NA,Governor,NA,Liberty Union,Pete Diamondstone,4
+Chittenden,S. Burlington,Chittenden 7-1,Governor,NA,Liberty Union,Pete Diamondstone,4
+Chittenden,S. Burlington,Chittenden 7-2,Governor,NA,Liberty Union,Pete Diamondstone,7
+Chittenden,S. Burlington,Chittenden 7-3,Governor,NA,Liberty Union,Pete Diamondstone,12
+Chittenden,S. Burlington,Chittenden 7-4,Governor,NA,Liberty Union,Pete Diamondstone,9
+Franklin,S. Hero,NA,Governor,NA,Liberty Union,Pete Diamondstone,7
+Addison,Springfield,Windsor 3-1,Governor,NA,Liberty Union,Pete Diamondstone,1
+Addison,Springfield,Windsor 3-2,Governor,NA,Liberty Union,Pete Diamondstone,9
+Rutland,St. Albans City,NA,Governor,NA,Liberty Union,Pete Diamondstone,10
+Chittenden,St. Albans Town,Franklin 3-1,Governor,NA,Liberty Union,Pete Diamondstone,2
+Chittenden,St. Albans Town,Franklin 3-2,Governor,NA,Liberty Union,Pete Diamondstone,7
+Grand Isle,St. George,NA,Governor,NA,Liberty Union,Pete Diamondstone,2
+Windsor,St. Johnsbury,NA,Governor,NA,Liberty Union,Pete Diamondstone,14
+Bennington,Stamford,NA,Governor,NA,Liberty Union,Pete Diamondstone,5
+Caledonia,Stannard,NA,Governor,NA,Liberty Union,Pete Diamondstone,2
+Addison,Starksboro,NA,Governor,NA,Liberty Union,Pete Diamondstone,7
+Windsor,Stockbridge,NA,Governor,NA,Liberty Union,Pete Diamondstone,1
+Lamoille,Stowe,NA,Governor,NA,Liberty Union,Pete Diamondstone,15
+Orange,Strafford,NA,Governor,NA,Liberty Union,Pete Diamondstone,7
+Windham,Stratton,NA,Governor,NA,Liberty Union,Pete Diamondstone,4
+Rutland,Sudbury,NA,Governor,NA,Liberty Union,Pete Diamondstone,3
+Bennington,Sunderland,Bennington 3,Governor,NA,Liberty Union,Pete Diamondstone,1
+Bennington,Sunderland,Bennington 4,Governor,NA,Liberty Union,Pete Diamondstone,2
+Caledonia,Sutton,NA,Governor,NA,Liberty Union,Pete Diamondstone,1
+Franklin,Swanton,NA,Governor,NA,Liberty Union,Pete Diamondstone,9
+Orange,Thetford,NA,Governor,NA,Liberty Union,Pete Diamondstone,5
+Rutland,Tinmouth,Rutland 2,Governor,NA,Liberty Union,Pete Diamondstone,1
+Rutland,Tinmouth,Rutland-Bennington,Governor,NA,Liberty Union,Pete Diamondstone,1
+Orange,Topsham,NA,Governor,NA,Liberty Union,Pete Diamondstone,4
+Windham,Townshend,NA,Governor,NA,Liberty Union,Pete Diamondstone,7
+Orleans,Troy,Orleans 2,Governor,NA,Liberty Union,Pete Diamondstone,1
+Orleans,Troy,Orleans-Lamoille,Governor,NA,Liberty Union,Pete Diamondstone,1
+Orange,Tunbridge,NA,Governor,NA,Liberty Union,Pete Diamondstone,4
+Chittenden,Underhill,NA,Governor,NA,Liberty Union,Pete Diamondstone,11
+Addison,Vergennes,NA,Governor,NA,Liberty Union,Pete Diamondstone,2
+Windham,Vernon,NA,Governor,NA,Liberty Union,Pete Diamondstone,4
+Orange,Vershire,NA,Governor,NA,Liberty Union,Pete Diamondstone,4
+Essex,Victory,NA,Governor,NA,Liberty Union,Pete Diamondstone,0
+Washington,Waitsfield,NA,Governor,NA,Liberty Union,Pete Diamondstone,5
+Caledonia,Walden,NA,Governor,NA,Liberty Union,Pete Diamondstone,9
+Rutland,Wallingford,NA,Governor,NA,Liberty Union,Pete Diamondstone,10
+Addison,Waltham,NA,Governor,NA,Liberty Union,Pete Diamondstone,0
+Windham,Wardsboro,NA,Governor,NA,Liberty Union,Pete Diamondstone,3
+Washington,Warren,NA,Governor,NA,Liberty Union,Pete Diamondstone,6
+Orange,Washington,NA,Governor,NA,Liberty Union,Pete Diamondstone,2
+Washington,Waterbury,NA,Governor,NA,Liberty Union,Pete Diamondstone,11
+Caledonia,Waterford,NA,Governor,NA,Liberty Union,Pete Diamondstone,3
+Lamoille,Waterville,NA,Governor,NA,Liberty Union,Pete Diamondstone,0
+Windsor,Weathersfield,NA,Governor,NA,Liberty Union,Pete Diamondstone,3
+Rutland,Wells,NA,Governor,NA,Liberty Union,Pete Diamondstone,2
+Orange,W. Fairlee,NA,Governor,NA,Liberty Union,Pete Diamondstone,2
+Rutland,W. Haven,NA,Governor,NA,Liberty Union,Pete Diamondstone,0
+Rutland,W. Rutland,NA,Governor,NA,Liberty Union,Pete Diamondstone,5
+Windsor,W. Windsor,NA,Governor,NA,Liberty Union,Pete Diamondstone,3
+Orleans,Westfield,NA,Governor,NA,Liberty Union,Pete Diamondstone,2
+Chittenden,Westford,NA,Governor,NA,Liberty Union,Pete Diamondstone,1
+Windham,Westminster,Windham 3,Governor,NA,Liberty Union,Pete Diamondstone,1
+Windham,Westminster,Windham 4,Governor,NA,Liberty Union,Pete Diamondstone,8
+Orleans,Westmore,NA,Governor,NA,Liberty Union,Pete Diamondstone,4
+Windsor,Weston,NA,Governor,NA,Liberty Union,Pete Diamondstone,1
+Addison,Weybridge,NA,Governor,NA,Liberty Union,Pete Diamondstone,2
+Caledonia,Wheelock,NA,Governor,NA,Liberty Union,Pete Diamondstone,3
+Addison,Whiting,NA,Governor,NA,Liberty Union,Pete Diamondstone,1
+Windham,Whitingham,Windham 6,Governor,NA,Liberty Union,Pete Diamondstone,7
+Windham,Whitingham,Windham-Bennington,Governor,NA,Liberty Union,Pete Diamondstone,0
+Orange,Williamstown,NA,Governor,NA,Liberty Union,Pete Diamondstone,11
+Chittenden,Williston,NA,Governor,NA,Liberty Union,Pete Diamondstone,15
+Windham,Wilmington,NA,Governor,NA,Liberty Union,Pete Diamondstone,8
+Windham,Windham,NA,Governor,NA,Liberty Union,Pete Diamondstone,5
+Windsor,Windsor,NA,Governor,NA,Liberty Union,Pete Diamondstone,5
+Bennington,Winhall,NA,Governor,NA,Liberty Union,Pete Diamondstone,2
+Chittenden,Winooski,NA,Governor,NA,Liberty Union,Pete Diamondstone,20
+Lamoille,Wolcott,NA,Governor,NA,Liberty Union,Pete Diamondstone,6
+Washington,Woodbury,NA,Governor,NA,Liberty Union,Pete Diamondstone,2
+Bennington,Woodford,NA,Governor,NA,Liberty Union,Pete Diamondstone,1
+Windsor,Woodstock,NA,Governor,NA,Liberty Union,Pete Diamondstone,4
+Washington,Worcester,NA,Governor,NA,Liberty Union,Pete Diamondstone,10
+Addison,Addison,NA,Governor,NA,Independent,Bernard Peters,4
+Orleans,Albany,NA,Governor,NA,Independent,Bernard Peters,52
+Grand Isle,Alburgh,NA,Governor,NA,Independent,Bernard Peters,2
+Windsor,Andover,NA,Governor,NA,Independent,Bernard Peters,0
+Bennington,Arlington,NA,Governor,NA,Independent,Bernard Peters,5
+Windham,Athens,NA,Governor,NA,Independent,Bernard Peters,2
+Franklin,Bakersfield,NA,Governor,NA,Independent,Bernard Peters,6
+Windsor,Baltimore,NA,Governor,NA,Independent,Bernard Peters,0
+Windsor,Barnard,NA,Governor,NA,Independent,Bernard Peters,1
+Caledonia,Barnet,NA,Governor,NA,Independent,Bernard Peters,6
+Washington,Barre City,NA,Governor,NA,Independent,Bernard Peters,12
+Washington,Barre Town,NA,Governor,NA,Independent,Bernard Peters,4
+Orleans,Barton,NA,Governor,NA,Independent,Bernard Peters,26
+Lamoille,Belvidere,NA,Governor,NA,Independent,Bernard Peters,1
+Bennington,Bennington,Bennington 2-1,Governor,NA,Independent,Bernard Peters,14
+Bennington,Bennington,Bennington 2-2,Governor,NA,Independent,Bernard Peters,17
+Rutland,Benson,NA,Governor,NA,Independent,Bernard Peters,3
+Franklin,Berkshire,NA,Governor,NA,Independent,Bernard Peters,6
+Washington,Berlin,NA,Governor,NA,Independent,Bernard Peters,3
+Windsor,Bethel,NA,Governor,NA,Independent,Bernard Peters,2
+Essex,Bloomfield,NA,Governor,NA,Independent,Bernard Peters,2
+Chittenden,Bolton,NA,Governor,NA,Independent,Bernard Peters,1
+Orange,Bradford,NA,Governor,NA,Independent,Bernard Peters,3
+Orange,Braintree,NA,Governor,NA,Independent,Bernard Peters,3
+Rutland,Brandon,NA,Governor,NA,Independent,Bernard Peters,10
+Windham,Brattleboro,Windham 2-1,Governor,NA,Independent,Bernard Peters,2
+Windham,Brattleboro,Windham 2-2,Governor,NA,Independent,Bernard Peters,5
+Windham,Brattleboro,Windham 2-3,Governor,NA,Independent,Bernard Peters,3
+Windsor,Bridgewater,NA,Governor,NA,Independent,Bernard Peters,1
+Addison,Bridport,NA,Governor,NA,Independent,Bernard Peters,1
+Essex,Brighton,NA,Governor,NA,Independent,Bernard Peters,10
+Addison,Bristol,NA,Governor,NA,Independent,Bernard Peters,14
+Orange,Brookfield,NA,Governor,NA,Independent,Bernard Peters,3
+Windham,Brookline,NA,Governor,NA,Independent,Bernard Peters,2
+Orleans,Brownington,NA,Governor,NA,Independent,Bernard Peters,27
+Essex,Brunswick,NA,Governor,NA,Independent,Bernard Peters,0
+Caledonia,Burke,NA,Governor,NA,Independent,Bernard Peters,5
+Chittenden,Burlington,Chittenden 6-1,Governor,NA,Independent,Bernard Peters,3
+Chittenden,Burlington,Chittenden 6-2,Governor,NA,Independent,Bernard Peters,4
+Chittenden,Burlington,Chittenden 6-3,Governor,NA,Independent,Bernard Peters,6
+Chittenden,Burlington,Chittenden 6-4,Governor,NA,Independent,Bernard Peters,2
+Chittenden,Burlington,Chittenden 6-5,Governor,NA,Independent,Bernard Peters,5
+Chittenden,Burlington,Chittenden 6-6,Governor,NA,Independent,Bernard Peters,2
+Chittenden,Burlington,Chittenden 6-7,Governor,NA,Independent,Bernard Peters,0
+Washington,Cabot,NA,Governor,NA,Independent,Bernard Peters,11
+Washington,Calais,NA,Governor,NA,Independent,Bernard Peters,1
+Lamoille,Cambridge,NA,Governor,NA,Independent,Bernard Peters,3
+Essex,Canaan,NA,Governor,NA,Independent,Bernard Peters,5
+Rutland,Castleton,NA,Governor,NA,Independent,Bernard Peters,9
+Windsor,Cavendish,NA,Governor,NA,Independent,Bernard Peters,3
+Orleans,Charleston,NA,Governor,NA,Independent,Bernard Peters,11
+Chittenden,Charlotte,NA,Governor,NA,Independent,Bernard Peters,3
+Orange,Chelsea,NA,Governor,NA,Independent,Bernard Peters,1
+Windsor,Chester,NA,Governor,NA,Independent,Bernard Peters,4
+Rutland,Chittenden,NA,Governor,NA,Independent,Bernard Peters,2
+Rutland,Clarendon,NA,Governor,NA,Independent,Bernard Peters,3
+Chittenden,Colchester,Chittenden 9-1,Governor,NA,Independent,Bernard Peters,6
+Chittenden,Colchester,Chittenden 9-2,Governor,NA,Independent,Bernard Peters,3
+Essex,Concord,NA,Governor,NA,Independent,Bernard Peters,5
+Orange,Corinth,NA,Governor,NA,Independent,Bernard Peters,5
+Addison,Cornwall,NA,Governor,NA,Independent,Bernard Peters,3
+Orleans,Coventry,NA,Governor,NA,Independent,Bernard Peters,12
+Orleans,Craftsbury,NA,Governor,NA,Independent,Bernard Peters,27
+Rutland,Danby,NA,Governor,NA,Independent,Bernard Peters,2
+Caledonia,Danville,NA,Governor,NA,Independent,Bernard Peters,12
+Orleans,Derby,NA,Governor,NA,Independent,Bernard Peters,34
+Bennington,Dorset,NA,Governor,NA,Independent,Bernard Peters,3
+Windham,Dover,NA,Governor,NA,Independent,Bernard Peters,4
+Windham,Dummerston,NA,Governor,NA,Independent,Bernard Peters,5
+Washington,Duxbury,NA,Governor,NA,Independent,Bernard Peters,3
+Essex,E. Haven,NA,Governor,NA,Independent,Bernard Peters,3
+Washington,E. Montpelier,NA,Governor,NA,Independent,Bernard Peters,2
+Lamoille,Eden,NA,Governor,NA,Independent,Bernard Peters,4
+Lamoille,Elmore,NA,Governor,NA,Independent,Bernard Peters,1
+Franklin,Enosburgh,NA,Governor,NA,Independent,Bernard Peters,8
+Chittenden,Essex,Chittenden 8-1,Governor,NA,Independent,Bernard Peters,4
+Chittenden,Essex,Chittenden 8-2,Governor,NA,Independent,Bernard Peters,3
+Chittenden,Essex,Chittenden 8-3,Governor,NA,Independent,Bernard Peters,2
+Rutland,Fair Haven,NA,Governor,NA,Independent,Bernard Peters,3
+Franklin,Fairfax,NA,Governor,NA,Independent,Bernard Peters,7
+Franklin,Fairfield,NA,Governor,NA,Independent,Bernard Peters,3
+Orange,Fairlee,NA,Governor,NA,Independent,Bernard Peters,2
+Washington,Fayston,NA,Governor,NA,Independent,Bernard Peters,0
+Addison,Ferrisburgh,NA,Governor,NA,Independent,Bernard Peters,2
+Franklin,Fletcher,NA,Governor,NA,Independent,Bernard Peters,0
+Franklin,Franklin,NA,Governor,NA,Independent,Bernard Peters,2
+Franklin,Georgia,NA,Governor,NA,Independent,Bernard Peters,7
+Orleans,Glover,NA,Governor,NA,Independent,Bernard Peters,29
+Addison,Goshen,NA,Governor,NA,Independent,Bernard Peters,0
+Windham,Grafton,NA,Governor,NA,Independent,Bernard Peters,1
+Essex,Granby,NA,Governor,NA,Independent,Bernard Peters,1
+Grand Isle,Grand Isle,NA,Governor,NA,Independent,Bernard Peters,4
+Addison,Granville,NA,Governor,NA,Independent,Bernard Peters,0
+Orleans,Greensboro,NA,Governor,NA,Independent,Bernard Peters,11
+Caledonia,Groton,NA,Governor,NA,Independent,Bernard Peters,6
+Essex,Guildhall,NA,Governor,NA,Independent,Bernard Peters,2
+Windham,Guilford,NA,Governor,NA,Independent,Bernard Peters,7
+Windham,Halifax,NA,Governor,NA,Independent,Bernard Peters,4
+Addison,Hancock,NA,Governor,NA,Independent,Bernard Peters,0
+Caledonia,Hardwick,NA,Governor,NA,Independent,Bernard Peters,21
+Windsor,Hartford,Windsor 4-1,Governor,NA,Independent,Bernard Peters,1
+Windsor,Hartford,Windsor 4-2,Governor,NA,Independent,Bernard Peters,13
+Windsor,Hartland,NA,Governor,NA,Independent,Bernard Peters,8
+Franklin,Highgate,NA,Governor,NA,Independent,Bernard Peters,11
+Chittenden,Hinesburg,Chittenden 4-1,Governor,NA,Independent,Bernard Peters,0
+Chittenden,Hinesburg,Chittenden 4-2,Governor,NA,Independent,Bernard Peters,2
+Orleans,Holland,NA,Governor,NA,Independent,Bernard Peters,5
+Rutland,Hubbardton,NA,Governor,NA,Independent,Bernard Peters,4
+Chittenden,Huntington,NA,Governor,NA,Independent,Bernard Peters,8
+Lamoille,Hyde Park,NA,Governor,NA,Independent,Bernard Peters,17
+Rutland,Ira,NA,Governor,NA,Independent,Bernard Peters,1
+Orleans,Irasburg,NA,Governor,NA,Independent,Bernard Peters,33
+Grand Isle,Isle La Motte,NA,Governor,NA,Independent,Bernard Peters,0
+Windham,Jamaica,NA,Governor,NA,Independent,Bernard Peters,3
+Orleans,Jay,NA,Governor,NA,Independent,Bernard Peters,2
+Chittenden,Jericho,NA,Governor,NA,Independent,Bernard Peters,4
+Lamoille,Johnson,NA,Governor,NA,Independent,Bernard Peters,5
+Rutland,Killington,NA,Governor,NA,Independent,Bernard Peters,4
+Caledonia,Kirby,NA,Governor,NA,Independent,Bernard Peters,1
+Bennington,Landgrove,NA,Governor,NA,Independent,Bernard Peters,0
+Addison,Leicester,NA,Governor,NA,Independent,Bernard Peters,0
+Essex,Lemington,NA,Governor,NA,Independent,Bernard Peters,0
+Addison,Lincoln,NA,Governor,NA,Independent,Bernard Peters,1
+Windham,Londonderry,NA,Governor,NA,Independent,Bernard Peters,7
+Orleans,Lowell,NA,Governor,NA,Independent,Bernard Peters,11
+Windsor,Ludlow,NA,Governor,NA,Independent,Bernard Peters,4
+Essex,Lunenburg,NA,Governor,NA,Independent,Bernard Peters,4
+Caledonia,Lyndon,NA,Governor,NA,Independent,Bernard Peters,15
+Essex,Maidstone,NA,Governor,NA,Independent,Bernard Peters,0
+Bennington,Manchester,NA,Governor,NA,Independent,Bernard Peters,7
+Windham,Marlboro,NA,Governor,NA,Independent,Bernard Peters,0
+Washington,Marshfield,NA,Governor,NA,Independent,Bernard Peters,3
+Rutland,Mendon,NA,Governor,NA,Independent,Bernard Peters,1
+Addison,Middlebury,NA,Governor,NA,Independent,Bernard Peters,8
+Washington,Middlesex,NA,Governor,NA,Independent,Bernard Peters,8
+Rutland,Middletown Springs,NA,Governor,NA,Independent,Bernard Peters,3
+Chittenden,Milton,Chittenden 10,Governor,NA,Independent,Bernard Peters,7
+Chittenden,Milton,Grand Isle-Chittenden,Governor,NA,Independent,Bernard Peters,3
+Addison,Monkton,NA,Governor,NA,Independent,Bernard Peters,7
+Franklin,Montgomery,NA,Governor,NA,Independent,Bernard Peters,7
+Washington,Montpelier,NA,Governor,NA,Independent,Bernard Peters,19
+Washington,Moretown,NA,Governor,NA,Independent,Bernard Peters,5
+Orleans,Morgan,NA,Governor,NA,Independent,Bernard Peters,5
+Lamoille,Morristown,NA,Governor,NA,Independent,Bernard Peters,14
+Rutland,Mount Holly,NA,Governor,NA,Independent,Bernard Peters,5
+Rutland,Mount Tabor,NA,Governor,NA,Independent,Bernard Peters,0
+Addison,New Haven,NA,Governor,NA,Independent,Bernard Peters,4
+Caledonia,Newark,NA,Governor,NA,Independent,Bernard Peters,3
+Orange,Newbury,NA,Governor,NA,Independent,Bernard Peters,1
+Windham,Newfane,NA,Governor,NA,Independent,Bernard Peters,1
+Orleans,Newport City,NA,Governor,NA,Independent,Bernard Peters,31
+Orleans,Newport Town,NA,Governor,NA,Independent,Bernard Peters,18
+Grand Isle,N. Hero,NA,Governor,NA,Independent,Bernard Peters,1
+Washington,Northfield,NA,Governor,NA,Independent,Bernard Peters,7
+Essex,Norton,NA,Governor,NA,Independent,Bernard Peters,1
+Windsor,Norwich,NA,Governor,NA,Independent,Bernard Peters,3
+Orange,Orange,NA,Governor,NA,Independent,Bernard Peters,3
+Addison,Orwell,NA,Governor,NA,Independent,Bernard Peters,3
+Addison,Panton,NA,Governor,NA,Independent,Bernard Peters,3
+Rutland,Pawlet,NA,Governor,NA,Independent,Bernard Peters,5
+Caledonia,Peacham,NA,Governor,NA,Independent,Bernard Peters,3
+Bennington,Peru,NA,Governor,NA,Independent,Bernard Peters,1
+Rutland,Pittsfield,NA,Governor,NA,Independent,Bernard Peters,0
+Rutland,Pittsford,NA,Governor,NA,Independent,Bernard Peters,5
+Washington,Plainfield,NA,Governor,NA,Independent,Bernard Peters,1
+Windsor,Plymouth,NA,Governor,NA,Independent,Bernard Peters,1
+Windsor,Pomfret,NA,Governor,NA,Independent,Bernard Peters,1
+Rutland,Poultney,NA,Governor,NA,Independent,Bernard Peters,4
+Bennington,Pownal,NA,Governor,NA,Independent,Bernard Peters,15
+Rutland,Proctor,NA,Governor,NA,Independent,Bernard Peters,3
+Windham,Putney,NA,Governor,NA,Independent,Bernard Peters,3
+Orange,Randolph,NA,Governor,NA,Independent,Bernard Peters,4
+Windsor,Reading,NA,Governor,NA,Independent,Bernard Peters,1
+Bennington,Readsboro,NA,Governor,NA,Independent,Bernard Peters,4
+Franklin,Richford,NA,Governor,NA,Independent,Bernard Peters,6
+Chittenden,Richmond,NA,Governor,NA,Independent,Bernard Peters,4
+Addison,Ripton,NA,Governor,NA,Independent,Bernard Peters,3
+Windsor,Rochester,NA,Governor,NA,Independent,Bernard Peters,0
+Windham,Rockingham,NA,Governor,NA,Independent,Bernard Peters,8
+Washington,Roxbury,NA,Governor,NA,Independent,Bernard Peters,3
+Windsor,Royalton,NA,Governor,NA,Independent,Bernard Peters,8
+Bennington,Rupert,NA,Governor,NA,Independent,Bernard Peters,1
+Rutland,Rutland City,Rutland 5-1,Governor,NA,Independent,Bernard Peters,10
+Rutland,Rutland City,Rutland 5-2,Governor,NA,Independent,Bernard Peters,7
+Rutland,Rutland City,Rutland 5-3,Governor,NA,Independent,Bernard Peters,4
+Rutland,Rutland City,Rutland 5-4,Governor,NA,Independent,Bernard Peters,7
+Rutland,Rutland Town,NA,Governor,NA,Independent,Bernard Peters,2
+Caledonia,Ryegate,NA,Governor,NA,Independent,Bernard Peters,9
+Franklin,Salisbury,NA,Governor,NA,Independent,Bernard Peters,7
+Franklin,Sandgate,NA,Governor,NA,Independent,Bernard Peters,3
+Chittenden,Searsburg,NA,Governor,NA,Independent,Bernard Peters,0
+Caledonia,Shaftsbury,NA,Governor,NA,Independent,Bernard Peters,5
+Addison,Sharon,NA,Governor,NA,Independent,Bernard Peters,3
+Bennington,Sheffield,NA,Governor,NA,Independent,Bernard Peters,4
+Bennington,Shelburne,Chittenden 5-1,Governor,NA,Independent,Bernard Peters,1
+Bennington,Shelburne,Chittenden 5-2,Governor,NA,Independent,Bernard Peters,4
+Bennington,Sheldon,NA,Governor,NA,Independent,Bernard Peters,5
+Windsor,Shoreham,NA,Governor,NA,Independent,Bernard Peters,1
+Caledonia,Shrewsbury,NA,Governor,NA,Independent,Bernard Peters,25
+Chittenden,S. Burlington,Chittenden 7-1,Governor,NA,Independent,Bernard Peters,3
+Chittenden,S. Burlington,Chittenden 7-2,Governor,NA,Independent,Bernard Peters,4
+Chittenden,S. Burlington,Chittenden 7-3,Governor,NA,Independent,Bernard Peters,4
+Chittenden,S. Burlington,Chittenden 7-4,Governor,NA,Independent,Bernard Peters,7
+Franklin,S. Hero,NA,Governor,NA,Independent,Bernard Peters,2
+Addison,Springfield,Windsor 3-1,Governor,NA,Independent,Bernard Peters,1
+Addison,Springfield,Windsor 3-2,Governor,NA,Independent,Bernard Peters,9
+Rutland,St. Albans City,NA,Governor,NA,Independent,Bernard Peters,7
+Chittenden,St. Albans Town,Franklin 3-1,Governor,NA,Independent,Bernard Peters,4
+Chittenden,St. Albans Town,Franklin 3-2,Governor,NA,Independent,Bernard Peters,5
+Grand Isle,St. George,NA,Governor,NA,Independent,Bernard Peters,1
+Windsor,St. Johnsbury,NA,Governor,NA,Independent,Bernard Peters,24
+Bennington,Stamford,NA,Governor,NA,Independent,Bernard Peters,5
+Caledonia,Stannard,NA,Governor,NA,Independent,Bernard Peters,5
+Addison,Starksboro,NA,Governor,NA,Independent,Bernard Peters,5
+Windsor,Stockbridge,NA,Governor,NA,Independent,Bernard Peters,1
+Lamoille,Stowe,NA,Governor,NA,Independent,Bernard Peters,9
+Orange,Strafford,NA,Governor,NA,Independent,Bernard Peters,1
+Windham,Stratton,NA,Governor,NA,Independent,Bernard Peters,1
+Rutland,Sudbury,NA,Governor,NA,Independent,Bernard Peters,0
+Bennington,Sunderland,Bennington 3,Governor,NA,Independent,Bernard Peters,0
+Bennington,Sunderland,Bennington 4,Governor,NA,Independent,Bernard Peters,0
+Caledonia,Sutton,NA,Governor,NA,Independent,Bernard Peters,8
+Franklin,Swanton,NA,Governor,NA,Independent,Bernard Peters,5
+Orange,Thetford,NA,Governor,NA,Independent,Bernard Peters,6
+Rutland,Tinmouth,Rutland 2,Governor,NA,Independent,Bernard Peters,0
+Rutland,Tinmouth,Rutland-Bennington,Governor,NA,Independent,Bernard Peters,3
+Orange,Topsham,NA,Governor,NA,Independent,Bernard Peters,0
+Windham,Townshend,NA,Governor,NA,Independent,Bernard Peters,1
+Orleans,Troy,Orleans 2,Governor,NA,Independent,Bernard Peters,4
+Orleans,Troy,Orleans-Lamoille,Governor,NA,Independent,Bernard Peters,7
+Orange,Tunbridge,NA,Governor,NA,Independent,Bernard Peters,4
+Chittenden,Underhill,NA,Governor,NA,Independent,Bernard Peters,1
+Addison,Vergennes,NA,Governor,NA,Independent,Bernard Peters,1
+Windham,Vernon,NA,Governor,NA,Independent,Bernard Peters,9
+Orange,Vershire,NA,Governor,NA,Independent,Bernard Peters,1
+Essex,Victory,NA,Governor,NA,Independent,Bernard Peters,1
+Washington,Waitsfield,NA,Governor,NA,Independent,Bernard Peters,8
+Caledonia,Walden,NA,Governor,NA,Independent,Bernard Peters,12
+Rutland,Wallingford,NA,Governor,NA,Independent,Bernard Peters,2
+Addison,Waltham,NA,Governor,NA,Independent,Bernard Peters,1
+Windham,Wardsboro,NA,Governor,NA,Independent,Bernard Peters,3
+Washington,Warren,NA,Governor,NA,Independent,Bernard Peters,6
+Orange,Washington,NA,Governor,NA,Independent,Bernard Peters,2
+Washington,Waterbury,NA,Governor,NA,Independent,Bernard Peters,10
+Caledonia,Waterford,NA,Governor,NA,Independent,Bernard Peters,10
+Lamoille,Waterville,NA,Governor,NA,Independent,Bernard Peters,2
+Windsor,Weathersfield,NA,Governor,NA,Independent,Bernard Peters,7
+Rutland,Wells,NA,Governor,NA,Independent,Bernard Peters,4
+Orange,W. Fairlee,NA,Governor,NA,Independent,Bernard Peters,2
+Rutland,W. Haven,NA,Governor,NA,Independent,Bernard Peters,1
+Rutland,W. Rutland,NA,Governor,NA,Independent,Bernard Peters,4
+Windsor,W. Windsor,NA,Governor,NA,Independent,Bernard Peters,5
+Orleans,Westfield,NA,Governor,NA,Independent,Bernard Peters,5
+Chittenden,Westford,NA,Governor,NA,Independent,Bernard Peters,3
+Windham,Westminster,Windham 3,Governor,NA,Independent,Bernard Peters,0
+Windham,Westminster,Windham 4,Governor,NA,Independent,Bernard Peters,4
+Orleans,Westmore,NA,Governor,NA,Independent,Bernard Peters,7
+Windsor,Weston,NA,Governor,NA,Independent,Bernard Peters,0
+Addison,Weybridge,NA,Governor,NA,Independent,Bernard Peters,2
+Caledonia,Wheelock,NA,Governor,NA,Independent,Bernard Peters,3
+Addison,Whiting,NA,Governor,NA,Independent,Bernard Peters,0
+Windham,Whitingham,Windham 6,Governor,NA,Independent,Bernard Peters,2
+Windham,Whitingham,Windham-Bennington,Governor,NA,Independent,Bernard Peters,0
+Orange,Williamstown,NA,Governor,NA,Independent,Bernard Peters,4
+Chittenden,Williston,NA,Governor,NA,Independent,Bernard Peters,8
+Windham,Wilmington,NA,Governor,NA,Independent,Bernard Peters,4
+Windham,Windham,NA,Governor,NA,Independent,Bernard Peters,2
+Windsor,Windsor,NA,Governor,NA,Independent,Bernard Peters,7
+Bennington,Winhall,NA,Governor,NA,Independent,Bernard Peters,0
+Chittenden,Winooski,NA,Governor,NA,Independent,Bernard Peters,9
+Lamoille,Wolcott,NA,Governor,NA,Independent,Bernard Peters,15
+Washington,Woodbury,NA,Governor,NA,Independent,Bernard Peters,4
+Bennington,Woodford,NA,Governor,NA,Independent,Bernard Peters,1
+Windsor,Woodstock,NA,Governor,NA,Independent,Bernard Peters,1
+Washington,Worcester,NA,Governor,NA,Independent,Bernard Peters,0
+Addison,Addison,NA,Governor,NA,Independent,Cris Ericson,3
+Orleans,Albany,NA,Governor,NA,Independent,Cris Ericson,1
+Grand Isle,Alburgh,NA,Governor,NA,Independent,Cris Ericson,4
+Windsor,Andover,NA,Governor,NA,Independent,Cris Ericson,3
+Bennington,Arlington,NA,Governor,NA,Independent,Cris Ericson,12
+Windham,Athens,NA,Governor,NA,Independent,Cris Ericson,1
+Franklin,Bakersfield,NA,Governor,NA,Independent,Cris Ericson,1
+Windsor,Baltimore,NA,Governor,NA,Independent,Cris Ericson,1
+Windsor,Barnard,NA,Governor,NA,Independent,Cris Ericson,1
+Caledonia,Barnet,NA,Governor,NA,Independent,Cris Ericson,2
+Washington,Barre City,NA,Governor,NA,Independent,Cris Ericson,11
+Washington,Barre Town,NA,Governor,NA,Independent,Cris Ericson,4
+Orleans,Barton,NA,Governor,NA,Independent,Cris Ericson,1
+Lamoille,Belvidere,NA,Governor,NA,Independent,Cris Ericson,1
+Bennington,Bennington,Bennington 2-1,Governor,NA,Independent,Cris Ericson,18
+Bennington,Bennington,Bennington 2-2,Governor,NA,Independent,Cris Ericson,24
+Rutland,Benson,NA,Governor,NA,Independent,Cris Ericson,2
+Franklin,Berkshire,NA,Governor,NA,Independent,Cris Ericson,2
+Washington,Berlin,NA,Governor,NA,Independent,Cris Ericson,6
+Windsor,Bethel,NA,Governor,NA,Independent,Cris Ericson,4
+Essex,Bloomfield,NA,Governor,NA,Independent,Cris Ericson,0
+Chittenden,Bolton,NA,Governor,NA,Independent,Cris Ericson,3
+Orange,Bradford,NA,Governor,NA,Independent,Cris Ericson,3
+Orange,Braintree,NA,Governor,NA,Independent,Cris Ericson,0
+Rutland,Brandon,NA,Governor,NA,Independent,Cris Ericson,9
+Windham,Brattleboro,Windham 2-1,Governor,NA,Independent,Cris Ericson,5
+Windham,Brattleboro,Windham 2-2,Governor,NA,Independent,Cris Ericson,3
+Windham,Brattleboro,Windham 2-3,Governor,NA,Independent,Cris Ericson,4
+Windsor,Bridgewater,NA,Governor,NA,Independent,Cris Ericson,1
+Addison,Bridport,NA,Governor,NA,Independent,Cris Ericson,1
+Essex,Brighton,NA,Governor,NA,Independent,Cris Ericson,0
+Addison,Bristol,NA,Governor,NA,Independent,Cris Ericson,4
+Orange,Brookfield,NA,Governor,NA,Independent,Cris Ericson,3
+Windham,Brookline,NA,Governor,NA,Independent,Cris Ericson,3
+Orleans,Brownington,NA,Governor,NA,Independent,Cris Ericson,2
+Essex,Brunswick,NA,Governor,NA,Independent,Cris Ericson,0
+Caledonia,Burke,NA,Governor,NA,Independent,Cris Ericson,4
+Chittenden,Burlington,Chittenden 6-1,Governor,NA,Independent,Cris Ericson,5
+Chittenden,Burlington,Chittenden 6-2,Governor,NA,Independent,Cris Ericson,9
+Chittenden,Burlington,Chittenden 6-3,Governor,NA,Independent,Cris Ericson,14
+Chittenden,Burlington,Chittenden 6-4,Governor,NA,Independent,Cris Ericson,4
+Chittenden,Burlington,Chittenden 6-5,Governor,NA,Independent,Cris Ericson,9
+Chittenden,Burlington,Chittenden 6-6,Governor,NA,Independent,Cris Ericson,2
+Chittenden,Burlington,Chittenden 6-7,Governor,NA,Independent,Cris Ericson,1
+Washington,Cabot,NA,Governor,NA,Independent,Cris Ericson,5
+Washington,Calais,NA,Governor,NA,Independent,Cris Ericson,3
+Lamoille,Cambridge,NA,Governor,NA,Independent,Cris Ericson,10
+Essex,Canaan,NA,Governor,NA,Independent,Cris Ericson,1
+Rutland,Castleton,NA,Governor,NA,Independent,Cris Ericson,8
+Windsor,Cavendish,NA,Governor,NA,Independent,Cris Ericson,5
+Orleans,Charleston,NA,Governor,NA,Independent,Cris Ericson,0
+Chittenden,Charlotte,NA,Governor,NA,Independent,Cris Ericson,4
+Orange,Chelsea,NA,Governor,NA,Independent,Cris Ericson,0
+Windsor,Chester,NA,Governor,NA,Independent,Cris Ericson,12
+Rutland,Chittenden,NA,Governor,NA,Independent,Cris Ericson,6
+Rutland,Clarendon,NA,Governor,NA,Independent,Cris Ericson,9
+Chittenden,Colchester,Chittenden 9-1,Governor,NA,Independent,Cris Ericson,6
+Chittenden,Colchester,Chittenden 9-2,Governor,NA,Independent,Cris Ericson,7
+Essex,Concord,NA,Governor,NA,Independent,Cris Ericson,2
+Orange,Corinth,NA,Governor,NA,Independent,Cris Ericson,5
+Addison,Cornwall,NA,Governor,NA,Independent,Cris Ericson,2
+Orleans,Coventry,NA,Governor,NA,Independent,Cris Ericson,0
+Orleans,Craftsbury,NA,Governor,NA,Independent,Cris Ericson,5
+Rutland,Danby,NA,Governor,NA,Independent,Cris Ericson,7
+Caledonia,Danville,NA,Governor,NA,Independent,Cris Ericson,1
+Orleans,Derby,NA,Governor,NA,Independent,Cris Ericson,4
+Bennington,Dorset,NA,Governor,NA,Independent,Cris Ericson,7
+Windham,Dover,NA,Governor,NA,Independent,Cris Ericson,7
+Windham,Dummerston,NA,Governor,NA,Independent,Cris Ericson,4
+Washington,Duxbury,NA,Governor,NA,Independent,Cris Ericson,1
+Essex,E. Haven,NA,Governor,NA,Independent,Cris Ericson,1
+Washington,E. Montpelier,NA,Governor,NA,Independent,Cris Ericson,4
+Lamoille,Eden,NA,Governor,NA,Independent,Cris Ericson,3
+Lamoille,Elmore,NA,Governor,NA,Independent,Cris Ericson,0
+Franklin,Enosburgh,NA,Governor,NA,Independent,Cris Ericson,12
+Chittenden,Essex,Chittenden 8-1,Governor,NA,Independent,Cris Ericson,2
+Chittenden,Essex,Chittenden 8-2,Governor,NA,Independent,Cris Ericson,6
+Chittenden,Essex,Chittenden 8-3,Governor,NA,Independent,Cris Ericson,1
+Rutland,Fair Haven,NA,Governor,NA,Independent,Cris Ericson,2
+Franklin,Fairfax,NA,Governor,NA,Independent,Cris Ericson,8
+Franklin,Fairfield,NA,Governor,NA,Independent,Cris Ericson,1
+Orange,Fairlee,NA,Governor,NA,Independent,Cris Ericson,0
+Washington,Fayston,NA,Governor,NA,Independent,Cris Ericson,3
+Addison,Ferrisburgh,NA,Governor,NA,Independent,Cris Ericson,2
+Franklin,Fletcher,NA,Governor,NA,Independent,Cris Ericson,5
+Franklin,Franklin,NA,Governor,NA,Independent,Cris Ericson,4
+Franklin,Georgia,NA,Governor,NA,Independent,Cris Ericson,9
+Orleans,Glover,NA,Governor,NA,Independent,Cris Ericson,6
+Addison,Goshen,NA,Governor,NA,Independent,Cris Ericson,0
+Windham,Grafton,NA,Governor,NA,Independent,Cris Ericson,3
+Essex,Granby,NA,Governor,NA,Independent,Cris Ericson,1
+Grand Isle,Grand Isle,NA,Governor,NA,Independent,Cris Ericson,6
+Addison,Granville,NA,Governor,NA,Independent,Cris Ericson,0
+Orleans,Greensboro,NA,Governor,NA,Independent,Cris Ericson,3
+Caledonia,Groton,NA,Governor,NA,Independent,Cris Ericson,3
+Essex,Guildhall,NA,Governor,NA,Independent,Cris Ericson,0
+Windham,Guilford,NA,Governor,NA,Independent,Cris Ericson,5
+Windham,Halifax,NA,Governor,NA,Independent,Cris Ericson,1
+Addison,Hancock,NA,Governor,NA,Independent,Cris Ericson,2
+Caledonia,Hardwick,NA,Governor,NA,Independent,Cris Ericson,6
+Windsor,Hartford,Windsor 4-1,Governor,NA,Independent,Cris Ericson,1
+Windsor,Hartford,Windsor 4-2,Governor,NA,Independent,Cris Ericson,6
+Windsor,Hartland,NA,Governor,NA,Independent,Cris Ericson,1
+Franklin,Highgate,NA,Governor,NA,Independent,Cris Ericson,3
+Chittenden,Hinesburg,Chittenden 4-1,Governor,NA,Independent,Cris Ericson,1
+Chittenden,Hinesburg,Chittenden 4-2,Governor,NA,Independent,Cris Ericson,4
+Orleans,Holland,NA,Governor,NA,Independent,Cris Ericson,0
+Rutland,Hubbardton,NA,Governor,NA,Independent,Cris Ericson,0
+Chittenden,Huntington,NA,Governor,NA,Independent,Cris Ericson,6
+Lamoille,Hyde Park,NA,Governor,NA,Independent,Cris Ericson,9
+Rutland,Ira,NA,Governor,NA,Independent,Cris Ericson,2
+Orleans,Irasburg,NA,Governor,NA,Independent,Cris Ericson,0
+Grand Isle,Isle La Motte,NA,Governor,NA,Independent,Cris Ericson,2
+Windham,Jamaica,NA,Governor,NA,Independent,Cris Ericson,6
+Orleans,Jay,NA,Governor,NA,Independent,Cris Ericson,1
+Chittenden,Jericho,NA,Governor,NA,Independent,Cris Ericson,8
+Lamoille,Johnson,NA,Governor,NA,Independent,Cris Ericson,6
+Rutland,Killington,NA,Governor,NA,Independent,Cris Ericson,2
+Caledonia,Kirby,NA,Governor,NA,Independent,Cris Ericson,1
+Bennington,Landgrove,NA,Governor,NA,Independent,Cris Ericson,1
+Addison,Leicester,NA,Governor,NA,Independent,Cris Ericson,4
+Essex,Lemington,NA,Governor,NA,Independent,Cris Ericson,0
+Addison,Lincoln,NA,Governor,NA,Independent,Cris Ericson,5
+Windham,Londonderry,NA,Governor,NA,Independent,Cris Ericson,6
+Orleans,Lowell,NA,Governor,NA,Independent,Cris Ericson,1
+Windsor,Ludlow,NA,Governor,NA,Independent,Cris Ericson,4
+Essex,Lunenburg,NA,Governor,NA,Independent,Cris Ericson,2
+Caledonia,Lyndon,NA,Governor,NA,Independent,Cris Ericson,9
+Essex,Maidstone,NA,Governor,NA,Independent,Cris Ericson,0
+Bennington,Manchester,NA,Governor,NA,Independent,Cris Ericson,16
+Windham,Marlboro,NA,Governor,NA,Independent,Cris Ericson,1
+Washington,Marshfield,NA,Governor,NA,Independent,Cris Ericson,4
+Rutland,Mendon,NA,Governor,NA,Independent,Cris Ericson,2
+Addison,Middlebury,NA,Governor,NA,Independent,Cris Ericson,8
+Washington,Middlesex,NA,Governor,NA,Independent,Cris Ericson,6
+Rutland,Middletown Springs,NA,Governor,NA,Independent,Cris Ericson,1
+Chittenden,Milton,Chittenden 10,Governor,NA,Independent,Cris Ericson,8
+Chittenden,Milton,Grand Isle-Chittenden,Governor,NA,Independent,Cris Ericson,2
+Addison,Monkton,NA,Governor,NA,Independent,Cris Ericson,13
+Franklin,Montgomery,NA,Governor,NA,Independent,Cris Ericson,2
+Washington,Montpelier,NA,Governor,NA,Independent,Cris Ericson,16
+Washington,Moretown,NA,Governor,NA,Independent,Cris Ericson,8
+Orleans,Morgan,NA,Governor,NA,Independent,Cris Ericson,0
+Lamoille,Morristown,NA,Governor,NA,Independent,Cris Ericson,7
+Rutland,Mount Holly,NA,Governor,NA,Independent,Cris Ericson,5
+Rutland,Mount Tabor,NA,Governor,NA,Independent,Cris Ericson,0
+Addison,New Haven,NA,Governor,NA,Independent,Cris Ericson,3
+Caledonia,Newark,NA,Governor,NA,Independent,Cris Ericson,6
+Orange,Newbury,NA,Governor,NA,Independent,Cris Ericson,3
+Windham,Newfane,NA,Governor,NA,Independent,Cris Ericson,6
+Orleans,Newport City,NA,Governor,NA,Independent,Cris Ericson,2
+Orleans,Newport Town,NA,Governor,NA,Independent,Cris Ericson,1
+Grand Isle,N. Hero,NA,Governor,NA,Independent,Cris Ericson,0
+Washington,Northfield,NA,Governor,NA,Independent,Cris Ericson,6
+Essex,Norton,NA,Governor,NA,Independent,Cris Ericson,0
+Windsor,Norwich,NA,Governor,NA,Independent,Cris Ericson,0
+Orange,Orange,NA,Governor,NA,Independent,Cris Ericson,0
+Addison,Orwell,NA,Governor,NA,Independent,Cris Ericson,1
+Addison,Panton,NA,Governor,NA,Independent,Cris Ericson,2
+Rutland,Pawlet,NA,Governor,NA,Independent,Cris Ericson,2
+Caledonia,Peacham,NA,Governor,NA,Independent,Cris Ericson,0
+Bennington,Peru,NA,Governor,NA,Independent,Cris Ericson,0
+Rutland,Pittsfield,NA,Governor,NA,Independent,Cris Ericson,0
+Rutland,Pittsford,NA,Governor,NA,Independent,Cris Ericson,5
+Washington,Plainfield,NA,Governor,NA,Independent,Cris Ericson,4
+Windsor,Plymouth,NA,Governor,NA,Independent,Cris Ericson,1
+Windsor,Pomfret,NA,Governor,NA,Independent,Cris Ericson,1
+Rutland,Poultney,NA,Governor,NA,Independent,Cris Ericson,9
+Bennington,Pownal,NA,Governor,NA,Independent,Cris Ericson,27
+Rutland,Proctor,NA,Governor,NA,Independent,Cris Ericson,3
+Windham,Putney,NA,Governor,NA,Independent,Cris Ericson,3
+Orange,Randolph,NA,Governor,NA,Independent,Cris Ericson,9
+Windsor,Reading,NA,Governor,NA,Independent,Cris Ericson,0
+Bennington,Readsboro,NA,Governor,NA,Independent,Cris Ericson,3
+Franklin,Richford,NA,Governor,NA,Independent,Cris Ericson,6
+Chittenden,Richmond,NA,Governor,NA,Independent,Cris Ericson,8
+Addison,Ripton,NA,Governor,NA,Independent,Cris Ericson,1
+Windsor,Rochester,NA,Governor,NA,Independent,Cris Ericson,0
+Windham,Rockingham,NA,Governor,NA,Independent,Cris Ericson,20
+Washington,Roxbury,NA,Governor,NA,Independent,Cris Ericson,2
+Windsor,Royalton,NA,Governor,NA,Independent,Cris Ericson,10
+Bennington,Rupert,NA,Governor,NA,Independent,Cris Ericson,5
+Rutland,Rutland City,Rutland 5-1,Governor,NA,Independent,Cris Ericson,7
+Rutland,Rutland City,Rutland 5-2,Governor,NA,Independent,Cris Ericson,5
+Rutland,Rutland City,Rutland 5-3,Governor,NA,Independent,Cris Ericson,3
+Rutland,Rutland City,Rutland 5-4,Governor,NA,Independent,Cris Ericson,11
+Rutland,Rutland Town,NA,Governor,NA,Independent,Cris Ericson,14
+Caledonia,Ryegate,NA,Governor,NA,Independent,Cris Ericson,2
+Franklin,Salisbury,NA,Governor,NA,Independent,Cris Ericson,2
+Franklin,Sandgate,NA,Governor,NA,Independent,Cris Ericson,2
+Chittenden,Searsburg,NA,Governor,NA,Independent,Cris Ericson,4
+Caledonia,Shaftsbury,NA,Governor,NA,Independent,Cris Ericson,21
+Addison,Sharon,NA,Governor,NA,Independent,Cris Ericson,1
+Bennington,Sheffield,NA,Governor,NA,Independent,Cris Ericson,1
+Bennington,Shelburne,Chittenden 5-1,Governor,NA,Independent,Cris Ericson,4
+Bennington,Shelburne,Chittenden 5-2,Governor,NA,Independent,Cris Ericson,1
+Bennington,Sheldon,NA,Governor,NA,Independent,Cris Ericson,2
+Windsor,Shoreham,NA,Governor,NA,Independent,Cris Ericson,1
+Caledonia,Shrewsbury,NA,Governor,NA,Independent,Cris Ericson,2
+Chittenden,S. Burlington,Chittenden 7-1,Governor,NA,Independent,Cris Ericson,3
+Chittenden,S. Burlington,Chittenden 7-2,Governor,NA,Independent,Cris Ericson,5
+Chittenden,S. Burlington,Chittenden 7-3,Governor,NA,Independent,Cris Ericson,4
+Chittenden,S. Burlington,Chittenden 7-4,Governor,NA,Independent,Cris Ericson,9
+Franklin,S. Hero,NA,Governor,NA,Independent,Cris Ericson,4
+Addison,Springfield,Windsor 3-1,Governor,NA,Independent,Cris Ericson,1
+Addison,Springfield,Windsor 3-2,Governor,NA,Independent,Cris Ericson,28
+Rutland,St. Albans City,NA,Governor,NA,Independent,Cris Ericson,6
+Chittenden,St. Albans Town,Franklin 3-1,Governor,NA,Independent,Cris Ericson,2
+Chittenden,St. Albans Town,Franklin 3-2,Governor,NA,Independent,Cris Ericson,4
+Grand Isle,St. George,NA,Governor,NA,Independent,Cris Ericson,0
+Windsor,St. Johnsbury,NA,Governor,NA,Independent,Cris Ericson,6
+Bennington,Stamford,NA,Governor,NA,Independent,Cris Ericson,9
+Caledonia,Stannard,NA,Governor,NA,Independent,Cris Ericson,1
+Addison,Starksboro,NA,Governor,NA,Independent,Cris Ericson,3
+Windsor,Stockbridge,NA,Governor,NA,Independent,Cris Ericson,0
+Lamoille,Stowe,NA,Governor,NA,Independent,Cris Ericson,7
+Orange,Strafford,NA,Governor,NA,Independent,Cris Ericson,2
+Windham,Stratton,NA,Governor,NA,Independent,Cris Ericson,1
+Rutland,Sudbury,NA,Governor,NA,Independent,Cris Ericson,2
+Bennington,Sunderland,Bennington 3,Governor,NA,Independent,Cris Ericson,3
+Bennington,Sunderland,Bennington 4,Governor,NA,Independent,Cris Ericson,5
+Caledonia,Sutton,NA,Governor,NA,Independent,Cris Ericson,1
+Franklin,Swanton,NA,Governor,NA,Independent,Cris Ericson,6
+Orange,Thetford,NA,Governor,NA,Independent,Cris Ericson,5
+Rutland,Tinmouth,Rutland 2,Governor,NA,Independent,Cris Ericson,1
+Rutland,Tinmouth,Rutland-Bennington,Governor,NA,Independent,Cris Ericson,2
+Orange,Topsham,NA,Governor,NA,Independent,Cris Ericson,1
+Windham,Townshend,NA,Governor,NA,Independent,Cris Ericson,2
+Orleans,Troy,Orleans 2,Governor,NA,Independent,Cris Ericson,1
+Orleans,Troy,Orleans-Lamoille,Governor,NA,Independent,Cris Ericson,1
+Orange,Tunbridge,NA,Governor,NA,Independent,Cris Ericson,0
+Chittenden,Underhill,NA,Governor,NA,Independent,Cris Ericson,3
+Addison,Vergennes,NA,Governor,NA,Independent,Cris Ericson,4
+Windham,Vernon,NA,Governor,NA,Independent,Cris Ericson,2
+Orange,Vershire,NA,Governor,NA,Independent,Cris Ericson,1
+Essex,Victory,NA,Governor,NA,Independent,Cris Ericson,0
+Washington,Waitsfield,NA,Governor,NA,Independent,Cris Ericson,9
+Caledonia,Walden,NA,Governor,NA,Independent,Cris Ericson,2
+Rutland,Wallingford,NA,Governor,NA,Independent,Cris Ericson,4
+Addison,Waltham,NA,Governor,NA,Independent,Cris Ericson,2
+Windham,Wardsboro,NA,Governor,NA,Independent,Cris Ericson,3
+Washington,Warren,NA,Governor,NA,Independent,Cris Ericson,6
+Orange,Washington,NA,Governor,NA,Independent,Cris Ericson,0
+Washington,Waterbury,NA,Governor,NA,Independent,Cris Ericson,7
+Caledonia,Waterford,NA,Governor,NA,Independent,Cris Ericson,3
+Lamoille,Waterville,NA,Governor,NA,Independent,Cris Ericson,0
+Windsor,Weathersfield,NA,Governor,NA,Independent,Cris Ericson,11
+Rutland,Wells,NA,Governor,NA,Independent,Cris Ericson,2
+Orange,W. Fairlee,NA,Governor,NA,Independent,Cris Ericson,1
+Rutland,W. Haven,NA,Governor,NA,Independent,Cris Ericson,0
+Rutland,W. Rutland,NA,Governor,NA,Independent,Cris Ericson,8
+Windsor,W. Windsor,NA,Governor,NA,Independent,Cris Ericson,3
+Orleans,Westfield,NA,Governor,NA,Independent,Cris Ericson,0
+Chittenden,Westford,NA,Governor,NA,Independent,Cris Ericson,4
+Windham,Westminster,Windham 3,Governor,NA,Independent,Cris Ericson,0
+Windham,Westminster,Windham 4,Governor,NA,Independent,Cris Ericson,4
+Orleans,Westmore,NA,Governor,NA,Independent,Cris Ericson,0
+Windsor,Weston,NA,Governor,NA,Independent,Cris Ericson,2
+Addison,Weybridge,NA,Governor,NA,Independent,Cris Ericson,0
+Caledonia,Wheelock,NA,Governor,NA,Independent,Cris Ericson,3
+Addison,Whiting,NA,Governor,NA,Independent,Cris Ericson,1
+Windham,Whitingham,Windham 6,Governor,NA,Independent,Cris Ericson,4
+Windham,Whitingham,Windham-Bennington,Governor,NA,Independent,Cris Ericson,0
+Orange,Williamstown,NA,Governor,NA,Independent,Cris Ericson,3
+Chittenden,Williston,NA,Governor,NA,Independent,Cris Ericson,8
+Windham,Wilmington,NA,Governor,NA,Independent,Cris Ericson,2
+Windham,Windham,NA,Governor,NA,Independent,Cris Ericson,4
+Windsor,Windsor,NA,Governor,NA,Independent,Cris Ericson,1
+Bennington,Winhall,NA,Governor,NA,Independent,Cris Ericson,4
+Chittenden,Winooski,NA,Governor,NA,Independent,Cris Ericson,11
+Lamoille,Wolcott,NA,Governor,NA,Independent,Cris Ericson,1
+Washington,Woodbury,NA,Governor,NA,Independent,Cris Ericson,3
+Bennington,Woodford,NA,Governor,NA,Independent,Cris Ericson,1
+Windsor,Woodstock,NA,Governor,NA,Independent,Cris Ericson,2
+Washington,Worcester,NA,Governor,NA,Independent,Cris Ericson,2
+Addison,Addison,NA,Governor,NA,NA,Write-Ins,0
+Orleans,Albany,NA,Governor,NA,NA,Write-Ins,0
+Grand Isle,Alburgh,NA,Governor,NA,NA,Write-Ins,0
+Windsor,Andover,NA,Governor,NA,NA,Write-Ins,0
+Bennington,Arlington,NA,Governor,NA,NA,Write-Ins,0
+Windham,Athens,NA,Governor,NA,NA,Write-Ins,0
+Franklin,Bakersfield,NA,Governor,NA,NA,Write-Ins,0
+Windsor,Baltimore,NA,Governor,NA,NA,Write-Ins,0
+Windsor,Barnard,NA,Governor,NA,NA,Write-Ins,0
+Caledonia,Barnet,NA,Governor,NA,NA,Write-Ins,0
+Washington,Barre City,NA,Governor,NA,NA,Write-Ins,0
+Washington,Barre Town,NA,Governor,NA,NA,Write-Ins,0
+Orleans,Barton,NA,Governor,NA,NA,Write-Ins,0
+Lamoille,Belvidere,NA,Governor,NA,NA,Write-Ins,0
+Bennington,Bennington,Bennington 2-1,Governor,NA,NA,Write-Ins,0
+Bennington,Bennington,Bennington 2-2,Governor,NA,NA,Write-Ins,0
+Rutland,Benson,NA,Governor,NA,NA,Write-Ins,0
+Franklin,Berkshire,NA,Governor,NA,NA,Write-Ins,0
+Washington,Berlin,NA,Governor,NA,NA,Write-Ins,0
+Windsor,Bethel,NA,Governor,NA,NA,Write-Ins,0
+Essex,Bloomfield,NA,Governor,NA,NA,Write-Ins,0
+Chittenden,Bolton,NA,Governor,NA,NA,Write-Ins,0
+Orange,Bradford,NA,Governor,NA,NA,Write-Ins,0
+Orange,Braintree,NA,Governor,NA,NA,Write-Ins,0
+Rutland,Brandon,NA,Governor,NA,NA,Write-Ins,0
+Windham,Brattleboro,Windham 2-1,Governor,NA,NA,Write-Ins,0
+Windham,Brattleboro,Windham 2-2,Governor,NA,NA,Write-Ins,0
+Windham,Brattleboro,Windham 2-3,Governor,NA,NA,Write-Ins,0
+Windsor,Bridgewater,NA,Governor,NA,NA,Write-Ins,0
+Addison,Bridport,NA,Governor,NA,NA,Write-Ins,0
+Essex,Brighton,NA,Governor,NA,NA,Write-Ins,0
+Addison,Bristol,NA,Governor,NA,NA,Write-Ins,0
+Orange,Brookfield,NA,Governor,NA,NA,Write-Ins,0
+Windham,Brookline,NA,Governor,NA,NA,Write-Ins,0
+Orleans,Brownington,NA,Governor,NA,NA,Write-Ins,0
+Essex,Brunswick,NA,Governor,NA,NA,Write-Ins,0
+Caledonia,Burke,NA,Governor,NA,NA,Write-Ins,0
+Chittenden,Burlington,Chittenden 6-1,Governor,NA,NA,Write-Ins,0
+Chittenden,Burlington,Chittenden 6-2,Governor,NA,NA,Write-Ins,0
+Chittenden,Burlington,Chittenden 6-3,Governor,NA,NA,Write-Ins,0
+Chittenden,Burlington,Chittenden 6-4,Governor,NA,NA,Write-Ins,0
+Chittenden,Burlington,Chittenden 6-5,Governor,NA,NA,Write-Ins,0
+Chittenden,Burlington,Chittenden 6-6,Governor,NA,NA,Write-Ins,0
+Chittenden,Burlington,Chittenden 6-7,Governor,NA,NA,Write-Ins,0
+Washington,Cabot,NA,Governor,NA,NA,Write-Ins,0
+Washington,Calais,NA,Governor,NA,NA,Write-Ins,0
+Lamoille,Cambridge,NA,Governor,NA,NA,Write-Ins,0
+Essex,Canaan,NA,Governor,NA,NA,Write-Ins,0
+Rutland,Castleton,NA,Governor,NA,NA,Write-Ins,0
+Windsor,Cavendish,NA,Governor,NA,NA,Write-Ins,0
+Orleans,Charleston,NA,Governor,NA,NA,Write-Ins,0
+Chittenden,Charlotte,NA,Governor,NA,NA,Write-Ins,0
+Orange,Chelsea,NA,Governor,NA,NA,Write-Ins,0
+Windsor,Chester,NA,Governor,NA,NA,Write-Ins,0
+Rutland,Chittenden,NA,Governor,NA,NA,Write-Ins,0
+Rutland,Clarendon,NA,Governor,NA,NA,Write-Ins,0
+Chittenden,Colchester,Chittenden 9-1,Governor,NA,NA,Write-Ins,0
+Chittenden,Colchester,Chittenden 9-2,Governor,NA,NA,Write-Ins,0
+Essex,Concord,NA,Governor,NA,NA,Write-Ins,0
+Orange,Corinth,NA,Governor,NA,NA,Write-Ins,0
+Addison,Cornwall,NA,Governor,NA,NA,Write-Ins,0
+Orleans,Coventry,NA,Governor,NA,NA,Write-Ins,0
+Orleans,Craftsbury,NA,Governor,NA,NA,Write-Ins,0
+Rutland,Danby,NA,Governor,NA,NA,Write-Ins,0
+Caledonia,Danville,NA,Governor,NA,NA,Write-Ins,0
+Orleans,Derby,NA,Governor,NA,NA,Write-Ins,0
+Bennington,Dorset,NA,Governor,NA,NA,Write-Ins,0
+Windham,Dover,NA,Governor,NA,NA,Write-Ins,0
+Windham,Dummerston,NA,Governor,NA,NA,Write-Ins,0
+Washington,Duxbury,NA,Governor,NA,NA,Write-Ins,0
+Essex,E. Haven,NA,Governor,NA,NA,Write-Ins,0
+Washington,E. Montpelier,NA,Governor,NA,NA,Write-Ins,0
+Lamoille,Eden,NA,Governor,NA,NA,Write-Ins,0
+Lamoille,Elmore,NA,Governor,NA,NA,Write-Ins,0
+Franklin,Enosburgh,NA,Governor,NA,NA,Write-Ins,0
+Chittenden,Essex,Chittenden 8-1,Governor,NA,NA,Write-Ins,0
+Chittenden,Essex,Chittenden 8-2,Governor,NA,NA,Write-Ins,0
+Chittenden,Essex,Chittenden 8-3,Governor,NA,NA,Write-Ins,0
+Rutland,Fair Haven,NA,Governor,NA,NA,Write-Ins,0
+Franklin,Fairfax,NA,Governor,NA,NA,Write-Ins,0
+Franklin,Fairfield,NA,Governor,NA,NA,Write-Ins,0
+Orange,Fairlee,NA,Governor,NA,NA,Write-Ins,0
+Washington,Fayston,NA,Governor,NA,NA,Write-Ins,0
+Addison,Ferrisburgh,NA,Governor,NA,NA,Write-Ins,0
+Franklin,Fletcher,NA,Governor,NA,NA,Write-Ins,0
+Franklin,Franklin,NA,Governor,NA,NA,Write-Ins,0
+Franklin,Georgia,NA,Governor,NA,NA,Write-Ins,0
+Orleans,Glover,NA,Governor,NA,NA,Write-Ins,0
+Addison,Goshen,NA,Governor,NA,NA,Write-Ins,0
+Windham,Grafton,NA,Governor,NA,NA,Write-Ins,0
+Essex,Granby,NA,Governor,NA,NA,Write-Ins,0
+Grand Isle,Grand Isle,NA,Governor,NA,NA,Write-Ins,0
+Addison,Granville,NA,Governor,NA,NA,Write-Ins,0
+Orleans,Greensboro,NA,Governor,NA,NA,Write-Ins,0
+Caledonia,Groton,NA,Governor,NA,NA,Write-Ins,0
+Essex,Guildhall,NA,Governor,NA,NA,Write-Ins,0
+Windham,Guilford,NA,Governor,NA,NA,Write-Ins,0
+Windham,Halifax,NA,Governor,NA,NA,Write-Ins,0
+Addison,Hancock,NA,Governor,NA,NA,Write-Ins,0
+Caledonia,Hardwick,NA,Governor,NA,NA,Write-Ins,0
+Windsor,Hartford,Windsor 4-1,Governor,NA,NA,Write-Ins,0
+Windsor,Hartford,Windsor 4-2,Governor,NA,NA,Write-Ins,0
+Windsor,Hartland,NA,Governor,NA,NA,Write-Ins,0
+Franklin,Highgate,NA,Governor,NA,NA,Write-Ins,0
+Chittenden,Hinesburg,Chittenden 4-1,Governor,NA,NA,Write-Ins,0
+Chittenden,Hinesburg,Chittenden 4-2,Governor,NA,NA,Write-Ins,0
+Orleans,Holland,NA,Governor,NA,NA,Write-Ins,0
+Rutland,Hubbardton,NA,Governor,NA,NA,Write-Ins,0
+Chittenden,Huntington,NA,Governor,NA,NA,Write-Ins,0
+Lamoille,Hyde Park,NA,Governor,NA,NA,Write-Ins,0
+Rutland,Ira,NA,Governor,NA,NA,Write-Ins,0
+Orleans,Irasburg,NA,Governor,NA,NA,Write-Ins,0
+Grand Isle,Isle La Motte,NA,Governor,NA,NA,Write-Ins,0
+Windham,Jamaica,NA,Governor,NA,NA,Write-Ins,0
+Orleans,Jay,NA,Governor,NA,NA,Write-Ins,0
+Chittenden,Jericho,NA,Governor,NA,NA,Write-Ins,0
+Lamoille,Johnson,NA,Governor,NA,NA,Write-Ins,0
+Rutland,Killington,NA,Governor,NA,NA,Write-Ins,0
+Caledonia,Kirby,NA,Governor,NA,NA,Write-Ins,0
+Bennington,Landgrove,NA,Governor,NA,NA,Write-Ins,0
+Addison,Leicester,NA,Governor,NA,NA,Write-Ins,0
+Essex,Lemington,NA,Governor,NA,NA,Write-Ins,0
+Addison,Lincoln,NA,Governor,NA,NA,Write-Ins,0
+Windham,Londonderry,NA,Governor,NA,NA,Write-Ins,0
+Orleans,Lowell,NA,Governor,NA,NA,Write-Ins,0
+Windsor,Ludlow,NA,Governor,NA,NA,Write-Ins,0
+Essex,Lunenburg,NA,Governor,NA,NA,Write-Ins,0
+Caledonia,Lyndon,NA,Governor,NA,NA,Write-Ins,0
+Essex,Maidstone,NA,Governor,NA,NA,Write-Ins,0
+Bennington,Manchester,NA,Governor,NA,NA,Write-Ins,0
+Windham,Marlboro,NA,Governor,NA,NA,Write-Ins,0
+Washington,Marshfield,NA,Governor,NA,NA,Write-Ins,0
+Rutland,Mendon,NA,Governor,NA,NA,Write-Ins,0
+Addison,Middlebury,NA,Governor,NA,NA,Write-Ins,0
+Washington,Middlesex,NA,Governor,NA,NA,Write-Ins,0
+Rutland,Middletown Springs,NA,Governor,NA,NA,Write-Ins,0
+Chittenden,Milton,Chittenden 10,Governor,NA,NA,Write-Ins,0
+Chittenden,Milton,Grand Isle-Chittenden,Governor,NA,NA,Write-Ins,0
+Addison,Monkton,NA,Governor,NA,NA,Write-Ins,0
+Franklin,Montgomery,NA,Governor,NA,NA,Write-Ins,0
+Washington,Montpelier,NA,Governor,NA,NA,Write-Ins,0
+Washington,Moretown,NA,Governor,NA,NA,Write-Ins,0
+Orleans,Morgan,NA,Governor,NA,NA,Write-Ins,0
+Lamoille,Morristown,NA,Governor,NA,NA,Write-Ins,0
+Rutland,Mount Holly,NA,Governor,NA,NA,Write-Ins,0
+Rutland,Mount Tabor,NA,Governor,NA,NA,Write-Ins,0
+Addison,New Haven,NA,Governor,NA,NA,Write-Ins,0
+Caledonia,Newark,NA,Governor,NA,NA,Write-Ins,0
+Orange,Newbury,NA,Governor,NA,NA,Write-Ins,0
+Windham,Newfane,NA,Governor,NA,NA,Write-Ins,0
+Orleans,Newport City,NA,Governor,NA,NA,Write-Ins,0
+Orleans,Newport Town,NA,Governor,NA,NA,Write-Ins,0
+Grand Isle,N. Hero,NA,Governor,NA,NA,Write-Ins,0
+Washington,Northfield,NA,Governor,NA,NA,Write-Ins,0
+Essex,Norton,NA,Governor,NA,NA,Write-Ins,0
+Windsor,Norwich,NA,Governor,NA,NA,Write-Ins,0
+Orange,Orange,NA,Governor,NA,NA,Write-Ins,0
+Addison,Orwell,NA,Governor,NA,NA,Write-Ins,0
+Addison,Panton,NA,Governor,NA,NA,Write-Ins,0
+Rutland,Pawlet,NA,Governor,NA,NA,Write-Ins,0
+Caledonia,Peacham,NA,Governor,NA,NA,Write-Ins,0
+Bennington,Peru,NA,Governor,NA,NA,Write-Ins,0
+Rutland,Pittsfield,NA,Governor,NA,NA,Write-Ins,0
+Rutland,Pittsford,NA,Governor,NA,NA,Write-Ins,0
+Washington,Plainfield,NA,Governor,NA,NA,Write-Ins,0
+Windsor,Plymouth,NA,Governor,NA,NA,Write-Ins,1
+Windsor,Pomfret,NA,Governor,NA,NA,Write-Ins,2
+Rutland,Poultney,NA,Governor,NA,NA,Write-Ins,0
+Bennington,Pownal,NA,Governor,NA,NA,Write-Ins,0
+Rutland,Proctor,NA,Governor,NA,NA,Write-Ins,1
+Windham,Putney,NA,Governor,NA,NA,Write-Ins,1
+Orange,Randolph,NA,Governor,NA,NA,Write-Ins,9
+Windsor,Reading,NA,Governor,NA,NA,Write-Ins,1
+Bennington,Readsboro,NA,Governor,NA,NA,Write-Ins,0
+Franklin,Richford,NA,Governor,NA,NA,Write-Ins,2
+Chittenden,Richmond,NA,Governor,NA,NA,Write-Ins,8
+Addison,Ripton,NA,Governor,NA,NA,Write-Ins,0
+Windsor,Rochester,NA,Governor,NA,NA,Write-Ins,0
+Windham,Rockingham,NA,Governor,NA,NA,Write-Ins,2
+Washington,Roxbury,NA,Governor,NA,NA,Write-Ins,0
+Windsor,Royalton,NA,Governor,NA,NA,Write-Ins,1
+Bennington,Rupert,NA,Governor,NA,NA,Write-Ins,0
+Rutland,Rutland City,Rutland 5-1,Governor,NA,NA,Write-Ins,4
+Rutland,Rutland City,Rutland 5-2,Governor,NA,NA,Write-Ins,5
+Rutland,Rutland City,Rutland 5-3,Governor,NA,NA,Write-Ins,1
+Rutland,Rutland City,Rutland 5-4,Governor,NA,NA,Write-Ins,2
+Rutland,Rutland Town,NA,Governor,NA,NA,Write-Ins,4
+Caledonia,Ryegate,NA,Governor,NA,NA,Write-Ins,0
+Franklin,Salisbury,NA,Governor,NA,NA,Write-Ins,3
+Franklin,Sandgate,NA,Governor,NA,NA,Write-Ins,0
+Chittenden,Searsburg,NA,Governor,NA,NA,Write-Ins,0
+Caledonia,Shaftsbury,NA,Governor,NA,NA,Write-Ins,1
+Addison,Sharon,NA,Governor,NA,NA,Write-Ins,0
+Bennington,Sheffield,NA,Governor,NA,NA,Write-Ins,2
+Bennington,Shelburne,Chittenden 5-1,Governor,NA,NA,Write-Ins,12
+Bennington,Shelburne,Chittenden 5-2,Governor,NA,NA,Write-Ins,6
+Bennington,Sheldon,NA,Governor,NA,NA,Write-Ins,1
+Windsor,Shoreham,NA,Governor,NA,NA,Write-Ins,8
+Caledonia,Shrewsbury,NA,Governor,NA,NA,Write-Ins,0
+Chittenden,S. Burlington,Chittenden 7-1,Governor,NA,NA,Write-Ins,5
+Chittenden,S. Burlington,Chittenden 7-2,Governor,NA,NA,Write-Ins,9
+Chittenden,S. Burlington,Chittenden 7-3,Governor,NA,NA,Write-Ins,14
+Chittenden,S. Burlington,Chittenden 7-4,Governor,NA,NA,Write-Ins,9
+Franklin,S. Hero,NA,Governor,NA,NA,Write-Ins,5
+Addison,Springfield,Windsor 3-1,Governor,NA,NA,Write-Ins,0
+Addison,Springfield,Windsor 3-2,Governor,NA,NA,Write-Ins,1
+Rutland,St. Albans City,NA,Governor,NA,NA,Write-Ins,4
+Chittenden,St. Albans Town,Franklin 3-1,Governor,NA,NA,Write-Ins,1
+Chittenden,St. Albans Town,Franklin 3-2,Governor,NA,NA,Write-Ins,1
+Grand Isle,St. George,NA,Governor,NA,NA,Write-Ins,1
+Windsor,St. Johnsbury,NA,Governor,NA,NA,Write-Ins,5
+Bennington,Stamford,NA,Governor,NA,NA,Write-Ins,0
+Caledonia,Stannard,NA,Governor,NA,NA,Write-Ins,0
+Addison,Starksboro,NA,Governor,NA,NA,Write-Ins,4
+Windsor,Stockbridge,NA,Governor,NA,NA,Write-Ins,1
+Lamoille,Stowe,NA,Governor,NA,NA,Write-Ins,2
+Orange,Strafford,NA,Governor,NA,NA,Write-Ins,3
+Windham,Stratton,NA,Governor,NA,NA,Write-Ins,0
+Rutland,Sudbury,NA,Governor,NA,NA,Write-Ins,0
+Bennington,Sunderland,Bennington 3,Governor,NA,NA,Write-Ins,0
+Bennington,Sunderland,Bennington 4,Governor,NA,NA,Write-Ins,0
+Caledonia,Sutton,NA,Governor,NA,NA,Write-Ins,0
+Franklin,Swanton,NA,Governor,NA,NA,Write-Ins,4
+Orange,Thetford,NA,Governor,NA,NA,Write-Ins,3
+Rutland,Tinmouth,Rutland 2,Governor,NA,NA,Write-Ins,0
+Rutland,Tinmouth,Rutland-Bennington,Governor,NA,NA,Write-Ins,0
+Orange,Topsham,NA,Governor,NA,NA,Write-Ins,0
+Windham,Townshend,NA,Governor,NA,NA,Write-Ins,2
+Orleans,Troy,Orleans 2,Governor,NA,NA,Write-Ins,0
+Orleans,Troy,Orleans-Lamoille,Governor,NA,NA,Write-Ins,0
+Orange,Tunbridge,NA,Governor,NA,NA,Write-Ins,4
+Chittenden,Underhill,NA,Governor,NA,NA,Write-Ins,3
+Addison,Vergennes,NA,Governor,NA,NA,Write-Ins,0
+Windham,Vernon,NA,Governor,NA,NA,Write-Ins,0
+Orange,Vershire,NA,Governor,NA,NA,Write-Ins,0
+Essex,Victory,NA,Governor,NA,NA,Write-Ins,0
+Washington,Waitsfield,NA,Governor,NA,NA,Write-Ins,4
+Caledonia,Walden,NA,Governor,NA,NA,Write-Ins,0
+Rutland,Wallingford,NA,Governor,NA,NA,Write-Ins,5
+Addison,Waltham,NA,Governor,NA,NA,Write-Ins,0
+Windham,Wardsboro,NA,Governor,NA,NA,Write-Ins,0
+Washington,Warren,NA,Governor,NA,NA,Write-Ins,0
+Orange,Washington,NA,Governor,NA,NA,Write-Ins,0
+Washington,Waterbury,NA,Governor,NA,NA,Write-Ins,5
+Caledonia,Waterford,NA,Governor,NA,NA,Write-Ins,0
+Lamoille,Waterville,NA,Governor,NA,NA,Write-Ins,4
+Windsor,Weathersfield,NA,Governor,NA,NA,Write-Ins,1
+Rutland,Wells,NA,Governor,NA,NA,Write-Ins,0
+Orange,W. Fairlee,NA,Governor,NA,NA,Write-Ins,0
+Rutland,W. Haven,NA,Governor,NA,NA,Write-Ins,1
+Rutland,W. Rutland,NA,Governor,NA,NA,Write-Ins,3
+Windsor,W. Windsor,NA,Governor,NA,NA,Write-Ins,0
+Orleans,Westfield,NA,Governor,NA,NA,Write-Ins,0
+Chittenden,Westford,NA,Governor,NA,NA,Write-Ins,4
+Windham,Westminster,Windham 3,Governor,NA,NA,Write-Ins,0
+Windham,Westminster,Windham 4,Governor,NA,NA,Write-Ins,0
+Orleans,Westmore,NA,Governor,NA,NA,Write-Ins,0
+Windsor,Weston,NA,Governor,NA,NA,Write-Ins,0
+Addison,Weybridge,NA,Governor,NA,NA,Write-Ins,1
+Caledonia,Wheelock,NA,Governor,NA,NA,Write-Ins,1
+Addison,Whiting,NA,Governor,NA,NA,Write-Ins,0
+Windham,Whitingham,Windham 6,Governor,NA,NA,Write-Ins,0
+Windham,Whitingham,Windham-Bennington,Governor,NA,NA,Write-Ins,0
+Orange,Williamstown,NA,Governor,NA,NA,Write-Ins,6
+Chittenden,Williston,NA,Governor,NA,NA,Write-Ins,20
+Windham,Wilmington,NA,Governor,NA,NA,Write-Ins,0
+Windham,Windham,NA,Governor,NA,NA,Write-Ins,2
+Windsor,Windsor,NA,Governor,NA,NA,Write-Ins,2
+Bennington,Winhall,NA,Governor,NA,NA,Write-Ins,0
+Chittenden,Winooski,NA,Governor,NA,NA,Write-Ins,7
+Lamoille,Wolcott,NA,Governor,NA,NA,Write-Ins,8
+Washington,Woodbury,NA,Governor,NA,NA,Write-Ins,2
+Bennington,Woodford,NA,Governor,NA,NA,Write-Ins,0
+Windsor,Woodstock,NA,Governor,NA,NA,Write-Ins,2
+Washington,Worcester,NA,Governor,NA,NA,Write-Ins,5
+Addison,Addison,NA,Governor,NA,NA,Blanks,0
+Orleans,Albany,NA,Governor,NA,NA,Blanks,0
+Grand Isle,Alburgh,NA,Governor,NA,NA,Blanks,0
+Windsor,Andover,NA,Governor,NA,NA,Blanks,0
+Bennington,Arlington,NA,Governor,NA,NA,Blanks,0
+Windham,Athens,NA,Governor,NA,NA,Blanks,0
+Franklin,Bakersfield,NA,Governor,NA,NA,Blanks,0
+Windsor,Baltimore,NA,Governor,NA,NA,Blanks,0
+Windsor,Barnard,NA,Governor,NA,NA,Blanks,0
+Caledonia,Barnet,NA,Governor,NA,NA,Blanks,0
+Washington,Barre City,NA,Governor,NA,NA,Blanks,0
+Washington,Barre Town,NA,Governor,NA,NA,Blanks,0
+Orleans,Barton,NA,Governor,NA,NA,Blanks,0
+Lamoille,Belvidere,NA,Governor,NA,NA,Blanks,0
+Bennington,Bennington,Bennington 2-1,Governor,NA,NA,Blanks,0
+Bennington,Bennington,Bennington 2-2,Governor,NA,NA,Blanks,0
+Rutland,Benson,NA,Governor,NA,NA,Blanks,0
+Franklin,Berkshire,NA,Governor,NA,NA,Blanks,0
+Washington,Berlin,NA,Governor,NA,NA,Blanks,0
+Windsor,Bethel,NA,Governor,NA,NA,Blanks,0
+Essex,Bloomfield,NA,Governor,NA,NA,Blanks,0
+Chittenden,Bolton,NA,Governor,NA,NA,Blanks,0
+Orange,Bradford,NA,Governor,NA,NA,Blanks,0
+Orange,Braintree,NA,Governor,NA,NA,Blanks,0
+Rutland,Brandon,NA,Governor,NA,NA,Blanks,0
+Windham,Brattleboro,Windham 2-1,Governor,NA,NA,Blanks,0
+Windham,Brattleboro,Windham 2-2,Governor,NA,NA,Blanks,0
+Windham,Brattleboro,Windham 2-3,Governor,NA,NA,Blanks,0
+Windsor,Bridgewater,NA,Governor,NA,NA,Blanks,0
+Addison,Bridport,NA,Governor,NA,NA,Blanks,0
+Essex,Brighton,NA,Governor,NA,NA,Blanks,0
+Addison,Bristol,NA,Governor,NA,NA,Blanks,0
+Orange,Brookfield,NA,Governor,NA,NA,Blanks,0
+Windham,Brookline,NA,Governor,NA,NA,Blanks,0
+Orleans,Brownington,NA,Governor,NA,NA,Blanks,0
+Essex,Brunswick,NA,Governor,NA,NA,Blanks,0
+Caledonia,Burke,NA,Governor,NA,NA,Blanks,0
+Chittenden,Burlington,Chittenden 6-1,Governor,NA,NA,Blanks,0
+Chittenden,Burlington,Chittenden 6-2,Governor,NA,NA,Blanks,0
+Chittenden,Burlington,Chittenden 6-3,Governor,NA,NA,Blanks,0
+Chittenden,Burlington,Chittenden 6-4,Governor,NA,NA,Blanks,0
+Chittenden,Burlington,Chittenden 6-5,Governor,NA,NA,Blanks,0
+Chittenden,Burlington,Chittenden 6-6,Governor,NA,NA,Blanks,0
+Chittenden,Burlington,Chittenden 6-7,Governor,NA,NA,Blanks,0
+Washington,Cabot,NA,Governor,NA,NA,Blanks,0
+Washington,Calais,NA,Governor,NA,NA,Blanks,0
+Lamoille,Cambridge,NA,Governor,NA,NA,Blanks,0
+Essex,Canaan,NA,Governor,NA,NA,Blanks,0
+Rutland,Castleton,NA,Governor,NA,NA,Blanks,0
+Windsor,Cavendish,NA,Governor,NA,NA,Blanks,0
+Orleans,Charleston,NA,Governor,NA,NA,Blanks,0
+Chittenden,Charlotte,NA,Governor,NA,NA,Blanks,0
+Orange,Chelsea,NA,Governor,NA,NA,Blanks,0
+Windsor,Chester,NA,Governor,NA,NA,Blanks,0
+Rutland,Chittenden,NA,Governor,NA,NA,Blanks,0
+Rutland,Clarendon,NA,Governor,NA,NA,Blanks,0
+Chittenden,Colchester,Chittenden 9-1,Governor,NA,NA,Blanks,0
+Chittenden,Colchester,Chittenden 9-2,Governor,NA,NA,Blanks,0
+Essex,Concord,NA,Governor,NA,NA,Blanks,0
+Orange,Corinth,NA,Governor,NA,NA,Blanks,0
+Addison,Cornwall,NA,Governor,NA,NA,Blanks,0
+Orleans,Coventry,NA,Governor,NA,NA,Blanks,0
+Orleans,Craftsbury,NA,Governor,NA,NA,Blanks,0
+Rutland,Danby,NA,Governor,NA,NA,Blanks,0
+Caledonia,Danville,NA,Governor,NA,NA,Blanks,0
+Orleans,Derby,NA,Governor,NA,NA,Blanks,0
+Bennington,Dorset,NA,Governor,NA,NA,Blanks,0
+Windham,Dover,NA,Governor,NA,NA,Blanks,0
+Windham,Dummerston,NA,Governor,NA,NA,Blanks,0
+Washington,Duxbury,NA,Governor,NA,NA,Blanks,0
+Essex,E. Haven,NA,Governor,NA,NA,Blanks,0
+Washington,E. Montpelier,NA,Governor,NA,NA,Blanks,0
+Lamoille,Eden,NA,Governor,NA,NA,Blanks,0
+Lamoille,Elmore,NA,Governor,NA,NA,Blanks,0
+Franklin,Enosburgh,NA,Governor,NA,NA,Blanks,0
+Chittenden,Essex,Chittenden 8-1,Governor,NA,NA,Blanks,0
+Chittenden,Essex,Chittenden 8-2,Governor,NA,NA,Blanks,0
+Chittenden,Essex,Chittenden 8-3,Governor,NA,NA,Blanks,0
+Rutland,Fair Haven,NA,Governor,NA,NA,Blanks,0
+Franklin,Fairfax,NA,Governor,NA,NA,Blanks,0
+Franklin,Fairfield,NA,Governor,NA,NA,Blanks,0
+Orange,Fairlee,NA,Governor,NA,NA,Blanks,0
+Washington,Fayston,NA,Governor,NA,NA,Blanks,0
+Addison,Ferrisburgh,NA,Governor,NA,NA,Blanks,0
+Franklin,Fletcher,NA,Governor,NA,NA,Blanks,0
+Franklin,Franklin,NA,Governor,NA,NA,Blanks,0
+Franklin,Georgia,NA,Governor,NA,NA,Blanks,0
+Orleans,Glover,NA,Governor,NA,NA,Blanks,0
+Addison,Goshen,NA,Governor,NA,NA,Blanks,0
+Windham,Grafton,NA,Governor,NA,NA,Blanks,0
+Essex,Granby,NA,Governor,NA,NA,Blanks,0
+Grand Isle,Grand Isle,NA,Governor,NA,NA,Blanks,0
+Addison,Granville,NA,Governor,NA,NA,Blanks,0
+Orleans,Greensboro,NA,Governor,NA,NA,Blanks,0
+Caledonia,Groton,NA,Governor,NA,NA,Blanks,0
+Essex,Guildhall,NA,Governor,NA,NA,Blanks,0
+Windham,Guilford,NA,Governor,NA,NA,Blanks,0
+Windham,Halifax,NA,Governor,NA,NA,Blanks,0
+Addison,Hancock,NA,Governor,NA,NA,Blanks,0
+Caledonia,Hardwick,NA,Governor,NA,NA,Blanks,0
+Windsor,Hartford,Windsor 4-1,Governor,NA,NA,Blanks,0
+Windsor,Hartford,Windsor 4-2,Governor,NA,NA,Blanks,0
+Windsor,Hartland,NA,Governor,NA,NA,Blanks,0
+Franklin,Highgate,NA,Governor,NA,NA,Blanks,0
+Chittenden,Hinesburg,Chittenden 4-1,Governor,NA,NA,Blanks,0
+Chittenden,Hinesburg,Chittenden 4-2,Governor,NA,NA,Blanks,0
+Orleans,Holland,NA,Governor,NA,NA,Blanks,0
+Rutland,Hubbardton,NA,Governor,NA,NA,Blanks,0
+Chittenden,Huntington,NA,Governor,NA,NA,Blanks,0
+Lamoille,Hyde Park,NA,Governor,NA,NA,Blanks,0
+Rutland,Ira,NA,Governor,NA,NA,Blanks,0
+Orleans,Irasburg,NA,Governor,NA,NA,Blanks,0
+Grand Isle,Isle La Motte,NA,Governor,NA,NA,Blanks,0
+Windham,Jamaica,NA,Governor,NA,NA,Blanks,0
+Orleans,Jay,NA,Governor,NA,NA,Blanks,0
+Chittenden,Jericho,NA,Governor,NA,NA,Blanks,0
+Lamoille,Johnson,NA,Governor,NA,NA,Blanks,0
+Rutland,Killington,NA,Governor,NA,NA,Blanks,0
+Caledonia,Kirby,NA,Governor,NA,NA,Blanks,0
+Bennington,Landgrove,NA,Governor,NA,NA,Blanks,0
+Addison,Leicester,NA,Governor,NA,NA,Blanks,0
+Essex,Lemington,NA,Governor,NA,NA,Blanks,0
+Addison,Lincoln,NA,Governor,NA,NA,Blanks,0
+Windham,Londonderry,NA,Governor,NA,NA,Blanks,0
+Orleans,Lowell,NA,Governor,NA,NA,Blanks,0
+Windsor,Ludlow,NA,Governor,NA,NA,Blanks,0
+Essex,Lunenburg,NA,Governor,NA,NA,Blanks,0
+Caledonia,Lyndon,NA,Governor,NA,NA,Blanks,0
+Essex,Maidstone,NA,Governor,NA,NA,Blanks,0
+Bennington,Manchester,NA,Governor,NA,NA,Blanks,0
+Windham,Marlboro,NA,Governor,NA,NA,Blanks,0
+Washington,Marshfield,NA,Governor,NA,NA,Blanks,0
+Rutland,Mendon,NA,Governor,NA,NA,Blanks,0
+Addison,Middlebury,NA,Governor,NA,NA,Blanks,0
+Washington,Middlesex,NA,Governor,NA,NA,Blanks,0
+Rutland,Middletown Springs,NA,Governor,NA,NA,Blanks,0
+Chittenden,Milton,Chittenden 10,Governor,NA,NA,Blanks,0
+Chittenden,Milton,Grand Isle-Chittenden,Governor,NA,NA,Blanks,0
+Addison,Monkton,NA,Governor,NA,NA,Blanks,0
+Franklin,Montgomery,NA,Governor,NA,NA,Blanks,0
+Washington,Montpelier,NA,Governor,NA,NA,Blanks,0
+Washington,Moretown,NA,Governor,NA,NA,Blanks,0
+Orleans,Morgan,NA,Governor,NA,NA,Blanks,0
+Lamoille,Morristown,NA,Governor,NA,NA,Blanks,0
+Rutland,Mount Holly,NA,Governor,NA,NA,Blanks,0
+Rutland,Mount Tabor,NA,Governor,NA,NA,Blanks,0
+Addison,New Haven,NA,Governor,NA,NA,Blanks,0
+Caledonia,Newark,NA,Governor,NA,NA,Blanks,0
+Orange,Newbury,NA,Governor,NA,NA,Blanks,0
+Windham,Newfane,NA,Governor,NA,NA,Blanks,0
+Orleans,Newport City,NA,Governor,NA,NA,Blanks,0
+Orleans,Newport Town,NA,Governor,NA,NA,Blanks,0
+Grand Isle,N. Hero,NA,Governor,NA,NA,Blanks,0
+Washington,Northfield,NA,Governor,NA,NA,Blanks,0
+Essex,Norton,NA,Governor,NA,NA,Blanks,0
+Windsor,Norwich,NA,Governor,NA,NA,Blanks,0
+Orange,Orange,NA,Governor,NA,NA,Blanks,0
+Addison,Orwell,NA,Governor,NA,NA,Blanks,0
+Addison,Panton,NA,Governor,NA,NA,Blanks,0
+Rutland,Pawlet,NA,Governor,NA,NA,Blanks,0
+Caledonia,Peacham,NA,Governor,NA,NA,Blanks,0
+Bennington,Peru,NA,Governor,NA,NA,Blanks,0
+Rutland,Pittsfield,NA,Governor,NA,NA,Blanks,0
+Rutland,Pittsford,NA,Governor,NA,NA,Blanks,0
+Washington,Plainfield,NA,Governor,NA,NA,Blanks,0
+Windsor,Plymouth,NA,Governor,NA,NA,Blanks,1
+Windsor,Pomfret,NA,Governor,NA,NA,Blanks,3
+Rutland,Poultney,NA,Governor,NA,NA,Blanks,10
+Bennington,Pownal,NA,Governor,NA,NA,Blanks,38
+Rutland,Proctor,NA,Governor,NA,NA,Blanks,6
+Windham,Putney,NA,Governor,NA,NA,Blanks,6
+Orange,Randolph,NA,Governor,NA,NA,Blanks,20
+Windsor,Reading,NA,Governor,NA,NA,Blanks,1
+Bennington,Readsboro,NA,Governor,NA,NA,Blanks,4
+Franklin,Richford,NA,Governor,NA,NA,Blanks,6
+Chittenden,Richmond,NA,Governor,NA,NA,Blanks,39
+Addison,Ripton,NA,Governor,NA,NA,Blanks,5
+Windsor,Rochester,NA,Governor,NA,NA,Blanks,3
+Windham,Rockingham,NA,Governor,NA,NA,Blanks,18
+Washington,Roxbury,NA,Governor,NA,NA,Blanks,2
+Windsor,Royalton,NA,Governor,NA,NA,Blanks,3
+Bennington,Rupert,NA,Governor,NA,NA,Blanks,9
+Rutland,Rutland City,Rutland 5-1,Governor,NA,NA,Blanks,26
+Rutland,Rutland City,Rutland 5-2,Governor,NA,NA,Blanks,13
+Rutland,Rutland City,Rutland 5-3,Governor,NA,NA,Blanks,8
+Rutland,Rutland City,Rutland 5-4,Governor,NA,NA,Blanks,12
+Rutland,Rutland Town,NA,Governor,NA,NA,Blanks,17
+Caledonia,Ryegate,NA,Governor,NA,NA,Blanks,6
+Franklin,Salisbury,NA,Governor,NA,NA,Blanks,5
+Franklin,Sandgate,NA,Governor,NA,NA,Blanks,1
+Chittenden,Searsburg,NA,Governor,NA,NA,Blanks,2
+Caledonia,Shaftsbury,NA,Governor,NA,NA,Blanks,19
+Addison,Sharon,NA,Governor,NA,NA,Blanks,3
+Bennington,Sheffield,NA,Governor,NA,NA,Blanks,4
+Bennington,Shelburne,Chittenden 5-1,Governor,NA,NA,Blanks,24
+Bennington,Shelburne,Chittenden 5-2,Governor,NA,NA,Blanks,22
+Bennington,Sheldon,NA,Governor,NA,NA,Blanks,3
+Windsor,Shoreham,NA,Governor,NA,NA,Blanks,5
+Caledonia,Shrewsbury,NA,Governor,NA,NA,Blanks,2
+Chittenden,S. Burlington,Chittenden 7-1,Governor,NA,NA,Blanks,17
+Chittenden,S. Burlington,Chittenden 7-2,Governor,NA,NA,Blanks,16
+Chittenden,S. Burlington,Chittenden 7-3,Governor,NA,NA,Blanks,12
+Chittenden,S. Burlington,Chittenden 7-4,Governor,NA,NA,Blanks,13
+Franklin,S. Hero,NA,Governor,NA,NA,Blanks,14
+Addison,Springfield,Windsor 3-1,Governor,NA,NA,Blanks,0
+Addison,Springfield,Windsor 3-2,Governor,NA,NA,Blanks,19
+Rutland,St. Albans City,NA,Governor,NA,NA,Blanks,28
+Chittenden,St. Albans Town,Franklin 3-1,Governor,NA,NA,Blanks,12
+Chittenden,St. Albans Town,Franklin 3-2,Governor,NA,NA,Blanks,8
+Grand Isle,St. George,NA,Governor,NA,NA,Blanks,3
+Windsor,St. Johnsbury,NA,Governor,NA,NA,Blanks,26
+Bennington,Stamford,NA,Governor,NA,NA,Blanks,7
+Caledonia,Stannard,NA,Governor,NA,NA,Blanks,3
+Addison,Starksboro,NA,Governor,NA,NA,Blanks,17
+Windsor,Stockbridge,NA,Governor,NA,NA,Blanks,1
+Lamoille,Stowe,NA,Governor,NA,NA,Blanks,21
+Orange,Strafford,NA,Governor,NA,NA,Blanks,3
+Windham,Stratton,NA,Governor,NA,NA,Blanks,0
+Rutland,Sudbury,NA,Governor,NA,NA,Blanks,0
+Bennington,Sunderland,Bennington 3,Governor,NA,NA,Blanks,1
+Bennington,Sunderland,Bennington 4,Governor,NA,NA,Blanks,2
+Caledonia,Sutton,NA,Governor,NA,NA,Blanks,2
+Franklin,Swanton,NA,Governor,NA,NA,Blanks,10
+Orange,Thetford,NA,Governor,NA,NA,Blanks,13
+Rutland,Tinmouth,Rutland 2,Governor,NA,NA,Blanks,0
+Rutland,Tinmouth,Rutland-Bennington,Governor,NA,NA,Blanks,2
+Orange,Topsham,NA,Governor,NA,NA,Blanks,4
+Windham,Townshend,NA,Governor,NA,NA,Blanks,5
+Orleans,Troy,Orleans 2,Governor,NA,NA,Blanks,1
+Orleans,Troy,Orleans-Lamoille,Governor,NA,NA,Blanks,2
+Orange,Tunbridge,NA,Governor,NA,NA,Blanks,6
+Chittenden,Underhill,NA,Governor,NA,NA,Blanks,23
+Addison,Vergennes,NA,Governor,NA,NA,Blanks,11
+Windham,Vernon,NA,Governor,NA,NA,Blanks,4
+Orange,Vershire,NA,Governor,NA,NA,Blanks,4
+Essex,Victory,NA,Governor,NA,NA,Blanks,0
+Washington,Waitsfield,NA,Governor,NA,NA,Blanks,13
+Caledonia,Walden,NA,Governor,NA,NA,Blanks,6
+Rutland,Wallingford,NA,Governor,NA,NA,Blanks,10
+Addison,Waltham,NA,Governor,NA,NA,Blanks,2
+Windham,Wardsboro,NA,Governor,NA,NA,Blanks,3
+Washington,Warren,NA,Governor,NA,NA,Blanks,18
+Orange,Washington,NA,Governor,NA,NA,Blanks,2
+Washington,Waterbury,NA,Governor,NA,NA,Blanks,23
+Caledonia,Waterford,NA,Governor,NA,NA,Blanks,5
+Lamoille,Waterville,NA,Governor,NA,NA,Blanks,0
+Windsor,Weathersfield,NA,Governor,NA,NA,Blanks,10
+Rutland,Wells,NA,Governor,NA,NA,Blanks,6
+Orange,W. Fairlee,NA,Governor,NA,NA,Blanks,1
+Rutland,W. Haven,NA,Governor,NA,NA,Blanks,0
+Rutland,W. Rutland,NA,Governor,NA,NA,Blanks,3
+Windsor,W. Windsor,NA,Governor,NA,NA,Blanks,8
+Orleans,Westfield,NA,Governor,NA,NA,Blanks,1
+Chittenden,Westford,NA,Governor,NA,NA,Blanks,9
+Windham,Westminster,Windham 3,Governor,NA,NA,Blanks,0
+Windham,Westminster,Windham 4,Governor,NA,NA,Blanks,9
+Orleans,Westmore,NA,Governor,NA,NA,Blanks,1
+Windsor,Weston,NA,Governor,NA,NA,Blanks,0
+Addison,Weybridge,NA,Governor,NA,NA,Blanks,11
+Caledonia,Wheelock,NA,Governor,NA,NA,Blanks,5
+Addison,Whiting,NA,Governor,NA,NA,Blanks,2
+Windham,Whitingham,Windham 6,Governor,NA,NA,Blanks,0
+Windham,Whitingham,Windham-Bennington,Governor,NA,NA,Blanks,0
+Orange,Williamstown,NA,Governor,NA,NA,Blanks,7
+Chittenden,Williston,NA,Governor,NA,NA,Blanks,25
+Windham,Wilmington,NA,Governor,NA,NA,Blanks,7
+Windham,Windham,NA,Governor,NA,NA,Blanks,4
+Windsor,Windsor,NA,Governor,NA,NA,Blanks,5
+Bennington,Winhall,NA,Governor,NA,NA,Blanks,4
+Chittenden,Winooski,NA,Governor,NA,NA,Blanks,27
+Lamoille,Wolcott,NA,Governor,NA,NA,Blanks,6
+Washington,Woodbury,NA,Governor,NA,NA,Blanks,10
+Bennington,Woodford,NA,Governor,NA,NA,Blanks,2
+Windsor,Woodstock,NA,Governor,NA,NA,Blanks,8
+Washington,Worcester,NA,Governor,NA,NA,Blanks,11
