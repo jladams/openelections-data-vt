@@ -1,5 +1,5 @@
 # Load required packages and functions
-source("./R/prep.R")
+# source("./R/prep.R")
 
 # Process raw primary data per party
 prime_rep <- process_primary("./data/results_raw/2014/house/VT Elections Database__2014_U_S_House_Republican_Primary_including_precincts.csv", "U.S. House", "Republican")

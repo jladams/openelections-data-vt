@@ -1,5 +1,5 @@
 # Load required packages and functions
-source("./R/prep.R")
+# source("./R/prep.R")
 
 # Process raw primary data per party
 prime_dem <- process_primary("./data/results_raw/2014/sec_state/VT Elections Database__2014_Secretary_of_State_Democratic_Primary_including_precincts.csv", "Secretary of State", "Democratic")
