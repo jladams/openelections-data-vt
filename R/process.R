@@ -6,3 +6,4 @@ parsers <- list.files(path = "./R/election_scripts/", pattern = "*.R", full.name
 
 # Run each of those
 sapply(parsers, source)
+
