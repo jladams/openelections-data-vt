@@ -13,7 +13,7 @@ primary <- rbind(prime_dem,prime_libu,prime_pro)
 general <- process_general("./data/results_raw/2014/sec_state/VT Elections Database__2014_Secretary_of_State_General_Election_including_precincts.csv", "Secretary of State")
 
 # Write primary data
-write_csv(primary, "./2014/20140826__vt__primary__sec_state__precincts")
+write_csv(primary, "./2014/20140826__vt__primary__secretary_of_state__precincts")
 
 # Write general data
-write_csv(general, "./2014/20141104__vt__general__sec_state__precincts")
+write_csv(general, "./2014/20141104__vt__general__secretary_of_state__precincts")
