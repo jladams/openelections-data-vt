@@ -3,6 +3,7 @@ if(!("tidyverse" %in% installed.packages()))  install.packages("tidyverse")
 
 # Load required packages
 library(tidyverse)
+library(stringr)
 
 # Load Town/County Crosswalk
 county_key <- read_csv("./data/town_county_key.csv")
@@ -26,6 +27,8 @@ process_primary <- function(file, prime_office, prime_party) {
     left_join(county_key, by = "town") %>%
     mutate(office = prime_office, party = prime_party, district = NA) %>%
     select(county, town, precinct, office, district, party, candidate, votes)
+  
+  primary$votes <- gsub("-", NA, primary$votes)
   
   return(primary)
 }
@@ -61,3 +64,55 @@ process_general <- function(file, gen_office){
   
   return(general)
 }
+
+# Process an entire directory for a statewide election at once
+# dir = path to election directory, do not include trailing "/"
+# office = Office being sought
+# primary_file = output location of primary election data as csv
+# general_file = output location of general election data as csv
+#
+# example:
+# process_election("./data/results_raw/2014/sec_state", "Secretary of State", "./2014/20140826__vt__primary__secretary_of_state__precincts.csv", "./2014/2014/11/04__vt__general__secretary_of_state__precincts.csv")
+process_election <- function(dir, office, primary_file, general_file) {
+  
+  # Get list of csv files in directory
+  files <- list.files(path = dir, pattern = ".csv", full.names = TRUE)
+  
+  # Create empty list for primaries
+  primaries <- list()
+  
+  # If any filenames contain party name (indicative of a primary), process them with process_primary and append to primaries list
+  if(any(str_detect(files, "Republican"))){
+    prime_rep <- process_primary(str_subset(files, "Republican"), office, "Republican")
+    primaries$rep <- prime_rep
+  }
+  
+  if(any(str_detect(files, "Democratic"))){
+    prime_dem <- process_primary(str_subset(files, "Democratic"), office, "Democratic")
+    primaries$dem <- prime_dem
+  }
+  
+  if(any(str_detect(files, "Liberty_Union"))){
+    prime_libu <- process_primary(str_subset(files, "Liberty_Union"), office, "Liberty Union")
+    primaries$libu <- prime_libu
+  }
+  
+  if(any(str_detect(files, "Progressive"))){
+    prime_pro <- process_primary(str_subset(files, "Progressive"), office, "Progressive")
+    primaries$pro <- prime_pro
+  }
+  
+  # Combine list of primaries into single data frame
+  primary <- bind_rows(primaries)
+  
+  # Write out csv from primary data frame
+  write_csv(primary, primary_file)
+  
+  # Process the general election file in the directory (there should always be one) using process_general()
+  general <- process_general(str_subset(files, "General_Election"), office)
+  
+  # Write out csv from general election data frame
+  write_csv(general, general_file)
+  
+}
+

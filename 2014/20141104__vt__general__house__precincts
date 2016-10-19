@@ -1,0 +1,2201 @@
+county,town,precinct,office,district,party,candidate,votes
+Addison,Addison,NA,U.S. House,NA,Democratic,Peter Welch,284
+Orleans,Albany,NA,U.S. House,NA,Democratic,Peter Welch,186
+Grand Isle,Alburgh,NA,U.S. House,NA,Democratic,Peter Welch,383
+Windsor,Andover,NA,U.S. House,NA,Democratic,Peter Welch,105
+Bennington,Arlington,NA,U.S. House,NA,Democratic,Peter Welch,477
+Windham,Athens,NA,U.S. House,NA,Democratic,Peter Welch,51
+Franklin,Bakersfield,NA,U.S. House,NA,Democratic,Peter Welch,237
+Windsor,Baltimore,NA,U.S. House,NA,Democratic,Peter Welch,27
+Windsor,Barnard,NA,U.S. House,NA,Democratic,Peter Welch,265
+Caledonia,Barnet,NA,U.S. House,NA,Democratic,Peter Welch,353
+Washington,Barre City,NA,U.S. House,NA,Democratic,Peter Welch,"1,310"
+Washington,Barre Town,NA,U.S. House,NA,Democratic,Peter Welch,"1,535"
+Orleans,Barton,NA,U.S. House,NA,Democratic,Peter Welch,395
+Lamoille,Belvidere,NA,U.S. House,NA,Democratic,Peter Welch,51
+Bennington,Bennington,Bennington 2-1,U.S. House,NA,Democratic,Peter Welch,"1,401"
+Bennington,Bennington,Bennington 2-2,U.S. House,NA,Democratic,Peter Welch,"1,220"
+Rutland,Benson,NA,U.S. House,NA,Democratic,Peter Welch,145
+Franklin,Berkshire,NA,U.S. House,NA,Democratic,Peter Welch,233
+Washington,Berlin,NA,U.S. House,NA,Democratic,Peter Welch,526
+Windsor,Bethel,NA,U.S. House,NA,Democratic,Peter Welch,416
+Essex,Bloomfield,NA,U.S. House,NA,Democratic,Peter Welch,24
+Chittenden,Bolton,NA,U.S. House,NA,Democratic,Peter Welch,288
+Orange,Bradford,NA,U.S. House,NA,Democratic,Peter Welch,403
+Orange,Braintree,NA,U.S. House,NA,Democratic,Peter Welch,232
+Rutland,Brandon,NA,U.S. House,NA,Democratic,Peter Welch,833
+Windham,Brattleboro,Windham 2-1,U.S. House,NA,Democratic,Peter Welch,858
+Windham,Brattleboro,Windham 2-2,U.S. House,NA,Democratic,Peter Welch,756
+Windham,Brattleboro,Windham 2-3,U.S. House,NA,Democratic,Peter Welch,858
+Windsor,Bridgewater,NA,U.S. House,NA,Democratic,Peter Welch,176
+Addison,Bridport,NA,U.S. House,NA,Democratic,Peter Welch,243
+Essex,Brighton,NA,U.S. House,NA,Democratic,Peter Welch,197
+Addison,Bristol,NA,U.S. House,NA,Democratic,Peter Welch,"1,010"
+Orange,Brookfield,NA,U.S. House,NA,Democratic,Peter Welch,291
+Windham,Brookline,NA,U.S. House,NA,Democratic,Peter Welch,123
+Orleans,Brownington,NA,U.S. House,NA,Democratic,Peter Welch,174
+Essex,Brunswick,NA,U.S. House,NA,Democratic,Peter Welch,25
+Caledonia,Burke,NA,U.S. House,NA,Democratic,Peter Welch,257
+Chittenden,Burlington,Chittenden 6-1,U.S. House,NA,Democratic,Peter Welch,"1,963"
+Chittenden,Burlington,Chittenden 6-2,U.S. House,NA,Democratic,Peter Welch,"1,131"
+Chittenden,Burlington,Chittenden 6-3,U.S. House,NA,Democratic,Peter Welch,"1,176"
+Chittenden,Burlington,Chittenden 6-4,U.S. House,NA,Democratic,Peter Welch,879
+Chittenden,Burlington,Chittenden 6-5,U.S. House,NA,Democratic,Peter Welch,"2,193"
+Chittenden,Burlington,Chittenden 6-6,U.S. House,NA,Democratic,Peter Welch,304
+Chittenden,Burlington,Chittenden 6-7,U.S. House,NA,Democratic,Peter Welch,33
+Washington,Cabot,NA,U.S. House,NA,Democratic,Peter Welch,284
+Washington,Calais,NA,U.S. House,NA,Democratic,Peter Welch,541
+Lamoille,Cambridge,NA,U.S. House,NA,Democratic,Peter Welch,732
+Essex,Canaan,NA,U.S. House,NA,Democratic,Peter Welch,98
+Rutland,Castleton,NA,U.S. House,NA,Democratic,Peter Welch,543
+Windsor,Cavendish,NA,U.S. House,NA,Democratic,Peter Welch,234
+Orleans,Charleston,NA,U.S. House,NA,Democratic,Peter Welch,141
+Chittenden,Charlotte,NA,U.S. House,NA,Democratic,Peter Welch,"1,043"
+Orange,Chelsea,NA,U.S. House,NA,Democratic,Peter Welch,265
+Windsor,Chester,NA,U.S. House,NA,Democratic,Peter Welch,533
+Rutland,Chittenden,NA,U.S. House,NA,Democratic,Peter Welch,311
+Rutland,Clarendon,NA,U.S. House,NA,Democratic,Peter Welch,368
+Chittenden,Colchester,Chittenden 9-1,U.S. House,NA,Democratic,Peter Welch,"1,211"
+Chittenden,Colchester,Chittenden 9-2,U.S. House,NA,Democratic,Peter Welch,"1,572"
+Essex,Concord,NA,U.S. House,NA,Democratic,Peter Welch,145
+Orange,Corinth,NA,U.S. House,NA,Democratic,Peter Welch,260
+Addison,Cornwall,NA,U.S. House,NA,Democratic,Peter Welch,345
+Orleans,Coventry,NA,U.S. House,NA,Democratic,Peter Welch,193
+Orleans,Craftsbury,NA,U.S. House,NA,Democratic,Peter Welch,293
+Rutland,Danby,NA,U.S. House,NA,Democratic,Peter Welch,208
+Caledonia,Danville,NA,U.S. House,NA,Democratic,Peter Welch,460
+Orleans,Derby,NA,U.S. House,NA,Democratic,Peter Welch,804
+Bennington,Dorset,NA,U.S. House,NA,Democratic,Peter Welch,518
+Windham,Dover,NA,U.S. House,NA,Democratic,Peter Welch,261
+Windham,Dummerston,NA,U.S. House,NA,Democratic,Peter Welch,529
+Washington,Duxbury,NA,U.S. House,NA,Democratic,Peter Welch,325
+Essex,E. Haven,NA,U.S. House,NA,Democratic,Peter Welch,36
+Washington,E. Montpelier,NA,U.S. House,NA,Democratic,Peter Welch,765
+Lamoille,Eden,NA,U.S. House,NA,Democratic,Peter Welch,160
+Lamoille,Elmore,NA,U.S. House,NA,Democratic,Peter Welch,252
+Franklin,Enosburgh,NA,U.S. House,NA,Democratic,Peter Welch,652
+Chittenden,Essex,Chittenden 8-1,U.S. House,NA,Democratic,Peter Welch,"1,517"
+Chittenden,Essex,Chittenden 8-2,U.S. House,NA,Democratic,Peter Welch,"1,771"
+Chittenden,Essex,Chittenden 8-3,U.S. House,NA,Democratic,Peter Welch,535
+Rutland,Fair Haven,NA,U.S. House,NA,Democratic,Peter Welch,372
+Franklin,Fairfax,NA,U.S. House,NA,Democratic,Peter Welch,782
+Franklin,Fairfield,NA,U.S. House,NA,Democratic,Peter Welch,432
+Orange,Fairlee,NA,U.S. House,NA,Democratic,Peter Welch,252
+Washington,Fayston,NA,U.S. House,NA,Democratic,Peter Welch,386
+Addison,Ferrisburgh,NA,U.S. House,NA,Democratic,Peter Welch,616
+Franklin,Fletcher,NA,U.S. House,NA,Democratic,Peter Welch,228
+Franklin,Franklin,NA,U.S. House,NA,Democratic,Peter Welch,262
+Franklin,Georgia,NA,U.S. House,NA,Democratic,Peter Welch,738
+Orleans,Glover,NA,U.S. House,NA,Democratic,Peter Welch,287
+Addison,Goshen,NA,U.S. House,NA,Democratic,Peter Welch,44
+Windham,Grafton,NA,U.S. House,NA,Democratic,Peter Welch,123
+Essex,Granby,NA,U.S. House,NA,Democratic,Peter Welch,16
+Grand Isle,Grand Isle,NA,U.S. House,NA,Democratic,Peter Welch,542
+Addison,Granville,NA,U.S. House,NA,Democratic,Peter Welch,74
+Orleans,Greensboro,NA,U.S. House,NA,Democratic,Peter Welch,209
+Caledonia,Groton,NA,U.S. House,NA,Democratic,Peter Welch,137
+Essex,Guildhall,NA,U.S. House,NA,Democratic,Peter Welch,51
+Windham,Guilford,NA,U.S. House,NA,Democratic,Peter Welch,468
+Windham,Halifax,NA,U.S. House,NA,Democratic,Peter Welch,130
+Addison,Hancock,NA,U.S. House,NA,Democratic,Peter Welch,63
+Caledonia,Hardwick,NA,U.S. House,NA,Democratic,Peter Welch,549
+Windsor,Hartford,Windsor 4-1,U.S. House,NA,Democratic,Peter Welch,427
+Windsor,Hartford,Windsor 4-2,U.S. House,NA,Democratic,Peter Welch,"1,496"
+Windsor,Hartland,NA,U.S. House,NA,Democratic,Peter Welch,744
+Franklin,Highgate,NA,U.S. House,NA,Democratic,Peter Welch,551
+Chittenden,Hinesburg,Chittenden 4-1,U.S. House,NA,Democratic,Peter Welch,11
+Chittenden,Hinesburg,Chittenden 4-2,U.S. House,NA,Democratic,Peter Welch,"1,179"
+Orleans,Holland,NA,U.S. House,NA,Democratic,Peter Welch,79
+Rutland,Hubbardton,NA,U.S. House,NA,Democratic,Peter Welch,112
+Chittenden,Huntington,NA,U.S. House,NA,Democratic,Peter Welch,611
+Lamoille,Hyde Park,NA,U.S. House,NA,Democratic,Peter Welch,776
+Rutland,Ira,NA,U.S. House,NA,Democratic,Peter Welch,77
+Orleans,Irasburg,NA,U.S. House,NA,Democratic,Peter Welch,181
+Grand Isle,Isle La Motte,NA,U.S. House,NA,Democratic,Peter Welch,121
+Windham,Jamaica,NA,U.S. House,NA,Democratic,Peter Welch,173
+Orleans,Jay,NA,U.S. House,NA,Democratic,Peter Welch,74
+Chittenden,Jericho,NA,U.S. House,NA,Democratic,Peter Welch,"1,404"
+Lamoille,Johnson,NA,U.S. House,NA,Democratic,Peter Welch,474
+Rutland,Killington,NA,U.S. House,NA,Democratic,Peter Welch,220
+Caledonia,Kirby,NA,U.S. House,NA,Democratic,Peter Welch,96
+Bennington,Landgrove,NA,U.S. House,NA,Democratic,Peter Welch,49
+Addison,Leicester,NA,U.S. House,NA,Democratic,Peter Welch,173
+Essex,Lemington,NA,U.S. House,NA,Democratic,Peter Welch,13
+Addison,Lincoln,NA,U.S. House,NA,Democratic,Peter Welch,447
+Windham,Londonderry,NA,U.S. House,NA,Democratic,Peter Welch,269
+Orleans,Lowell,NA,U.S. House,NA,Democratic,Peter Welch,115
+Windsor,Ludlow,NA,U.S. House,NA,Democratic,Peter Welch,347
+Essex,Lunenburg,NA,U.S. House,NA,Democratic,Peter Welch,139
+Caledonia,Lyndon,NA,U.S. House,NA,Democratic,Peter Welch,646
+Essex,Maidstone,NA,U.S. House,NA,Democratic,Peter Welch,29
+Bennington,Manchester,NA,U.S. House,NA,Democratic,Peter Welch,964
+Windham,Marlboro,NA,U.S. House,NA,Democratic,Peter Welch,298
+Washington,Marshfield,NA,U.S. House,NA,Democratic,Peter Welch,342
+Rutland,Mendon,NA,U.S. House,NA,Democratic,Peter Welch,221
+Addison,Middlebury,NA,U.S. House,NA,Democratic,Peter Welch,"1,690"
+Washington,Middlesex,NA,U.S. House,NA,Democratic,Peter Welch,613
+Rutland,Middletown Springs,NA,U.S. House,NA,Democratic,Peter Welch,212
+Chittenden,Milton,Chittenden 10,U.S. House,NA,Democratic,Peter Welch,"1,176"
+Chittenden,Milton,Grand Isle-Chittenden,U.S. House,NA,Democratic,Peter Welch,189
+Addison,Monkton,NA,U.S. House,NA,Democratic,Peter Welch,561
+Franklin,Montgomery,NA,U.S. House,NA,Democratic,Peter Welch,292
+Washington,Montpelier,NA,U.S. House,NA,Democratic,Peter Welch,"2,513"
+Washington,Moretown,NA,U.S. House,NA,Democratic,Peter Welch,461
+Orleans,Morgan,NA,U.S. House,NA,Democratic,Peter Welch,96
+Lamoille,Morristown,NA,U.S. House,NA,Democratic,Peter Welch,"1,102"
+Rutland,Mount Holly,NA,U.S. House,NA,Democratic,Peter Welch,278
+Rutland,Mount Tabor,NA,U.S. House,NA,Democratic,Peter Welch,27
+Addison,New Haven,NA,U.S. House,NA,Democratic,Peter Welch,499
+Caledonia,Newark,NA,U.S. House,NA,Democratic,Peter Welch,92
+Orange,Newbury,NA,U.S. House,NA,Democratic,Peter Welch,383
+Windham,Newfane,NA,U.S. House,NA,Democratic,Peter Welch,458
+Orleans,Newport City,NA,U.S. House,NA,Democratic,Peter Welch,612
+Orleans,Newport Town,NA,U.S. House,NA,Democratic,Peter Welch,220
+Grand Isle,N. Hero,NA,U.S. House,NA,Democratic,Peter Welch,234
+Washington,Northfield,NA,U.S. House,NA,Democratic,Peter Welch,817
+Essex,Norton,NA,U.S. House,NA,Democratic,Peter Welch,20
+Windsor,Norwich,NA,U.S. House,NA,Democratic,Peter Welch,"1,195"
+Orange,Orange,NA,U.S. House,NA,Democratic,Peter Welch,159
+Addison,Orwell,NA,U.S. House,NA,Democratic,Peter Welch,223
+Addison,Panton,NA,U.S. House,NA,Democratic,Peter Welch,129
+Rutland,Pawlet,NA,U.S. House,NA,Democratic,Peter Welch,319
+Caledonia,Peacham,NA,U.S. House,NA,Democratic,Peter Welch,229
+Bennington,Peru,NA,U.S. House,NA,Democratic,Peter Welch,92
+Rutland,Pittsfield,NA,U.S. House,NA,Democratic,Peter Welch,106
+Rutland,Pittsford,NA,U.S. House,NA,Democratic,Peter Welch,557
+Washington,Plainfield,NA,U.S. House,NA,Democratic,Peter Welch,318
+Windsor,Plymouth,NA,U.S. House,NA,Democratic,Peter Welch,110
+Windsor,Pomfret,NA,U.S. House,NA,Democratic,Peter Welch,295
+Rutland,Poultney,NA,U.S. House,NA,Democratic,Peter Welch,511
+Bennington,Pownal,NA,U.S. House,NA,Democratic,Peter Welch,765
+Rutland,Proctor,NA,U.S. House,NA,Democratic,Peter Welch,330
+Windham,Putney,NA,U.S. House,NA,Democratic,Peter Welch,656
+Orange,Randolph,NA,U.S. House,NA,Democratic,Peter Welch,980
+Windsor,Reading,NA,U.S. House,NA,Democratic,Peter Welch,162
+Bennington,Readsboro,NA,U.S. House,NA,Democratic,Peter Welch,137
+Franklin,Richford,NA,U.S. House,NA,Democratic,Peter Welch,301
+Chittenden,Richmond,NA,U.S. House,NA,Democratic,Peter Welch,"1,187"
+Addison,Ripton,NA,U.S. House,NA,Democratic,Peter Welch,192
+Windsor,Rochester,NA,U.S. House,NA,Democratic,Peter Welch,293
+Windham,Rockingham,NA,U.S. House,NA,Democratic,Peter Welch,837
+Washington,Roxbury,NA,U.S. House,NA,Democratic,Peter Welch,160
+Windsor,Royalton,NA,U.S. House,NA,Democratic,Peter Welch,554
+Bennington,Rupert,NA,U.S. House,NA,Democratic,Peter Welch,160
+Rutland,Rutland City,Rutland 5-1,U.S. House,NA,Democratic,Peter Welch,945
+Rutland,Rutland City,Rutland 5-2,U.S. House,NA,Democratic,Peter Welch,694
+Rutland,Rutland City,Rutland 5-3,U.S. House,NA,Democratic,Peter Welch,406
+Rutland,Rutland City,Rutland 5-4,U.S. House,NA,Democratic,Peter Welch,694
+Rutland,Rutland Town,NA,U.S. House,NA,Democratic,Peter Welch,882
+Caledonia,Ryegate,NA,U.S. House,NA,Democratic,Peter Welch,225
+Franklin,Salisbury,NA,U.S. House,NA,Democratic,Peter Welch,187
+Franklin,Sandgate,NA,U.S. House,NA,Democratic,Peter Welch,63
+Chittenden,Searsburg,NA,U.S. House,NA,Democratic,Peter Welch,11
+Caledonia,Shaftsbury,NA,U.S. House,NA,Democratic,Peter Welch,660
+Addison,Sharon,NA,U.S. House,NA,Democratic,Peter Welch,324
+Bennington,Sheffield,NA,U.S. House,NA,Democratic,Peter Welch,97
+Bennington,Shelburne,Chittenden 5-1,U.S. House,NA,Democratic,Peter Welch,"1,174"
+Bennington,Shelburne,Chittenden 5-2,U.S. House,NA,Democratic,Peter Welch,845
+Bennington,Sheldon,NA,U.S. House,NA,Democratic,Peter Welch,290
+Windsor,Shoreham,NA,U.S. House,NA,Democratic,Peter Welch,254
+Caledonia,Shrewsbury,NA,U.S. House,NA,Democratic,Peter Welch,274
+Chittenden,S. Burlington,Chittenden 7-1,U.S. House,NA,Democratic,Peter Welch,"1,053"
+Chittenden,S. Burlington,Chittenden 7-2,U.S. House,NA,Democratic,Peter Welch,"1,098"
+Chittenden,S. Burlington,Chittenden 7-3,U.S. House,NA,Democratic,Peter Welch,892
+Chittenden,S. Burlington,Chittenden 7-4,U.S. House,NA,Democratic,Peter Welch,850
+Franklin,S. Hero,NA,U.S. House,NA,Democratic,Peter Welch,544
+Addison,Springfield,Windsor 3-1,U.S. House,NA,Democratic,Peter Welch,42
+Addison,Springfield,Windsor 3-2,U.S. House,NA,Democratic,Peter Welch,"1,132"
+Rutland,St. Albans City,NA,U.S. House,NA,Democratic,Peter Welch,"1,082"
+Chittenden,St. Albans Town,Franklin 3-1,U.S. House,NA,Democratic,Peter Welch,344
+Chittenden,St. Albans Town,Franklin 3-2,U.S. House,NA,Democratic,Peter Welch,729
+Grand Isle,St. George,NA,U.S. House,NA,Democratic,Peter Welch,127
+Windsor,St. Johnsbury,NA,U.S. House,NA,Democratic,Peter Welch,"1,118"
+Bennington,Stamford,NA,U.S. House,NA,Democratic,Peter Welch,140
+Caledonia,Stannard,NA,U.S. House,NA,Democratic,Peter Welch,62
+Addison,Starksboro,NA,U.S. House,NA,Democratic,Peter Welch,446
+Windsor,Stockbridge,NA,U.S. House,NA,Democratic,Peter Welch,131
+Lamoille,Stowe,NA,U.S. House,NA,Democratic,Peter Welch,959
+Orange,Strafford,NA,U.S. House,NA,Democratic,Peter Welch,375
+Windham,Stratton,NA,U.S. House,NA,Democratic,Peter Welch,37
+Rutland,Sudbury,NA,U.S. House,NA,Democratic,Peter Welch,139
+Bennington,Sunderland,Bennington 3,U.S. House,NA,Democratic,Peter Welch,54
+Bennington,Sunderland,Bennington 4,U.S. House,NA,Democratic,Peter Welch,128
+Caledonia,Sutton,NA,U.S. House,NA,Democratic,Peter Welch,129
+Franklin,Swanton,NA,U.S. House,NA,Democratic,Peter Welch,911
+Orange,Thetford,NA,U.S. House,NA,Democratic,Peter Welch,826
+Rutland,Tinmouth,Rutland 2,U.S. House,NA,Democratic,Peter Welch,35
+Rutland,Tinmouth,Rutland-Bennington,U.S. House,NA,Democratic,Peter Welch,86
+Orange,Topsham,NA,U.S. House,NA,Democratic,Peter Welch,141
+Windham,Townshend,NA,U.S. House,NA,Democratic,Peter Welch,231
+Orleans,Troy,Orleans 2,U.S. House,NA,Democratic,Peter Welch,55
+Orleans,Troy,Orleans-Lamoille,U.S. House,NA,Democratic,Peter Welch,181
+Orange,Tunbridge,NA,U.S. House,NA,Democratic,Peter Welch,369
+Chittenden,Underhill,NA,U.S. House,NA,Democratic,Peter Welch,874
+Addison,Vergennes,NA,U.S. House,NA,Democratic,Peter Welch,518
+Windham,Vernon,NA,U.S. House,NA,Democratic,Peter Welch,249
+Orange,Vershire,NA,U.S. House,NA,Democratic,Peter Welch,136
+Essex,Victory,NA,U.S. House,NA,Democratic,Peter Welch,8
+Washington,Waitsfield,NA,U.S. House,NA,Democratic,Peter Welch,585
+Caledonia,Walden,NA,U.S. House,NA,Democratic,Peter Welch,221
+Rutland,Wallingford,NA,U.S. House,NA,Democratic,Peter Welch,405
+Addison,Waltham,NA,U.S. House,NA,Democratic,Peter Welch,117
+Windham,Wardsboro,NA,U.S. House,NA,Democratic,Peter Welch,169
+Washington,Warren,NA,U.S. House,NA,Democratic,Peter Welch,494
+Orange,Washington,NA,U.S. House,NA,Democratic,Peter Welch,187
+Washington,Waterbury,NA,U.S. House,NA,Democratic,Peter Welch,"1,249"
+Caledonia,Waterford,NA,U.S. House,NA,Democratic,Peter Welch,213
+Lamoille,Waterville,NA,U.S. House,NA,Democratic,Peter Welch,113
+Windsor,Weathersfield,NA,U.S. House,NA,Democratic,Peter Welch,447
+Rutland,Wells,NA,U.S. House,NA,Democratic,Peter Welch,175
+Orange,W. Fairlee,NA,U.S. House,NA,Democratic,Peter Welch,102
+Rutland,W. Haven,NA,U.S. House,NA,Democratic,Peter Welch,55
+Rutland,W. Rutland,NA,U.S. House,NA,Democratic,Peter Welch,319
+Windsor,W. Windsor,NA,U.S. House,NA,Democratic,Peter Welch,317
+Orleans,Westfield,NA,U.S. House,NA,Democratic,Peter Welch,101
+Chittenden,Westford,NA,U.S. House,NA,Democratic,Peter Welch,504
+Windham,Westminster,Windham 3,U.S. House,NA,Democratic,Peter Welch,31
+Windham,Westminster,Windham 4,U.S. House,NA,Democratic,Peter Welch,696
+Orleans,Westmore,NA,U.S. House,NA,Democratic,Peter Welch,81
+Windsor,Weston,NA,U.S. House,NA,Democratic,Peter Welch,188
+Addison,Weybridge,NA,U.S. House,NA,Democratic,Peter Welch,296
+Caledonia,Wheelock,NA,U.S. House,NA,Democratic,Peter Welch,112
+Addison,Whiting,NA,U.S. House,NA,Democratic,Peter Welch,69
+Windham,Whitingham,Windham 6,U.S. House,NA,Democratic,Peter Welch,168
+Windham,Whitingham,Windham-Bennington,U.S. House,NA,Democratic,Peter Welch,5
+Orange,Williamstown,NA,U.S. House,NA,Democratic,Peter Welch,594
+Chittenden,Williston,NA,U.S. House,NA,Democratic,Peter Welch,"1,954"
+Windham,Wilmington,NA,U.S. House,NA,Democratic,Peter Welch,341
+Windham,Windham,NA,U.S. House,NA,Democratic,Peter Welch,91
+Windsor,Windsor,NA,U.S. House,NA,Democratic,Peter Welch,636
+Bennington,Winhall,NA,U.S. House,NA,Democratic,Peter Welch,156
+Chittenden,Winooski,NA,U.S. House,NA,Democratic,Peter Welch,"1,069"
+Lamoille,Wolcott,NA,U.S. House,NA,Democratic,Peter Welch,344
+Washington,Woodbury,NA,U.S. House,NA,Democratic,Peter Welch,221
+Bennington,Woodford,NA,U.S. House,NA,Democratic,Peter Welch,82
+Windsor,Woodstock,NA,U.S. House,NA,Democratic,Peter Welch,837
+Washington,Worcester,NA,U.S. House,NA,Democratic,Peter Welch,296
+Addison,Addison,NA,U.S. House,NA,Republican,Mark Donka,252
+Orleans,Albany,NA,U.S. House,NA,Republican,Mark Donka,114
+Grand Isle,Alburgh,NA,U.S. House,NA,Republican,Mark Donka,197
+Windsor,Andover,NA,U.S. House,NA,Republican,Mark Donka,96
+Bennington,Arlington,NA,U.S. House,NA,Republican,Mark Donka,255
+Windham,Athens,NA,U.S. House,NA,Republican,Mark Donka,39
+Franklin,Bakersfield,NA,U.S. House,NA,Republican,Mark Donka,116
+Windsor,Baltimore,NA,U.S. House,NA,Republican,Mark Donka,32
+Windsor,Barnard,NA,U.S. House,NA,Republican,Mark Donka,143
+Caledonia,Barnet,NA,U.S. House,NA,Republican,Mark Donka,235
+Washington,Barre City,NA,U.S. House,NA,Republican,Mark Donka,678
+Washington,Barre Town,NA,U.S. House,NA,Republican,Mark Donka,"1,221"
+Orleans,Barton,NA,U.S. House,NA,Republican,Mark Donka,222
+Lamoille,Belvidere,NA,U.S. House,NA,Republican,Mark Donka,44
+Bennington,Bennington,Bennington 2-1,U.S. House,NA,Republican,Mark Donka,422
+Bennington,Bennington,Bennington 2-2,U.S. House,NA,Republican,Mark Donka,500
+Rutland,Benson,NA,U.S. House,NA,Republican,Mark Donka,87
+Franklin,Berkshire,NA,U.S. House,NA,Republican,Mark Donka,140
+Washington,Berlin,NA,U.S. House,NA,Republican,Mark Donka,298
+Windsor,Bethel,NA,U.S. House,NA,Republican,Mark Donka,192
+Essex,Bloomfield,NA,U.S. House,NA,Republican,Mark Donka,21
+Chittenden,Bolton,NA,U.S. House,NA,Republican,Mark Donka,121
+Orange,Bradford,NA,U.S. House,NA,Republican,Mark Donka,207
+Orange,Braintree,NA,U.S. House,NA,Republican,Mark Donka,148
+Rutland,Brandon,NA,U.S. House,NA,Republican,Mark Donka,425
+Windham,Brattleboro,Windham 2-1,U.S. House,NA,Republican,Mark Donka,184
+Windham,Brattleboro,Windham 2-2,U.S. House,NA,Republican,Mark Donka,107
+Windham,Brattleboro,Windham 2-3,U.S. House,NA,Republican,Mark Donka,127
+Windsor,Bridgewater,NA,U.S. House,NA,Republican,Mark Donka,106
+Addison,Bridport,NA,U.S. House,NA,Republican,Mark Donka,178
+Essex,Brighton,NA,U.S. House,NA,Republican,Mark Donka,132
+Addison,Bristol,NA,U.S. House,NA,Republican,Mark Donka,414
+Orange,Brookfield,NA,U.S. House,NA,Republican,Mark Donka,170
+Windham,Brookline,NA,U.S. House,NA,Republican,Mark Donka,39
+Orleans,Brownington,NA,U.S. House,NA,Republican,Mark Donka,123
+Essex,Brunswick,NA,U.S. House,NA,Republican,Mark Donka,6
+Caledonia,Burke,NA,U.S. House,NA,Republican,Mark Donka,173
+Chittenden,Burlington,Chittenden 6-1,U.S. House,NA,Republican,Mark Donka,669
+Chittenden,Burlington,Chittenden 6-2,U.S. House,NA,Republican,Mark Donka,227
+Chittenden,Burlington,Chittenden 6-3,U.S. House,NA,Republican,Mark Donka,131
+Chittenden,Burlington,Chittenden 6-4,U.S. House,NA,Republican,Mark Donka,102
+Chittenden,Burlington,Chittenden 6-5,U.S. House,NA,Republican,Mark Donka,316
+Chittenden,Burlington,Chittenden 6-6,U.S. House,NA,Republican,Mark Donka,48
+Chittenden,Burlington,Chittenden 6-7,U.S. House,NA,Republican,Mark Donka,3
+Washington,Cabot,NA,U.S. House,NA,Republican,Mark Donka,144
+Washington,Calais,NA,U.S. House,NA,Republican,Mark Donka,150
+Lamoille,Cambridge,NA,U.S. House,NA,Republican,Mark Donka,326
+Essex,Canaan,NA,U.S. House,NA,Republican,Mark Donka,71
+Rutland,Castleton,NA,U.S. House,NA,Republican,Mark Donka,451
+Windsor,Cavendish,NA,U.S. House,NA,Republican,Mark Donka,196
+Orleans,Charleston,NA,U.S. House,NA,Republican,Mark Donka,115
+Chittenden,Charlotte,NA,U.S. House,NA,Republican,Mark Donka,419
+Orange,Chelsea,NA,U.S. House,NA,Republican,Mark Donka,207
+Windsor,Chester,NA,U.S. House,NA,Republican,Mark Donka,293
+Rutland,Chittenden,NA,U.S. House,NA,Republican,Mark Donka,201
+Rutland,Clarendon,NA,U.S. House,NA,Republican,Mark Donka,365
+Chittenden,Colchester,Chittenden 9-1,U.S. House,NA,Republican,Mark Donka,601
+Chittenden,Colchester,Chittenden 9-2,U.S. House,NA,Republican,Mark Donka,957
+Essex,Concord,NA,U.S. House,NA,Republican,Mark Donka,117
+Orange,Corinth,NA,U.S. House,NA,Republican,Mark Donka,164
+Addison,Cornwall,NA,U.S. House,NA,Republican,Mark Donka,128
+Orleans,Coventry,NA,U.S. House,NA,Republican,Mark Donka,99
+Orleans,Craftsbury,NA,U.S. House,NA,Republican,Mark Donka,101
+Rutland,Danby,NA,U.S. House,NA,Republican,Mark Donka,194
+Caledonia,Danville,NA,U.S. House,NA,Republican,Mark Donka,320
+Orleans,Derby,NA,U.S. House,NA,Republican,Mark Donka,534
+Bennington,Dorset,NA,U.S. House,NA,Republican,Mark Donka,288
+Windham,Dover,NA,U.S. House,NA,Republican,Mark Donka,173
+Windham,Dummerston,NA,U.S. House,NA,Republican,Mark Donka,137
+Washington,Duxbury,NA,U.S. House,NA,Republican,Mark Donka,146
+Essex,E. Haven,NA,U.S. House,NA,Republican,Mark Donka,31
+Washington,E. Montpelier,NA,U.S. House,NA,Republican,Mark Donka,262
+Lamoille,Eden,NA,U.S. House,NA,Republican,Mark Donka,97
+Lamoille,Elmore,NA,U.S. House,NA,Republican,Mark Donka,85
+Franklin,Enosburgh,NA,U.S. House,NA,Republican,Mark Donka,238
+Chittenden,Essex,Chittenden 8-1,U.S. House,NA,Republican,Mark Donka,953
+Chittenden,Essex,Chittenden 8-2,U.S. House,NA,Republican,Mark Donka,"1,081"
+Chittenden,Essex,Chittenden 8-3,U.S. House,NA,Republican,Mark Donka,315
+Rutland,Fair Haven,NA,U.S. House,NA,Republican,Mark Donka,270
+Franklin,Fairfax,NA,U.S. House,NA,Republican,Mark Donka,555
+Franklin,Fairfield,NA,U.S. House,NA,Republican,Mark Donka,171
+Orange,Fairlee,NA,U.S. House,NA,Republican,Mark Donka,95
+Washington,Fayston,NA,U.S. House,NA,Republican,Mark Donka,102
+Addison,Ferrisburgh,NA,U.S. House,NA,Republican,Mark Donka,357
+Franklin,Fletcher,NA,U.S. House,NA,Republican,Mark Donka,120
+Franklin,Franklin,NA,U.S. House,NA,Republican,Mark Donka,153
+Franklin,Georgia,NA,U.S. House,NA,Republican,Mark Donka,591
+Orleans,Glover,NA,U.S. House,NA,Republican,Mark Donka,108
+Addison,Goshen,NA,U.S. House,NA,Republican,Mark Donka,26
+Windham,Grafton,NA,U.S. House,NA,Republican,Mark Donka,83
+Essex,Granby,NA,U.S. House,NA,Republican,Mark Donka,11
+Grand Isle,Grand Isle,NA,U.S. House,NA,Republican,Mark Donka,315
+Addison,Granville,NA,U.S. House,NA,Republican,Mark Donka,15
+Orleans,Greensboro,NA,U.S. House,NA,Republican,Mark Donka,68
+Caledonia,Groton,NA,U.S. House,NA,Republican,Mark Donka,155
+Essex,Guildhall,NA,U.S. House,NA,Republican,Mark Donka,43
+Windham,Guilford,NA,U.S. House,NA,Republican,Mark Donka,127
+Windham,Halifax,NA,U.S. House,NA,Republican,Mark Donka,77
+Addison,Hancock,NA,U.S. House,NA,Republican,Mark Donka,28
+Caledonia,Hardwick,NA,U.S. House,NA,Republican,Mark Donka,289
+Windsor,Hartford,Windsor 4-1,U.S. House,NA,Republican,Mark Donka,282
+Windsor,Hartford,Windsor 4-2,U.S. House,NA,Republican,Mark Donka,680
+Windsor,Hartland,NA,U.S. House,NA,Republican,Mark Donka,349
+Franklin,Highgate,NA,U.S. House,NA,Republican,Mark Donka,369
+Chittenden,Hinesburg,Chittenden 4-1,U.S. House,NA,Republican,Mark Donka,2
+Chittenden,Hinesburg,Chittenden 4-2,U.S. House,NA,Republican,Mark Donka,421
+Orleans,Holland,NA,U.S. House,NA,Republican,Mark Donka,68
+Rutland,Hubbardton,NA,U.S. House,NA,Republican,Mark Donka,84
+Chittenden,Huntington,NA,U.S. House,NA,Republican,Mark Donka,148
+Lamoille,Hyde Park,NA,U.S. House,NA,Republican,Mark Donka,363
+Rutland,Ira,NA,U.S. House,NA,Republican,Mark Donka,62
+Orleans,Irasburg,NA,U.S. House,NA,Republican,Mark Donka,139
+Grand Isle,Isle La Motte,NA,U.S. House,NA,Republican,Mark Donka,89
+Windham,Jamaica,NA,U.S. House,NA,Republican,Mark Donka,60
+Orleans,Jay,NA,U.S. House,NA,Republican,Mark Donka,45
+Chittenden,Jericho,NA,U.S. House,NA,Republican,Mark Donka,755
+Lamoille,Johnson,NA,U.S. House,NA,Republican,Mark Donka,246
+Rutland,Killington,NA,U.S. House,NA,Republican,Mark Donka,174
+Caledonia,Kirby,NA,U.S. House,NA,Republican,Mark Donka,55
+Bennington,Landgrove,NA,U.S. House,NA,Republican,Mark Donka,27
+Addison,Leicester,NA,U.S. House,NA,Republican,Mark Donka,107
+Essex,Lemington,NA,U.S. House,NA,Republican,Mark Donka,20
+Addison,Lincoln,NA,U.S. House,NA,Republican,Mark Donka,171
+Windham,Londonderry,NA,U.S. House,NA,Republican,Mark Donka,175
+Orleans,Lowell,NA,U.S. House,NA,Republican,Mark Donka,116
+Windsor,Ludlow,NA,U.S. House,NA,Republican,Mark Donka,276
+Essex,Lunenburg,NA,U.S. House,NA,Republican,Mark Donka,144
+Caledonia,Lyndon,NA,U.S. House,NA,Republican,Mark Donka,520
+Essex,Maidstone,NA,U.S. House,NA,Republican,Mark Donka,27
+Bennington,Manchester,NA,U.S. House,NA,Republican,Mark Donka,492
+Windham,Marlboro,NA,U.S. House,NA,Republican,Mark Donka,41
+Washington,Marshfield,NA,U.S. House,NA,Republican,Mark Donka,169
+Rutland,Mendon,NA,U.S. House,NA,Republican,Mark Donka,185
+Addison,Middlebury,NA,U.S. House,NA,Republican,Mark Donka,452
+Washington,Middlesex,NA,U.S. House,NA,Republican,Mark Donka,152
+Rutland,Middletown Springs,NA,U.S. House,NA,Republican,Mark Donka,137
+Chittenden,Milton,Chittenden 10,U.S. House,NA,Republican,Mark Donka,"1,061"
+Chittenden,Milton,Grand Isle-Chittenden,U.S. House,NA,Republican,Mark Donka,198
+Addison,Monkton,NA,U.S. House,NA,Republican,Mark Donka,273
+Franklin,Montgomery,NA,U.S. House,NA,Republican,Mark Donka,107
+Washington,Montpelier,NA,U.S. House,NA,Republican,Mark Donka,410
+Washington,Moretown,NA,U.S. House,NA,Republican,Mark Donka,169
+Orleans,Morgan,NA,U.S. House,NA,Republican,Mark Donka,108
+Lamoille,Morristown,NA,U.S. House,NA,Republican,Mark Donka,471
+Rutland,Mount Holly,NA,U.S. House,NA,Republican,Mark Donka,193
+Rutland,Mount Tabor,NA,U.S. House,NA,Republican,Mark Donka,31
+Addison,New Haven,NA,U.S. House,NA,Republican,Mark Donka,229
+Caledonia,Newark,NA,U.S. House,NA,Republican,Mark Donka,68
+Orange,Newbury,NA,U.S. House,NA,Republican,Mark Donka,210
+Windham,Newfane,NA,U.S. House,NA,Republican,Mark Donka,122
+Orleans,Newport City,NA,U.S. House,NA,Republican,Mark Donka,370
+Orleans,Newport Town,NA,U.S. House,NA,Republican,Mark Donka,151
+Grand Isle,N. Hero,NA,U.S. House,NA,Republican,Mark Donka,169
+Washington,Northfield,NA,U.S. House,NA,Republican,Mark Donka,471
+Essex,Norton,NA,U.S. House,NA,Republican,Mark Donka,26
+Windsor,Norwich,NA,U.S. House,NA,Republican,Mark Donka,153
+Orange,Orange,NA,U.S. House,NA,Republican,Mark Donka,160
+Addison,Orwell,NA,U.S. House,NA,Republican,Mark Donka,180
+Addison,Panton,NA,U.S. House,NA,Republican,Mark Donka,89
+Rutland,Pawlet,NA,U.S. House,NA,Republican,Mark Donka,167
+Caledonia,Peacham,NA,U.S. House,NA,Republican,Mark Donka,82
+Bennington,Peru,NA,U.S. House,NA,Republican,Mark Donka,44
+Rutland,Pittsfield,NA,U.S. House,NA,Republican,Mark Donka,68
+Rutland,Pittsford,NA,U.S. House,NA,Republican,Mark Donka,354
+Washington,Plainfield,NA,U.S. House,NA,Republican,Mark Donka,99
+Windsor,Plymouth,NA,U.S. House,NA,Republican,Mark Donka,114
+Windsor,Pomfret,NA,U.S. House,NA,Republican,Mark Donka,120
+Rutland,Poultney,NA,U.S. House,NA,Republican,Mark Donka,318
+Bennington,Pownal,NA,U.S. House,NA,Republican,Mark Donka,306
+Rutland,Proctor,NA,U.S. House,NA,Republican,Mark Donka,179
+Windham,Putney,NA,U.S. House,NA,Republican,Mark Donka,101
+Orange,Randolph,NA,U.S. House,NA,Republican,Mark Donka,481
+Windsor,Reading,NA,U.S. House,NA,Republican,Mark Donka,66
+Bennington,Readsboro,NA,U.S. House,NA,Republican,Mark Donka,82
+Franklin,Richford,NA,U.S. House,NA,Republican,Mark Donka,137
+Chittenden,Richmond,NA,U.S. House,NA,Republican,Mark Donka,438
+Addison,Ripton,NA,U.S. House,NA,Republican,Mark Donka,40
+Windsor,Rochester,NA,U.S. House,NA,Republican,Mark Donka,109
+Windham,Rockingham,NA,U.S. House,NA,Republican,Mark Donka,267
+Washington,Roxbury,NA,U.S. House,NA,Republican,Mark Donka,68
+Windsor,Royalton,NA,U.S. House,NA,Republican,Mark Donka,242
+Bennington,Rupert,NA,U.S. House,NA,Republican,Mark Donka,98
+Rutland,Rutland City,Rutland 5-1,U.S. House,NA,Republican,Mark Donka,512
+Rutland,Rutland City,Rutland 5-2,U.S. House,NA,Republican,Mark Donka,395
+Rutland,Rutland City,Rutland 5-3,U.S. House,NA,Republican,Mark Donka,230
+Rutland,Rutland City,Rutland 5-4,U.S. House,NA,Republican,Mark Donka,332
+Rutland,Rutland Town,NA,U.S. House,NA,Republican,Mark Donka,675
+Caledonia,Ryegate,NA,U.S. House,NA,Republican,Mark Donka,143
+Franklin,Salisbury,NA,U.S. House,NA,Republican,Mark Donka,103
+Franklin,Sandgate,NA,U.S. House,NA,Republican,Mark Donka,50
+Chittenden,Searsburg,NA,U.S. House,NA,Republican,Mark Donka,15
+Caledonia,Shaftsbury,NA,U.S. House,NA,Republican,Mark Donka,355
+Addison,Sharon,NA,U.S. House,NA,Republican,Mark Donka,124
+Bennington,Sheffield,NA,U.S. House,NA,Republican,Mark Donka,70
+Bennington,Shelburne,Chittenden 5-1,U.S. House,NA,Republican,Mark Donka,426
+Bennington,Shelburne,Chittenden 5-2,U.S. House,NA,Republican,Mark Donka,437
+Bennington,Sheldon,NA,U.S. House,NA,Republican,Mark Donka,163
+Windsor,Shoreham,NA,U.S. House,NA,Republican,Mark Donka,131
+Caledonia,Shrewsbury,NA,U.S. House,NA,Republican,Mark Donka,164
+Chittenden,S. Burlington,Chittenden 7-1,U.S. House,NA,Republican,Mark Donka,360
+Chittenden,S. Burlington,Chittenden 7-2,U.S. House,NA,Republican,Mark Donka,495
+Chittenden,S. Burlington,Chittenden 7-3,U.S. House,NA,Republican,Mark Donka,287
+Chittenden,S. Burlington,Chittenden 7-4,U.S. House,NA,Republican,Mark Donka,443
+Franklin,S. Hero,NA,U.S. House,NA,Republican,Mark Donka,203
+Addison,Springfield,Windsor 3-1,U.S. House,NA,Republican,Mark Donka,33
+Addison,Springfield,Windsor 3-2,U.S. House,NA,Republican,Mark Donka,756
+Rutland,St. Albans City,NA,U.S. House,NA,Republican,Mark Donka,453
+Chittenden,St. Albans Town,Franklin 3-1,U.S. House,NA,Republican,Mark Donka,221
+Chittenden,St. Albans Town,Franklin 3-2,U.S. House,NA,Republican,Mark Donka,484
+Grand Isle,St. George,NA,U.S. House,NA,Republican,Mark Donka,66
+Windsor,St. Johnsbury,NA,U.S. House,NA,Republican,Mark Donka,687
+Bennington,Stamford,NA,U.S. House,NA,Republican,Mark Donka,79
+Caledonia,Stannard,NA,U.S. House,NA,Republican,Mark Donka,17
+Addison,Starksboro,NA,U.S. House,NA,Republican,Mark Donka,199
+Windsor,Stockbridge,NA,U.S. House,NA,Republican,Mark Donka,84
+Lamoille,Stowe,NA,U.S. House,NA,Republican,Mark Donka,461
+Orange,Strafford,NA,U.S. House,NA,Republican,Mark Donka,75
+Windham,Stratton,NA,U.S. House,NA,Republican,Mark Donka,39
+Rutland,Sudbury,NA,U.S. House,NA,Republican,Mark Donka,73
+Bennington,Sunderland,Bennington 3,U.S. House,NA,Republican,Mark Donka,14
+Bennington,Sunderland,Bennington 4,U.S. House,NA,Republican,Mark Donka,80
+Caledonia,Sutton,NA,U.S. House,NA,Republican,Mark Donka,101
+Franklin,Swanton,NA,U.S. House,NA,Republican,Mark Donka,601
+Orange,Thetford,NA,U.S. House,NA,Republican,Mark Donka,206
+Rutland,Tinmouth,Rutland 2,U.S. House,NA,Republican,Mark Donka,17
+Rutland,Tinmouth,Rutland-Bennington,U.S. House,NA,Republican,Mark Donka,52
+Orange,Topsham,NA,U.S. House,NA,Republican,Mark Donka,128
+Windham,Townshend,NA,U.S. House,NA,Republican,Mark Donka,96
+Orleans,Troy,Orleans 2,U.S. House,NA,Republican,Mark Donka,39
+Orleans,Troy,Orleans-Lamoille,U.S. House,NA,Republican,Mark Donka,90
+Orange,Tunbridge,NA,U.S. House,NA,Republican,Mark Donka,183
+Chittenden,Underhill,NA,U.S. House,NA,Republican,Mark Donka,424
+Addison,Vergennes,NA,U.S. House,NA,Republican,Mark Donka,250
+Windham,Vernon,NA,U.S. House,NA,Republican,Mark Donka,275
+Orange,Vershire,NA,U.S. House,NA,Republican,Mark Donka,69
+Essex,Victory,NA,U.S. House,NA,Republican,Mark Donka,17
+Washington,Waitsfield,NA,U.S. House,NA,Republican,Mark Donka,163
+Caledonia,Walden,NA,U.S. House,NA,Republican,Mark Donka,101
+Rutland,Wallingford,NA,U.S. House,NA,Republican,Mark Donka,268
+Addison,Waltham,NA,U.S. House,NA,Republican,Mark Donka,73
+Windham,Wardsboro,NA,U.S. House,NA,Republican,Mark Donka,85
+Washington,Warren,NA,U.S. House,NA,Republican,Mark Donka,143
+Orange,Washington,NA,U.S. House,NA,Republican,Mark Donka,161
+Washington,Waterbury,NA,U.S. House,NA,Republican,Mark Donka,430
+Caledonia,Waterford,NA,U.S. House,NA,Republican,Mark Donka,240
+Lamoille,Waterville,NA,U.S. House,NA,Republican,Mark Donka,79
+Windsor,Weathersfield,NA,U.S. House,NA,Republican,Mark Donka,395
+Rutland,Wells,NA,U.S. House,NA,Republican,Mark Donka,165
+Orange,W. Fairlee,NA,U.S. House,NA,Republican,Mark Donka,42
+Rutland,W. Haven,NA,U.S. House,NA,Republican,Mark Donka,23
+Rutland,W. Rutland,NA,U.S. House,NA,Republican,Mark Donka,256
+Windsor,W. Windsor,NA,U.S. House,NA,Republican,Mark Donka,140
+Orleans,Westfield,NA,U.S. House,NA,Republican,Mark Donka,70
+Chittenden,Westford,NA,U.S. House,NA,Republican,Mark Donka,292
+Windham,Westminster,Windham 3,U.S. House,NA,Republican,Mark Donka,10
+Windham,Westminster,Windham 4,U.S. House,NA,Republican,Mark Donka,181
+Orleans,Westmore,NA,U.S. House,NA,Republican,Mark Donka,56
+Windsor,Weston,NA,U.S. House,NA,Republican,Mark Donka,70
+Addison,Weybridge,NA,U.S. House,NA,Republican,Mark Donka,91
+Caledonia,Wheelock,NA,U.S. House,NA,Republican,Mark Donka,98
+Addison,Whiting,NA,U.S. House,NA,Republican,Mark Donka,36
+Windham,Whitingham,Windham 6,U.S. House,NA,Republican,Mark Donka,134
+Windham,Whitingham,Windham-Bennington,U.S. House,NA,Republican,Mark Donka,4
+Orange,Williamstown,NA,U.S. House,NA,Republican,Mark Donka,352
+Chittenden,Williston,NA,U.S. House,NA,Republican,Mark Donka,"1,068"
+Windham,Wilmington,NA,U.S. House,NA,Republican,Mark Donka,163
+Windham,Windham,NA,U.S. House,NA,Republican,Mark Donka,34
+Windsor,Windsor,NA,U.S. House,NA,Republican,Mark Donka,235
+Bennington,Winhall,NA,U.S. House,NA,Republican,Mark Donka,103
+Chittenden,Winooski,NA,U.S. House,NA,Republican,Mark Donka,291
+Lamoille,Wolcott,NA,U.S. House,NA,Republican,Mark Donka,171
+Washington,Woodbury,NA,U.S. House,NA,Republican,Mark Donka,118
+Bennington,Woodford,NA,U.S. House,NA,Republican,Mark Donka,18
+Windsor,Woodstock,NA,U.S. House,NA,Republican,Mark Donka,342
+Washington,Worcester,NA,U.S. House,NA,Republican,Mark Donka,70
+Addison,Addison,NA,U.S. House,NA,Independent,Cris Ericson,2
+Orleans,Albany,NA,U.S. House,NA,Independent,Cris Ericson,4
+Grand Isle,Alburgh,NA,U.S. House,NA,Independent,Cris Ericson,11
+Windsor,Andover,NA,U.S. House,NA,Independent,Cris Ericson,7
+Bennington,Arlington,NA,U.S. House,NA,Independent,Cris Ericson,23
+Windham,Athens,NA,U.S. House,NA,Independent,Cris Ericson,5
+Franklin,Bakersfield,NA,U.S. House,NA,Independent,Cris Ericson,6
+Windsor,Baltimore,NA,U.S. House,NA,Independent,Cris Ericson,6
+Windsor,Barnard,NA,U.S. House,NA,Independent,Cris Ericson,4
+Caledonia,Barnet,NA,U.S. House,NA,Independent,Cris Ericson,5
+Washington,Barre City,NA,U.S. House,NA,Independent,Cris Ericson,19
+Washington,Barre Town,NA,U.S. House,NA,Independent,Cris Ericson,24
+Orleans,Barton,NA,U.S. House,NA,Independent,Cris Ericson,8
+Lamoille,Belvidere,NA,U.S. House,NA,Independent,Cris Ericson,2
+Bennington,Bennington,Bennington 2-1,U.S. House,NA,Independent,Cris Ericson,56
+Bennington,Bennington,Bennington 2-2,U.S. House,NA,Independent,Cris Ericson,36
+Rutland,Benson,NA,U.S. House,NA,Independent,Cris Ericson,7
+Franklin,Berkshire,NA,U.S. House,NA,Independent,Cris Ericson,3
+Washington,Berlin,NA,U.S. House,NA,Independent,Cris Ericson,8
+Windsor,Bethel,NA,U.S. House,NA,Independent,Cris Ericson,7
+Essex,Bloomfield,NA,U.S. House,NA,Independent,Cris Ericson,1
+Chittenden,Bolton,NA,U.S. House,NA,Independent,Cris Ericson,11
+Orange,Bradford,NA,U.S. House,NA,Independent,Cris Ericson,7
+Orange,Braintree,NA,U.S. House,NA,Independent,Cris Ericson,4
+Rutland,Brandon,NA,U.S. House,NA,Independent,Cris Ericson,15
+Windham,Brattleboro,Windham 2-1,U.S. House,NA,Independent,Cris Ericson,8
+Windham,Brattleboro,Windham 2-2,U.S. House,NA,Independent,Cris Ericson,19
+Windham,Brattleboro,Windham 2-3,U.S. House,NA,Independent,Cris Ericson,11
+Windsor,Bridgewater,NA,U.S. House,NA,Independent,Cris Ericson,2
+Addison,Bridport,NA,U.S. House,NA,Independent,Cris Ericson,11
+Essex,Brighton,NA,U.S. House,NA,Independent,Cris Ericson,6
+Addison,Bristol,NA,U.S. House,NA,Independent,Cris Ericson,25
+Orange,Brookfield,NA,U.S. House,NA,Independent,Cris Ericson,6
+Windham,Brookline,NA,U.S. House,NA,Independent,Cris Ericson,4
+Orleans,Brownington,NA,U.S. House,NA,Independent,Cris Ericson,8
+Essex,Brunswick,NA,U.S. House,NA,Independent,Cris Ericson,2
+Caledonia,Burke,NA,U.S. House,NA,Independent,Cris Ericson,9
+Chittenden,Burlington,Chittenden 6-1,U.S. House,NA,Independent,Cris Ericson,27
+Chittenden,Burlington,Chittenden 6-2,U.S. House,NA,Independent,Cris Ericson,8
+Chittenden,Burlington,Chittenden 6-3,U.S. House,NA,Independent,Cris Ericson,32
+Chittenden,Burlington,Chittenden 6-4,U.S. House,NA,Independent,Cris Ericson,12
+Chittenden,Burlington,Chittenden 6-5,U.S. House,NA,Independent,Cris Ericson,16
+Chittenden,Burlington,Chittenden 6-6,U.S. House,NA,Independent,Cris Ericson,2
+Chittenden,Burlington,Chittenden 6-7,U.S. House,NA,Independent,Cris Ericson,0
+Washington,Cabot,NA,U.S. House,NA,Independent,Cris Ericson,3
+Washington,Calais,NA,U.S. House,NA,Independent,Cris Ericson,5
+Lamoille,Cambridge,NA,U.S. House,NA,Independent,Cris Ericson,21
+Essex,Canaan,NA,U.S. House,NA,Independent,Cris Ericson,4
+Rutland,Castleton,NA,U.S. House,NA,Independent,Cris Ericson,23
+Windsor,Cavendish,NA,U.S. House,NA,Independent,Cris Ericson,26
+Orleans,Charleston,NA,U.S. House,NA,Independent,Cris Ericson,1
+Chittenden,Charlotte,NA,U.S. House,NA,Independent,Cris Ericson,10
+Orange,Chelsea,NA,U.S. House,NA,Independent,Cris Ericson,4
+Windsor,Chester,NA,U.S. House,NA,Independent,Cris Ericson,46
+Rutland,Chittenden,NA,U.S. House,NA,Independent,Cris Ericson,10
+Rutland,Clarendon,NA,U.S. House,NA,Independent,Cris Ericson,13
+Chittenden,Colchester,Chittenden 9-1,U.S. House,NA,Independent,Cris Ericson,14
+Chittenden,Colchester,Chittenden 9-2,U.S. House,NA,Independent,Cris Ericson,27
+Essex,Concord,NA,U.S. House,NA,Independent,Cris Ericson,10
+Orange,Corinth,NA,U.S. House,NA,Independent,Cris Ericson,11
+Addison,Cornwall,NA,U.S. House,NA,Independent,Cris Ericson,6
+Orleans,Coventry,NA,U.S. House,NA,Independent,Cris Ericson,6
+Orleans,Craftsbury,NA,U.S. House,NA,Independent,Cris Ericson,6
+Rutland,Danby,NA,U.S. House,NA,Independent,Cris Ericson,9
+Caledonia,Danville,NA,U.S. House,NA,Independent,Cris Ericson,5
+Orleans,Derby,NA,U.S. House,NA,Independent,Cris Ericson,9
+Bennington,Dorset,NA,U.S. House,NA,Independent,Cris Ericson,19
+Windham,Dover,NA,U.S. House,NA,Independent,Cris Ericson,22
+Windham,Dummerston,NA,U.S. House,NA,Independent,Cris Ericson,12
+Washington,Duxbury,NA,U.S. House,NA,Independent,Cris Ericson,12
+Essex,E. Haven,NA,U.S. House,NA,Independent,Cris Ericson,2
+Washington,E. Montpelier,NA,U.S. House,NA,Independent,Cris Ericson,5
+Lamoille,Eden,NA,U.S. House,NA,Independent,Cris Ericson,6
+Lamoille,Elmore,NA,U.S. House,NA,Independent,Cris Ericson,4
+Franklin,Enosburgh,NA,U.S. House,NA,Independent,Cris Ericson,13
+Chittenden,Essex,Chittenden 8-1,U.S. House,NA,Independent,Cris Ericson,15
+Chittenden,Essex,Chittenden 8-2,U.S. House,NA,Independent,Cris Ericson,17
+Chittenden,Essex,Chittenden 8-3,U.S. House,NA,Independent,Cris Ericson,5
+Rutland,Fair Haven,NA,U.S. House,NA,Independent,Cris Ericson,17
+Franklin,Fairfax,NA,U.S. House,NA,Independent,Cris Ericson,24
+Franklin,Fairfield,NA,U.S. House,NA,Independent,Cris Ericson,6
+Orange,Fairlee,NA,U.S. House,NA,Independent,Cris Ericson,3
+Washington,Fayston,NA,U.S. House,NA,Independent,Cris Ericson,11
+Addison,Ferrisburgh,NA,U.S. House,NA,Independent,Cris Ericson,12
+Franklin,Fletcher,NA,U.S. House,NA,Independent,Cris Ericson,7
+Franklin,Franklin,NA,U.S. House,NA,Independent,Cris Ericson,7
+Franklin,Georgia,NA,U.S. House,NA,Independent,Cris Ericson,16
+Orleans,Glover,NA,U.S. House,NA,Independent,Cris Ericson,6
+Addison,Goshen,NA,U.S. House,NA,Independent,Cris Ericson,0
+Windham,Grafton,NA,U.S. House,NA,Independent,Cris Ericson,14
+Essex,Granby,NA,U.S. House,NA,Independent,Cris Ericson,0
+Grand Isle,Grand Isle,NA,U.S. House,NA,Independent,Cris Ericson,12
+Addison,Granville,NA,U.S. House,NA,Independent,Cris Ericson,1
+Orleans,Greensboro,NA,U.S. House,NA,Independent,Cris Ericson,3
+Caledonia,Groton,NA,U.S. House,NA,Independent,Cris Ericson,7
+Essex,Guildhall,NA,U.S. House,NA,Independent,Cris Ericson,4
+Windham,Guilford,NA,U.S. House,NA,Independent,Cris Ericson,15
+Windham,Halifax,NA,U.S. House,NA,Independent,Cris Ericson,7
+Addison,Hancock,NA,U.S. House,NA,Independent,Cris Ericson,2
+Caledonia,Hardwick,NA,U.S. House,NA,Independent,Cris Ericson,12
+Windsor,Hartford,Windsor 4-1,U.S. House,NA,Independent,Cris Ericson,4
+Windsor,Hartford,Windsor 4-2,U.S. House,NA,Independent,Cris Ericson,25
+Windsor,Hartland,NA,U.S. House,NA,Independent,Cris Ericson,16
+Franklin,Highgate,NA,U.S. House,NA,Independent,Cris Ericson,9
+Chittenden,Hinesburg,Chittenden 4-1,U.S. House,NA,Independent,Cris Ericson,0
+Chittenden,Hinesburg,Chittenden 4-2,U.S. House,NA,Independent,Cris Ericson,10
+Orleans,Holland,NA,U.S. House,NA,Independent,Cris Ericson,4
+Rutland,Hubbardton,NA,U.S. House,NA,Independent,Cris Ericson,4
+Chittenden,Huntington,NA,U.S. House,NA,Independent,Cris Ericson,12
+Lamoille,Hyde Park,NA,U.S. House,NA,Independent,Cris Ericson,16
+Rutland,Ira,NA,U.S. House,NA,Independent,Cris Ericson,3
+Orleans,Irasburg,NA,U.S. House,NA,Independent,Cris Ericson,4
+Grand Isle,Isle La Motte,NA,U.S. House,NA,Independent,Cris Ericson,2
+Windham,Jamaica,NA,U.S. House,NA,Independent,Cris Ericson,12
+Orleans,Jay,NA,U.S. House,NA,Independent,Cris Ericson,2
+Chittenden,Jericho,NA,U.S. House,NA,Independent,Cris Ericson,10
+Lamoille,Johnson,NA,U.S. House,NA,Independent,Cris Ericson,11
+Rutland,Killington,NA,U.S. House,NA,Independent,Cris Ericson,5
+Caledonia,Kirby,NA,U.S. House,NA,Independent,Cris Ericson,1
+Bennington,Landgrove,NA,U.S. House,NA,Independent,Cris Ericson,0
+Addison,Leicester,NA,U.S. House,NA,Independent,Cris Ericson,4
+Essex,Lemington,NA,U.S. House,NA,Independent,Cris Ericson,0
+Addison,Lincoln,NA,U.S. House,NA,Independent,Cris Ericson,2
+Windham,Londonderry,NA,U.S. House,NA,Independent,Cris Ericson,19
+Orleans,Lowell,NA,U.S. House,NA,Independent,Cris Ericson,4
+Windsor,Ludlow,NA,U.S. House,NA,Independent,Cris Ericson,22
+Essex,Lunenburg,NA,U.S. House,NA,Independent,Cris Ericson,6
+Caledonia,Lyndon,NA,U.S. House,NA,Independent,Cris Ericson,15
+Essex,Maidstone,NA,U.S. House,NA,Independent,Cris Ericson,0
+Bennington,Manchester,NA,U.S. House,NA,Independent,Cris Ericson,48
+Windham,Marlboro,NA,U.S. House,NA,Independent,Cris Ericson,8
+Washington,Marshfield,NA,U.S. House,NA,Independent,Cris Ericson,6
+Rutland,Mendon,NA,U.S. House,NA,Independent,Cris Ericson,8
+Addison,Middlebury,NA,U.S. House,NA,Independent,Cris Ericson,19
+Washington,Middlesex,NA,U.S. House,NA,Independent,Cris Ericson,9
+Rutland,Middletown Springs,NA,U.S. House,NA,Independent,Cris Ericson,1
+Chittenden,Milton,Chittenden 10,U.S. House,NA,Independent,Cris Ericson,38
+Chittenden,Milton,Grand Isle-Chittenden,U.S. House,NA,Independent,Cris Ericson,10
+Addison,Monkton,NA,U.S. House,NA,Independent,Cris Ericson,9
+Franklin,Montgomery,NA,U.S. House,NA,Independent,Cris Ericson,5
+Washington,Montpelier,NA,U.S. House,NA,Independent,Cris Ericson,20
+Washington,Moretown,NA,U.S. House,NA,Independent,Cris Ericson,8
+Orleans,Morgan,NA,U.S. House,NA,Independent,Cris Ericson,3
+Lamoille,Morristown,NA,U.S. House,NA,Independent,Cris Ericson,19
+Rutland,Mount Holly,NA,U.S. House,NA,Independent,Cris Ericson,13
+Rutland,Mount Tabor,NA,U.S. House,NA,Independent,Cris Ericson,2
+Addison,New Haven,NA,U.S. House,NA,Independent,Cris Ericson,13
+Caledonia,Newark,NA,U.S. House,NA,Independent,Cris Ericson,4
+Orange,Newbury,NA,U.S. House,NA,Independent,Cris Ericson,7
+Windham,Newfane,NA,U.S. House,NA,Independent,Cris Ericson,10
+Orleans,Newport City,NA,U.S. House,NA,Independent,Cris Ericson,17
+Orleans,Newport Town,NA,U.S. House,NA,Independent,Cris Ericson,7
+Grand Isle,N. Hero,NA,U.S. House,NA,Independent,Cris Ericson,2
+Washington,Northfield,NA,U.S. House,NA,Independent,Cris Ericson,22
+Essex,Norton,NA,U.S. House,NA,Independent,Cris Ericson,0
+Windsor,Norwich,NA,U.S. House,NA,Independent,Cris Ericson,6
+Orange,Orange,NA,U.S. House,NA,Independent,Cris Ericson,2
+Addison,Orwell,NA,U.S. House,NA,Independent,Cris Ericson,6
+Addison,Panton,NA,U.S. House,NA,Independent,Cris Ericson,6
+Rutland,Pawlet,NA,U.S. House,NA,Independent,Cris Ericson,13
+Caledonia,Peacham,NA,U.S. House,NA,Independent,Cris Ericson,3
+Bennington,Peru,NA,U.S. House,NA,Independent,Cris Ericson,5
+Rutland,Pittsfield,NA,U.S. House,NA,Independent,Cris Ericson,2
+Rutland,Pittsford,NA,U.S. House,NA,Independent,Cris Ericson,18
+Washington,Plainfield,NA,U.S. House,NA,Independent,Cris Ericson,1
+Windsor,Plymouth,NA,U.S. House,NA,Independent,Cris Ericson,7
+Windsor,Pomfret,NA,U.S. House,NA,Independent,Cris Ericson,1
+Rutland,Poultney,NA,U.S. House,NA,Independent,Cris Ericson,23
+Bennington,Pownal,NA,U.S. House,NA,Independent,Cris Ericson,67
+Rutland,Proctor,NA,U.S. House,NA,Independent,Cris Ericson,5
+Windham,Putney,NA,U.S. House,NA,Independent,Cris Ericson,8
+Orange,Randolph,NA,U.S. House,NA,Independent,Cris Ericson,16
+Windsor,Reading,NA,U.S. House,NA,Independent,Cris Ericson,0
+Bennington,Readsboro,NA,U.S. House,NA,Independent,Cris Ericson,8
+Franklin,Richford,NA,U.S. House,NA,Independent,Cris Ericson,7
+Chittenden,Richmond,NA,U.S. House,NA,Independent,Cris Ericson,14
+Addison,Ripton,NA,U.S. House,NA,Independent,Cris Ericson,2
+Windsor,Rochester,NA,U.S. House,NA,Independent,Cris Ericson,3
+Windham,Rockingham,NA,U.S. House,NA,Independent,Cris Ericson,41
+Washington,Roxbury,NA,U.S. House,NA,Independent,Cris Ericson,2
+Windsor,Royalton,NA,U.S. House,NA,Independent,Cris Ericson,9
+Bennington,Rupert,NA,U.S. House,NA,Independent,Cris Ericson,9
+Rutland,Rutland City,Rutland 5-1,U.S. House,NA,Independent,Cris Ericson,18
+Rutland,Rutland City,Rutland 5-2,U.S. House,NA,Independent,Cris Ericson,14
+Rutland,Rutland City,Rutland 5-3,U.S. House,NA,Independent,Cris Ericson,16
+Rutland,Rutland City,Rutland 5-4,U.S. House,NA,Independent,Cris Ericson,20
+Rutland,Rutland Town,NA,U.S. House,NA,Independent,Cris Ericson,29
+Caledonia,Ryegate,NA,U.S. House,NA,Independent,Cris Ericson,4
+Franklin,Salisbury,NA,U.S. House,NA,Independent,Cris Ericson,8
+Franklin,Sandgate,NA,U.S. House,NA,Independent,Cris Ericson,6
+Chittenden,Searsburg,NA,U.S. House,NA,Independent,Cris Ericson,4
+Caledonia,Shaftsbury,NA,U.S. House,NA,Independent,Cris Ericson,23
+Addison,Sharon,NA,U.S. House,NA,Independent,Cris Ericson,3
+Bennington,Sheffield,NA,U.S. House,NA,Independent,Cris Ericson,2
+Bennington,Shelburne,Chittenden 5-1,U.S. House,NA,Independent,Cris Ericson,7
+Bennington,Shelburne,Chittenden 5-2,U.S. House,NA,Independent,Cris Ericson,15
+Bennington,Sheldon,NA,U.S. House,NA,Independent,Cris Ericson,3
+Windsor,Shoreham,NA,U.S. House,NA,Independent,Cris Ericson,5
+Caledonia,Shrewsbury,NA,U.S. House,NA,Independent,Cris Ericson,6
+Chittenden,S. Burlington,Chittenden 7-1,U.S. House,NA,Independent,Cris Ericson,10
+Chittenden,S. Burlington,Chittenden 7-2,U.S. House,NA,Independent,Cris Ericson,10
+Chittenden,S. Burlington,Chittenden 7-3,U.S. House,NA,Independent,Cris Ericson,20
+Chittenden,S. Burlington,Chittenden 7-4,U.S. House,NA,Independent,Cris Ericson,14
+Franklin,S. Hero,NA,U.S. House,NA,Independent,Cris Ericson,8
+Addison,Springfield,Windsor 3-1,U.S. House,NA,Independent,Cris Ericson,3
+Addison,Springfield,Windsor 3-2,U.S. House,NA,Independent,Cris Ericson,65
+Rutland,St. Albans City,NA,U.S. House,NA,Independent,Cris Ericson,24
+Chittenden,St. Albans Town,Franklin 3-1,U.S. House,NA,Independent,Cris Ericson,4
+Chittenden,St. Albans Town,Franklin 3-2,U.S. House,NA,Independent,Cris Ericson,20
+Grand Isle,St. George,NA,U.S. House,NA,Independent,Cris Ericson,1
+Windsor,St. Johnsbury,NA,U.S. House,NA,Independent,Cris Ericson,23
+Bennington,Stamford,NA,U.S. House,NA,Independent,Cris Ericson,13
+Caledonia,Stannard,NA,U.S. House,NA,Independent,Cris Ericson,1
+Addison,Starksboro,NA,U.S. House,NA,Independent,Cris Ericson,6
+Windsor,Stockbridge,NA,U.S. House,NA,Independent,Cris Ericson,2
+Lamoille,Stowe,NA,U.S. House,NA,Independent,Cris Ericson,13
+Orange,Strafford,NA,U.S. House,NA,Independent,Cris Ericson,2
+Windham,Stratton,NA,U.S. House,NA,Independent,Cris Ericson,4
+Rutland,Sudbury,NA,U.S. House,NA,Independent,Cris Ericson,0
+Bennington,Sunderland,Bennington 3,U.S. House,NA,Independent,Cris Ericson,4
+Bennington,Sunderland,Bennington 4,U.S. House,NA,Independent,Cris Ericson,10
+Caledonia,Sutton,NA,U.S. House,NA,Independent,Cris Ericson,1
+Franklin,Swanton,NA,U.S. House,NA,Independent,Cris Ericson,24
+Orange,Thetford,NA,U.S. House,NA,Independent,Cris Ericson,8
+Rutland,Tinmouth,Rutland 2,U.S. House,NA,Independent,Cris Ericson,1
+Rutland,Tinmouth,Rutland-Bennington,U.S. House,NA,Independent,Cris Ericson,2
+Orange,Topsham,NA,U.S. House,NA,Independent,Cris Ericson,3
+Windham,Townshend,NA,U.S. House,NA,Independent,Cris Ericson,9
+Orleans,Troy,Orleans 2,U.S. House,NA,Independent,Cris Ericson,0
+Orleans,Troy,Orleans-Lamoille,U.S. House,NA,Independent,Cris Ericson,6
+Orange,Tunbridge,NA,U.S. House,NA,Independent,Cris Ericson,3
+Chittenden,Underhill,NA,U.S. House,NA,Independent,Cris Ericson,14
+Addison,Vergennes,NA,U.S. House,NA,Independent,Cris Ericson,6
+Windham,Vernon,NA,U.S. House,NA,Independent,Cris Ericson,10
+Orange,Vershire,NA,U.S. House,NA,Independent,Cris Ericson,3
+Essex,Victory,NA,U.S. House,NA,Independent,Cris Ericson,0
+Washington,Waitsfield,NA,U.S. House,NA,Independent,Cris Ericson,8
+Caledonia,Walden,NA,U.S. House,NA,Independent,Cris Ericson,0
+Rutland,Wallingford,NA,U.S. House,NA,Independent,Cris Ericson,17
+Addison,Waltham,NA,U.S. House,NA,Independent,Cris Ericson,5
+Windham,Wardsboro,NA,U.S. House,NA,Independent,Cris Ericson,8
+Washington,Warren,NA,U.S. House,NA,Independent,Cris Ericson,16
+Orange,Washington,NA,U.S. House,NA,Independent,Cris Ericson,2
+Washington,Waterbury,NA,U.S. House,NA,Independent,Cris Ericson,17
+Caledonia,Waterford,NA,U.S. House,NA,Independent,Cris Ericson,6
+Lamoille,Waterville,NA,U.S. House,NA,Independent,Cris Ericson,2
+Windsor,Weathersfield,NA,U.S. House,NA,Independent,Cris Ericson,13
+Rutland,Wells,NA,U.S. House,NA,Independent,Cris Ericson,5
+Orange,W. Fairlee,NA,U.S. House,NA,Independent,Cris Ericson,3
+Rutland,W. Haven,NA,U.S. House,NA,Independent,Cris Ericson,1
+Rutland,W. Rutland,NA,U.S. House,NA,Independent,Cris Ericson,16
+Windsor,W. Windsor,NA,U.S. House,NA,Independent,Cris Ericson,6
+Orleans,Westfield,NA,U.S. House,NA,Independent,Cris Ericson,2
+Chittenden,Westford,NA,U.S. House,NA,Independent,Cris Ericson,13
+Windham,Westminster,Windham 3,U.S. House,NA,Independent,Cris Ericson,1
+Windham,Westminster,Windham 4,U.S. House,NA,Independent,Cris Ericson,29
+Orleans,Westmore,NA,U.S. House,NA,Independent,Cris Ericson,0
+Windsor,Weston,NA,U.S. House,NA,Independent,Cris Ericson,7
+Addison,Weybridge,NA,U.S. House,NA,Independent,Cris Ericson,5
+Caledonia,Wheelock,NA,U.S. House,NA,Independent,Cris Ericson,1
+Addison,Whiting,NA,U.S. House,NA,Independent,Cris Ericson,5
+Windham,Whitingham,Windham 6,U.S. House,NA,Independent,Cris Ericson,10
+Windham,Whitingham,Windham-Bennington,U.S. House,NA,Independent,Cris Ericson,0
+Orange,Williamstown,NA,U.S. House,NA,Independent,Cris Ericson,12
+Chittenden,Williston,NA,U.S. House,NA,Independent,Cris Ericson,25
+Windham,Wilmington,NA,U.S. House,NA,Independent,Cris Ericson,17
+Windham,Windham,NA,U.S. House,NA,Independent,Cris Ericson,7
+Windsor,Windsor,NA,U.S. House,NA,Independent,Cris Ericson,11
+Bennington,Winhall,NA,U.S. House,NA,Independent,Cris Ericson,12
+Chittenden,Winooski,NA,U.S. House,NA,Independent,Cris Ericson,29
+Lamoille,Wolcott,NA,U.S. House,NA,Independent,Cris Ericson,4
+Washington,Woodbury,NA,U.S. House,NA,Independent,Cris Ericson,3
+Bennington,Woodford,NA,U.S. House,NA,Independent,Cris Ericson,2
+Windsor,Woodstock,NA,U.S. House,NA,Independent,Cris Ericson,6
+Washington,Worcester,NA,U.S. House,NA,Independent,Cris Ericson,4
+Addison,Addison,NA,U.S. House,NA,Liberty Union,Matthew Andrews,4
+Orleans,Albany,NA,U.S. House,NA,Liberty Union,Matthew Andrews,6
+Grand Isle,Alburgh,NA,U.S. House,NA,Liberty Union,Matthew Andrews,7
+Windsor,Andover,NA,U.S. House,NA,Liberty Union,Matthew Andrews,0
+Bennington,Arlington,NA,U.S. House,NA,Liberty Union,Matthew Andrews,4
+Windham,Athens,NA,U.S. House,NA,Liberty Union,Matthew Andrews,3
+Franklin,Bakersfield,NA,U.S. House,NA,Liberty Union,Matthew Andrews,3
+Windsor,Baltimore,NA,U.S. House,NA,Liberty Union,Matthew Andrews,1
+Windsor,Barnard,NA,U.S. House,NA,Liberty Union,Matthew Andrews,1
+Caledonia,Barnet,NA,U.S. House,NA,Liberty Union,Matthew Andrews,6
+Washington,Barre City,NA,U.S. House,NA,Liberty Union,Matthew Andrews,32
+Washington,Barre Town,NA,U.S. House,NA,Liberty Union,Matthew Andrews,26
+Orleans,Barton,NA,U.S. House,NA,Liberty Union,Matthew Andrews,3
+Lamoille,Belvidere,NA,U.S. House,NA,Liberty Union,Matthew Andrews,0
+Bennington,Bennington,Bennington 2-1,U.S. House,NA,Liberty Union,Matthew Andrews,23
+Bennington,Bennington,Bennington 2-2,U.S. House,NA,Liberty Union,Matthew Andrews,20
+Rutland,Benson,NA,U.S. House,NA,Liberty Union,Matthew Andrews,5
+Franklin,Berkshire,NA,U.S. House,NA,Liberty Union,Matthew Andrews,4
+Washington,Berlin,NA,U.S. House,NA,Liberty Union,Matthew Andrews,17
+Windsor,Bethel,NA,U.S. House,NA,Liberty Union,Matthew Andrews,7
+Essex,Bloomfield,NA,U.S. House,NA,Liberty Union,Matthew Andrews,0
+Chittenden,Bolton,NA,U.S. House,NA,Liberty Union,Matthew Andrews,5
+Orange,Bradford,NA,U.S. House,NA,Liberty Union,Matthew Andrews,6
+Orange,Braintree,NA,U.S. House,NA,Liberty Union,Matthew Andrews,2
+Rutland,Brandon,NA,U.S. House,NA,Liberty Union,Matthew Andrews,15
+Windham,Brattleboro,Windham 2-1,U.S. House,NA,Liberty Union,Matthew Andrews,16
+Windham,Brattleboro,Windham 2-2,U.S. House,NA,Liberty Union,Matthew Andrews,24
+Windham,Brattleboro,Windham 2-3,U.S. House,NA,Liberty Union,Matthew Andrews,23
+Windsor,Bridgewater,NA,U.S. House,NA,Liberty Union,Matthew Andrews,2
+Addison,Bridport,NA,U.S. House,NA,Liberty Union,Matthew Andrews,1
+Essex,Brighton,NA,U.S. House,NA,Liberty Union,Matthew Andrews,4
+Addison,Bristol,NA,U.S. House,NA,Liberty Union,Matthew Andrews,16
+Orange,Brookfield,NA,U.S. House,NA,Liberty Union,Matthew Andrews,5
+Windham,Brookline,NA,U.S. House,NA,Liberty Union,Matthew Andrews,4
+Orleans,Brownington,NA,U.S. House,NA,Liberty Union,Matthew Andrews,3
+Essex,Brunswick,NA,U.S. House,NA,Liberty Union,Matthew Andrews,0
+Caledonia,Burke,NA,U.S. House,NA,Liberty Union,Matthew Andrews,4
+Chittenden,Burlington,Chittenden 6-1,U.S. House,NA,Liberty Union,Matthew Andrews,16
+Chittenden,Burlington,Chittenden 6-2,U.S. House,NA,Liberty Union,Matthew Andrews,19
+Chittenden,Burlington,Chittenden 6-3,U.S. House,NA,Liberty Union,Matthew Andrews,38
+Chittenden,Burlington,Chittenden 6-4,U.S. House,NA,Liberty Union,Matthew Andrews,25
+Chittenden,Burlington,Chittenden 6-5,U.S. House,NA,Liberty Union,Matthew Andrews,23
+Chittenden,Burlington,Chittenden 6-6,U.S. House,NA,Liberty Union,Matthew Andrews,10
+Chittenden,Burlington,Chittenden 6-7,U.S. House,NA,Liberty Union,Matthew Andrews,0
+Washington,Cabot,NA,U.S. House,NA,Liberty Union,Matthew Andrews,12
+Washington,Calais,NA,U.S. House,NA,Liberty Union,Matthew Andrews,18
+Lamoille,Cambridge,NA,U.S. House,NA,Liberty Union,Matthew Andrews,10
+Essex,Canaan,NA,U.S. House,NA,Liberty Union,Matthew Andrews,1
+Rutland,Castleton,NA,U.S. House,NA,Liberty Union,Matthew Andrews,14
+Windsor,Cavendish,NA,U.S. House,NA,Liberty Union,Matthew Andrews,2
+Orleans,Charleston,NA,U.S. House,NA,Liberty Union,Matthew Andrews,4
+Chittenden,Charlotte,NA,U.S. House,NA,Liberty Union,Matthew Andrews,14
+Orange,Chelsea,NA,U.S. House,NA,Liberty Union,Matthew Andrews,5
+Windsor,Chester,NA,U.S. House,NA,Liberty Union,Matthew Andrews,6
+Rutland,Chittenden,NA,U.S. House,NA,Liberty Union,Matthew Andrews,4
+Rutland,Clarendon,NA,U.S. House,NA,Liberty Union,Matthew Andrews,9
+Chittenden,Colchester,Chittenden 9-1,U.S. House,NA,Liberty Union,Matthew Andrews,23
+Chittenden,Colchester,Chittenden 9-2,U.S. House,NA,Liberty Union,Matthew Andrews,15
+Essex,Concord,NA,U.S. House,NA,Liberty Union,Matthew Andrews,5
+Orange,Corinth,NA,U.S. House,NA,Liberty Union,Matthew Andrews,8
+Addison,Cornwall,NA,U.S. House,NA,Liberty Union,Matthew Andrews,3
+Orleans,Coventry,NA,U.S. House,NA,Liberty Union,Matthew Andrews,1
+Orleans,Craftsbury,NA,U.S. House,NA,Liberty Union,Matthew Andrews,9
+Rutland,Danby,NA,U.S. House,NA,Liberty Union,Matthew Andrews,4
+Caledonia,Danville,NA,U.S. House,NA,Liberty Union,Matthew Andrews,8
+Orleans,Derby,NA,U.S. House,NA,Liberty Union,Matthew Andrews,7
+Bennington,Dorset,NA,U.S. House,NA,Liberty Union,Matthew Andrews,3
+Windham,Dover,NA,U.S. House,NA,Liberty Union,Matthew Andrews,4
+Windham,Dummerston,NA,U.S. House,NA,Liberty Union,Matthew Andrews,12
+Washington,Duxbury,NA,U.S. House,NA,Liberty Union,Matthew Andrews,4
+Essex,E. Haven,NA,U.S. House,NA,Liberty Union,Matthew Andrews,4
+Washington,E. Montpelier,NA,U.S. House,NA,Liberty Union,Matthew Andrews,19
+Lamoille,Eden,NA,U.S. House,NA,Liberty Union,Matthew Andrews,5
+Lamoille,Elmore,NA,U.S. House,NA,Liberty Union,Matthew Andrews,6
+Franklin,Enosburgh,NA,U.S. House,NA,Liberty Union,Matthew Andrews,15
+Chittenden,Essex,Chittenden 8-1,U.S. House,NA,Liberty Union,Matthew Andrews,9
+Chittenden,Essex,Chittenden 8-2,U.S. House,NA,Liberty Union,Matthew Andrews,18
+Chittenden,Essex,Chittenden 8-3,U.S. House,NA,Liberty Union,Matthew Andrews,6
+Rutland,Fair Haven,NA,U.S. House,NA,Liberty Union,Matthew Andrews,15
+Franklin,Fairfax,NA,U.S. House,NA,Liberty Union,Matthew Andrews,9
+Franklin,Fairfield,NA,U.S. House,NA,Liberty Union,Matthew Andrews,5
+Orange,Fairlee,NA,U.S. House,NA,Liberty Union,Matthew Andrews,0
+Washington,Fayston,NA,U.S. House,NA,Liberty Union,Matthew Andrews,1
+Addison,Ferrisburgh,NA,U.S. House,NA,Liberty Union,Matthew Andrews,12
+Franklin,Fletcher,NA,U.S. House,NA,Liberty Union,Matthew Andrews,6
+Franklin,Franklin,NA,U.S. House,NA,Liberty Union,Matthew Andrews,3
+Franklin,Georgia,NA,U.S. House,NA,Liberty Union,Matthew Andrews,15
+Orleans,Glover,NA,U.S. House,NA,Liberty Union,Matthew Andrews,4
+Addison,Goshen,NA,U.S. House,NA,Liberty Union,Matthew Andrews,2
+Windham,Grafton,NA,U.S. House,NA,Liberty Union,Matthew Andrews,1
+Essex,Granby,NA,U.S. House,NA,Liberty Union,Matthew Andrews,0
+Grand Isle,Grand Isle,NA,U.S. House,NA,Liberty Union,Matthew Andrews,9
+Addison,Granville,NA,U.S. House,NA,Liberty Union,Matthew Andrews,0
+Orleans,Greensboro,NA,U.S. House,NA,Liberty Union,Matthew Andrews,4
+Caledonia,Groton,NA,U.S. House,NA,Liberty Union,Matthew Andrews,4
+Essex,Guildhall,NA,U.S. House,NA,Liberty Union,Matthew Andrews,1
+Windham,Guilford,NA,U.S. House,NA,Liberty Union,Matthew Andrews,12
+Windham,Halifax,NA,U.S. House,NA,Liberty Union,Matthew Andrews,2
+Addison,Hancock,NA,U.S. House,NA,Liberty Union,Matthew Andrews,2
+Caledonia,Hardwick,NA,U.S. House,NA,Liberty Union,Matthew Andrews,17
+Windsor,Hartford,Windsor 4-1,U.S. House,NA,Liberty Union,Matthew Andrews,6
+Windsor,Hartford,Windsor 4-2,U.S. House,NA,Liberty Union,Matthew Andrews,12
+Windsor,Hartland,NA,U.S. House,NA,Liberty Union,Matthew Andrews,16
+Franklin,Highgate,NA,U.S. House,NA,Liberty Union,Matthew Andrews,2
+Chittenden,Hinesburg,Chittenden 4-1,U.S. House,NA,Liberty Union,Matthew Andrews,0
+Chittenden,Hinesburg,Chittenden 4-2,U.S. House,NA,Liberty Union,Matthew Andrews,10
+Orleans,Holland,NA,U.S. House,NA,Liberty Union,Matthew Andrews,1
+Rutland,Hubbardton,NA,U.S. House,NA,Liberty Union,Matthew Andrews,1
+Chittenden,Huntington,NA,U.S. House,NA,Liberty Union,Matthew Andrews,16
+Lamoille,Hyde Park,NA,U.S. House,NA,Liberty Union,Matthew Andrews,21
+Rutland,Ira,NA,U.S. House,NA,Liberty Union,Matthew Andrews,2
+Orleans,Irasburg,NA,U.S. House,NA,Liberty Union,Matthew Andrews,2
+Grand Isle,Isle La Motte,NA,U.S. House,NA,Liberty Union,Matthew Andrews,2
+Windham,Jamaica,NA,U.S. House,NA,Liberty Union,Matthew Andrews,4
+Orleans,Jay,NA,U.S. House,NA,Liberty Union,Matthew Andrews,0
+Chittenden,Jericho,NA,U.S. House,NA,Liberty Union,Matthew Andrews,10
+Lamoille,Johnson,NA,U.S. House,NA,Liberty Union,Matthew Andrews,13
+Rutland,Killington,NA,U.S. House,NA,Liberty Union,Matthew Andrews,4
+Caledonia,Kirby,NA,U.S. House,NA,Liberty Union,Matthew Andrews,1
+Bennington,Landgrove,NA,U.S. House,NA,Liberty Union,Matthew Andrews,1
+Addison,Leicester,NA,U.S. House,NA,Liberty Union,Matthew Andrews,3
+Essex,Lemington,NA,U.S. House,NA,Liberty Union,Matthew Andrews,1
+Addison,Lincoln,NA,U.S. House,NA,Liberty Union,Matthew Andrews,5
+Windham,Londonderry,NA,U.S. House,NA,Liberty Union,Matthew Andrews,2
+Orleans,Lowell,NA,U.S. House,NA,Liberty Union,Matthew Andrews,7
+Windsor,Ludlow,NA,U.S. House,NA,Liberty Union,Matthew Andrews,5
+Essex,Lunenburg,NA,U.S. House,NA,Liberty Union,Matthew Andrews,2
+Caledonia,Lyndon,NA,U.S. House,NA,Liberty Union,Matthew Andrews,9
+Essex,Maidstone,NA,U.S. House,NA,Liberty Union,Matthew Andrews,0
+Bennington,Manchester,NA,U.S. House,NA,Liberty Union,Matthew Andrews,6
+Windham,Marlboro,NA,U.S. House,NA,Liberty Union,Matthew Andrews,6
+Washington,Marshfield,NA,U.S. House,NA,Liberty Union,Matthew Andrews,22
+Rutland,Mendon,NA,U.S. House,NA,Liberty Union,Matthew Andrews,4
+Addison,Middlebury,NA,U.S. House,NA,Liberty Union,Matthew Andrews,14
+Washington,Middlesex,NA,U.S. House,NA,Liberty Union,Matthew Andrews,24
+Rutland,Middletown Springs,NA,U.S. House,NA,Liberty Union,Matthew Andrews,1
+Chittenden,Milton,Chittenden 10,U.S. House,NA,Liberty Union,Matthew Andrews,20
+Chittenden,Milton,Grand Isle-Chittenden,U.S. House,NA,Liberty Union,Matthew Andrews,1
+Addison,Monkton,NA,U.S. House,NA,Liberty Union,Matthew Andrews,11
+Franklin,Montgomery,NA,U.S. House,NA,Liberty Union,Matthew Andrews,4
+Washington,Montpelier,NA,U.S. House,NA,Liberty Union,Matthew Andrews,55
+Washington,Moretown,NA,U.S. House,NA,Liberty Union,Matthew Andrews,12
+Orleans,Morgan,NA,U.S. House,NA,Liberty Union,Matthew Andrews,2
+Lamoille,Morristown,NA,U.S. House,NA,Liberty Union,Matthew Andrews,15
+Rutland,Mount Holly,NA,U.S. House,NA,Liberty Union,Matthew Andrews,1
+Rutland,Mount Tabor,NA,U.S. House,NA,Liberty Union,Matthew Andrews,0
+Addison,New Haven,NA,U.S. House,NA,Liberty Union,Matthew Andrews,6
+Caledonia,Newark,NA,U.S. House,NA,Liberty Union,Matthew Andrews,4
+Orange,Newbury,NA,U.S. House,NA,Liberty Union,Matthew Andrews,8
+Windham,Newfane,NA,U.S. House,NA,Liberty Union,Matthew Andrews,3
+Orleans,Newport City,NA,U.S. House,NA,Liberty Union,Matthew Andrews,15
+Orleans,Newport Town,NA,U.S. House,NA,Liberty Union,Matthew Andrews,13
+Grand Isle,N. Hero,NA,U.S. House,NA,Liberty Union,Matthew Andrews,4
+Washington,Northfield,NA,U.S. House,NA,Liberty Union,Matthew Andrews,15
+Essex,Norton,NA,U.S. House,NA,Liberty Union,Matthew Andrews,1
+Windsor,Norwich,NA,U.S. House,NA,Liberty Union,Matthew Andrews,5
+Orange,Orange,NA,U.S. House,NA,Liberty Union,Matthew Andrews,4
+Addison,Orwell,NA,U.S. House,NA,Liberty Union,Matthew Andrews,0
+Addison,Panton,NA,U.S. House,NA,Liberty Union,Matthew Andrews,1
+Rutland,Pawlet,NA,U.S. House,NA,Liberty Union,Matthew Andrews,4
+Caledonia,Peacham,NA,U.S. House,NA,Liberty Union,Matthew Andrews,4
+Bennington,Peru,NA,U.S. House,NA,Liberty Union,Matthew Andrews,1
+Rutland,Pittsfield,NA,U.S. House,NA,Liberty Union,Matthew Andrews,1
+Rutland,Pittsford,NA,U.S. House,NA,Liberty Union,Matthew Andrews,13
+Washington,Plainfield,NA,U.S. House,NA,Liberty Union,Matthew Andrews,17
+Windsor,Plymouth,NA,U.S. House,NA,Liberty Union,Matthew Andrews,2
+Windsor,Pomfret,NA,U.S. House,NA,Liberty Union,Matthew Andrews,4
+Rutland,Poultney,NA,U.S. House,NA,Liberty Union,Matthew Andrews,10
+Bennington,Pownal,NA,U.S. House,NA,Liberty Union,Matthew Andrews,19
+Rutland,Proctor,NA,U.S. House,NA,Liberty Union,Matthew Andrews,3
+Windham,Putney,NA,U.S. House,NA,Liberty Union,Matthew Andrews,13
+Orange,Randolph,NA,U.S. House,NA,Liberty Union,Matthew Andrews,20
+Windsor,Reading,NA,U.S. House,NA,Liberty Union,Matthew Andrews,8
+Bennington,Readsboro,NA,U.S. House,NA,Liberty Union,Matthew Andrews,2
+Franklin,Richford,NA,U.S. House,NA,Liberty Union,Matthew Andrews,6
+Chittenden,Richmond,NA,U.S. House,NA,Liberty Union,Matthew Andrews,10
+Addison,Ripton,NA,U.S. House,NA,Liberty Union,Matthew Andrews,1
+Windsor,Rochester,NA,U.S. House,NA,Liberty Union,Matthew Andrews,9
+Windham,Rockingham,NA,U.S. House,NA,Liberty Union,Matthew Andrews,17
+Washington,Roxbury,NA,U.S. House,NA,Liberty Union,Matthew Andrews,1
+Windsor,Royalton,NA,U.S. House,NA,Liberty Union,Matthew Andrews,7
+Bennington,Rupert,NA,U.S. House,NA,Liberty Union,Matthew Andrews,6
+Rutland,Rutland City,Rutland 5-1,U.S. House,NA,Liberty Union,Matthew Andrews,6
+Rutland,Rutland City,Rutland 5-2,U.S. House,NA,Liberty Union,Matthew Andrews,8
+Rutland,Rutland City,Rutland 5-3,U.S. House,NA,Liberty Union,Matthew Andrews,15
+Rutland,Rutland City,Rutland 5-4,U.S. House,NA,Liberty Union,Matthew Andrews,5
+Rutland,Rutland Town,NA,U.S. House,NA,Liberty Union,Matthew Andrews,17
+Caledonia,Ryegate,NA,U.S. House,NA,Liberty Union,Matthew Andrews,3
+Franklin,Salisbury,NA,U.S. House,NA,Liberty Union,Matthew Andrews,3
+Franklin,Sandgate,NA,U.S. House,NA,Liberty Union,Matthew Andrews,1
+Chittenden,Searsburg,NA,U.S. House,NA,Liberty Union,Matthew Andrews,0
+Caledonia,Shaftsbury,NA,U.S. House,NA,Liberty Union,Matthew Andrews,19
+Addison,Sharon,NA,U.S. House,NA,Liberty Union,Matthew Andrews,1
+Bennington,Sheffield,NA,U.S. House,NA,Liberty Union,Matthew Andrews,4
+Bennington,Shelburne,Chittenden 5-1,U.S. House,NA,Liberty Union,Matthew Andrews,7
+Bennington,Shelburne,Chittenden 5-2,U.S. House,NA,Liberty Union,Matthew Andrews,1
+Bennington,Sheldon,NA,U.S. House,NA,Liberty Union,Matthew Andrews,2
+Windsor,Shoreham,NA,U.S. House,NA,Liberty Union,Matthew Andrews,2
+Caledonia,Shrewsbury,NA,U.S. House,NA,Liberty Union,Matthew Andrews,5
+Chittenden,S. Burlington,Chittenden 7-1,U.S. House,NA,Liberty Union,Matthew Andrews,6
+Chittenden,S. Burlington,Chittenden 7-2,U.S. House,NA,Liberty Union,Matthew Andrews,8
+Chittenden,S. Burlington,Chittenden 7-3,U.S. House,NA,Liberty Union,Matthew Andrews,11
+Chittenden,S. Burlington,Chittenden 7-4,U.S. House,NA,Liberty Union,Matthew Andrews,12
+Franklin,S. Hero,NA,U.S. House,NA,Liberty Union,Matthew Andrews,4
+Addison,Springfield,Windsor 3-1,U.S. House,NA,Liberty Union,Matthew Andrews,2
+Addison,Springfield,Windsor 3-2,U.S. House,NA,Liberty Union,Matthew Andrews,16
+Rutland,St. Albans City,NA,U.S. House,NA,Liberty Union,Matthew Andrews,15
+Chittenden,St. Albans Town,Franklin 3-1,U.S. House,NA,Liberty Union,Matthew Andrews,4
+Chittenden,St. Albans Town,Franklin 3-2,U.S. House,NA,Liberty Union,Matthew Andrews,14
+Grand Isle,St. George,NA,U.S. House,NA,Liberty Union,Matthew Andrews,1
+Windsor,St. Johnsbury,NA,U.S. House,NA,Liberty Union,Matthew Andrews,29
+Bennington,Stamford,NA,U.S. House,NA,Liberty Union,Matthew Andrews,4
+Caledonia,Stannard,NA,U.S. House,NA,Liberty Union,Matthew Andrews,1
+Addison,Starksboro,NA,U.S. House,NA,Liberty Union,Matthew Andrews,8
+Windsor,Stockbridge,NA,U.S. House,NA,Liberty Union,Matthew Andrews,2
+Lamoille,Stowe,NA,U.S. House,NA,Liberty Union,Matthew Andrews,14
+Orange,Strafford,NA,U.S. House,NA,Liberty Union,Matthew Andrews,8
+Windham,Stratton,NA,U.S. House,NA,Liberty Union,Matthew Andrews,0
+Rutland,Sudbury,NA,U.S. House,NA,Liberty Union,Matthew Andrews,1
+Bennington,Sunderland,Bennington 3,U.S. House,NA,Liberty Union,Matthew Andrews,2
+Bennington,Sunderland,Bennington 4,U.S. House,NA,Liberty Union,Matthew Andrews,2
+Caledonia,Sutton,NA,U.S. House,NA,Liberty Union,Matthew Andrews,2
+Franklin,Swanton,NA,U.S. House,NA,Liberty Union,Matthew Andrews,8
+Orange,Thetford,NA,U.S. House,NA,Liberty Union,Matthew Andrews,7
+Rutland,Tinmouth,Rutland 2,U.S. House,NA,Liberty Union,Matthew Andrews,3
+Rutland,Tinmouth,Rutland-Bennington,U.S. House,NA,Liberty Union,Matthew Andrews,3
+Orange,Topsham,NA,U.S. House,NA,Liberty Union,Matthew Andrews,5
+Windham,Townshend,NA,U.S. House,NA,Liberty Union,Matthew Andrews,4
+Orleans,Troy,Orleans 2,U.S. House,NA,Liberty Union,Matthew Andrews,1
+Orleans,Troy,Orleans-Lamoille,U.S. House,NA,Liberty Union,Matthew Andrews,2
+Orange,Tunbridge,NA,U.S. House,NA,Liberty Union,Matthew Andrews,3
+Chittenden,Underhill,NA,U.S. House,NA,Liberty Union,Matthew Andrews,5
+Addison,Vergennes,NA,U.S. House,NA,Liberty Union,Matthew Andrews,5
+Windham,Vernon,NA,U.S. House,NA,Liberty Union,Matthew Andrews,4
+Orange,Vershire,NA,U.S. House,NA,Liberty Union,Matthew Andrews,4
+Essex,Victory,NA,U.S. House,NA,Liberty Union,Matthew Andrews,4
+Washington,Waitsfield,NA,U.S. House,NA,Liberty Union,Matthew Andrews,9
+Caledonia,Walden,NA,U.S. House,NA,Liberty Union,Matthew Andrews,21
+Rutland,Wallingford,NA,U.S. House,NA,Liberty Union,Matthew Andrews,7
+Addison,Waltham,NA,U.S. House,NA,Liberty Union,Matthew Andrews,1
+Windham,Wardsboro,NA,U.S. House,NA,Liberty Union,Matthew Andrews,3
+Washington,Warren,NA,U.S. House,NA,Liberty Union,Matthew Andrews,3
+Orange,Washington,NA,U.S. House,NA,Liberty Union,Matthew Andrews,3
+Washington,Waterbury,NA,U.S. House,NA,Liberty Union,Matthew Andrews,16
+Caledonia,Waterford,NA,U.S. House,NA,Liberty Union,Matthew Andrews,11
+Lamoille,Waterville,NA,U.S. House,NA,Liberty Union,Matthew Andrews,6
+Windsor,Weathersfield,NA,U.S. House,NA,Liberty Union,Matthew Andrews,10
+Rutland,Wells,NA,U.S. House,NA,Liberty Union,Matthew Andrews,3
+Orange,W. Fairlee,NA,U.S. House,NA,Liberty Union,Matthew Andrews,4
+Rutland,W. Haven,NA,U.S. House,NA,Liberty Union,Matthew Andrews,12
+Rutland,W. Rutland,NA,U.S. House,NA,Liberty Union,Matthew Andrews,9
+Windsor,W. Windsor,NA,U.S. House,NA,Liberty Union,Matthew Andrews,4
+Orleans,Westfield,NA,U.S. House,NA,Liberty Union,Matthew Andrews,3
+Chittenden,Westford,NA,U.S. House,NA,Liberty Union,Matthew Andrews,3
+Windham,Westminster,Windham 3,U.S. House,NA,Liberty Union,Matthew Andrews,0
+Windham,Westminster,Windham 4,U.S. House,NA,Liberty Union,Matthew Andrews,8
+Orleans,Westmore,NA,U.S. House,NA,Liberty Union,Matthew Andrews,2
+Windsor,Weston,NA,U.S. House,NA,Liberty Union,Matthew Andrews,2
+Addison,Weybridge,NA,U.S. House,NA,Liberty Union,Matthew Andrews,1
+Caledonia,Wheelock,NA,U.S. House,NA,Liberty Union,Matthew Andrews,3
+Addison,Whiting,NA,U.S. House,NA,Liberty Union,Matthew Andrews,2
+Windham,Whitingham,Windham 6,U.S. House,NA,Liberty Union,Matthew Andrews,7
+Windham,Whitingham,Windham-Bennington,U.S. House,NA,Liberty Union,Matthew Andrews,0
+Orange,Williamstown,NA,U.S. House,NA,Liberty Union,Matthew Andrews,11
+Chittenden,Williston,NA,U.S. House,NA,Liberty Union,Matthew Andrews,19
+Windham,Wilmington,NA,U.S. House,NA,Liberty Union,Matthew Andrews,4
+Windham,Windham,NA,U.S. House,NA,Liberty Union,Matthew Andrews,7
+Windsor,Windsor,NA,U.S. House,NA,Liberty Union,Matthew Andrews,5
+Bennington,Winhall,NA,U.S. House,NA,Liberty Union,Matthew Andrews,16
+Chittenden,Winooski,NA,U.S. House,NA,Liberty Union,Matthew Andrews,27
+Lamoille,Wolcott,NA,U.S. House,NA,Liberty Union,Matthew Andrews,10
+Washington,Woodbury,NA,U.S. House,NA,Liberty Union,Matthew Andrews,10
+Bennington,Woodford,NA,U.S. House,NA,Liberty Union,Matthew Andrews,2
+Windsor,Woodstock,NA,U.S. House,NA,Liberty Union,Matthew Andrews,7
+Washington,Worcester,NA,U.S. House,NA,Liberty Union,Matthew Andrews,20
+Addison,Addison,NA,U.S. House,NA,Energy Independence,Jerry Trudell,4
+Orleans,Albany,NA,U.S. House,NA,Energy Independence,Jerry Trudell,10
+Grand Isle,Alburgh,NA,U.S. House,NA,Energy Independence,Jerry Trudell,9
+Windsor,Andover,NA,U.S. House,NA,Energy Independence,Jerry Trudell,2
+Bennington,Arlington,NA,U.S. House,NA,Energy Independence,Jerry Trudell,16
+Windham,Athens,NA,U.S. House,NA,Energy Independence,Jerry Trudell,0
+Franklin,Bakersfield,NA,U.S. House,NA,Energy Independence,Jerry Trudell,3
+Windsor,Baltimore,NA,U.S. House,NA,Energy Independence,Jerry Trudell,1
+Windsor,Barnard,NA,U.S. House,NA,Energy Independence,Jerry Trudell,6
+Caledonia,Barnet,NA,U.S. House,NA,Energy Independence,Jerry Trudell,4
+Washington,Barre City,NA,U.S. House,NA,Energy Independence,Jerry Trudell,15
+Washington,Barre Town,NA,U.S. House,NA,Energy Independence,Jerry Trudell,11
+Orleans,Barton,NA,U.S. House,NA,Energy Independence,Jerry Trudell,17
+Lamoille,Belvidere,NA,U.S. House,NA,Energy Independence,Jerry Trudell,6
+Bennington,Bennington,Bennington 2-1,U.S. House,NA,Energy Independence,Jerry Trudell,31
+Bennington,Bennington,Bennington 2-2,U.S. House,NA,Energy Independence,Jerry Trudell,20
+Rutland,Benson,NA,U.S. House,NA,Energy Independence,Jerry Trudell,3
+Franklin,Berkshire,NA,U.S. House,NA,Energy Independence,Jerry Trudell,2
+Washington,Berlin,NA,U.S. House,NA,Energy Independence,Jerry Trudell,7
+Windsor,Bethel,NA,U.S. House,NA,Energy Independence,Jerry Trudell,6
+Essex,Bloomfield,NA,U.S. House,NA,Energy Independence,Jerry Trudell,14
+Chittenden,Bolton,NA,U.S. House,NA,Energy Independence,Jerry Trudell,9
+Orange,Bradford,NA,U.S. House,NA,Energy Independence,Jerry Trudell,2
+Orange,Braintree,NA,U.S. House,NA,Energy Independence,Jerry Trudell,5
+Rutland,Brandon,NA,U.S. House,NA,Energy Independence,Jerry Trudell,9
+Windham,Brattleboro,Windham 2-1,U.S. House,NA,Energy Independence,Jerry Trudell,11
+Windham,Brattleboro,Windham 2-2,U.S. House,NA,Energy Independence,Jerry Trudell,10
+Windham,Brattleboro,Windham 2-3,U.S. House,NA,Energy Independence,Jerry Trudell,9
+Windsor,Bridgewater,NA,U.S. House,NA,Energy Independence,Jerry Trudell,5
+Addison,Bridport,NA,U.S. House,NA,Energy Independence,Jerry Trudell,5
+Essex,Brighton,NA,U.S. House,NA,Energy Independence,Jerry Trudell,15
+Addison,Bristol,NA,U.S. House,NA,Energy Independence,Jerry Trudell,21
+Orange,Brookfield,NA,U.S. House,NA,Energy Independence,Jerry Trudell,5
+Windham,Brookline,NA,U.S. House,NA,Energy Independence,Jerry Trudell,3
+Orleans,Brownington,NA,U.S. House,NA,Energy Independence,Jerry Trudell,23
+Essex,Brunswick,NA,U.S. House,NA,Energy Independence,Jerry Trudell,1
+Caledonia,Burke,NA,U.S. House,NA,Energy Independence,Jerry Trudell,4
+Chittenden,Burlington,Chittenden 6-1,U.S. House,NA,Energy Independence,Jerry Trudell,15
+Chittenden,Burlington,Chittenden 6-2,U.S. House,NA,Energy Independence,Jerry Trudell,15
+Chittenden,Burlington,Chittenden 6-3,U.S. House,NA,Energy Independence,Jerry Trudell,25
+Chittenden,Burlington,Chittenden 6-4,U.S. House,NA,Energy Independence,Jerry Trudell,25
+Chittenden,Burlington,Chittenden 6-5,U.S. House,NA,Energy Independence,Jerry Trudell,28
+Chittenden,Burlington,Chittenden 6-6,U.S. House,NA,Energy Independence,Jerry Trudell,4
+Chittenden,Burlington,Chittenden 6-7,U.S. House,NA,Energy Independence,Jerry Trudell,1
+Washington,Cabot,NA,U.S. House,NA,Energy Independence,Jerry Trudell,5
+Washington,Calais,NA,U.S. House,NA,Energy Independence,Jerry Trudell,3
+Lamoille,Cambridge,NA,U.S. House,NA,Energy Independence,Jerry Trudell,11
+Essex,Canaan,NA,U.S. House,NA,Energy Independence,Jerry Trudell,16
+Rutland,Castleton,NA,U.S. House,NA,Energy Independence,Jerry Trudell,8
+Windsor,Cavendish,NA,U.S. House,NA,Energy Independence,Jerry Trudell,2
+Orleans,Charleston,NA,U.S. House,NA,Energy Independence,Jerry Trudell,17
+Chittenden,Charlotte,NA,U.S. House,NA,Energy Independence,Jerry Trudell,6
+Orange,Chelsea,NA,U.S. House,NA,Energy Independence,Jerry Trudell,4
+Windsor,Chester,NA,U.S. House,NA,Energy Independence,Jerry Trudell,5
+Rutland,Chittenden,NA,U.S. House,NA,Energy Independence,Jerry Trudell,6
+Rutland,Clarendon,NA,U.S. House,NA,Energy Independence,Jerry Trudell,8
+Chittenden,Colchester,Chittenden 9-1,U.S. House,NA,Energy Independence,Jerry Trudell,13
+Chittenden,Colchester,Chittenden 9-2,U.S. House,NA,Energy Independence,Jerry Trudell,18
+Essex,Concord,NA,U.S. House,NA,Energy Independence,Jerry Trudell,7
+Orange,Corinth,NA,U.S. House,NA,Energy Independence,Jerry Trudell,7
+Addison,Cornwall,NA,U.S. House,NA,Energy Independence,Jerry Trudell,3
+Orleans,Coventry,NA,U.S. House,NA,Energy Independence,Jerry Trudell,8
+Orleans,Craftsbury,NA,U.S. House,NA,Energy Independence,Jerry Trudell,10
+Rutland,Danby,NA,U.S. House,NA,Energy Independence,Jerry Trudell,4
+Caledonia,Danville,NA,U.S. House,NA,Energy Independence,Jerry Trudell,5
+Orleans,Derby,NA,U.S. House,NA,Energy Independence,Jerry Trudell,39
+Bennington,Dorset,NA,U.S. House,NA,Energy Independence,Jerry Trudell,8
+Windham,Dover,NA,U.S. House,NA,Energy Independence,Jerry Trudell,9
+Windham,Dummerston,NA,U.S. House,NA,Energy Independence,Jerry Trudell,2
+Washington,Duxbury,NA,U.S. House,NA,Energy Independence,Jerry Trudell,3
+Essex,E. Haven,NA,U.S. House,NA,Energy Independence,Jerry Trudell,3
+Washington,E. Montpelier,NA,U.S. House,NA,Energy Independence,Jerry Trudell,9
+Lamoille,Eden,NA,U.S. House,NA,Energy Independence,Jerry Trudell,3
+Lamoille,Elmore,NA,U.S. House,NA,Energy Independence,Jerry Trudell,0
+Franklin,Enosburgh,NA,U.S. House,NA,Energy Independence,Jerry Trudell,15
+Chittenden,Essex,Chittenden 8-1,U.S. House,NA,Energy Independence,Jerry Trudell,17
+Chittenden,Essex,Chittenden 8-2,U.S. House,NA,Energy Independence,Jerry Trudell,19
+Chittenden,Essex,Chittenden 8-3,U.S. House,NA,Energy Independence,Jerry Trudell,9
+Rutland,Fair Haven,NA,U.S. House,NA,Energy Independence,Jerry Trudell,8
+Franklin,Fairfax,NA,U.S. House,NA,Energy Independence,Jerry Trudell,15
+Franklin,Fairfield,NA,U.S. House,NA,Energy Independence,Jerry Trudell,11
+Orange,Fairlee,NA,U.S. House,NA,Energy Independence,Jerry Trudell,1
+Washington,Fayston,NA,U.S. House,NA,Energy Independence,Jerry Trudell,6
+Addison,Ferrisburgh,NA,U.S. House,NA,Energy Independence,Jerry Trudell,7
+Franklin,Fletcher,NA,U.S. House,NA,Energy Independence,Jerry Trudell,5
+Franklin,Franklin,NA,U.S. House,NA,Energy Independence,Jerry Trudell,1
+Franklin,Georgia,NA,U.S. House,NA,Energy Independence,Jerry Trudell,14
+Orleans,Glover,NA,U.S. House,NA,Energy Independence,Jerry Trudell,10
+Addison,Goshen,NA,U.S. House,NA,Energy Independence,Jerry Trudell,0
+Windham,Grafton,NA,U.S. House,NA,Energy Independence,Jerry Trudell,2
+Essex,Granby,NA,U.S. House,NA,Energy Independence,Jerry Trudell,0
+Grand Isle,Grand Isle,NA,U.S. House,NA,Energy Independence,Jerry Trudell,8
+Addison,Granville,NA,U.S. House,NA,Energy Independence,Jerry Trudell,0
+Orleans,Greensboro,NA,U.S. House,NA,Energy Independence,Jerry Trudell,3
+Caledonia,Groton,NA,U.S. House,NA,Energy Independence,Jerry Trudell,3
+Essex,Guildhall,NA,U.S. House,NA,Energy Independence,Jerry Trudell,1
+Windham,Guilford,NA,U.S. House,NA,Energy Independence,Jerry Trudell,8
+Windham,Halifax,NA,U.S. House,NA,Energy Independence,Jerry Trudell,3
+Addison,Hancock,NA,U.S. House,NA,Energy Independence,Jerry Trudell,1
+Caledonia,Hardwick,NA,U.S. House,NA,Energy Independence,Jerry Trudell,5
+Windsor,Hartford,Windsor 4-1,U.S. House,NA,Energy Independence,Jerry Trudell,2
+Windsor,Hartford,Windsor 4-2,U.S. House,NA,Energy Independence,Jerry Trudell,11
+Windsor,Hartland,NA,U.S. House,NA,Energy Independence,Jerry Trudell,9
+Franklin,Highgate,NA,U.S. House,NA,Energy Independence,Jerry Trudell,12
+Chittenden,Hinesburg,Chittenden 4-1,U.S. House,NA,Energy Independence,Jerry Trudell,0
+Chittenden,Hinesburg,Chittenden 4-2,U.S. House,NA,Energy Independence,Jerry Trudell,5
+Orleans,Holland,NA,U.S. House,NA,Energy Independence,Jerry Trudell,4
+Rutland,Hubbardton,NA,U.S. House,NA,Energy Independence,Jerry Trudell,2
+Chittenden,Huntington,NA,U.S. House,NA,Energy Independence,Jerry Trudell,12
+Lamoille,Hyde Park,NA,U.S. House,NA,Energy Independence,Jerry Trudell,27
+Rutland,Ira,NA,U.S. House,NA,Energy Independence,Jerry Trudell,0
+Orleans,Irasburg,NA,U.S. House,NA,Energy Independence,Jerry Trudell,6
+Grand Isle,Isle La Motte,NA,U.S. House,NA,Energy Independence,Jerry Trudell,3
+Windham,Jamaica,NA,U.S. House,NA,Energy Independence,Jerry Trudell,2
+Orleans,Jay,NA,U.S. House,NA,Energy Independence,Jerry Trudell,4
+Chittenden,Jericho,NA,U.S. House,NA,Energy Independence,Jerry Trudell,17
+Lamoille,Johnson,NA,U.S. House,NA,Energy Independence,Jerry Trudell,7
+Rutland,Killington,NA,U.S. House,NA,Energy Independence,Jerry Trudell,2
+Caledonia,Kirby,NA,U.S. House,NA,Energy Independence,Jerry Trudell,0
+Bennington,Landgrove,NA,U.S. House,NA,Energy Independence,Jerry Trudell,0
+Addison,Leicester,NA,U.S. House,NA,Energy Independence,Jerry Trudell,3
+Essex,Lemington,NA,U.S. House,NA,Energy Independence,Jerry Trudell,0
+Addison,Lincoln,NA,U.S. House,NA,Energy Independence,Jerry Trudell,6
+Windham,Londonderry,NA,U.S. House,NA,Energy Independence,Jerry Trudell,5
+Orleans,Lowell,NA,U.S. House,NA,Energy Independence,Jerry Trudell,4
+Windsor,Ludlow,NA,U.S. House,NA,Energy Independence,Jerry Trudell,4
+Essex,Lunenburg,NA,U.S. House,NA,Energy Independence,Jerry Trudell,5
+Caledonia,Lyndon,NA,U.S. House,NA,Energy Independence,Jerry Trudell,11
+Essex,Maidstone,NA,U.S. House,NA,Energy Independence,Jerry Trudell,0
+Bennington,Manchester,NA,U.S. House,NA,Energy Independence,Jerry Trudell,11
+Windham,Marlboro,NA,U.S. House,NA,Energy Independence,Jerry Trudell,2
+Washington,Marshfield,NA,U.S. House,NA,Energy Independence,Jerry Trudell,8
+Rutland,Mendon,NA,U.S. House,NA,Energy Independence,Jerry Trudell,3
+Addison,Middlebury,NA,U.S. House,NA,Energy Independence,Jerry Trudell,23
+Washington,Middlesex,NA,U.S. House,NA,Energy Independence,Jerry Trudell,45
+Rutland,Middletown Springs,NA,U.S. House,NA,Energy Independence,Jerry Trudell,4
+Chittenden,Milton,Chittenden 10,U.S. House,NA,Energy Independence,Jerry Trudell,21
+Chittenden,Milton,Grand Isle-Chittenden,U.S. House,NA,Energy Independence,Jerry Trudell,0
+Addison,Monkton,NA,U.S. House,NA,Energy Independence,Jerry Trudell,4
+Franklin,Montgomery,NA,U.S. House,NA,Energy Independence,Jerry Trudell,9
+Washington,Montpelier,NA,U.S. House,NA,Energy Independence,Jerry Trudell,41
+Washington,Moretown,NA,U.S. House,NA,Energy Independence,Jerry Trudell,9
+Orleans,Morgan,NA,U.S. House,NA,Energy Independence,Jerry Trudell,5
+Lamoille,Morristown,NA,U.S. House,NA,Energy Independence,Jerry Trudell,18
+Rutland,Mount Holly,NA,U.S. House,NA,Energy Independence,Jerry Trudell,4
+Rutland,Mount Tabor,NA,U.S. House,NA,Energy Independence,Jerry Trudell,1
+Addison,New Haven,NA,U.S. House,NA,Energy Independence,Jerry Trudell,7
+Caledonia,Newark,NA,U.S. House,NA,Energy Independence,Jerry Trudell,3
+Orange,Newbury,NA,U.S. House,NA,Energy Independence,Jerry Trudell,10
+Windham,Newfane,NA,U.S. House,NA,Energy Independence,Jerry Trudell,3
+Orleans,Newport City,NA,U.S. House,NA,Energy Independence,Jerry Trudell,18
+Orleans,Newport Town,NA,U.S. House,NA,Energy Independence,Jerry Trudell,10
+Grand Isle,N. Hero,NA,U.S. House,NA,Energy Independence,Jerry Trudell,2
+Washington,Northfield,NA,U.S. House,NA,Energy Independence,Jerry Trudell,8
+Essex,Norton,NA,U.S. House,NA,Energy Independence,Jerry Trudell,0
+Windsor,Norwich,NA,U.S. House,NA,Energy Independence,Jerry Trudell,10
+Orange,Orange,NA,U.S. House,NA,Energy Independence,Jerry Trudell,2
+Addison,Orwell,NA,U.S. House,NA,Energy Independence,Jerry Trudell,8
+Addison,Panton,NA,U.S. House,NA,Energy Independence,Jerry Trudell,1
+Rutland,Pawlet,NA,U.S. House,NA,Energy Independence,Jerry Trudell,15
+Caledonia,Peacham,NA,U.S. House,NA,Energy Independence,Jerry Trudell,3
+Bennington,Peru,NA,U.S. House,NA,Energy Independence,Jerry Trudell,1
+Rutland,Pittsfield,NA,U.S. House,NA,Energy Independence,Jerry Trudell,0
+Rutland,Pittsford,NA,U.S. House,NA,Energy Independence,Jerry Trudell,11
+Washington,Plainfield,NA,U.S. House,NA,Energy Independence,Jerry Trudell,2
+Windsor,Plymouth,NA,U.S. House,NA,Energy Independence,Jerry Trudell,3
+Windsor,Pomfret,NA,U.S. House,NA,Energy Independence,Jerry Trudell,0
+Rutland,Poultney,NA,U.S. House,NA,Energy Independence,Jerry Trudell,15
+Bennington,Pownal,NA,U.S. House,NA,Energy Independence,Jerry Trudell,30
+Rutland,Proctor,NA,U.S. House,NA,Energy Independence,Jerry Trudell,2
+Windham,Putney,NA,U.S. House,NA,Energy Independence,Jerry Trudell,7
+Orange,Randolph,NA,U.S. House,NA,Energy Independence,Jerry Trudell,13
+Windsor,Reading,NA,U.S. House,NA,Energy Independence,Jerry Trudell,1
+Bennington,Readsboro,NA,U.S. House,NA,Energy Independence,Jerry Trudell,3
+Franklin,Richford,NA,U.S. House,NA,Energy Independence,Jerry Trudell,4
+Chittenden,Richmond,NA,U.S. House,NA,Energy Independence,Jerry Trudell,16
+Addison,Ripton,NA,U.S. House,NA,Energy Independence,Jerry Trudell,4
+Windsor,Rochester,NA,U.S. House,NA,Energy Independence,Jerry Trudell,2
+Windham,Rockingham,NA,U.S. House,NA,Energy Independence,Jerry Trudell,10
+Washington,Roxbury,NA,U.S. House,NA,Energy Independence,Jerry Trudell,1
+Windsor,Royalton,NA,U.S. House,NA,Energy Independence,Jerry Trudell,13
+Bennington,Rupert,NA,U.S. House,NA,Energy Independence,Jerry Trudell,5
+Rutland,Rutland City,Rutland 5-1,U.S. House,NA,Energy Independence,Jerry Trudell,4
+Rutland,Rutland City,Rutland 5-2,U.S. House,NA,Energy Independence,Jerry Trudell,11
+Rutland,Rutland City,Rutland 5-3,U.S. House,NA,Energy Independence,Jerry Trudell,8
+Rutland,Rutland City,Rutland 5-4,U.S. House,NA,Energy Independence,Jerry Trudell,5
+Rutland,Rutland Town,NA,U.S. House,NA,Energy Independence,Jerry Trudell,8
+Caledonia,Ryegate,NA,U.S. House,NA,Energy Independence,Jerry Trudell,5
+Franklin,Salisbury,NA,U.S. House,NA,Energy Independence,Jerry Trudell,3
+Franklin,Sandgate,NA,U.S. House,NA,Energy Independence,Jerry Trudell,3
+Chittenden,Searsburg,NA,U.S. House,NA,Energy Independence,Jerry Trudell,0
+Caledonia,Shaftsbury,NA,U.S. House,NA,Energy Independence,Jerry Trudell,8
+Addison,Sharon,NA,U.S. House,NA,Energy Independence,Jerry Trudell,4
+Bennington,Sheffield,NA,U.S. House,NA,Energy Independence,Jerry Trudell,3
+Bennington,Shelburne,Chittenden 5-1,U.S. House,NA,Energy Independence,Jerry Trudell,4
+Bennington,Shelburne,Chittenden 5-2,U.S. House,NA,Energy Independence,Jerry Trudell,6
+Bennington,Sheldon,NA,U.S. House,NA,Energy Independence,Jerry Trudell,9
+Windsor,Shoreham,NA,U.S. House,NA,Energy Independence,Jerry Trudell,9
+Caledonia,Shrewsbury,NA,U.S. House,NA,Energy Independence,Jerry Trudell,3
+Chittenden,S. Burlington,Chittenden 7-1,U.S. House,NA,Energy Independence,Jerry Trudell,8
+Chittenden,S. Burlington,Chittenden 7-2,U.S. House,NA,Energy Independence,Jerry Trudell,9
+Chittenden,S. Burlington,Chittenden 7-3,U.S. House,NA,Energy Independence,Jerry Trudell,8
+Chittenden,S. Burlington,Chittenden 7-4,U.S. House,NA,Energy Independence,Jerry Trudell,10
+Franklin,S. Hero,NA,U.S. House,NA,Energy Independence,Jerry Trudell,12
+Addison,Springfield,Windsor 3-1,U.S. House,NA,Energy Independence,Jerry Trudell,1
+Addison,Springfield,Windsor 3-2,U.S. House,NA,Energy Independence,Jerry Trudell,12
+Rutland,St. Albans City,NA,U.S. House,NA,Energy Independence,Jerry Trudell,22
+Chittenden,St. Albans Town,Franklin 3-1,U.S. House,NA,Energy Independence,Jerry Trudell,6
+Chittenden,St. Albans Town,Franklin 3-2,U.S. House,NA,Energy Independence,Jerry Trudell,24
+Grand Isle,St. George,NA,U.S. House,NA,Energy Independence,Jerry Trudell,4
+Windsor,St. Johnsbury,NA,U.S. House,NA,Energy Independence,Jerry Trudell,22
+Bennington,Stamford,NA,U.S. House,NA,Energy Independence,Jerry Trudell,2
+Caledonia,Stannard,NA,U.S. House,NA,Energy Independence,Jerry Trudell,1
+Addison,Starksboro,NA,U.S. House,NA,Energy Independence,Jerry Trudell,9
+Windsor,Stockbridge,NA,U.S. House,NA,Energy Independence,Jerry Trudell,2
+Lamoille,Stowe,NA,U.S. House,NA,Energy Independence,Jerry Trudell,11
+Orange,Strafford,NA,U.S. House,NA,Energy Independence,Jerry Trudell,4
+Windham,Stratton,NA,U.S. House,NA,Energy Independence,Jerry Trudell,0
+Rutland,Sudbury,NA,U.S. House,NA,Energy Independence,Jerry Trudell,2
+Bennington,Sunderland,Bennington 3,U.S. House,NA,Energy Independence,Jerry Trudell,1
+Bennington,Sunderland,Bennington 4,U.S. House,NA,Energy Independence,Jerry Trudell,3
+Caledonia,Sutton,NA,U.S. House,NA,Energy Independence,Jerry Trudell,6
+Franklin,Swanton,NA,U.S. House,NA,Energy Independence,Jerry Trudell,17
+Orange,Thetford,NA,U.S. House,NA,Energy Independence,Jerry Trudell,7
+Rutland,Tinmouth,Rutland 2,U.S. House,NA,Energy Independence,Jerry Trudell,0
+Rutland,Tinmouth,Rutland-Bennington,U.S. House,NA,Energy Independence,Jerry Trudell,3
+Orange,Topsham,NA,U.S. House,NA,Energy Independence,Jerry Trudell,3
+Windham,Townshend,NA,U.S. House,NA,Energy Independence,Jerry Trudell,2
+Orleans,Troy,Orleans 2,U.S. House,NA,Energy Independence,Jerry Trudell,6
+Orleans,Troy,Orleans-Lamoille,U.S. House,NA,Energy Independence,Jerry Trudell,3
+Orange,Tunbridge,NA,U.S. House,NA,Energy Independence,Jerry Trudell,9
+Chittenden,Underhill,NA,U.S. House,NA,Energy Independence,Jerry Trudell,9
+Addison,Vergennes,NA,U.S. House,NA,Energy Independence,Jerry Trudell,10
+Windham,Vernon,NA,U.S. House,NA,Energy Independence,Jerry Trudell,4
+Orange,Vershire,NA,U.S. House,NA,Energy Independence,Jerry Trudell,0
+Essex,Victory,NA,U.S. House,NA,Energy Independence,Jerry Trudell,0
+Washington,Waitsfield,NA,U.S. House,NA,Energy Independence,Jerry Trudell,14
+Caledonia,Walden,NA,U.S. House,NA,Energy Independence,Jerry Trudell,4
+Rutland,Wallingford,NA,U.S. House,NA,Energy Independence,Jerry Trudell,8
+Addison,Waltham,NA,U.S. House,NA,Energy Independence,Jerry Trudell,0
+Windham,Wardsboro,NA,U.S. House,NA,Energy Independence,Jerry Trudell,4
+Washington,Warren,NA,U.S. House,NA,Energy Independence,Jerry Trudell,9
+Orange,Washington,NA,U.S. House,NA,Energy Independence,Jerry Trudell,2
+Washington,Waterbury,NA,U.S. House,NA,Energy Independence,Jerry Trudell,20
+Caledonia,Waterford,NA,U.S. House,NA,Energy Independence,Jerry Trudell,3
+Lamoille,Waterville,NA,U.S. House,NA,Energy Independence,Jerry Trudell,0
+Windsor,Weathersfield,NA,U.S. House,NA,Energy Independence,Jerry Trudell,7
+Rutland,Wells,NA,U.S. House,NA,Energy Independence,Jerry Trudell,5
+Orange,W. Fairlee,NA,U.S. House,NA,Energy Independence,Jerry Trudell,1
+Rutland,W. Haven,NA,U.S. House,NA,Energy Independence,Jerry Trudell,0
+Rutland,W. Rutland,NA,U.S. House,NA,Energy Independence,Jerry Trudell,3
+Windsor,W. Windsor,NA,U.S. House,NA,Energy Independence,Jerry Trudell,2
+Orleans,Westfield,NA,U.S. House,NA,Energy Independence,Jerry Trudell,5
+Chittenden,Westford,NA,U.S. House,NA,Energy Independence,Jerry Trudell,5
+Windham,Westminster,Windham 3,U.S. House,NA,Energy Independence,Jerry Trudell,0
+Windham,Westminster,Windham 4,U.S. House,NA,Energy Independence,Jerry Trudell,5
+Orleans,Westmore,NA,U.S. House,NA,Energy Independence,Jerry Trudell,3
+Windsor,Weston,NA,U.S. House,NA,Energy Independence,Jerry Trudell,2
+Addison,Weybridge,NA,U.S. House,NA,Energy Independence,Jerry Trudell,1
+Caledonia,Wheelock,NA,U.S. House,NA,Energy Independence,Jerry Trudell,1
+Addison,Whiting,NA,U.S. House,NA,Energy Independence,Jerry Trudell,1
+Windham,Whitingham,Windham 6,U.S. House,NA,Energy Independence,Jerry Trudell,10
+Windham,Whitingham,Windham-Bennington,U.S. House,NA,Energy Independence,Jerry Trudell,0
+Orange,Williamstown,NA,U.S. House,NA,Energy Independence,Jerry Trudell,9
+Chittenden,Williston,NA,U.S. House,NA,Energy Independence,Jerry Trudell,22
+Windham,Wilmington,NA,U.S. House,NA,Energy Independence,Jerry Trudell,14
+Windham,Windham,NA,U.S. House,NA,Energy Independence,Jerry Trudell,1
+Windsor,Windsor,NA,U.S. House,NA,Energy Independence,Jerry Trudell,8
+Bennington,Winhall,NA,U.S. House,NA,Energy Independence,Jerry Trudell,3
+Chittenden,Winooski,NA,U.S. House,NA,Energy Independence,Jerry Trudell,24
+Lamoille,Wolcott,NA,U.S. House,NA,Energy Independence,Jerry Trudell,6
+Washington,Woodbury,NA,U.S. House,NA,Energy Independence,Jerry Trudell,2
+Bennington,Woodford,NA,U.S. House,NA,Energy Independence,Jerry Trudell,1
+Windsor,Woodstock,NA,U.S. House,NA,Energy Independence,Jerry Trudell,4
+Washington,Worcester,NA,U.S. House,NA,Energy Independence,Jerry Trudell,5
+Addison,Addison,NA,U.S. House,NA,Independent,Randall Meyer,2
+Orleans,Albany,NA,U.S. House,NA,Independent,Randall Meyer,4
+Grand Isle,Alburgh,NA,U.S. House,NA,Independent,Randall Meyer,6
+Windsor,Andover,NA,U.S. House,NA,Independent,Randall Meyer,0
+Bennington,Arlington,NA,U.S. House,NA,Independent,Randall Meyer,4
+Windham,Athens,NA,U.S. House,NA,Independent,Randall Meyer,0
+Franklin,Bakersfield,NA,U.S. House,NA,Independent,Randall Meyer,4
+Windsor,Baltimore,NA,U.S. House,NA,Independent,Randall Meyer,1
+Windsor,Barnard,NA,U.S. House,NA,Independent,Randall Meyer,1
+Caledonia,Barnet,NA,U.S. House,NA,Independent,Randall Meyer,11
+Washington,Barre City,NA,U.S. House,NA,Independent,Randall Meyer,41
+Washington,Barre Town,NA,U.S. House,NA,Independent,Randall Meyer,43
+Orleans,Barton,NA,U.S. House,NA,Independent,Randall Meyer,2
+Lamoille,Belvidere,NA,U.S. House,NA,Independent,Randall Meyer,0
+Bennington,Bennington,Bennington 2-1,U.S. House,NA,Independent,Randall Meyer,9
+Bennington,Bennington,Bennington 2-2,U.S. House,NA,Independent,Randall Meyer,16
+Rutland,Benson,NA,U.S. House,NA,Independent,Randall Meyer,0
+Franklin,Berkshire,NA,U.S. House,NA,Independent,Randall Meyer,5
+Washington,Berlin,NA,U.S. House,NA,Independent,Randall Meyer,12
+Windsor,Bethel,NA,U.S. House,NA,Independent,Randall Meyer,7
+Essex,Bloomfield,NA,U.S. House,NA,Independent,Randall Meyer,1
+Chittenden,Bolton,NA,U.S. House,NA,Independent,Randall Meyer,2
+Orange,Bradford,NA,U.S. House,NA,Independent,Randall Meyer,9
+Orange,Braintree,NA,U.S. House,NA,Independent,Randall Meyer,4
+Rutland,Brandon,NA,U.S. House,NA,Independent,Randall Meyer,6
+Windham,Brattleboro,Windham 2-1,U.S. House,NA,Independent,Randall Meyer,11
+Windham,Brattleboro,Windham 2-2,U.S. House,NA,Independent,Randall Meyer,2
+Windham,Brattleboro,Windham 2-3,U.S. House,NA,Independent,Randall Meyer,5
+Windsor,Bridgewater,NA,U.S. House,NA,Independent,Randall Meyer,0
+Addison,Bridport,NA,U.S. House,NA,Independent,Randall Meyer,0
+Essex,Brighton,NA,U.S. House,NA,Independent,Randall Meyer,5
+Addison,Bristol,NA,U.S. House,NA,Independent,Randall Meyer,20
+Orange,Brookfield,NA,U.S. House,NA,Independent,Randall Meyer,7
+Windham,Brookline,NA,U.S. House,NA,Independent,Randall Meyer,0
+Orleans,Brownington,NA,U.S. House,NA,Independent,Randall Meyer,10
+Essex,Brunswick,NA,U.S. House,NA,Independent,Randall Meyer,0
+Caledonia,Burke,NA,U.S. House,NA,Independent,Randall Meyer,3
+Chittenden,Burlington,Chittenden 6-1,U.S. House,NA,Independent,Randall Meyer,11
+Chittenden,Burlington,Chittenden 6-2,U.S. House,NA,Independent,Randall Meyer,5
+Chittenden,Burlington,Chittenden 6-3,U.S. House,NA,Independent,Randall Meyer,16
+Chittenden,Burlington,Chittenden 6-4,U.S. House,NA,Independent,Randall Meyer,3
+Chittenden,Burlington,Chittenden 6-5,U.S. House,NA,Independent,Randall Meyer,6
+Chittenden,Burlington,Chittenden 6-6,U.S. House,NA,Independent,Randall Meyer,1
+Chittenden,Burlington,Chittenden 6-7,U.S. House,NA,Independent,Randall Meyer,0
+Washington,Cabot,NA,U.S. House,NA,Independent,Randall Meyer,18
+Washington,Calais,NA,U.S. House,NA,Independent,Randall Meyer,14
+Lamoille,Cambridge,NA,U.S. House,NA,Independent,Randall Meyer,8
+Essex,Canaan,NA,U.S. House,NA,Independent,Randall Meyer,2
+Rutland,Castleton,NA,U.S. House,NA,Independent,Randall Meyer,6
+Windsor,Cavendish,NA,U.S. House,NA,Independent,Randall Meyer,1
+Orleans,Charleston,NA,U.S. House,NA,Independent,Randall Meyer,5
+Chittenden,Charlotte,NA,U.S. House,NA,Independent,Randall Meyer,10
+Orange,Chelsea,NA,U.S. House,NA,Independent,Randall Meyer,2
+Windsor,Chester,NA,U.S. House,NA,Independent,Randall Meyer,4
+Rutland,Chittenden,NA,U.S. House,NA,Independent,Randall Meyer,1
+Rutland,Clarendon,NA,U.S. House,NA,Independent,Randall Meyer,10
+Chittenden,Colchester,Chittenden 9-1,U.S. House,NA,Independent,Randall Meyer,10
+Chittenden,Colchester,Chittenden 9-2,U.S. House,NA,Independent,Randall Meyer,12
+Essex,Concord,NA,U.S. House,NA,Independent,Randall Meyer,6
+Orange,Corinth,NA,U.S. House,NA,Independent,Randall Meyer,8
+Addison,Cornwall,NA,U.S. House,NA,Independent,Randall Meyer,5
+Orleans,Coventry,NA,U.S. House,NA,Independent,Randall Meyer,2
+Orleans,Craftsbury,NA,U.S. House,NA,Independent,Randall Meyer,7
+Rutland,Danby,NA,U.S. House,NA,Independent,Randall Meyer,5
+Caledonia,Danville,NA,U.S. House,NA,Independent,Randall Meyer,11
+Orleans,Derby,NA,U.S. House,NA,Independent,Randall Meyer,9
+Bennington,Dorset,NA,U.S. House,NA,Independent,Randall Meyer,5
+Windham,Dover,NA,U.S. House,NA,Independent,Randall Meyer,5
+Windham,Dummerston,NA,U.S. House,NA,Independent,Randall Meyer,4
+Washington,Duxbury,NA,U.S. House,NA,Independent,Randall Meyer,7
+Essex,E. Haven,NA,U.S. House,NA,Independent,Randall Meyer,1
+Washington,E. Montpelier,NA,U.S. House,NA,Independent,Randall Meyer,11
+Lamoille,Eden,NA,U.S. House,NA,Independent,Randall Meyer,5
+Lamoille,Elmore,NA,U.S. House,NA,Independent,Randall Meyer,3
+Franklin,Enosburgh,NA,U.S. House,NA,Independent,Randall Meyer,8
+Chittenden,Essex,Chittenden 8-1,U.S. House,NA,Independent,Randall Meyer,14
+Chittenden,Essex,Chittenden 8-2,U.S. House,NA,Independent,Randall Meyer,14
+Chittenden,Essex,Chittenden 8-3,U.S. House,NA,Independent,Randall Meyer,5
+Rutland,Fair Haven,NA,U.S. House,NA,Independent,Randall Meyer,2
+Franklin,Fairfax,NA,U.S. House,NA,Independent,Randall Meyer,10
+Franklin,Fairfield,NA,U.S. House,NA,Independent,Randall Meyer,3
+Orange,Fairlee,NA,U.S. House,NA,Independent,Randall Meyer,3
+Washington,Fayston,NA,U.S. House,NA,Independent,Randall Meyer,3
+Addison,Ferrisburgh,NA,U.S. House,NA,Independent,Randall Meyer,3
+Franklin,Fletcher,NA,U.S. House,NA,Independent,Randall Meyer,3
+Franklin,Franklin,NA,U.S. House,NA,Independent,Randall Meyer,6
+Franklin,Georgia,NA,U.S. House,NA,Independent,Randall Meyer,11
+Orleans,Glover,NA,U.S. House,NA,Independent,Randall Meyer,5
+Addison,Goshen,NA,U.S. House,NA,Independent,Randall Meyer,2
+Windham,Grafton,NA,U.S. House,NA,Independent,Randall Meyer,0
+Essex,Granby,NA,U.S. House,NA,Independent,Randall Meyer,1
+Grand Isle,Grand Isle,NA,U.S. House,NA,Independent,Randall Meyer,7
+Addison,Granville,NA,U.S. House,NA,Independent,Randall Meyer,0
+Orleans,Greensboro,NA,U.S. House,NA,Independent,Randall Meyer,2
+Caledonia,Groton,NA,U.S. House,NA,Independent,Randall Meyer,13
+Essex,Guildhall,NA,U.S. House,NA,Independent,Randall Meyer,1
+Windham,Guilford,NA,U.S. House,NA,Independent,Randall Meyer,7
+Windham,Halifax,NA,U.S. House,NA,Independent,Randall Meyer,1
+Addison,Hancock,NA,U.S. House,NA,Independent,Randall Meyer,2
+Caledonia,Hardwick,NA,U.S. House,NA,Independent,Randall Meyer,21
+Windsor,Hartford,Windsor 4-1,U.S. House,NA,Independent,Randall Meyer,1
+Windsor,Hartford,Windsor 4-2,U.S. House,NA,Independent,Randall Meyer,9
+Windsor,Hartland,NA,U.S. House,NA,Independent,Randall Meyer,2
+Franklin,Highgate,NA,U.S. House,NA,Independent,Randall Meyer,13
+Chittenden,Hinesburg,Chittenden 4-1,U.S. House,NA,Independent,Randall Meyer,0
+Chittenden,Hinesburg,Chittenden 4-2,U.S. House,NA,Independent,Randall Meyer,8
+Orleans,Holland,NA,U.S. House,NA,Independent,Randall Meyer,5
+Rutland,Hubbardton,NA,U.S. House,NA,Independent,Randall Meyer,2
+Chittenden,Huntington,NA,U.S. House,NA,Independent,Randall Meyer,10
+Lamoille,Hyde Park,NA,U.S. House,NA,Independent,Randall Meyer,12
+Rutland,Ira,NA,U.S. House,NA,Independent,Randall Meyer,0
+Orleans,Irasburg,NA,U.S. House,NA,Independent,Randall Meyer,5
+Grand Isle,Isle La Motte,NA,U.S. House,NA,Independent,Randall Meyer,4
+Windham,Jamaica,NA,U.S. House,NA,Independent,Randall Meyer,0
+Orleans,Jay,NA,U.S. House,NA,Independent,Randall Meyer,1
+Chittenden,Jericho,NA,U.S. House,NA,Independent,Randall Meyer,11
+Lamoille,Johnson,NA,U.S. House,NA,Independent,Randall Meyer,4
+Rutland,Killington,NA,U.S. House,NA,Independent,Randall Meyer,4
+Caledonia,Kirby,NA,U.S. House,NA,Independent,Randall Meyer,1
+Bennington,Landgrove,NA,U.S. House,NA,Independent,Randall Meyer,0
+Addison,Leicester,NA,U.S. House,NA,Independent,Randall Meyer,2
+Essex,Lemington,NA,U.S. House,NA,Independent,Randall Meyer,1
+Addison,Lincoln,NA,U.S. House,NA,Independent,Randall Meyer,4
+Windham,Londonderry,NA,U.S. House,NA,Independent,Randall Meyer,4
+Orleans,Lowell,NA,U.S. House,NA,Independent,Randall Meyer,4
+Windsor,Ludlow,NA,U.S. House,NA,Independent,Randall Meyer,0
+Essex,Lunenburg,NA,U.S. House,NA,Independent,Randall Meyer,10
+Caledonia,Lyndon,NA,U.S. House,NA,Independent,Randall Meyer,18
+Essex,Maidstone,NA,U.S. House,NA,Independent,Randall Meyer,0
+Bennington,Manchester,NA,U.S. House,NA,Independent,Randall Meyer,10
+Windham,Marlboro,NA,U.S. House,NA,Independent,Randall Meyer,4
+Washington,Marshfield,NA,U.S. House,NA,Independent,Randall Meyer,22
+Rutland,Mendon,NA,U.S. House,NA,Independent,Randall Meyer,4
+Addison,Middlebury,NA,U.S. House,NA,Independent,Randall Meyer,16
+Washington,Middlesex,NA,U.S. House,NA,Independent,Randall Meyer,9
+Rutland,Middletown Springs,NA,U.S. House,NA,Independent,Randall Meyer,2
+Chittenden,Milton,Chittenden 10,U.S. House,NA,Independent,Randall Meyer,20
+Chittenden,Milton,Grand Isle-Chittenden,U.S. House,NA,Independent,Randall Meyer,2
+Addison,Monkton,NA,U.S. House,NA,Independent,Randall Meyer,7
+Franklin,Montgomery,NA,U.S. House,NA,Independent,Randall Meyer,5
+Washington,Montpelier,NA,U.S. House,NA,Independent,Randall Meyer,36
+Washington,Moretown,NA,U.S. House,NA,Independent,Randall Meyer,10
+Orleans,Morgan,NA,U.S. House,NA,Independent,Randall Meyer,3
+Lamoille,Morristown,NA,U.S. House,NA,Independent,Randall Meyer,20
+Rutland,Mount Holly,NA,U.S. House,NA,Independent,Randall Meyer,3
+Rutland,Mount Tabor,NA,U.S. House,NA,Independent,Randall Meyer,0
+Addison,New Haven,NA,U.S. House,NA,Independent,Randall Meyer,10
+Caledonia,Newark,NA,U.S. House,NA,Independent,Randall Meyer,6
+Orange,Newbury,NA,U.S. House,NA,Independent,Randall Meyer,6
+Windham,Newfane,NA,U.S. House,NA,Independent,Randall Meyer,6
+Orleans,Newport City,NA,U.S. House,NA,Independent,Randall Meyer,10
+Orleans,Newport Town,NA,U.S. House,NA,Independent,Randall Meyer,8
+Grand Isle,N. Hero,NA,U.S. House,NA,Independent,Randall Meyer,3
+Washington,Northfield,NA,U.S. House,NA,Independent,Randall Meyer,24
+Essex,Norton,NA,U.S. House,NA,Independent,Randall Meyer,1
+Windsor,Norwich,NA,U.S. House,NA,Independent,Randall Meyer,5
+Orange,Orange,NA,U.S. House,NA,Independent,Randall Meyer,8
+Addison,Orwell,NA,U.S. House,NA,Independent,Randall Meyer,2
+Addison,Panton,NA,U.S. House,NA,Independent,Randall Meyer,2
+Rutland,Pawlet,NA,U.S. House,NA,Independent,Randall Meyer,2
+Caledonia,Peacham,NA,U.S. House,NA,Independent,Randall Meyer,10
+Bennington,Peru,NA,U.S. House,NA,Independent,Randall Meyer,1
+Rutland,Pittsfield,NA,U.S. House,NA,Independent,Randall Meyer,1
+Rutland,Pittsford,NA,U.S. House,NA,Independent,Randall Meyer,9
+Washington,Plainfield,NA,U.S. House,NA,Independent,Randall Meyer,22
+Windsor,Plymouth,NA,U.S. House,NA,Independent,Randall Meyer,1
+Windsor,Pomfret,NA,U.S. House,NA,Independent,Randall Meyer,1
+Rutland,Poultney,NA,U.S. House,NA,Independent,Randall Meyer,7
+Bennington,Pownal,NA,U.S. House,NA,Independent,Randall Meyer,16
+Rutland,Proctor,NA,U.S. House,NA,Independent,Randall Meyer,4
+Windham,Putney,NA,U.S. House,NA,Independent,Randall Meyer,2
+Orange,Randolph,NA,U.S. House,NA,Independent,Randall Meyer,14
+Windsor,Reading,NA,U.S. House,NA,Independent,Randall Meyer,2
+Bennington,Readsboro,NA,U.S. House,NA,Independent,Randall Meyer,1
+Franklin,Richford,NA,U.S. House,NA,Independent,Randall Meyer,11
+Chittenden,Richmond,NA,U.S. House,NA,Independent,Randall Meyer,6
+Addison,Ripton,NA,U.S. House,NA,Independent,Randall Meyer,3
+Windsor,Rochester,NA,U.S. House,NA,Independent,Randall Meyer,4
+Windham,Rockingham,NA,U.S. House,NA,Independent,Randall Meyer,4
+Washington,Roxbury,NA,U.S. House,NA,Independent,Randall Meyer,4
+Windsor,Royalton,NA,U.S. House,NA,Independent,Randall Meyer,6
+Bennington,Rupert,NA,U.S. House,NA,Independent,Randall Meyer,3
+Rutland,Rutland City,Rutland 5-1,U.S. House,NA,Independent,Randall Meyer,8
+Rutland,Rutland City,Rutland 5-2,U.S. House,NA,Independent,Randall Meyer,12
+Rutland,Rutland City,Rutland 5-3,U.S. House,NA,Independent,Randall Meyer,9
+Rutland,Rutland City,Rutland 5-4,U.S. House,NA,Independent,Randall Meyer,13
+Rutland,Rutland Town,NA,U.S. House,NA,Independent,Randall Meyer,7
+Caledonia,Ryegate,NA,U.S. House,NA,Independent,Randall Meyer,6
+Franklin,Salisbury,NA,U.S. House,NA,Independent,Randall Meyer,3
+Franklin,Sandgate,NA,U.S. House,NA,Independent,Randall Meyer,2
+Chittenden,Searsburg,NA,U.S. House,NA,Independent,Randall Meyer,0
+Caledonia,Shaftsbury,NA,U.S. House,NA,Independent,Randall Meyer,12
+Addison,Sharon,NA,U.S. House,NA,Independent,Randall Meyer,4
+Bennington,Sheffield,NA,U.S. House,NA,Independent,Randall Meyer,1
+Bennington,Shelburne,Chittenden 5-1,U.S. House,NA,Independent,Randall Meyer,4
+Bennington,Shelburne,Chittenden 5-2,U.S. House,NA,Independent,Randall Meyer,6
+Bennington,Sheldon,NA,U.S. House,NA,Independent,Randall Meyer,1
+Windsor,Shoreham,NA,U.S. House,NA,Independent,Randall Meyer,7
+Caledonia,Shrewsbury,NA,U.S. House,NA,Independent,Randall Meyer,5
+Chittenden,S. Burlington,Chittenden 7-1,U.S. House,NA,Independent,Randall Meyer,10
+Chittenden,S. Burlington,Chittenden 7-2,U.S. House,NA,Independent,Randall Meyer,1
+Chittenden,S. Burlington,Chittenden 7-3,U.S. House,NA,Independent,Randall Meyer,1
+Chittenden,S. Burlington,Chittenden 7-4,U.S. House,NA,Independent,Randall Meyer,7
+Franklin,S. Hero,NA,U.S. House,NA,Independent,Randall Meyer,6
+Addison,Springfield,Windsor 3-1,U.S. House,NA,Independent,Randall Meyer,2
+Addison,Springfield,Windsor 3-2,U.S. House,NA,Independent,Randall Meyer,17
+Rutland,St. Albans City,NA,U.S. House,NA,Independent,Randall Meyer,14
+Chittenden,St. Albans Town,Franklin 3-1,U.S. House,NA,Independent,Randall Meyer,5
+Chittenden,St. Albans Town,Franklin 3-2,U.S. House,NA,Independent,Randall Meyer,12
+Grand Isle,St. George,NA,U.S. House,NA,Independent,Randall Meyer,1
+Windsor,St. Johnsbury,NA,U.S. House,NA,Independent,Randall Meyer,24
+Bennington,Stamford,NA,U.S. House,NA,Independent,Randall Meyer,7
+Caledonia,Stannard,NA,U.S. House,NA,Independent,Randall Meyer,2
+Addison,Starksboro,NA,U.S. House,NA,Independent,Randall Meyer,8
+Windsor,Stockbridge,NA,U.S. House,NA,Independent,Randall Meyer,3
+Lamoille,Stowe,NA,U.S. House,NA,Independent,Randall Meyer,7
+Orange,Strafford,NA,U.S. House,NA,Independent,Randall Meyer,1
+Windham,Stratton,NA,U.S. House,NA,Independent,Randall Meyer,1
+Rutland,Sudbury,NA,U.S. House,NA,Independent,Randall Meyer,1
+Bennington,Sunderland,Bennington 3,U.S. House,NA,Independent,Randall Meyer,0
+Bennington,Sunderland,Bennington 4,U.S. House,NA,Independent,Randall Meyer,2
+Caledonia,Sutton,NA,U.S. House,NA,Independent,Randall Meyer,6
+Franklin,Swanton,NA,U.S. House,NA,Independent,Randall Meyer,14
+Orange,Thetford,NA,U.S. House,NA,Independent,Randall Meyer,11
+Rutland,Tinmouth,Rutland 2,U.S. House,NA,Independent,Randall Meyer,0
+Rutland,Tinmouth,Rutland-Bennington,U.S. House,NA,Independent,Randall Meyer,4
+Orange,Topsham,NA,U.S. House,NA,Independent,Randall Meyer,5
+Windham,Townshend,NA,U.S. House,NA,Independent,Randall Meyer,3
+Orleans,Troy,Orleans 2,U.S. House,NA,Independent,Randall Meyer,2
+Orleans,Troy,Orleans-Lamoille,U.S. House,NA,Independent,Randall Meyer,1
+Orange,Tunbridge,NA,U.S. House,NA,Independent,Randall Meyer,4
+Chittenden,Underhill,NA,U.S. House,NA,Independent,Randall Meyer,4
+Addison,Vergennes,NA,U.S. House,NA,Independent,Randall Meyer,7
+Windham,Vernon,NA,U.S. House,NA,Independent,Randall Meyer,7
+Orange,Vershire,NA,U.S. House,NA,Independent,Randall Meyer,0
+Essex,Victory,NA,U.S. House,NA,Independent,Randall Meyer,0
+Washington,Waitsfield,NA,U.S. House,NA,Independent,Randall Meyer,10
+Caledonia,Walden,NA,U.S. House,NA,Independent,Randall Meyer,7
+Rutland,Wallingford,NA,U.S. House,NA,Independent,Randall Meyer,5
+Addison,Waltham,NA,U.S. House,NA,Independent,Randall Meyer,0
+Windham,Wardsboro,NA,U.S. House,NA,Independent,Randall Meyer,0
+Washington,Warren,NA,U.S. House,NA,Independent,Randall Meyer,14
+Orange,Washington,NA,U.S. House,NA,Independent,Randall Meyer,5
+Washington,Waterbury,NA,U.S. House,NA,Independent,Randall Meyer,13
+Caledonia,Waterford,NA,U.S. House,NA,Independent,Randall Meyer,10
+Lamoille,Waterville,NA,U.S. House,NA,Independent,Randall Meyer,0
+Windsor,Weathersfield,NA,U.S. House,NA,Independent,Randall Meyer,10
+Rutland,Wells,NA,U.S. House,NA,Independent,Randall Meyer,2
+Orange,W. Fairlee,NA,U.S. House,NA,Independent,Randall Meyer,5
+Rutland,W. Haven,NA,U.S. House,NA,Independent,Randall Meyer,1
+Rutland,W. Rutland,NA,U.S. House,NA,Independent,Randall Meyer,4
+Windsor,W. Windsor,NA,U.S. House,NA,Independent,Randall Meyer,2
+Orleans,Westfield,NA,U.S. House,NA,Independent,Randall Meyer,0
+Chittenden,Westford,NA,U.S. House,NA,Independent,Randall Meyer,5
+Windham,Westminster,Windham 3,U.S. House,NA,Independent,Randall Meyer,0
+Windham,Westminster,Windham 4,U.S. House,NA,Independent,Randall Meyer,7
+Orleans,Westmore,NA,U.S. House,NA,Independent,Randall Meyer,0
+Windsor,Weston,NA,U.S. House,NA,Independent,Randall Meyer,1
+Addison,Weybridge,NA,U.S. House,NA,Independent,Randall Meyer,3
+Caledonia,Wheelock,NA,U.S. House,NA,Independent,Randall Meyer,3
+Addison,Whiting,NA,U.S. House,NA,Independent,Randall Meyer,2
+Windham,Whitingham,Windham 6,U.S. House,NA,Independent,Randall Meyer,2
+Windham,Whitingham,Windham-Bennington,U.S. House,NA,Independent,Randall Meyer,0
+Orange,Williamstown,NA,U.S. House,NA,Independent,Randall Meyer,15
+Chittenden,Williston,NA,U.S. House,NA,Independent,Randall Meyer,22
+Windham,Wilmington,NA,U.S. House,NA,Independent,Randall Meyer,9
+Windham,Windham,NA,U.S. House,NA,Independent,Randall Meyer,1
+Windsor,Windsor,NA,U.S. House,NA,Independent,Randall Meyer,8
+Bennington,Winhall,NA,U.S. House,NA,Independent,Randall Meyer,0
+Chittenden,Winooski,NA,U.S. House,NA,Independent,Randall Meyer,15
+Lamoille,Wolcott,NA,U.S. House,NA,Independent,Randall Meyer,12
+Washington,Woodbury,NA,U.S. House,NA,Independent,Randall Meyer,7
+Bennington,Woodford,NA,U.S. House,NA,Independent,Randall Meyer,2
+Windsor,Woodstock,NA,U.S. House,NA,Independent,Randall Meyer,4
+Washington,Worcester,NA,U.S. House,NA,Independent,Randall Meyer,7
+Addison,Addison,NA,U.S. House,NA,NA,Write-Ins,0
+Orleans,Albany,NA,U.S. House,NA,NA,Write-Ins,0
+Grand Isle,Alburgh,NA,U.S. House,NA,NA,Write-Ins,0
+Windsor,Andover,NA,U.S. House,NA,NA,Write-Ins,0
+Bennington,Arlington,NA,U.S. House,NA,NA,Write-Ins,0
+Windham,Athens,NA,U.S. House,NA,NA,Write-Ins,0
+Franklin,Bakersfield,NA,U.S. House,NA,NA,Write-Ins,0
+Windsor,Baltimore,NA,U.S. House,NA,NA,Write-Ins,0
+Windsor,Barnard,NA,U.S. House,NA,NA,Write-Ins,0
+Caledonia,Barnet,NA,U.S. House,NA,NA,Write-Ins,0
+Washington,Barre City,NA,U.S. House,NA,NA,Write-Ins,0
+Washington,Barre Town,NA,U.S. House,NA,NA,Write-Ins,0
+Orleans,Barton,NA,U.S. House,NA,NA,Write-Ins,0
+Lamoille,Belvidere,NA,U.S. House,NA,NA,Write-Ins,0
+Bennington,Bennington,Bennington 2-1,U.S. House,NA,NA,Write-Ins,0
+Bennington,Bennington,Bennington 2-2,U.S. House,NA,NA,Write-Ins,0
+Rutland,Benson,NA,U.S. House,NA,NA,Write-Ins,0
+Franklin,Berkshire,NA,U.S. House,NA,NA,Write-Ins,0
+Washington,Berlin,NA,U.S. House,NA,NA,Write-Ins,0
+Windsor,Bethel,NA,U.S. House,NA,NA,Write-Ins,0
+Essex,Bloomfield,NA,U.S. House,NA,NA,Write-Ins,0
+Chittenden,Bolton,NA,U.S. House,NA,NA,Write-Ins,0
+Orange,Bradford,NA,U.S. House,NA,NA,Write-Ins,0
+Orange,Braintree,NA,U.S. House,NA,NA,Write-Ins,0
+Rutland,Brandon,NA,U.S. House,NA,NA,Write-Ins,0
+Windham,Brattleboro,Windham 2-1,U.S. House,NA,NA,Write-Ins,0
+Windham,Brattleboro,Windham 2-2,U.S. House,NA,NA,Write-Ins,0
+Windham,Brattleboro,Windham 2-3,U.S. House,NA,NA,Write-Ins,0
+Windsor,Bridgewater,NA,U.S. House,NA,NA,Write-Ins,0
+Addison,Bridport,NA,U.S. House,NA,NA,Write-Ins,0
+Essex,Brighton,NA,U.S. House,NA,NA,Write-Ins,0
+Addison,Bristol,NA,U.S. House,NA,NA,Write-Ins,0
+Orange,Brookfield,NA,U.S. House,NA,NA,Write-Ins,0
+Windham,Brookline,NA,U.S. House,NA,NA,Write-Ins,0
+Orleans,Brownington,NA,U.S. House,NA,NA,Write-Ins,0
+Essex,Brunswick,NA,U.S. House,NA,NA,Write-Ins,0
+Caledonia,Burke,NA,U.S. House,NA,NA,Write-Ins,0
+Chittenden,Burlington,Chittenden 6-1,U.S. House,NA,NA,Write-Ins,0
+Chittenden,Burlington,Chittenden 6-2,U.S. House,NA,NA,Write-Ins,0
+Chittenden,Burlington,Chittenden 6-3,U.S. House,NA,NA,Write-Ins,0
+Chittenden,Burlington,Chittenden 6-4,U.S. House,NA,NA,Write-Ins,0
+Chittenden,Burlington,Chittenden 6-5,U.S. House,NA,NA,Write-Ins,0
+Chittenden,Burlington,Chittenden 6-6,U.S. House,NA,NA,Write-Ins,0
+Chittenden,Burlington,Chittenden 6-7,U.S. House,NA,NA,Write-Ins,0
+Washington,Cabot,NA,U.S. House,NA,NA,Write-Ins,0
+Washington,Calais,NA,U.S. House,NA,NA,Write-Ins,0
+Lamoille,Cambridge,NA,U.S. House,NA,NA,Write-Ins,0
+Essex,Canaan,NA,U.S. House,NA,NA,Write-Ins,0
+Rutland,Castleton,NA,U.S. House,NA,NA,Write-Ins,0
+Windsor,Cavendish,NA,U.S. House,NA,NA,Write-Ins,0
+Orleans,Charleston,NA,U.S. House,NA,NA,Write-Ins,0
+Chittenden,Charlotte,NA,U.S. House,NA,NA,Write-Ins,0
+Orange,Chelsea,NA,U.S. House,NA,NA,Write-Ins,0
+Windsor,Chester,NA,U.S. House,NA,NA,Write-Ins,0
+Rutland,Chittenden,NA,U.S. House,NA,NA,Write-Ins,0
+Rutland,Clarendon,NA,U.S. House,NA,NA,Write-Ins,0
+Chittenden,Colchester,Chittenden 9-1,U.S. House,NA,NA,Write-Ins,0
+Chittenden,Colchester,Chittenden 9-2,U.S. House,NA,NA,Write-Ins,0
+Essex,Concord,NA,U.S. House,NA,NA,Write-Ins,0
+Orange,Corinth,NA,U.S. House,NA,NA,Write-Ins,0
+Addison,Cornwall,NA,U.S. House,NA,NA,Write-Ins,0
+Orleans,Coventry,NA,U.S. House,NA,NA,Write-Ins,0
+Orleans,Craftsbury,NA,U.S. House,NA,NA,Write-Ins,0
+Rutland,Danby,NA,U.S. House,NA,NA,Write-Ins,0
+Caledonia,Danville,NA,U.S. House,NA,NA,Write-Ins,0
+Orleans,Derby,NA,U.S. House,NA,NA,Write-Ins,0
+Bennington,Dorset,NA,U.S. House,NA,NA,Write-Ins,0
+Windham,Dover,NA,U.S. House,NA,NA,Write-Ins,2
+Windham,Dummerston,NA,U.S. House,NA,NA,Write-Ins,0
+Washington,Duxbury,NA,U.S. House,NA,NA,Write-Ins,1
+Essex,E. Haven,NA,U.S. House,NA,NA,Write-Ins,0
+Washington,E. Montpelier,NA,U.S. House,NA,NA,Write-Ins,1
+Lamoille,Eden,NA,U.S. House,NA,NA,Write-Ins,0
+Lamoille,Elmore,NA,U.S. House,NA,NA,Write-Ins,0
+Franklin,Enosburgh,NA,U.S. House,NA,NA,Write-Ins,0
+Chittenden,Essex,Chittenden 8-1,U.S. House,NA,NA,Write-Ins,2
+Chittenden,Essex,Chittenden 8-2,U.S. House,NA,NA,Write-Ins,4
+Chittenden,Essex,Chittenden 8-3,U.S. House,NA,NA,Write-Ins,0
+Rutland,Fair Haven,NA,U.S. House,NA,NA,Write-Ins,1
+Franklin,Fairfax,NA,U.S. House,NA,NA,Write-Ins,2
+Franklin,Fairfield,NA,U.S. House,NA,NA,Write-Ins,0
+Orange,Fairlee,NA,U.S. House,NA,NA,Write-Ins,0
+Washington,Fayston,NA,U.S. House,NA,NA,Write-Ins,1
+Addison,Ferrisburgh,NA,U.S. House,NA,NA,Write-Ins,2
+Franklin,Fletcher,NA,U.S. House,NA,NA,Write-Ins,0
+Franklin,Franklin,NA,U.S. House,NA,NA,Write-Ins,1
+Franklin,Georgia,NA,U.S. House,NA,NA,Write-Ins,1
+Orleans,Glover,NA,U.S. House,NA,NA,Write-Ins,1
+Addison,Goshen,NA,U.S. House,NA,NA,Write-Ins,0
+Windham,Grafton,NA,U.S. House,NA,NA,Write-Ins,0
+Essex,Granby,NA,U.S. House,NA,NA,Write-Ins,0
+Grand Isle,Grand Isle,NA,U.S. House,NA,NA,Write-Ins,2
+Addison,Granville,NA,U.S. House,NA,NA,Write-Ins,0
+Orleans,Greensboro,NA,U.S. House,NA,NA,Write-Ins,0
+Caledonia,Groton,NA,U.S. House,NA,NA,Write-Ins,0
+Essex,Guildhall,NA,U.S. House,NA,NA,Write-Ins,0
+Windham,Guilford,NA,U.S. House,NA,NA,Write-Ins,0
+Windham,Halifax,NA,U.S. House,NA,NA,Write-Ins,0
+Addison,Hancock,NA,U.S. House,NA,NA,Write-Ins,0
+Caledonia,Hardwick,NA,U.S. House,NA,NA,Write-Ins,0
+Windsor,Hartford,Windsor 4-1,U.S. House,NA,NA,Write-Ins,0
+Windsor,Hartford,Windsor 4-2,U.S. House,NA,NA,Write-Ins,2
+Windsor,Hartland,NA,U.S. House,NA,NA,Write-Ins,0
+Franklin,Highgate,NA,U.S. House,NA,NA,Write-Ins,0
+Chittenden,Hinesburg,Chittenden 4-1,U.S. House,NA,NA,Write-Ins,0
+Chittenden,Hinesburg,Chittenden 4-2,U.S. House,NA,NA,Write-Ins,1
+Orleans,Holland,NA,U.S. House,NA,NA,Write-Ins,0
+Rutland,Hubbardton,NA,U.S. House,NA,NA,Write-Ins,0
+Chittenden,Huntington,NA,U.S. House,NA,NA,Write-Ins,2
+Lamoille,Hyde Park,NA,U.S. House,NA,NA,Write-Ins,0
+Rutland,Ira,NA,U.S. House,NA,NA,Write-Ins,0
+Orleans,Irasburg,NA,U.S. House,NA,NA,Write-Ins,0
+Grand Isle,Isle La Motte,NA,U.S. House,NA,NA,Write-Ins,0
+Windham,Jamaica,NA,U.S. House,NA,NA,Write-Ins,1
+Orleans,Jay,NA,U.S. House,NA,NA,Write-Ins,0
+Chittenden,Jericho,NA,U.S. House,NA,NA,Write-Ins,1
+Lamoille,Johnson,NA,U.S. House,NA,NA,Write-Ins,0
+Rutland,Killington,NA,U.S. House,NA,NA,Write-Ins,0
+Caledonia,Kirby,NA,U.S. House,NA,NA,Write-Ins,0
+Bennington,Landgrove,NA,U.S. House,NA,NA,Write-Ins,0
+Addison,Leicester,NA,U.S. House,NA,NA,Write-Ins,0
+Essex,Lemington,NA,U.S. House,NA,NA,Write-Ins,0
+Addison,Lincoln,NA,U.S. House,NA,NA,Write-Ins,0
+Windham,Londonderry,NA,U.S. House,NA,NA,Write-Ins,0
+Orleans,Lowell,NA,U.S. House,NA,NA,Write-Ins,0
+Windsor,Ludlow,NA,U.S. House,NA,NA,Write-Ins,3
+Essex,Lunenburg,NA,U.S. House,NA,NA,Write-Ins,3
+Caledonia,Lyndon,NA,U.S. House,NA,NA,Write-Ins,2
+Essex,Maidstone,NA,U.S. House,NA,NA,Write-Ins,0
+Bennington,Manchester,NA,U.S. House,NA,NA,Write-Ins,0
+Windham,Marlboro,NA,U.S. House,NA,NA,Write-Ins,0
+Washington,Marshfield,NA,U.S. House,NA,NA,Write-Ins,0
+Rutland,Mendon,NA,U.S. House,NA,NA,Write-Ins,0
+Addison,Middlebury,NA,U.S. House,NA,NA,Write-Ins,1
+Washington,Middlesex,NA,U.S. House,NA,NA,Write-Ins,1
+Rutland,Middletown Springs,NA,U.S. House,NA,NA,Write-Ins,0
+Chittenden,Milton,Chittenden 10,U.S. House,NA,NA,Write-Ins,4
+Chittenden,Milton,Grand Isle-Chittenden,U.S. House,NA,NA,Write-Ins,0
+Addison,Monkton,NA,U.S. House,NA,NA,Write-Ins,1
+Franklin,Montgomery,NA,U.S. House,NA,NA,Write-Ins,0
+Washington,Montpelier,NA,U.S. House,NA,NA,Write-Ins,5
+Washington,Moretown,NA,U.S. House,NA,NA,Write-Ins,0
+Orleans,Morgan,NA,U.S. House,NA,NA,Write-Ins,0
+Lamoille,Morristown,NA,U.S. House,NA,NA,Write-Ins,1
+Rutland,Mount Holly,NA,U.S. House,NA,NA,Write-Ins,0
+Rutland,Mount Tabor,NA,U.S. House,NA,NA,Write-Ins,0
+Addison,New Haven,NA,U.S. House,NA,NA,Write-Ins,0
+Caledonia,Newark,NA,U.S. House,NA,NA,Write-Ins,0
+Orange,Newbury,NA,U.S. House,NA,NA,Write-Ins,0
+Windham,Newfane,NA,U.S. House,NA,NA,Write-Ins,1
+Orleans,Newport City,NA,U.S. House,NA,NA,Write-Ins,0
+Orleans,Newport Town,NA,U.S. House,NA,NA,Write-Ins,0
+Grand Isle,N. Hero,NA,U.S. House,NA,NA,Write-Ins,0
+Washington,Northfield,NA,U.S. House,NA,NA,Write-Ins,0
+Essex,Norton,NA,U.S. House,NA,NA,Write-Ins,1
+Windsor,Norwich,NA,U.S. House,NA,NA,Write-Ins,0
+Orange,Orange,NA,U.S. House,NA,NA,Write-Ins,0
+Addison,Orwell,NA,U.S. House,NA,NA,Write-Ins,0
+Addison,Panton,NA,U.S. House,NA,NA,Write-Ins,0
+Rutland,Pawlet,NA,U.S. House,NA,NA,Write-Ins,2
+Caledonia,Peacham,NA,U.S. House,NA,NA,Write-Ins,0
+Bennington,Peru,NA,U.S. House,NA,NA,Write-Ins,0
+Rutland,Pittsfield,NA,U.S. House,NA,NA,Write-Ins,0
+Rutland,Pittsford,NA,U.S. House,NA,NA,Write-Ins,0
+Washington,Plainfield,NA,U.S. House,NA,NA,Write-Ins,0
+Windsor,Plymouth,NA,U.S. House,NA,NA,Write-Ins,0
+Windsor,Pomfret,NA,U.S. House,NA,NA,Write-Ins,0
+Rutland,Poultney,NA,U.S. House,NA,NA,Write-Ins,1
+Bennington,Pownal,NA,U.S. House,NA,NA,Write-Ins,0
+Rutland,Proctor,NA,U.S. House,NA,NA,Write-Ins,0
+Windham,Putney,NA,U.S. House,NA,NA,Write-Ins,0
+Orange,Randolph,NA,U.S. House,NA,NA,Write-Ins,2
+Windsor,Reading,NA,U.S. House,NA,NA,Write-Ins,0
+Bennington,Readsboro,NA,U.S. House,NA,NA,Write-Ins,0
+Franklin,Richford,NA,U.S. House,NA,NA,Write-Ins,0
+Chittenden,Richmond,NA,U.S. House,NA,NA,Write-Ins,1
+Addison,Ripton,NA,U.S. House,NA,NA,Write-Ins,0
+Windsor,Rochester,NA,U.S. House,NA,NA,Write-Ins,0
+Windham,Rockingham,NA,U.S. House,NA,NA,Write-Ins,2
+Washington,Roxbury,NA,U.S. House,NA,NA,Write-Ins,0
+Windsor,Royalton,NA,U.S. House,NA,NA,Write-Ins,3
+Bennington,Rupert,NA,U.S. House,NA,NA,Write-Ins,0
+Rutland,Rutland City,Rutland 5-1,U.S. House,NA,NA,Write-Ins,2
+Rutland,Rutland City,Rutland 5-2,U.S. House,NA,NA,Write-Ins,5
+Rutland,Rutland City,Rutland 5-3,U.S. House,NA,NA,Write-Ins,2
+Rutland,Rutland City,Rutland 5-4,U.S. House,NA,NA,Write-Ins,1
+Rutland,Rutland Town,NA,U.S. House,NA,NA,Write-Ins,3
+Caledonia,Ryegate,NA,U.S. House,NA,NA,Write-Ins,0
+Franklin,Salisbury,NA,U.S. House,NA,NA,Write-Ins,0
+Franklin,Sandgate,NA,U.S. House,NA,NA,Write-Ins,0
+Chittenden,Searsburg,NA,U.S. House,NA,NA,Write-Ins,0
+Caledonia,Shaftsbury,NA,U.S. House,NA,NA,Write-Ins,0
+Addison,Sharon,NA,U.S. House,NA,NA,Write-Ins,0
+Bennington,Sheffield,NA,U.S. House,NA,NA,Write-Ins,1
+Bennington,Shelburne,Chittenden 5-1,U.S. House,NA,NA,Write-Ins,0
+Bennington,Shelburne,Chittenden 5-2,U.S. House,NA,NA,Write-Ins,2
+Bennington,Sheldon,NA,U.S. House,NA,NA,Write-Ins,1
+Windsor,Shoreham,NA,U.S. House,NA,NA,Write-Ins,0
+Caledonia,Shrewsbury,NA,U.S. House,NA,NA,Write-Ins,0
+Chittenden,S. Burlington,Chittenden 7-1,U.S. House,NA,NA,Write-Ins,2
+Chittenden,S. Burlington,Chittenden 7-2,U.S. House,NA,NA,Write-Ins,2
+Chittenden,S. Burlington,Chittenden 7-3,U.S. House,NA,NA,Write-Ins,1
+Chittenden,S. Burlington,Chittenden 7-4,U.S. House,NA,NA,Write-Ins,3
+Franklin,S. Hero,NA,U.S. House,NA,NA,Write-Ins,1
+Addison,Springfield,Windsor 3-1,U.S. House,NA,NA,Write-Ins,0
+Addison,Springfield,Windsor 3-2,U.S. House,NA,NA,Write-Ins,7
+Rutland,St. Albans City,NA,U.S. House,NA,NA,Write-Ins,2
+Chittenden,St. Albans Town,Franklin 3-1,U.S. House,NA,NA,Write-Ins,1
+Chittenden,St. Albans Town,Franklin 3-2,U.S. House,NA,NA,Write-Ins,0
+Grand Isle,St. George,NA,U.S. House,NA,NA,Write-Ins,0
+Windsor,St. Johnsbury,NA,U.S. House,NA,NA,Write-Ins,4
+Bennington,Stamford,NA,U.S. House,NA,NA,Write-Ins,0
+Caledonia,Stannard,NA,U.S. House,NA,NA,Write-Ins,0
+Addison,Starksboro,NA,U.S. House,NA,NA,Write-Ins,0
+Windsor,Stockbridge,NA,U.S. House,NA,NA,Write-Ins,0
+Lamoille,Stowe,NA,U.S. House,NA,NA,Write-Ins,0
+Orange,Strafford,NA,U.S. House,NA,NA,Write-Ins,0
+Windham,Stratton,NA,U.S. House,NA,NA,Write-Ins,0
+Rutland,Sudbury,NA,U.S. House,NA,NA,Write-Ins,0
+Bennington,Sunderland,Bennington 3,U.S. House,NA,NA,Write-Ins,0
+Bennington,Sunderland,Bennington 4,U.S. House,NA,NA,Write-Ins,0
+Caledonia,Sutton,NA,U.S. House,NA,NA,Write-Ins,0
+Franklin,Swanton,NA,U.S. House,NA,NA,Write-Ins,5
+Orange,Thetford,NA,U.S. House,NA,NA,Write-Ins,0
+Rutland,Tinmouth,Rutland 2,U.S. House,NA,NA,Write-Ins,0
+Rutland,Tinmouth,Rutland-Bennington,U.S. House,NA,NA,Write-Ins,0
+Orange,Topsham,NA,U.S. House,NA,NA,Write-Ins,0
+Windham,Townshend,NA,U.S. House,NA,NA,Write-Ins,0
+Orleans,Troy,Orleans 2,U.S. House,NA,NA,Write-Ins,0
+Orleans,Troy,Orleans-Lamoille,U.S. House,NA,NA,Write-Ins,0
+Orange,Tunbridge,NA,U.S. House,NA,NA,Write-Ins,1
+Chittenden,Underhill,NA,U.S. House,NA,NA,Write-Ins,0
+Addison,Vergennes,NA,U.S. House,NA,NA,Write-Ins,0
+Windham,Vernon,NA,U.S. House,NA,NA,Write-Ins,0
+Orange,Vershire,NA,U.S. House,NA,NA,Write-Ins,0
+Essex,Victory,NA,U.S. House,NA,NA,Write-Ins,0
+Washington,Waitsfield,NA,U.S. House,NA,NA,Write-Ins,1
+Caledonia,Walden,NA,U.S. House,NA,NA,Write-Ins,0
+Rutland,Wallingford,NA,U.S. House,NA,NA,Write-Ins,0
+Addison,Waltham,NA,U.S. House,NA,NA,Write-Ins,0
+Windham,Wardsboro,NA,U.S. House,NA,NA,Write-Ins,0
+Washington,Warren,NA,U.S. House,NA,NA,Write-Ins,0
+Orange,Washington,NA,U.S. House,NA,NA,Write-Ins,0
+Washington,Waterbury,NA,U.S. House,NA,NA,Write-Ins,0
+Caledonia,Waterford,NA,U.S. House,NA,NA,Write-Ins,0
+Lamoille,Waterville,NA,U.S. House,NA,NA,Write-Ins,0
+Windsor,Weathersfield,NA,U.S. House,NA,NA,Write-Ins,0
+Rutland,Wells,NA,U.S. House,NA,NA,Write-Ins,0
+Orange,W. Fairlee,NA,U.S. House,NA,NA,Write-Ins,0
+Rutland,W. Haven,NA,U.S. House,NA,NA,Write-Ins,0
+Rutland,W. Rutland,NA,U.S. House,NA,NA,Write-Ins,0
+Windsor,W. Windsor,NA,U.S. House,NA,NA,Write-Ins,0
+Orleans,Westfield,NA,U.S. House,NA,NA,Write-Ins,1
+Chittenden,Westford,NA,U.S. House,NA,NA,Write-Ins,0
+Windham,Westminster,Windham 3,U.S. House,NA,NA,Write-Ins,0
+Windham,Westminster,Windham 4,U.S. House,NA,NA,Write-Ins,0
+Orleans,Westmore,NA,U.S. House,NA,NA,Write-Ins,1
+Windsor,Weston,NA,U.S. House,NA,NA,Write-Ins,0
+Addison,Weybridge,NA,U.S. House,NA,NA,Write-Ins,0
+Caledonia,Wheelock,NA,U.S. House,NA,NA,Write-Ins,0
+Addison,Whiting,NA,U.S. House,NA,NA,Write-Ins,0
+Windham,Whitingham,Windham 6,U.S. House,NA,NA,Write-Ins,0
+Windham,Whitingham,Windham-Bennington,U.S. House,NA,NA,Write-Ins,0
+Orange,Williamstown,NA,U.S. House,NA,NA,Write-Ins,1
+Chittenden,Williston,NA,U.S. House,NA,NA,Write-Ins,5
+Windham,Wilmington,NA,U.S. House,NA,NA,Write-Ins,1
+Windham,Windham,NA,U.S. House,NA,NA,Write-Ins,0
+Windsor,Windsor,NA,U.S. House,NA,NA,Write-Ins,2
+Bennington,Winhall,NA,U.S. House,NA,NA,Write-Ins,0
+Chittenden,Winooski,NA,U.S. House,NA,NA,Write-Ins,5
+Lamoille,Wolcott,NA,U.S. House,NA,NA,Write-Ins,0
+Washington,Woodbury,NA,U.S. House,NA,NA,Write-Ins,0
+Bennington,Woodford,NA,U.S. House,NA,NA,Write-Ins,0
+Windsor,Woodstock,NA,U.S. House,NA,NA,Write-Ins,1
+Washington,Worcester,NA,U.S. House,NA,NA,Write-Ins,0
+Addison,Addison,NA,U.S. House,NA,NA,Blanks,0
+Orleans,Albany,NA,U.S. House,NA,NA,Blanks,0
+Grand Isle,Alburgh,NA,U.S. House,NA,NA,Blanks,0
+Windsor,Andover,NA,U.S. House,NA,NA,Blanks,0
+Bennington,Arlington,NA,U.S. House,NA,NA,Blanks,0
+Windham,Athens,NA,U.S. House,NA,NA,Blanks,0
+Franklin,Bakersfield,NA,U.S. House,NA,NA,Blanks,0
+Windsor,Baltimore,NA,U.S. House,NA,NA,Blanks,0
+Windsor,Barnard,NA,U.S. House,NA,NA,Blanks,0
+Caledonia,Barnet,NA,U.S. House,NA,NA,Blanks,0
+Washington,Barre City,NA,U.S. House,NA,NA,Blanks,0
+Washington,Barre Town,NA,U.S. House,NA,NA,Blanks,0
+Orleans,Barton,NA,U.S. House,NA,NA,Blanks,0
+Lamoille,Belvidere,NA,U.S. House,NA,NA,Blanks,0
+Bennington,Bennington,Bennington 2-1,U.S. House,NA,NA,Blanks,0
+Bennington,Bennington,Bennington 2-2,U.S. House,NA,NA,Blanks,0
+Rutland,Benson,NA,U.S. House,NA,NA,Blanks,0
+Franklin,Berkshire,NA,U.S. House,NA,NA,Blanks,0
+Washington,Berlin,NA,U.S. House,NA,NA,Blanks,0
+Windsor,Bethel,NA,U.S. House,NA,NA,Blanks,0
+Essex,Bloomfield,NA,U.S. House,NA,NA,Blanks,0
+Chittenden,Bolton,NA,U.S. House,NA,NA,Blanks,0
+Orange,Bradford,NA,U.S. House,NA,NA,Blanks,0
+Orange,Braintree,NA,U.S. House,NA,NA,Blanks,0
+Rutland,Brandon,NA,U.S. House,NA,NA,Blanks,0
+Windham,Brattleboro,Windham 2-1,U.S. House,NA,NA,Blanks,0
+Windham,Brattleboro,Windham 2-2,U.S. House,NA,NA,Blanks,0
+Windham,Brattleboro,Windham 2-3,U.S. House,NA,NA,Blanks,0
+Windsor,Bridgewater,NA,U.S. House,NA,NA,Blanks,0
+Addison,Bridport,NA,U.S. House,NA,NA,Blanks,0
+Essex,Brighton,NA,U.S. House,NA,NA,Blanks,0
+Addison,Bristol,NA,U.S. House,NA,NA,Blanks,0
+Orange,Brookfield,NA,U.S. House,NA,NA,Blanks,0
+Windham,Brookline,NA,U.S. House,NA,NA,Blanks,0
+Orleans,Brownington,NA,U.S. House,NA,NA,Blanks,0
+Essex,Brunswick,NA,U.S. House,NA,NA,Blanks,0
+Caledonia,Burke,NA,U.S. House,NA,NA,Blanks,0
+Chittenden,Burlington,Chittenden 6-1,U.S. House,NA,NA,Blanks,0
+Chittenden,Burlington,Chittenden 6-2,U.S. House,NA,NA,Blanks,0
+Chittenden,Burlington,Chittenden 6-3,U.S. House,NA,NA,Blanks,0
+Chittenden,Burlington,Chittenden 6-4,U.S. House,NA,NA,Blanks,0
+Chittenden,Burlington,Chittenden 6-5,U.S. House,NA,NA,Blanks,0
+Chittenden,Burlington,Chittenden 6-6,U.S. House,NA,NA,Blanks,0
+Chittenden,Burlington,Chittenden 6-7,U.S. House,NA,NA,Blanks,0
+Washington,Cabot,NA,U.S. House,NA,NA,Blanks,0
+Washington,Calais,NA,U.S. House,NA,NA,Blanks,0
+Lamoille,Cambridge,NA,U.S. House,NA,NA,Blanks,0
+Essex,Canaan,NA,U.S. House,NA,NA,Blanks,0
+Rutland,Castleton,NA,U.S. House,NA,NA,Blanks,0
+Windsor,Cavendish,NA,U.S. House,NA,NA,Blanks,0
+Orleans,Charleston,NA,U.S. House,NA,NA,Blanks,0
+Chittenden,Charlotte,NA,U.S. House,NA,NA,Blanks,0
+Orange,Chelsea,NA,U.S. House,NA,NA,Blanks,0
+Windsor,Chester,NA,U.S. House,NA,NA,Blanks,0
+Rutland,Chittenden,NA,U.S. House,NA,NA,Blanks,0
+Rutland,Clarendon,NA,U.S. House,NA,NA,Blanks,0
+Chittenden,Colchester,Chittenden 9-1,U.S. House,NA,NA,Blanks,0
+Chittenden,Colchester,Chittenden 9-2,U.S. House,NA,NA,Blanks,0
+Essex,Concord,NA,U.S. House,NA,NA,Blanks,0
+Orange,Corinth,NA,U.S. House,NA,NA,Blanks,0
+Addison,Cornwall,NA,U.S. House,NA,NA,Blanks,0
+Orleans,Coventry,NA,U.S. House,NA,NA,Blanks,0
+Orleans,Craftsbury,NA,U.S. House,NA,NA,Blanks,0
+Rutland,Danby,NA,U.S. House,NA,NA,Blanks,0
+Caledonia,Danville,NA,U.S. House,NA,NA,Blanks,0
+Orleans,Derby,NA,U.S. House,NA,NA,Blanks,32
+Bennington,Dorset,NA,U.S. House,NA,NA,Blanks,22
+Windham,Dover,NA,U.S. House,NA,NA,Blanks,19
+Windham,Dummerston,NA,U.S. House,NA,NA,Blanks,9
+Washington,Duxbury,NA,U.S. House,NA,NA,Blanks,13
+Essex,E. Haven,NA,U.S. House,NA,NA,Blanks,3
+Washington,E. Montpelier,NA,U.S. House,NA,NA,Blanks,19
+Lamoille,Eden,NA,U.S. House,NA,NA,Blanks,6
+Lamoille,Elmore,NA,U.S. House,NA,NA,Blanks,8
+Franklin,Enosburgh,NA,U.S. House,NA,NA,Blanks,42
+Chittenden,Essex,Chittenden 8-1,U.S. House,NA,NA,Blanks,26
+Chittenden,Essex,Chittenden 8-2,U.S. House,NA,NA,Blanks,48
+Chittenden,Essex,Chittenden 8-3,U.S. House,NA,NA,Blanks,9
+Rutland,Fair Haven,NA,U.S. House,NA,NA,Blanks,10
+Franklin,Fairfax,NA,U.S. House,NA,NA,Blanks,25
+Franklin,Fairfield,NA,U.S. House,NA,NA,Blanks,15
+Orange,Fairlee,NA,U.S. House,NA,NA,Blanks,2
+Washington,Fayston,NA,U.S. House,NA,NA,Blanks,21
+Addison,Ferrisburgh,NA,U.S. House,NA,NA,Blanks,17
+Franklin,Fletcher,NA,U.S. House,NA,NA,Blanks,6
+Franklin,Franklin,NA,U.S. House,NA,NA,Blanks,10
+Franklin,Georgia,NA,U.S. House,NA,NA,Blanks,26
+Orleans,Glover,NA,U.S. House,NA,NA,Blanks,17
+Addison,Goshen,NA,U.S. House,NA,NA,Blanks,2
+Windham,Grafton,NA,U.S. House,NA,NA,Blanks,6
+Essex,Granby,NA,U.S. House,NA,NA,Blanks,0
+Grand Isle,Grand Isle,NA,U.S. House,NA,NA,Blanks,29
+Addison,Granville,NA,U.S. House,NA,NA,Blanks,4
+Orleans,Greensboro,NA,U.S. House,NA,NA,Blanks,8
+Caledonia,Groton,NA,U.S. House,NA,NA,Blanks,5
+Essex,Guildhall,NA,U.S. House,NA,NA,Blanks,4
+Windham,Guilford,NA,U.S. House,NA,NA,Blanks,14
+Windham,Halifax,NA,U.S. House,NA,NA,Blanks,4
+Addison,Hancock,NA,U.S. House,NA,NA,Blanks,2
+Caledonia,Hardwick,NA,U.S. House,NA,NA,Blanks,27
+Windsor,Hartford,Windsor 4-1,U.S. House,NA,NA,Blanks,5
+Windsor,Hartford,Windsor 4-2,U.S. House,NA,NA,Blanks,28
+Windsor,Hartland,NA,U.S. House,NA,NA,Blanks,7
+Franklin,Highgate,NA,U.S. House,NA,NA,Blanks,31
+Chittenden,Hinesburg,Chittenden 4-1,U.S. House,NA,NA,Blanks,0
+Chittenden,Hinesburg,Chittenden 4-2,U.S. House,NA,NA,Blanks,40
+Orleans,Holland,NA,U.S. House,NA,NA,Blanks,10
+Rutland,Hubbardton,NA,U.S. House,NA,NA,Blanks,2
+Chittenden,Huntington,NA,U.S. House,NA,NA,Blanks,14
+Lamoille,Hyde Park,NA,U.S. House,NA,NA,Blanks,45
+Rutland,Ira,NA,U.S. House,NA,NA,Blanks,7
+Orleans,Irasburg,NA,U.S. House,NA,NA,Blanks,11
+Grand Isle,Isle La Motte,NA,U.S. House,NA,NA,Blanks,4
+Windham,Jamaica,NA,U.S. House,NA,NA,Blanks,6
+Orleans,Jay,NA,U.S. House,NA,NA,Blanks,1
+Chittenden,Jericho,NA,U.S. House,NA,NA,Blanks,46
+Lamoille,Johnson,NA,U.S. House,NA,NA,Blanks,19
+Rutland,Killington,NA,U.S. House,NA,NA,Blanks,7
+Caledonia,Kirby,NA,U.S. House,NA,NA,Blanks,0
+Bennington,Landgrove,NA,U.S. House,NA,NA,Blanks,2
+Addison,Leicester,NA,U.S. House,NA,NA,Blanks,6
+Essex,Lemington,NA,U.S. House,NA,NA,Blanks,1
+Addison,Lincoln,NA,U.S. House,NA,NA,Blanks,22
+Windham,Londonderry,NA,U.S. House,NA,NA,Blanks,9
+Orleans,Lowell,NA,U.S. House,NA,NA,Blanks,6
+Windsor,Ludlow,NA,U.S. House,NA,NA,Blanks,14
+Essex,Lunenburg,NA,U.S. House,NA,NA,Blanks,8
+Caledonia,Lyndon,NA,U.S. House,NA,NA,Blanks,21
+Essex,Maidstone,NA,U.S. House,NA,NA,Blanks,1
+Bennington,Manchester,NA,U.S. House,NA,NA,Blanks,43
+Windham,Marlboro,NA,U.S. House,NA,NA,Blanks,6
+Washington,Marshfield,NA,U.S. House,NA,NA,Blanks,15
+Rutland,Mendon,NA,U.S. House,NA,NA,Blanks,11
+Addison,Middlebury,NA,U.S. House,NA,NA,Blanks,50
+Washington,Middlesex,NA,U.S. House,NA,NA,Blanks,30
+Rutland,Middletown Springs,NA,U.S. House,NA,NA,Blanks,16
+Chittenden,Milton,Chittenden 10,U.S. House,NA,NA,Blanks,65
+Chittenden,Milton,Grand Isle-Chittenden,U.S. House,NA,NA,Blanks,6
+Addison,Monkton,NA,U.S. House,NA,NA,Blanks,28
+Franklin,Montgomery,NA,U.S. House,NA,NA,Blanks,6
+Washington,Montpelier,NA,U.S. House,NA,NA,Blanks,60
+Washington,Moretown,NA,U.S. House,NA,NA,Blanks,20
+Orleans,Morgan,NA,U.S. House,NA,NA,Blanks,5
+Lamoille,Morristown,NA,U.S. House,NA,NA,Blanks,25
+Rutland,Mount Holly,NA,U.S. House,NA,NA,Blanks,10
+Rutland,Mount Tabor,NA,U.S. House,NA,NA,Blanks,1
+Addison,New Haven,NA,U.S. House,NA,NA,Blanks,17
+Caledonia,Newark,NA,U.S. House,NA,NA,Blanks,13
+Orange,Newbury,NA,U.S. House,NA,NA,Blanks,12
+Windham,Newfane,NA,U.S. House,NA,NA,Blanks,12
+Orleans,Newport City,NA,U.S. House,NA,NA,Blanks,27
+Orleans,Newport Town,NA,U.S. House,NA,NA,Blanks,14
+Grand Isle,N. Hero,NA,U.S. House,NA,NA,Blanks,9
+Washington,Northfield,NA,U.S. House,NA,NA,Blanks,36
+Essex,Norton,NA,U.S. House,NA,NA,Blanks,1
+Windsor,Norwich,NA,U.S. House,NA,NA,Blanks,8
+Orange,Orange,NA,U.S. House,NA,NA,Blanks,8
+Addison,Orwell,NA,U.S. House,NA,NA,Blanks,11
+Addison,Panton,NA,U.S. House,NA,NA,Blanks,2
+Rutland,Pawlet,NA,U.S. House,NA,NA,Blanks,10
+Caledonia,Peacham,NA,U.S. House,NA,NA,Blanks,4
+Bennington,Peru,NA,U.S. House,NA,NA,Blanks,2
+Rutland,Pittsfield,NA,U.S. House,NA,NA,Blanks,5
+Rutland,Pittsford,NA,U.S. House,NA,NA,Blanks,24
+Washington,Plainfield,NA,U.S. House,NA,NA,Blanks,8
+Windsor,Plymouth,NA,U.S. House,NA,NA,Blanks,1
+Windsor,Pomfret,NA,U.S. House,NA,NA,Blanks,2
+Rutland,Poultney,NA,U.S. House,NA,NA,Blanks,11
+Bennington,Pownal,NA,U.S. House,NA,NA,Blanks,60
+Rutland,Proctor,NA,U.S. House,NA,NA,Blanks,8
+Windham,Putney,NA,U.S. House,NA,NA,Blanks,10
+Orange,Randolph,NA,U.S. House,NA,NA,Blanks,21
+Windsor,Reading,NA,U.S. House,NA,NA,Blanks,0
+Bennington,Readsboro,NA,U.S. House,NA,NA,Blanks,9
+Franklin,Richford,NA,U.S. House,NA,NA,Blanks,13
+Chittenden,Richmond,NA,U.S. House,NA,NA,Blanks,35
+Addison,Ripton,NA,U.S. House,NA,NA,Blanks,3
+Windsor,Rochester,NA,U.S. House,NA,NA,Blanks,11
+Windham,Rockingham,NA,U.S. House,NA,NA,Blanks,20
+Washington,Roxbury,NA,U.S. House,NA,NA,Blanks,9
+Windsor,Royalton,NA,U.S. House,NA,NA,Blanks,25
+Bennington,Rupert,NA,U.S. House,NA,NA,Blanks,10
+Rutland,Rutland City,Rutland 5-1,U.S. House,NA,NA,Blanks,52
+Rutland,Rutland City,Rutland 5-2,U.S. House,NA,NA,Blanks,23
+Rutland,Rutland City,Rutland 5-3,U.S. House,NA,NA,Blanks,14
+Rutland,Rutland City,Rutland 5-4,U.S. House,NA,NA,Blanks,30
+Rutland,Rutland Town,NA,U.S. House,NA,NA,Blanks,39
+Caledonia,Ryegate,NA,U.S. House,NA,NA,Blanks,16
+Franklin,Salisbury,NA,U.S. House,NA,NA,Blanks,7
+Franklin,Sandgate,NA,U.S. House,NA,NA,Blanks,5
+Chittenden,Searsburg,NA,U.S. House,NA,NA,Blanks,2
+Caledonia,Shaftsbury,NA,U.S. House,NA,NA,Blanks,31
+Addison,Sharon,NA,U.S. House,NA,NA,Blanks,5
+Bennington,Sheffield,NA,U.S. House,NA,NA,Blanks,4
+Bennington,Shelburne,Chittenden 5-1,U.S. House,NA,NA,Blanks,39
+Bennington,Shelburne,Chittenden 5-2,U.S. House,NA,NA,Blanks,22
+Bennington,Sheldon,NA,U.S. House,NA,NA,Blanks,9
+Windsor,Shoreham,NA,U.S. House,NA,NA,Blanks,9
+Caledonia,Shrewsbury,NA,U.S. House,NA,NA,Blanks,11
+Chittenden,S. Burlington,Chittenden 7-1,U.S. House,NA,NA,Blanks,28
+Chittenden,S. Burlington,Chittenden 7-2,U.S. House,NA,NA,Blanks,4
+Chittenden,S. Burlington,Chittenden 7-3,U.S. House,NA,NA,Blanks,14
+Chittenden,S. Burlington,Chittenden 7-4,U.S. House,NA,NA,Blanks,27
+Franklin,S. Hero,NA,U.S. House,NA,NA,Blanks,17
+Addison,Springfield,Windsor 3-1,U.S. House,NA,NA,Blanks,1
+Addison,Springfield,Windsor 3-2,U.S. House,NA,NA,Blanks,20
+Rutland,St. Albans City,NA,U.S. House,NA,NA,Blanks,34
+Chittenden,St. Albans Town,Franklin 3-1,U.S. House,NA,NA,Blanks,12
+Chittenden,St. Albans Town,Franklin 3-2,U.S. House,NA,NA,Blanks,22
+Grand Isle,St. George,NA,U.S. House,NA,NA,Blanks,5
+Windsor,St. Johnsbury,NA,U.S. House,NA,NA,Blanks,42
+Bennington,Stamford,NA,U.S. House,NA,NA,Blanks,13
+Caledonia,Stannard,NA,U.S. House,NA,NA,Blanks,3
+Addison,Starksboro,NA,U.S. House,NA,NA,Blanks,33
+Windsor,Stockbridge,NA,U.S. House,NA,NA,Blanks,11
+Lamoille,Stowe,NA,U.S. House,NA,NA,Blanks,38
+Orange,Strafford,NA,U.S. House,NA,NA,Blanks,12
+Windham,Stratton,NA,U.S. House,NA,NA,Blanks,2
+Rutland,Sudbury,NA,U.S. House,NA,NA,Blanks,1
+Bennington,Sunderland,Bennington 3,U.S. House,NA,NA,Blanks,2
+Bennington,Sunderland,Bennington 4,U.S. House,NA,NA,Blanks,5
+Caledonia,Sutton,NA,U.S. House,NA,NA,Blanks,5
+Franklin,Swanton,NA,U.S. House,NA,NA,Blanks,19
+Orange,Thetford,NA,U.S. House,NA,NA,Blanks,21
+Rutland,Tinmouth,Rutland 2,U.S. House,NA,NA,Blanks,0
+Rutland,Tinmouth,Rutland-Bennington,U.S. House,NA,NA,Blanks,2
+Orange,Topsham,NA,U.S. House,NA,NA,Blanks,6
+Windham,Townshend,NA,U.S. House,NA,NA,Blanks,12
+Orleans,Troy,Orleans 2,U.S. House,NA,NA,Blanks,4
+Orleans,Troy,Orleans-Lamoille,U.S. House,NA,NA,Blanks,5
+Orange,Tunbridge,NA,U.S. House,NA,NA,Blanks,18
+Chittenden,Underhill,NA,U.S. House,NA,NA,Blanks,23
+Addison,Vergennes,NA,U.S. House,NA,NA,Blanks,12
+Windham,Vernon,NA,U.S. House,NA,NA,Blanks,18
+Orange,Vershire,NA,U.S. House,NA,NA,Blanks,3
+Essex,Victory,NA,U.S. House,NA,NA,Blanks,1
+Washington,Waitsfield,NA,U.S. House,NA,NA,Blanks,18
+Caledonia,Walden,NA,U.S. House,NA,NA,Blanks,12
+Rutland,Wallingford,NA,U.S. House,NA,NA,Blanks,17
+Addison,Waltham,NA,U.S. House,NA,NA,Blanks,0
+Windham,Wardsboro,NA,U.S. House,NA,NA,Blanks,4
+Washington,Warren,NA,U.S. House,NA,NA,Blanks,33
+Orange,Washington,NA,U.S. House,NA,NA,Blanks,15
+Washington,Waterbury,NA,U.S. House,NA,NA,Blanks,42
+Caledonia,Waterford,NA,U.S. House,NA,NA,Blanks,12
+Lamoille,Waterville,NA,U.S. House,NA,NA,Blanks,2
+Windsor,Weathersfield,NA,U.S. House,NA,NA,Blanks,11
+Rutland,Wells,NA,U.S. House,NA,NA,Blanks,11
+Orange,W. Fairlee,NA,U.S. House,NA,NA,Blanks,5
+Rutland,W. Haven,NA,U.S. House,NA,NA,Blanks,0
+Rutland,W. Rutland,NA,U.S. House,NA,NA,Blanks,9
+Windsor,W. Windsor,NA,U.S. House,NA,NA,Blanks,7
+Orleans,Westfield,NA,U.S. House,NA,NA,Blanks,5
+Chittenden,Westford,NA,U.S. House,NA,NA,Blanks,10
+Windham,Westminster,Windham 3,U.S. House,NA,NA,Blanks,1
+Windham,Westminster,Windham 4,U.S. House,NA,NA,Blanks,14
+Orleans,Westmore,NA,U.S. House,NA,NA,Blanks,1
+Windsor,Weston,NA,U.S. House,NA,NA,Blanks,3
+Addison,Weybridge,NA,U.S. House,NA,NA,Blanks,9
+Caledonia,Wheelock,NA,U.S. House,NA,NA,Blanks,5
+Addison,Whiting,NA,U.S. House,NA,NA,Blanks,4
+Windham,Whitingham,Windham 6,U.S. House,NA,NA,Blanks,8
+Windham,Whitingham,Windham-Bennington,U.S. House,NA,NA,Blanks,0
+Orange,Williamstown,NA,U.S. House,NA,NA,Blanks,24
+Chittenden,Williston,NA,U.S. House,NA,NA,Blanks,38
+Windham,Wilmington,NA,U.S. House,NA,NA,Blanks,22
+Windham,Windham,NA,U.S. House,NA,NA,Blanks,1
+Windsor,Windsor,NA,U.S. House,NA,NA,Blanks,9
+Bennington,Winhall,NA,U.S. House,NA,NA,Blanks,7
+Chittenden,Winooski,NA,U.S. House,NA,NA,Blanks,40
+Lamoille,Wolcott,NA,U.S. House,NA,NA,Blanks,10
+Washington,Woodbury,NA,U.S. House,NA,NA,Blanks,5
+Bennington,Woodford,NA,U.S. House,NA,NA,Blanks,7
+Windsor,Woodstock,NA,U.S. House,NA,NA,Blanks,18
+Washington,Worcester,NA,U.S. House,NA,NA,Blanks,6
