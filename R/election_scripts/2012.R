@@ -33,6 +33,6 @@ process_election("./data/results_raw/2012/senate",
 
 process_election("./data/results_raw/2012/president", 
                  office = "President", 
-                 primary_file = "./2012/20120828__vt__primary__president__precincts.csv", 
+                 primary_file = "./2012/20120828__vt__primary__president__town.csv", 
                  general_file = "./2012/20121106__vt__general__president__precincts.csv"
 )
