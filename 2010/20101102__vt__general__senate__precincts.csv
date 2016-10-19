@@ -1,0 +1,2458 @@
+county,town,precinct,office,district,party,candidate,votes
+Addison,Addison,NA,U.S. Senate,NA,Democratic,Patrick Leahy,316
+Orleans,Albany,NA,U.S. Senate,NA,Democratic,Patrick Leahy,247
+Grand Isle,Alburgh,NA,U.S. Senate,NA,Democratic,Patrick Leahy,422
+Windsor,Andover,NA,U.S. Senate,NA,Democratic,Patrick Leahy,121
+Bennington,Arlington,NA,U.S. Senate,NA,Democratic,Patrick Leahy,611
+Windham,Athens,NA,U.S. Senate,NA,Democratic,Patrick Leahy,55
+Franklin,Bakersfield,NA,U.S. Senate,NA,Democratic,Patrick Leahy,309
+Windsor,Baltimore,NA,U.S. Senate,NA,Democratic,Patrick Leahy,46
+Windsor,Barnard,NA,U.S. Senate,NA,Democratic,Patrick Leahy,263
+Caledonia,Barnet,NA,U.S. Senate,NA,Democratic,Patrick Leahy,384
+Washington,Barre City,Washington 3-1,U.S. Senate,NA,Democratic,Patrick Leahy,811
+Washington,Barre City,Washington 3-2,U.S. Senate,NA,Democratic,Patrick Leahy,682
+Washington,Barre City,Washington 3-3,U.S. Senate,NA,Democratic,Patrick Leahy,143
+Washington,Barre Town,NA,U.S. Senate,NA,Democratic,Patrick Leahy,"1,794"
+Orleans,Barton,NA,U.S. Senate,NA,Democratic,Patrick Leahy,492
+Lamoille,Belvidere,NA,U.S. Senate,NA,Democratic,Patrick Leahy,65
+Bennington,Bennington,Bennington 2-1,U.S. Senate,NA,Democratic,Patrick Leahy,"1,881"
+Bennington,Bennington,Bennington 2-2,U.S. Senate,NA,Democratic,Patrick Leahy,"1,565"
+Rutland,Benson,NA,U.S. Senate,NA,Democratic,Patrick Leahy,199
+Franklin,Berkshire,NA,U.S. Senate,NA,Democratic,Patrick Leahy,253
+Washington,Berlin,NA,U.S. Senate,NA,Democratic,Patrick Leahy,660
+Windsor,Bethel,NA,U.S. Senate,NA,Democratic,Patrick Leahy,510
+Essex,Bloomfield,NA,U.S. Senate,NA,Democratic,Patrick Leahy,48
+Chittenden,Bolton,NA,U.S. Senate,NA,Democratic,Patrick Leahy,342
+Orange,Bradford,NA,U.S. Senate,NA,Democratic,Patrick Leahy,545
+Orange,Braintree,NA,U.S. Senate,NA,Democratic,Patrick Leahy,300
+Rutland,Brandon,NA,U.S. Senate,NA,Democratic,Patrick Leahy,828
+Windham,Brattleboro,Windham 3-1,U.S. Senate,NA,Democratic,Patrick Leahy,"1,249"
+Windham,Brattleboro,Windham 3-2,U.S. Senate,NA,Democratic,Patrick Leahy,998
+Windham,Brattleboro,Windham 3-3,U.S. Senate,NA,Democratic,Patrick Leahy,"1,023"
+Windsor,Bridgewater,NA,U.S. Senate,NA,Democratic,Patrick Leahy,200
+Addison,Bridport,NA,U.S. Senate,NA,Democratic,Patrick Leahy,308
+Essex,Brighton,NA,U.S. Senate,NA,Democratic,Patrick Leahy,244
+Addison,Bristol,NA,U.S. Senate,NA,Democratic,Patrick Leahy,"1,034"
+Orange,Brookfield,NA,U.S. Senate,NA,Democratic,Patrick Leahy,362
+Windham,Brookline,NA,U.S. Senate,NA,Democratic,Patrick Leahy,123
+Orleans,Brownington,NA,U.S. Senate,NA,Democratic,Patrick Leahy,166
+Essex,Brunswick,NA,U.S. Senate,NA,Democratic,Patrick Leahy,34
+Caledonia,Burke,NA,U.S. Senate,NA,Democratic,Patrick Leahy,321
+Chittenden,Burlington,Chittenden 3-1,U.S. Senate,NA,Democratic,Patrick Leahy,"2,075"
+Chittenden,Burlington,Chittenden 3-2,U.S. Senate,NA,Democratic,Patrick Leahy,"1,189"
+Chittenden,Burlington,Chittenden 3-3,U.S. Senate,NA,Democratic,Patrick Leahy,"1,913"
+Chittenden,Burlington,Chittenden 3-4,U.S. Senate,NA,Democratic,Patrick Leahy,"1,530"
+Chittenden,Burlington,Chittenden 3-5,U.S. Senate,NA,Democratic,Patrick Leahy,"2,824"
+Chittenden,Burlington,Chittenden 3-6,U.S. Senate,NA,Democratic,Patrick Leahy,360
+Washington,Cabot,NA,U.S. Senate,NA,Democratic,Patrick Leahy,388
+Washington,Calais,NA,U.S. Senate,NA,Democratic,Patrick Leahy,603
+Lamoille,Cambridge,NA,U.S. Senate,NA,Democratic,Patrick Leahy,994
+Essex,Canaan,NA,U.S. Senate,NA,Democratic,Patrick Leahy,185
+Rutland,Castleton,NA,U.S. Senate,NA,Democratic,Patrick Leahy,639
+Windsor,Cavendish,NA,U.S. Senate,NA,Democratic,Patrick Leahy,281
+Orleans,Charleston,NA,U.S. Senate,NA,Democratic,Patrick Leahy,199
+Chittenden,Charlotte,NA,U.S. Senate,NA,Democratic,Patrick Leahy,"1,364"
+Orange,Chelsea,NA,U.S. Senate,NA,Democratic,Patrick Leahy,283
+Windsor,Chester,NA,U.S. Senate,NA,Democratic,Patrick Leahy,753
+Rutland,Chittenden,NA,U.S. Senate,NA,Democratic,Patrick Leahy,268
+Rutland,Clarendon,NA,U.S. Senate,NA,Democratic,Patrick Leahy,423
+Chittenden,Colchester,Chittenden 7-1,U.S. Senate,NA,Democratic,Patrick Leahy,"1,724"
+Chittenden,Colchester,Chittenden 7-2,U.S. Senate,NA,Democratic,Patrick Leahy,"1,989"
+Essex,Concord,NA,U.S. Senate,NA,Democratic,Patrick Leahy,186
+Orange,Corinth,NA,U.S. Senate,NA,Democratic,Patrick Leahy,288
+Addison,Cornwall,NA,U.S. Senate,NA,Democratic,Patrick Leahy,419
+Orleans,Coventry,NA,U.S. Senate,NA,Democratic,Patrick Leahy,235
+Orleans,Craftsbury,NA,U.S. Senate,NA,Democratic,Patrick Leahy,369
+Rutland,Danby,NA,U.S. Senate,NA,Democratic,Patrick Leahy,250
+Caledonia,Danville,NA,U.S. Senate,NA,Democratic,Patrick Leahy,549
+Orleans,Derby,NA,U.S. Senate,NA,Democratic,Patrick Leahy,"1,016"
+Bennington,Dorset,NA,U.S. Senate,NA,Democratic,Patrick Leahy,534
+Windham,Dover,NA,U.S. Senate,NA,Democratic,Patrick Leahy,278
+Windham,Dummerston,NA,U.S. Senate,NA,Democratic,Patrick Leahy,697
+Washington,Duxbury,NA,U.S. Senate,NA,Democratic,Patrick Leahy,413
+Essex,E. Haven,NA,U.S. Senate,NA,Democratic,Patrick Leahy,68
+Washington,E. Montpelier,NA,U.S. Senate,NA,Democratic,Patrick Leahy,936
+Lamoille,Eden,NA,U.S. Senate,NA,Democratic,Patrick Leahy,222
+Lamoille,Elmore,NA,U.S. Senate,NA,Democratic,Patrick Leahy,317
+Franklin,Enosburgh,NA,U.S. Senate,NA,Democratic,Patrick Leahy,688
+Chittenden,Essex,Chittenden 6-1,U.S. Senate,NA,Democratic,Patrick Leahy,"2,033"
+Chittenden,Essex,Chittenden 6-2,U.S. Senate,NA,Democratic,Patrick Leahy,"2,362"
+Chittenden,Essex,Chittenden 6-3,U.S. Senate,NA,Democratic,Patrick Leahy,697
+Rutland,Fair Haven,NA,U.S. Senate,NA,Democratic,Patrick Leahy,450
+Franklin,Fairfax,NA,U.S. Senate,NA,Democratic,Patrick Leahy,956
+Franklin,Fairfield,NA,U.S. Senate,NA,Democratic,Patrick Leahy,514
+Orange,Fairlee,NA,U.S. Senate,NA,Democratic,Patrick Leahy,252
+Washington,Fayston,NA,U.S. Senate,NA,Democratic,Patrick Leahy,441
+Addison,Ferrisburgh,NA,U.S. Senate,NA,Democratic,Patrick Leahy,793
+Franklin,Fletcher,NA,U.S. Senate,NA,Democratic,Patrick Leahy,305
+Franklin,Franklin,NA,U.S. Senate,NA,Democratic,Patrick Leahy,241
+Franklin,Georgia,NA,U.S. Senate,NA,Democratic,Patrick Leahy,967
+Orleans,Glover,NA,U.S. Senate,NA,Democratic,Patrick Leahy,305
+Addison,Goshen,NA,U.S. Senate,NA,Democratic,Patrick Leahy,63
+Windham,Grafton,NA,U.S. Senate,NA,Democratic,Patrick Leahy,164
+Essex,Granby,NA,U.S. Senate,NA,Democratic,Patrick Leahy,20
+Grand Isle,Grand Isle,NA,U.S. Senate,NA,Democratic,Patrick Leahy,603
+Addison,Granville,NA,U.S. Senate,NA,Democratic,Patrick Leahy,94
+Orleans,Greensboro,NA,U.S. Senate,NA,Democratic,Patrick Leahy,235
+Caledonia,Groton,NA,U.S. Senate,NA,Democratic,Patrick Leahy,162
+Essex,Guildhall,NA,U.S. Senate,NA,Democratic,Patrick Leahy,70
+Windham,Guilford,NA,U.S. Senate,NA,Democratic,Patrick Leahy,631
+Windham,Halifax,NA,U.S. Senate,NA,Democratic,Patrick Leahy,172
+Addison,Hancock,NA,U.S. Senate,NA,Democratic,Patrick Leahy,86
+Caledonia,Hardwick,NA,U.S. Senate,NA,Democratic,Patrick Leahy,767
+Windsor,Hartford,Windsor 6-1,U.S. Senate,NA,Democratic,Patrick Leahy,444
+Windsor,Hartford,Windsor 6-2,U.S. Senate,NA,Democratic,Patrick Leahy,"1,661"
+Windsor,Hartland,NA,U.S. Senate,NA,Democratic,Patrick Leahy,927
+Franklin,Highgate,NA,U.S. Senate,NA,Democratic,Patrick Leahy,516
+Chittenden,Hinesburg,Chittenden 1-1,U.S. Senate,NA,Democratic,Patrick Leahy,"1,294"
+Chittenden,Hinesburg,Chittenden 1-2,U.S. Senate,NA,Democratic,Patrick Leahy,68
+Orleans,Holland,NA,U.S. Senate,NA,Democratic,Patrick Leahy,118
+Rutland,Hubbardton,NA,U.S. Senate,NA,Democratic,Patrick Leahy,147
+Chittenden,Huntington,NA,U.S. Senate,NA,Democratic,Patrick Leahy,682
+Lamoille,Hyde Park,NA,U.S. Senate,NA,Democratic,Patrick Leahy,757
+Rutland,Ira,Rutland 1-1,U.S. Senate,NA,Democratic,Patrick Leahy,12
+Rutland,Ira,Rutland 1-2,U.S. Senate,NA,Democratic,Patrick Leahy,87
+Orleans,Irasburg,NA,U.S. Senate,NA,Democratic,Patrick Leahy,224
+Grand Isle,Isle La Motte,NA,U.S. Senate,NA,Democratic,Patrick Leahy,151
+Windham,Jamaica,NA,U.S. Senate,NA,Democratic,Patrick Leahy,246
+Orleans,Jay,NA,U.S. Senate,NA,Democratic,Patrick Leahy,98
+Chittenden,Jericho,NA,U.S. Senate,NA,Democratic,Patrick Leahy,"1,620"
+Lamoille,Johnson,NA,U.S. Senate,NA,Democratic,Patrick Leahy,622
+Rutland,Killington,NA,U.S. Senate,NA,Democratic,Patrick Leahy,240
+Caledonia,Kirby,NA,U.S. Senate,NA,Democratic,Patrick Leahy,116
+Bennington,Landgrove,NA,U.S. Senate,NA,Democratic,Patrick Leahy,62
+Addison,Leicester,NA,U.S. Senate,NA,Democratic,Patrick Leahy,219
+Essex,Lemington,NA,U.S. Senate,NA,Democratic,Patrick Leahy,15
+Addison,Lincoln,NA,U.S. Senate,NA,Democratic,Patrick Leahy,482
+Windham,Londonderry,NA,U.S. Senate,NA,Democratic,Patrick Leahy,394
+Orleans,Lowell,NA,U.S. Senate,NA,Democratic,Patrick Leahy,167
+Windsor,Ludlow,NA,U.S. Senate,NA,Democratic,Patrick Leahy,485
+Essex,Lunenburg,NA,U.S. Senate,NA,Democratic,Patrick Leahy,214
+Caledonia,Lyndon,NA,U.S. Senate,NA,Democratic,Patrick Leahy,832
+Essex,Maidstone,NA,U.S. Senate,NA,Democratic,Patrick Leahy,46
+Bennington,Manchester,NA,U.S. Senate,NA,Democratic,Patrick Leahy,904
+Windham,Marlboro,NA,U.S. Senate,NA,Democratic,Patrick Leahy,359
+Washington,Marshfield,NA,U.S. Senate,NA,Democratic,Patrick Leahy,463
+Rutland,Mendon,NA,U.S. Senate,NA,Democratic,Patrick Leahy,240
+Addison,Middlebury,NA,U.S. Senate,NA,Democratic,Patrick Leahy,"2,002"
+Washington,Middlesex,NA,U.S. Senate,NA,Democratic,Patrick Leahy,668
+Rutland,Middletown Springs,NA,U.S. Senate,NA,Democratic,Patrick Leahy,234
+Chittenden,Milton,Chittenden 9,U.S. Senate,NA,Democratic,Patrick Leahy,"1,768"
+Chittenden,Milton,Grand Isle-Chittenden 1-1,U.S. Senate,NA,Democratic,Patrick Leahy,254
+Addison,Monkton,NA,U.S. Senate,NA,Democratic,Patrick Leahy,635
+Franklin,Montgomery,NA,U.S. Senate,NA,Democratic,Patrick Leahy,327
+Washington,Montpelier,NA,U.S. Senate,NA,Democratic,Patrick Leahy,"3,024"
+Washington,Moretown,NA,U.S. Senate,NA,Democratic,Patrick Leahy,552
+Orleans,Morgan,NA,U.S. Senate,NA,Democratic,Patrick Leahy,142
+Lamoille,Morristown,NA,U.S. Senate,NA,Democratic,Patrick Leahy,"1,344"
+Rutland,Mount Holly,NA,U.S. Senate,NA,Democratic,Patrick Leahy,363
+Rutland,Mount Tabor,NA,U.S. Senate,NA,Democratic,Patrick Leahy,33
+Addison,New Haven,NA,U.S. Senate,NA,Democratic,Patrick Leahy,534
+Caledonia,Newark,NA,U.S. Senate,NA,Democratic,Patrick Leahy,111
+Orange,Newbury,NA,U.S. Senate,NA,Democratic,Patrick Leahy,467
+Windham,Newfane,NA,U.S. Senate,NA,Democratic,Patrick Leahy,579
+Orleans,Newport City,NA,U.S. Senate,NA,Democratic,Patrick Leahy,747
+Orleans,Newport Town,NA,U.S. Senate,NA,Democratic,Patrick Leahy,287
+Grand Isle,N. Hero,NA,U.S. Senate,NA,Democratic,Patrick Leahy,265
+Washington,Northfield,NA,U.S. Senate,NA,Democratic,Patrick Leahy,"1,072"
+Essex,Norton,NA,U.S. Senate,NA,Democratic,Patrick Leahy,29
+Windsor,Norwich,NA,U.S. Senate,NA,Democratic,Patrick Leahy,"1,456"
+Orange,Orange,NA,U.S. Senate,NA,Democratic,Patrick Leahy,209
+Addison,Orwell,NA,U.S. Senate,NA,Democratic,Patrick Leahy,262
+Addison,Panton,NA,U.S. Senate,NA,Democratic,Patrick Leahy,153
+Rutland,Pawlet,NA,U.S. Senate,NA,Democratic,Patrick Leahy,308
+Caledonia,Peacham,NA,U.S. Senate,NA,Democratic,Patrick Leahy,268
+Bennington,Peru,NA,U.S. Senate,NA,Democratic,Patrick Leahy,99
+Rutland,Pittsfield,NA,U.S. Senate,NA,Democratic,Patrick Leahy,131
+Rutland,Pittsford,NA,U.S. Senate,NA,Democratic,Patrick Leahy,630
+Washington,Plainfield,NA,U.S. Senate,NA,Democratic,Patrick Leahy,418
+Windsor,Plymouth,NA,U.S. Senate,NA,Democratic,Patrick Leahy,121
+Windsor,Pomfret,NA,U.S. Senate,NA,Democratic,Patrick Leahy,313
+Rutland,Poultney,NA,U.S. Senate,NA,Democratic,Patrick Leahy,595
+Bennington,Pownal,NA,U.S. Senate,NA,Democratic,Patrick Leahy,741
+Rutland,Proctor,NA,U.S. Senate,NA,Democratic,Patrick Leahy,377
+Windham,Putney,NA,U.S. Senate,NA,Democratic,Patrick Leahy,879
+Orange,Randolph,NA,U.S. Senate,NA,Democratic,Patrick Leahy,"1,158"
+Windsor,Reading,NA,U.S. Senate,NA,Democratic,Patrick Leahy,223
+Bennington,Readsboro,NA,U.S. Senate,NA,Democratic,Patrick Leahy,121
+Franklin,Richford,NA,U.S. Senate,NA,Democratic,Patrick Leahy,392
+Chittenden,Richmond,NA,U.S. Senate,NA,Democratic,Patrick Leahy,"1,381"
+Addison,Ripton,NA,U.S. Senate,NA,Democratic,Patrick Leahy,217
+Windsor,Rochester,NA,U.S. Senate,NA,Democratic,Patrick Leahy,381
+Windham,Rockingham,NA,U.S. Senate,NA,Democratic,Patrick Leahy,"1,157"
+Washington,Roxbury,NA,U.S. Senate,NA,Democratic,Patrick Leahy,177
+Windsor,Royalton,NA,U.S. Senate,NA,Democratic,Patrick Leahy,698
+Bennington,Rupert,Bennington 5,U.S. Senate,NA,Democratic,Patrick Leahy,19
+Bennington,Rupert,Rutland 8,U.S. Senate,NA,Democratic,Patrick Leahy,134
+Rutland,Rutland City,Rutland 5-1,U.S. Senate,NA,Democratic,Patrick Leahy,"1,000"
+Rutland,Rutland City,Rutland 5-2,U.S. Senate,NA,Democratic,Patrick Leahy,876
+Rutland,Rutland City,Rutland 5-3,U.S. Senate,NA,Democratic,Patrick Leahy,521
+Rutland,Rutland City,Rutland 5-4,U.S. Senate,NA,Democratic,Patrick Leahy,752
+Rutland,Rutland Town,NA,U.S. Senate,NA,Democratic,Patrick Leahy,930
+Caledonia,Ryegate,NA,U.S. Senate,NA,Democratic,Patrick Leahy,224
+Franklin,Salisbury,NA,U.S. Senate,NA,Democratic,Patrick Leahy,246
+Franklin,Sandgate,NA,U.S. Senate,NA,Democratic,Patrick Leahy,93
+Chittenden,Searsburg,NA,U.S. Senate,NA,Democratic,Patrick Leahy,15
+Caledonia,Shaftsbury,NA,U.S. Senate,NA,Democratic,Patrick Leahy,"1,051"
+Addison,Sharon,NA,U.S. Senate,NA,Democratic,Patrick Leahy,351
+Bennington,Sheffield,NA,U.S. Senate,NA,Democratic,Patrick Leahy,135
+Bennington,Shelburne,Chittenden 5-1,U.S. Senate,NA,Democratic,Patrick Leahy,"1,419"
+Bennington,Shelburne,Chittenden 5-2,U.S. Senate,NA,Democratic,Patrick Leahy,"1,087"
+Bennington,Sheldon,NA,U.S. Senate,NA,Democratic,Patrick Leahy,410
+Windsor,Shoreham,NA,U.S. Senate,NA,Democratic,Patrick Leahy,336
+Caledonia,Shrewsbury,NA,U.S. Senate,NA,Democratic,Patrick Leahy,296
+Chittenden,S. Burlington,Chittenden 3-10,U.S. Senate,NA,Democratic,Patrick Leahy,"1,144"
+Chittenden,S. Burlington,Chittenden 3-7,U.S. Senate,NA,Democratic,Patrick Leahy,"1,207"
+Chittenden,S. Burlington,Chittenden 3-8,U.S. Senate,NA,Democratic,Patrick Leahy,"1,645"
+Chittenden,S. Burlington,Chittenden 3-9,U.S. Senate,NA,Democratic,Patrick Leahy,"1,013"
+Franklin,S. Hero,NA,U.S. Senate,NA,Democratic,Patrick Leahy,642
+Addison,Springfield,Windsor 1-1,U.S. Senate,NA,Democratic,Patrick Leahy,21
+Addison,Springfield,Windsor 1-2,U.S. Senate,NA,Democratic,Patrick Leahy,"1,641"
+Rutland,St. Albans City,NA,U.S. Senate,NA,Democratic,Patrick Leahy,"1,272"
+Chittenden,St. Albans Town,NA,U.S. Senate,NA,Democratic,Patrick Leahy,"1,340"
+Grand Isle,St. George,NA,U.S. Senate,NA,Democratic,Patrick Leahy,161
+Windsor,St. Johnsbury,NA,U.S. Senate,NA,Democratic,Patrick Leahy,"1,302"
+Bennington,Stamford,NA,U.S. Senate,NA,Democratic,Patrick Leahy,155
+Caledonia,Stannard,NA,U.S. Senate,NA,Democratic,Patrick Leahy,56
+Addison,Starksboro,NA,U.S. Senate,NA,Democratic,Patrick Leahy,472
+Windsor,Stockbridge,NA,U.S. Senate,NA,Democratic,Patrick Leahy,201
+Lamoille,Stowe,NA,U.S. Senate,NA,Democratic,Patrick Leahy,"1,263"
+Orange,Strafford,NA,U.S. Senate,NA,Democratic,Patrick Leahy,431
+Windham,Stratton,NA,U.S. Senate,NA,Democratic,Patrick Leahy,40
+Rutland,Sudbury,NA,U.S. Senate,NA,Democratic,Patrick Leahy,150
+Bennington,Sunderland,NA,U.S. Senate,NA,Democratic,Patrick Leahy,224
+Caledonia,Sutton,NA,U.S. Senate,NA,Democratic,Patrick Leahy,165
+Franklin,Swanton,NA,U.S. Senate,NA,Democratic,Patrick Leahy,"1,139"
+Orange,Thetford,NA,U.S. Senate,NA,Democratic,Patrick Leahy,867
+Rutland,Tinmouth,NA,U.S. Senate,NA,Democratic,Patrick Leahy,147
+Orange,Topsham,NA,U.S. Senate,NA,Democratic,Patrick Leahy,188
+Windham,Townshend,NA,U.S. Senate,NA,Democratic,Patrick Leahy,329
+Orleans,Troy,NA,U.S. Senate,NA,Democratic,Patrick Leahy,252
+Orange,Tunbridge,NA,U.S. Senate,NA,Democratic,Patrick Leahy,377
+Chittenden,Underhill,NA,U.S. Senate,NA,Democratic,Patrick Leahy,"1,044"
+Addison,Vergennes,NA,U.S. Senate,NA,Democratic,Patrick Leahy,635
+Windham,Vernon,NA,U.S. Senate,NA,Democratic,Patrick Leahy,373
+Orange,Vershire,NA,U.S. Senate,NA,Democratic,Patrick Leahy,145
+Essex,Victory,NA,U.S. Senate,NA,Democratic,Patrick Leahy,14
+Washington,Waitsfield,NA,U.S. Senate,NA,Democratic,Patrick Leahy,627
+Caledonia,Walden,NA,U.S. Senate,NA,Democratic,Patrick Leahy,271
+Rutland,Wallingford,NA,U.S. Senate,NA,Democratic,Patrick Leahy,503
+Addison,Waltham,NA,U.S. Senate,NA,Democratic,Patrick Leahy,159
+Windham,Wardsboro,NA,U.S. Senate,NA,Democratic,Patrick Leahy,181
+Washington,Warren,NA,U.S. Senate,NA,Democratic,Patrick Leahy,590
+Orange,Washington,NA,U.S. Senate,NA,Democratic,Patrick Leahy,238
+Washington,Waterbury,NA,U.S. Senate,NA,Democratic,Patrick Leahy,"1,615"
+Caledonia,Waterford,NA,U.S. Senate,NA,Democratic,Patrick Leahy,253
+Lamoille,Waterville,NA,U.S. Senate,NA,Democratic,Patrick Leahy,168
+Windsor,Weathersfield,NA,U.S. Senate,NA,Democratic,Patrick Leahy,589
+Rutland,Wells,NA,U.S. Senate,NA,Democratic,Patrick Leahy,186
+Orange,W. Fairlee,NA,U.S. Senate,NA,Democratic,Patrick Leahy,127
+Rutland,W. Haven,NA,U.S. Senate,NA,Democratic,Patrick Leahy,58
+Rutland,W. Rutland,NA,U.S. Senate,NA,Democratic,Patrick Leahy,392
+Windsor,W. Windsor,NA,U.S. Senate,NA,Democratic,Patrick Leahy,339
+Orleans,Westfield,NA,U.S. Senate,NA,Democratic,Patrick Leahy,123
+Chittenden,Westford,NA,U.S. Senate,NA,Democratic,Patrick Leahy,664
+Windham,Westminster,Windham 4,U.S. Senate,NA,Democratic,Patrick Leahy,45
+Windham,Westminster,Windham 5,U.S. Senate,NA,Democratic,Patrick Leahy,906
+Orleans,Westmore,NA,U.S. Senate,NA,Democratic,Patrick Leahy,95
+Windsor,Weston,NA,U.S. Senate,NA,Democratic,Patrick Leahy,207
+Addison,Weybridge,NA,U.S. Senate,NA,Democratic,Patrick Leahy,324
+Caledonia,Wheelock,NA,U.S. Senate,NA,Democratic,Patrick Leahy,142
+Addison,Whiting,NA,U.S. Senate,NA,Democratic,Patrick Leahy,115
+Windham,Whitingham,NA,U.S. Senate,NA,Democratic,Patrick Leahy,195
+Orange,Williamstown,NA,U.S. Senate,NA,Democratic,Patrick Leahy,657
+Chittenden,Williston,NA,U.S. Senate,NA,Democratic,Patrick Leahy,"2,646"
+Windham,Wilmington,NA,U.S. Senate,NA,Democratic,Patrick Leahy,399
+Windham,Windham,NA,U.S. Senate,NA,Democratic,Patrick Leahy,115
+Windsor,Windsor,NA,U.S. Senate,NA,Democratic,Patrick Leahy,706
+Bennington,Winhall,NA,U.S. Senate,NA,Democratic,Patrick Leahy,215
+Chittenden,Winooski,NA,U.S. Senate,NA,Democratic,Patrick Leahy,"1,338"
+Lamoille,Wolcott,NA,U.S. Senate,NA,Democratic,Patrick Leahy,453
+Washington,Woodbury,NA,U.S. Senate,NA,Democratic,Patrick Leahy,270
+Bennington,Woodford,NA,U.S. Senate,NA,Democratic,Patrick Leahy,93
+Windsor,Woodstock,NA,U.S. Senate,NA,Democratic,Patrick Leahy,992
+Washington,Worcester,NA,U.S. Senate,NA,Democratic,Patrick Leahy,335
+Addison,Addison,NA,U.S. Senate,NA,Republican,Len Britton,297
+Orleans,Albany,NA,U.S. Senate,NA,Republican,Len Britton,120
+Grand Isle,Alburgh,NA,U.S. Senate,NA,Republican,Len Britton,274
+Windsor,Andover,NA,U.S. Senate,NA,Republican,Len Britton,97
+Bennington,Arlington,NA,U.S. Senate,NA,Republican,Len Britton,314
+Windham,Athens,NA,U.S. Senate,NA,Republican,Len Britton,41
+Franklin,Bakersfield,NA,U.S. Senate,NA,Republican,Len Britton,168
+Windsor,Baltimore,NA,U.S. Senate,NA,Republican,Len Britton,28
+Windsor,Barnard,NA,U.S. Senate,NA,Republican,Len Britton,154
+Caledonia,Barnet,NA,U.S. Senate,NA,Republican,Len Britton,308
+Washington,Barre City,Washington 3-1,U.S. Senate,NA,Republican,Len Britton,442
+Washington,Barre City,Washington 3-2,U.S. Senate,NA,Republican,Len Britton,357
+Washington,Barre City,Washington 3-3,U.S. Senate,NA,Republican,Len Britton,61
+Washington,Barre Town,NA,U.S. Senate,NA,Republican,Len Britton,"1,348"
+Orleans,Barton,NA,U.S. Senate,NA,Republican,Len Britton,289
+Lamoille,Belvidere,NA,U.S. Senate,NA,Republican,Len Britton,54
+Bennington,Bennington,Bennington 2-1,U.S. Senate,NA,Republican,Len Britton,548
+Bennington,Bennington,Bennington 2-2,U.S. Senate,NA,Republican,Len Britton,544
+Rutland,Benson,NA,U.S. Senate,NA,Republican,Len Britton,140
+Franklin,Berkshire,NA,U.S. Senate,NA,Republican,Len Britton,148
+Washington,Berlin,NA,U.S. Senate,NA,Republican,Len Britton,355
+Windsor,Bethel,NA,U.S. Senate,NA,Republican,Len Britton,225
+Essex,Bloomfield,NA,U.S. Senate,NA,Republican,Len Britton,30
+Chittenden,Bolton,NA,U.S. Senate,NA,Republican,Len Britton,138
+Orange,Bradford,NA,U.S. Senate,NA,Republican,Len Britton,348
+Orange,Braintree,NA,U.S. Senate,NA,Republican,Len Britton,170
+Rutland,Brandon,NA,U.S. Senate,NA,Republican,Len Britton,506
+Windham,Brattleboro,Windham 3-1,U.S. Senate,NA,Republican,Len Britton,336
+Windham,Brattleboro,Windham 3-2,U.S. Senate,NA,Republican,Len Britton,177
+Windham,Brattleboro,Windham 3-3,U.S. Senate,NA,Republican,Len Britton,156
+Windsor,Bridgewater,NA,U.S. Senate,NA,Republican,Len Britton,160
+Addison,Bridport,NA,U.S. Senate,NA,Republican,Len Britton,205
+Essex,Brighton,NA,U.S. Senate,NA,Republican,Len Britton,183
+Addison,Bristol,NA,U.S. Senate,NA,Republican,Len Britton,450
+Orange,Brookfield,NA,U.S. Senate,NA,Republican,Len Britton,195
+Windham,Brookline,NA,U.S. Senate,NA,Republican,Len Britton,61
+Orleans,Brownington,NA,U.S. Senate,NA,Republican,Len Britton,121
+Essex,Brunswick,NA,U.S. Senate,NA,Republican,Len Britton,15
+Caledonia,Burke,NA,U.S. Senate,NA,Republican,Len Britton,232
+Chittenden,Burlington,Chittenden 3-1,U.S. Senate,NA,Republican,Len Britton,703
+Chittenden,Burlington,Chittenden 3-2,U.S. Senate,NA,Republican,Len Britton,355
+Chittenden,Burlington,Chittenden 3-3,U.S. Senate,NA,Republican,Len Britton,209
+Chittenden,Burlington,Chittenden 3-4,U.S. Senate,NA,Republican,Len Britton,171
+Chittenden,Burlington,Chittenden 3-5,U.S. Senate,NA,Republican,Len Britton,477
+Chittenden,Burlington,Chittenden 3-6,U.S. Senate,NA,Republican,Len Britton,45
+Washington,Cabot,NA,U.S. Senate,NA,Republican,Len Britton,168
+Washington,Calais,NA,U.S. Senate,NA,Republican,Len Britton,177
+Lamoille,Cambridge,NA,U.S. Senate,NA,Republican,Len Britton,389
+Essex,Canaan,NA,U.S. Senate,NA,Republican,Len Britton,102
+Rutland,Castleton,NA,U.S. Senate,NA,Republican,Len Britton,540
+Windsor,Cavendish,NA,U.S. Senate,NA,Republican,Len Britton,194
+Orleans,Charleston,NA,U.S. Senate,NA,Republican,Len Britton,124
+Chittenden,Charlotte,NA,U.S. Senate,NA,Republican,Len Britton,521
+Orange,Chelsea,NA,U.S. Senate,NA,Republican,Len Britton,223
+Windsor,Chester,NA,U.S. Senate,NA,Republican,Len Britton,346
+Rutland,Chittenden,NA,U.S. Senate,NA,Republican,Len Britton,258
+Rutland,Clarendon,NA,U.S. Senate,NA,Republican,Len Britton,461
+Chittenden,Colchester,Chittenden 7-1,U.S. Senate,NA,Republican,Len Britton,787
+Chittenden,Colchester,Chittenden 7-2,U.S. Senate,NA,Republican,Len Britton,"1,080"
+Essex,Concord,NA,U.S. Senate,NA,Republican,Len Britton,169
+Orange,Corinth,NA,U.S. Senate,NA,Republican,Len Britton,201
+Addison,Cornwall,NA,U.S. Senate,NA,Republican,Len Britton,163
+Orleans,Coventry,NA,U.S. Senate,NA,Republican,Len Britton,113
+Orleans,Craftsbury,NA,U.S. Senate,NA,Republican,Len Britton,123
+Rutland,Danby,NA,U.S. Senate,NA,Republican,Len Britton,221
+Caledonia,Danville,NA,U.S. Senate,NA,Republican,Len Britton,385
+Orleans,Derby,NA,U.S. Senate,NA,Republican,Len Britton,626
+Bennington,Dorset,NA,U.S. Senate,NA,Republican,Len Britton,325
+Windham,Dover,NA,U.S. Senate,NA,Republican,Len Britton,210
+Windham,Dummerston,NA,U.S. Senate,NA,Republican,Len Britton,185
+Washington,Duxbury,NA,U.S. Senate,NA,Republican,Len Britton,172
+Essex,E. Haven,NA,U.S. Senate,NA,Republican,Len Britton,36
+Washington,E. Montpelier,NA,U.S. Senate,NA,Republican,Len Britton,324
+Lamoille,Eden,NA,U.S. Senate,NA,Republican,Len Britton,115
+Lamoille,Elmore,NA,U.S. Senate,NA,Republican,Len Britton,104
+Franklin,Enosburgh,NA,U.S. Senate,NA,Republican,Len Britton,269
+Chittenden,Essex,Chittenden 6-1,U.S. Senate,NA,Republican,Len Britton,"1,217"
+Chittenden,Essex,Chittenden 6-2,U.S. Senate,NA,Republican,Len Britton,"1,331"
+Chittenden,Essex,Chittenden 6-3,U.S. Senate,NA,Republican,Len Britton,421
+Rutland,Fair Haven,NA,U.S. Senate,NA,Republican,Len Britton,348
+Franklin,Fairfax,NA,U.S. Senate,NA,Republican,Len Britton,666
+Franklin,Fairfield,NA,U.S. Senate,NA,Republican,Len Britton,203
+Orange,Fairlee,NA,U.S. Senate,NA,Republican,Len Britton,107
+Washington,Fayston,NA,U.S. Senate,NA,Republican,Len Britton,147
+Addison,Ferrisburgh,NA,U.S. Senate,NA,Republican,Len Britton,395
+Franklin,Fletcher,NA,U.S. Senate,NA,Republican,Len Britton,157
+Franklin,Franklin,NA,U.S. Senate,NA,Republican,Len Britton,227
+Franklin,Georgia,NA,U.S. Senate,NA,Republican,Len Britton,733
+Orleans,Glover,NA,U.S. Senate,NA,Republican,Len Britton,147
+Addison,Goshen,NA,U.S. Senate,NA,Republican,Len Britton,23
+Windham,Grafton,NA,U.S. Senate,NA,Republican,Len Britton,99
+Essex,Granby,NA,U.S. Senate,NA,Republican,Len Britton,18
+Grand Isle,Grand Isle,NA,U.S. Senate,NA,Republican,Len Britton,341
+Addison,Granville,NA,U.S. Senate,NA,Republican,Len Britton,28
+Orleans,Greensboro,NA,U.S. Senate,NA,Republican,Len Britton,95
+Caledonia,Groton,NA,U.S. Senate,NA,Republican,Len Britton,182
+Essex,Guildhall,NA,U.S. Senate,NA,Republican,Len Britton,47
+Windham,Guilford,NA,U.S. Senate,NA,Republican,Len Britton,172
+Windham,Halifax,NA,U.S. Senate,NA,Republican,Len Britton,95
+Addison,Hancock,NA,U.S. Senate,NA,Republican,Len Britton,44
+Caledonia,Hardwick,NA,U.S. Senate,NA,Republican,Len Britton,301
+Windsor,Hartford,Windsor 6-1,U.S. Senate,NA,Republican,Len Britton,306
+Windsor,Hartford,Windsor 6-2,U.S. Senate,NA,Republican,Len Britton,693
+Windsor,Hartland,NA,U.S. Senate,NA,Republican,Len Britton,453
+Franklin,Highgate,NA,U.S. Senate,NA,Republican,Len Britton,405
+Chittenden,Hinesburg,Chittenden 1-1,U.S. Senate,NA,Republican,Len Britton,492
+Chittenden,Hinesburg,Chittenden 1-2,U.S. Senate,NA,Republican,Len Britton,20
+Orleans,Holland,NA,U.S. Senate,NA,Republican,Len Britton,81
+Rutland,Hubbardton,NA,U.S. Senate,NA,Republican,Len Britton,94
+Chittenden,Huntington,NA,U.S. Senate,NA,Republican,Len Britton,206
+Lamoille,Hyde Park,NA,U.S. Senate,NA,Republican,Len Britton,362
+Rutland,Ira,Rutland 1-1,U.S. Senate,NA,Republican,Len Britton,13
+Rutland,Ira,Rutland 1-2,U.S. Senate,NA,Republican,Len Britton,72
+Orleans,Irasburg,NA,U.S. Senate,NA,Republican,Len Britton,174
+Grand Isle,Isle La Motte,NA,U.S. Senate,NA,Republican,Len Britton,84
+Windham,Jamaica,NA,U.S. Senate,NA,Republican,Len Britton,91
+Orleans,Jay,NA,U.S. Senate,NA,Republican,Len Britton,42
+Chittenden,Jericho,NA,U.S. Senate,NA,Republican,Len Britton,835
+Lamoille,Johnson,NA,U.S. Senate,NA,Republican,Len Britton,275
+Rutland,Killington,NA,U.S. Senate,NA,Republican,Len Britton,198
+Caledonia,Kirby,NA,U.S. Senate,NA,Republican,Len Britton,77
+Bennington,Landgrove,NA,U.S. Senate,NA,Republican,Len Britton,28
+Addison,Leicester,NA,U.S. Senate,NA,Republican,Len Britton,159
+Essex,Lemington,NA,U.S. Senate,NA,Republican,Len Britton,23
+Addison,Lincoln,NA,U.S. Senate,NA,Republican,Len Britton,166
+Windham,Londonderry,NA,U.S. Senate,NA,Republican,Len Britton,259
+Orleans,Lowell,NA,U.S. Senate,NA,Republican,Len Britton,107
+Windsor,Ludlow,NA,U.S. Senate,NA,Republican,Len Britton,346
+Essex,Lunenburg,NA,U.S. Senate,NA,Republican,Len Britton,217
+Caledonia,Lyndon,NA,U.S. Senate,NA,Republican,Len Britton,706
+Essex,Maidstone,NA,U.S. Senate,NA,Republican,Len Britton,44
+Bennington,Manchester,NA,U.S. Senate,NA,Republican,Len Britton,666
+Windham,Marlboro,NA,U.S. Senate,NA,Republican,Len Britton,55
+Washington,Marshfield,NA,U.S. Senate,NA,Republican,Len Britton,220
+Rutland,Mendon,NA,U.S. Senate,NA,Republican,Len Britton,218
+Addison,Middlebury,NA,U.S. Senate,NA,Republican,Len Britton,560
+Washington,Middlesex,NA,U.S. Senate,NA,Republican,Len Britton,177
+Rutland,Middletown Springs,NA,U.S. Senate,NA,Republican,Len Britton,130
+Chittenden,Milton,Chittenden 9,U.S. Senate,NA,Republican,Len Britton,"1,235"
+Chittenden,Milton,Grand Isle-Chittenden 1-1,U.S. Senate,NA,Republican,Len Britton,232
+Addison,Monkton,NA,U.S. Senate,NA,Republican,Len Britton,253
+Franklin,Montgomery,NA,U.S. Senate,NA,Republican,Len Britton,132
+Washington,Montpelier,NA,U.S. Senate,NA,Republican,Len Britton,566
+Washington,Moretown,NA,U.S. Senate,NA,Republican,Len Britton,216
+Orleans,Morgan,NA,U.S. Senate,NA,Republican,Len Britton,138
+Lamoille,Morristown,NA,U.S. Senate,NA,Republican,Len Britton,599
+Rutland,Mount Holly,NA,U.S. Senate,NA,Republican,Len Britton,207
+Rutland,Mount Tabor,NA,U.S. Senate,NA,Republican,Len Britton,25
+Addison,New Haven,NA,U.S. Senate,NA,Republican,Len Britton,263
+Caledonia,Newark,NA,U.S. Senate,NA,Republican,Len Britton,88
+Orange,Newbury,NA,U.S. Senate,NA,Republican,Len Britton,300
+Windham,Newfane,NA,U.S. Senate,NA,Republican,Len Britton,154
+Orleans,Newport City,NA,U.S. Senate,NA,Republican,Len Britton,400
+Orleans,Newport Town,NA,U.S. Senate,NA,Republican,Len Britton,177
+Grand Isle,N. Hero,NA,U.S. Senate,NA,Republican,Len Britton,201
+Washington,Northfield,NA,U.S. Senate,NA,Republican,Len Britton,512
+Essex,Norton,NA,U.S. Senate,NA,Republican,Len Britton,37
+Windsor,Norwich,NA,U.S. Senate,NA,Republican,Len Britton,241
+Orange,Orange,NA,U.S. Senate,NA,Republican,Len Britton,185
+Addison,Orwell,NA,U.S. Senate,NA,Republican,Len Britton,228
+Addison,Panton,NA,U.S. Senate,NA,Republican,Len Britton,106
+Rutland,Pawlet,NA,U.S. Senate,NA,Republican,Len Britton,200
+Caledonia,Peacham,NA,U.S. Senate,NA,Republican,Len Britton,108
+Bennington,Peru,NA,U.S. Senate,NA,Republican,Len Britton,40
+Rutland,Pittsfield,NA,U.S. Senate,NA,Republican,Len Britton,86
+Rutland,Pittsford,NA,U.S. Senate,NA,Republican,Len Britton,482
+Washington,Plainfield,NA,U.S. Senate,NA,Republican,Len Britton,125
+Windsor,Plymouth,NA,U.S. Senate,NA,Republican,Len Britton,119
+Windsor,Pomfret,NA,U.S. Senate,NA,Republican,Len Britton,139
+Rutland,Poultney,NA,U.S. Senate,NA,Republican,Len Britton,359
+Bennington,Pownal,NA,U.S. Senate,NA,Republican,Len Britton,316
+Rutland,Proctor,NA,U.S. Senate,NA,Republican,Len Britton,201
+Windham,Putney,NA,U.S. Senate,NA,Republican,Len Britton,129
+Orange,Randolph,NA,U.S. Senate,NA,Republican,Len Britton,550
+Windsor,Reading,NA,U.S. Senate,NA,Republican,Len Britton,95
+Bennington,Readsboro,NA,U.S. Senate,NA,Republican,Len Britton,65
+Franklin,Richford,NA,U.S. Senate,NA,Republican,Len Britton,165
+Chittenden,Richmond,NA,U.S. Senate,NA,Republican,Len Britton,512
+Addison,Ripton,NA,U.S. Senate,NA,Republican,Len Britton,48
+Windsor,Rochester,NA,U.S. Senate,NA,Republican,Len Britton,143
+Windham,Rockingham,NA,U.S. Senate,NA,Republican,Len Britton,344
+Washington,Roxbury,NA,U.S. Senate,NA,Republican,Len Britton,73
+Windsor,Royalton,NA,U.S. Senate,NA,Republican,Len Britton,335
+Bennington,Rupert,Bennington 5,U.S. Senate,NA,Republican,Len Britton,20
+Bennington,Rupert,Rutland 8,U.S. Senate,NA,Republican,Len Britton,79
+Rutland,Rutland City,Rutland 5-1,U.S. Senate,NA,Republican,Len Britton,676
+Rutland,Rutland City,Rutland 5-2,U.S. Senate,NA,Republican,Len Britton,514
+Rutland,Rutland City,Rutland 5-3,U.S. Senate,NA,Republican,Len Britton,294
+Rutland,Rutland City,Rutland 5-4,U.S. Senate,NA,Republican,Len Britton,444
+Rutland,Rutland Town,NA,U.S. Senate,NA,Republican,Len Britton,874
+Caledonia,Ryegate,NA,U.S. Senate,NA,Republican,Len Britton,170
+Franklin,Salisbury,NA,U.S. Senate,NA,Republican,Len Britton,134
+Franklin,Sandgate,NA,U.S. Senate,NA,Republican,Len Britton,61
+Chittenden,Searsburg,NA,U.S. Senate,NA,Republican,Len Britton,14
+Caledonia,Shaftsbury,NA,U.S. Senate,NA,Republican,Len Britton,461
+Addison,Sharon,NA,U.S. Senate,NA,Republican,Len Britton,157
+Bennington,Sheffield,NA,U.S. Senate,NA,Republican,Len Britton,76
+Bennington,Shelburne,Chittenden 5-1,U.S. Senate,NA,Republican,Len Britton,533
+Bennington,Shelburne,Chittenden 5-2,U.S. Senate,NA,Republican,Len Britton,515
+Bennington,Sheldon,NA,U.S. Senate,NA,Republican,Len Britton,218
+Windsor,Shoreham,NA,U.S. Senate,NA,Republican,Len Britton,177
+Caledonia,Shrewsbury,NA,U.S. Senate,NA,Republican,Len Britton,199
+Chittenden,S. Burlington,Chittenden 3-10,U.S. Senate,NA,Republican,Len Britton,404
+Chittenden,S. Burlington,Chittenden 3-7,U.S. Senate,NA,Republican,Len Britton,425
+Chittenden,S. Burlington,Chittenden 3-8,U.S. Senate,NA,Republican,Len Britton,780
+Chittenden,S. Burlington,Chittenden 3-9,U.S. Senate,NA,Republican,Len Britton,493
+Franklin,S. Hero,NA,U.S. Senate,NA,Republican,Len Britton,259
+Addison,Springfield,Windsor 1-1,U.S. Senate,NA,Republican,Len Britton,18
+Addison,Springfield,Windsor 1-2,U.S. Senate,NA,Republican,Len Britton,932
+Rutland,St. Albans City,NA,U.S. Senate,NA,Republican,Len Britton,540
+Chittenden,St. Albans Town,NA,U.S. Senate,NA,Republican,Len Britton,803
+Grand Isle,St. George,NA,U.S. Senate,NA,Republican,Len Britton,83
+Windsor,St. Johnsbury,NA,U.S. Senate,NA,Republican,Len Britton,935
+Bennington,Stamford,NA,U.S. Senate,NA,Republican,Len Britton,111
+Caledonia,Stannard,NA,U.S. Senate,NA,Republican,Len Britton,19
+Addison,Starksboro,NA,U.S. Senate,NA,Republican,Len Britton,205
+Windsor,Stockbridge,NA,U.S. Senate,NA,Republican,Len Britton,104
+Lamoille,Stowe,NA,U.S. Senate,NA,Republican,Len Britton,650
+Orange,Strafford,NA,U.S. Senate,NA,Republican,Len Britton,104
+Windham,Stratton,NA,U.S. Senate,NA,Republican,Len Britton,52
+Rutland,Sudbury,NA,U.S. Senate,NA,Republican,Len Britton,99
+Bennington,Sunderland,NA,U.S. Senate,NA,Republican,Len Britton,106
+Caledonia,Sutton,NA,U.S. Senate,NA,Republican,Len Britton,143
+Franklin,Swanton,NA,U.S. Senate,NA,Republican,Len Britton,748
+Orange,Thetford,NA,U.S. Senate,NA,Republican,Len Britton,237
+Rutland,Tinmouth,NA,U.S. Senate,NA,Republican,Len Britton,83
+Orange,Topsham,NA,U.S. Senate,NA,Republican,Len Britton,201
+Windham,Townshend,NA,U.S. Senate,NA,Republican,Len Britton,131
+Orleans,Troy,NA,U.S. Senate,NA,Republican,Len Britton,153
+Orange,Tunbridge,NA,U.S. Senate,NA,Republican,Len Britton,215
+Chittenden,Underhill,NA,U.S. Senate,NA,Republican,Len Britton,466
+Addison,Vergennes,NA,U.S. Senate,NA,Republican,Len Britton,276
+Windham,Vernon,NA,U.S. Senate,NA,Republican,Len Britton,436
+Orange,Vershire,NA,U.S. Senate,NA,Republican,Len Britton,83
+Essex,Victory,NA,U.S. Senate,NA,Republican,Len Britton,18
+Washington,Waitsfield,NA,U.S. Senate,NA,Republican,Len Britton,200
+Caledonia,Walden,NA,U.S. Senate,NA,Republican,Len Britton,139
+Rutland,Wallingford,NA,U.S. Senate,NA,Republican,Len Britton,355
+Addison,Waltham,NA,U.S. Senate,NA,Republican,Len Britton,64
+Windham,Wardsboro,NA,U.S. Senate,NA,Republican,Len Britton,95
+Washington,Warren,NA,U.S. Senate,NA,Republican,Len Britton,156
+Orange,Washington,NA,U.S. Senate,NA,Republican,Len Britton,142
+Washington,Waterbury,NA,U.S. Senate,NA,Republican,Len Britton,511
+Caledonia,Waterford,NA,U.S. Senate,NA,Republican,Len Britton,273
+Lamoille,Waterville,NA,U.S. Senate,NA,Republican,Len Britton,104
+Windsor,Weathersfield,NA,U.S. Senate,NA,Republican,Len Britton,392
+Rutland,Wells,NA,U.S. Senate,NA,Republican,Len Britton,172
+Orange,W. Fairlee,NA,U.S. Senate,NA,Republican,Len Britton,67
+Rutland,W. Haven,NA,U.S. Senate,NA,Republican,Len Britton,42
+Rutland,W. Rutland,NA,U.S. Senate,NA,Republican,Len Britton,297
+Windsor,W. Windsor,NA,U.S. Senate,NA,Republican,Len Britton,181
+Orleans,Westfield,NA,U.S. Senate,NA,Republican,Len Britton,79
+Chittenden,Westford,NA,U.S. Senate,NA,Republican,Len Britton,307
+Windham,Westminster,Windham 4,U.S. Senate,NA,Republican,Len Britton,11
+Windham,Westminster,Windham 5,U.S. Senate,NA,Republican,Len Britton,240
+Orleans,Westmore,NA,U.S. Senate,NA,Republican,Len Britton,67
+Windsor,Weston,NA,U.S. Senate,NA,Republican,Len Britton,99
+Addison,Weybridge,NA,U.S. Senate,NA,Republican,Len Britton,105
+Caledonia,Wheelock,NA,U.S. Senate,NA,Republican,Len Britton,105
+Addison,Whiting,NA,U.S. Senate,NA,Republican,Len Britton,48
+Windham,Whitingham,NA,U.S. Senate,NA,Republican,Len Britton,152
+Orange,Williamstown,NA,U.S. Senate,NA,Republican,Len Britton,449
+Chittenden,Williston,NA,U.S. Senate,NA,Republican,Len Britton,"1,324"
+Windham,Wilmington,NA,U.S. Senate,NA,Republican,Len Britton,211
+Windham,Windham,NA,U.S. Senate,NA,Republican,Len Britton,39
+Windsor,Windsor,NA,U.S. Senate,NA,Republican,Len Britton,305
+Bennington,Winhall,NA,U.S. Senate,NA,Republican,Len Britton,144
+Chittenden,Winooski,NA,U.S. Senate,NA,Republican,Len Britton,399
+Lamoille,Wolcott,NA,U.S. Senate,NA,Republican,Len Britton,192
+Washington,Woodbury,NA,U.S. Senate,NA,Republican,Len Britton,138
+Bennington,Woodford,NA,U.S. Senate,NA,Republican,Len Britton,31
+Windsor,Woodstock,NA,U.S. Senate,NA,Republican,Len Britton,447
+Washington,Worcester,NA,U.S. Senate,NA,Republican,Len Britton,96
+Addison,Addison,NA,U.S. Senate,NA,Independent,Daniel Freilich,4
+Orleans,Albany,NA,U.S. Senate,NA,Independent,Daniel Freilich,2
+Grand Isle,Alburgh,NA,U.S. Senate,NA,Independent,Daniel Freilich,4
+Windsor,Andover,NA,U.S. Senate,NA,Independent,Daniel Freilich,1
+Bennington,Arlington,NA,U.S. Senate,NA,Independent,Daniel Freilich,24
+Windham,Athens,NA,U.S. Senate,NA,Independent,Daniel Freilich,2
+Franklin,Bakersfield,NA,U.S. Senate,NA,Independent,Daniel Freilich,8
+Windsor,Baltimore,NA,U.S. Senate,NA,Independent,Daniel Freilich,3
+Windsor,Barnard,NA,U.S. Senate,NA,Independent,Daniel Freilich,6
+Caledonia,Barnet,NA,U.S. Senate,NA,Independent,Daniel Freilich,14
+Washington,Barre City,Washington 3-1,U.S. Senate,NA,Independent,Daniel Freilich,19
+Washington,Barre City,Washington 3-2,U.S. Senate,NA,Independent,Daniel Freilich,17
+Washington,Barre City,Washington 3-3,U.S. Senate,NA,Independent,Daniel Freilich,0
+Washington,Barre Town,NA,U.S. Senate,NA,Independent,Daniel Freilich,21
+Orleans,Barton,NA,U.S. Senate,NA,Independent,Daniel Freilich,17
+Lamoille,Belvidere,NA,U.S. Senate,NA,Independent,Daniel Freilich,2
+Bennington,Bennington,Bennington 2-1,U.S. Senate,NA,Independent,Daniel Freilich,134
+Bennington,Bennington,Bennington 2-2,U.S. Senate,NA,Independent,Daniel Freilich,131
+Rutland,Benson,NA,U.S. Senate,NA,Independent,Daniel Freilich,10
+Franklin,Berkshire,NA,U.S. Senate,NA,Independent,Daniel Freilich,3
+Washington,Berlin,NA,U.S. Senate,NA,Independent,Daniel Freilich,14
+Windsor,Bethel,NA,U.S. Senate,NA,Independent,Daniel Freilich,9
+Essex,Bloomfield,NA,U.S. Senate,NA,Independent,Daniel Freilich,3
+Chittenden,Bolton,NA,U.S. Senate,NA,Independent,Daniel Freilich,4
+Orange,Bradford,NA,U.S. Senate,NA,Independent,Daniel Freilich,5
+Orange,Braintree,NA,U.S. Senate,NA,Independent,Daniel Freilich,2
+Rutland,Brandon,NA,U.S. Senate,NA,Independent,Daniel Freilich,29
+Windham,Brattleboro,Windham 3-1,U.S. Senate,NA,Independent,Daniel Freilich,35
+Windham,Brattleboro,Windham 3-2,U.S. Senate,NA,Independent,Daniel Freilich,29
+Windham,Brattleboro,Windham 3-3,U.S. Senate,NA,Independent,Daniel Freilich,32
+Windsor,Bridgewater,NA,U.S. Senate,NA,Independent,Daniel Freilich,2
+Addison,Bridport,NA,U.S. Senate,NA,Independent,Daniel Freilich,13
+Essex,Brighton,NA,U.S. Senate,NA,Independent,Daniel Freilich,6
+Addison,Bristol,NA,U.S. Senate,NA,Independent,Daniel Freilich,33
+Orange,Brookfield,NA,U.S. Senate,NA,Independent,Daniel Freilich,5
+Windham,Brookline,NA,U.S. Senate,NA,Independent,Daniel Freilich,4
+Orleans,Brownington,NA,U.S. Senate,NA,Independent,Daniel Freilich,0
+Essex,Brunswick,NA,U.S. Senate,NA,Independent,Daniel Freilich,0
+Caledonia,Burke,NA,U.S. Senate,NA,Independent,Daniel Freilich,5
+Chittenden,Burlington,Chittenden 3-1,U.S. Senate,NA,Independent,Daniel Freilich,24
+Chittenden,Burlington,Chittenden 3-2,U.S. Senate,NA,Independent,Daniel Freilich,23
+Chittenden,Burlington,Chittenden 3-3,U.S. Senate,NA,Independent,Daniel Freilich,48
+Chittenden,Burlington,Chittenden 3-4,U.S. Senate,NA,Independent,Daniel Freilich,40
+Chittenden,Burlington,Chittenden 3-5,U.S. Senate,NA,Independent,Daniel Freilich,51
+Chittenden,Burlington,Chittenden 3-6,U.S. Senate,NA,Independent,Daniel Freilich,6
+Washington,Cabot,NA,U.S. Senate,NA,Independent,Daniel Freilich,9
+Washington,Calais,NA,U.S. Senate,NA,Independent,Daniel Freilich,18
+Lamoille,Cambridge,NA,U.S. Senate,NA,Independent,Daniel Freilich,24
+Essex,Canaan,NA,U.S. Senate,NA,Independent,Daniel Freilich,2
+Rutland,Castleton,NA,U.S. Senate,NA,Independent,Daniel Freilich,15
+Windsor,Cavendish,NA,U.S. Senate,NA,Independent,Daniel Freilich,6
+Orleans,Charleston,NA,U.S. Senate,NA,Independent,Daniel Freilich,5
+Chittenden,Charlotte,NA,U.S. Senate,NA,Independent,Daniel Freilich,31
+Orange,Chelsea,NA,U.S. Senate,NA,Independent,Daniel Freilich,5
+Windsor,Chester,NA,U.S. Senate,NA,Independent,Daniel Freilich,22
+Rutland,Chittenden,NA,U.S. Senate,NA,Independent,Daniel Freilich,13
+Rutland,Clarendon,NA,U.S. Senate,NA,Independent,Daniel Freilich,11
+Chittenden,Colchester,Chittenden 7-1,U.S. Senate,NA,Independent,Daniel Freilich,22
+Chittenden,Colchester,Chittenden 7-2,U.S. Senate,NA,Independent,Daniel Freilich,20
+Essex,Concord,NA,U.S. Senate,NA,Independent,Daniel Freilich,11
+Orange,Corinth,NA,U.S. Senate,NA,Independent,Daniel Freilich,3
+Addison,Cornwall,NA,U.S. Senate,NA,Independent,Daniel Freilich,6
+Orleans,Coventry,NA,U.S. Senate,NA,Independent,Daniel Freilich,5
+Orleans,Craftsbury,NA,U.S. Senate,NA,Independent,Daniel Freilich,4
+Rutland,Danby,NA,U.S. Senate,NA,Independent,Daniel Freilich,14
+Caledonia,Danville,NA,U.S. Senate,NA,Independent,Daniel Freilich,12
+Orleans,Derby,NA,U.S. Senate,NA,Independent,Daniel Freilich,22
+Bennington,Dorset,NA,U.S. Senate,NA,Independent,Daniel Freilich,16
+Windham,Dover,NA,U.S. Senate,NA,Independent,Daniel Freilich,33
+Windham,Dummerston,NA,U.S. Senate,NA,Independent,Daniel Freilich,5
+Washington,Duxbury,NA,U.S. Senate,NA,Independent,Daniel Freilich,8
+Essex,E. Haven,NA,U.S. Senate,NA,Independent,Daniel Freilich,3
+Washington,E. Montpelier,NA,U.S. Senate,NA,Independent,Daniel Freilich,18
+Lamoille,Eden,NA,U.S. Senate,NA,Independent,Daniel Freilich,1
+Lamoille,Elmore,NA,U.S. Senate,NA,Independent,Daniel Freilich,2
+Franklin,Enosburgh,NA,U.S. Senate,NA,Independent,Daniel Freilich,15
+Chittenden,Essex,Chittenden 6-1,U.S. Senate,NA,Independent,Daniel Freilich,25
+Chittenden,Essex,Chittenden 6-2,U.S. Senate,NA,Independent,Daniel Freilich,28
+Chittenden,Essex,Chittenden 6-3,U.S. Senate,NA,Independent,Daniel Freilich,9
+Rutland,Fair Haven,NA,U.S. Senate,NA,Independent,Daniel Freilich,17
+Franklin,Fairfax,NA,U.S. Senate,NA,Independent,Daniel Freilich,26
+Franklin,Fairfield,NA,U.S. Senate,NA,Independent,Daniel Freilich,9
+Orange,Fairlee,NA,U.S. Senate,NA,Independent,Daniel Freilich,5
+Washington,Fayston,NA,U.S. Senate,NA,Independent,Daniel Freilich,6
+Addison,Ferrisburgh,NA,U.S. Senate,NA,Independent,Daniel Freilich,13
+Franklin,Fletcher,NA,U.S. Senate,NA,Independent,Daniel Freilich,9
+Franklin,Franklin,NA,U.S. Senate,NA,Independent,Daniel Freilich,8
+Franklin,Georgia,NA,U.S. Senate,NA,Independent,Daniel Freilich,13
+Orleans,Glover,NA,U.S. Senate,NA,Independent,Daniel Freilich,5
+Addison,Goshen,NA,U.S. Senate,NA,Independent,Daniel Freilich,1
+Windham,Grafton,NA,U.S. Senate,NA,Independent,Daniel Freilich,6
+Essex,Granby,NA,U.S. Senate,NA,Independent,Daniel Freilich,0
+Grand Isle,Grand Isle,NA,U.S. Senate,NA,Independent,Daniel Freilich,15
+Addison,Granville,NA,U.S. Senate,NA,Independent,Daniel Freilich,0
+Orleans,Greensboro,NA,U.S. Senate,NA,Independent,Daniel Freilich,4
+Caledonia,Groton,NA,U.S. Senate,NA,Independent,Daniel Freilich,5
+Essex,Guildhall,NA,U.S. Senate,NA,Independent,Daniel Freilich,2
+Windham,Guilford,NA,U.S. Senate,NA,Independent,Daniel Freilich,23
+Windham,Halifax,NA,U.S. Senate,NA,Independent,Daniel Freilich,12
+Addison,Hancock,NA,U.S. Senate,NA,Independent,Daniel Freilich,3
+Caledonia,Hardwick,NA,U.S. Senate,NA,Independent,Daniel Freilich,12
+Windsor,Hartford,Windsor 6-1,U.S. Senate,NA,Independent,Daniel Freilich,5
+Windsor,Hartford,Windsor 6-2,U.S. Senate,NA,Independent,Daniel Freilich,34
+Windsor,Hartland,NA,U.S. Senate,NA,Independent,Daniel Freilich,12
+Franklin,Highgate,NA,U.S. Senate,NA,Independent,Daniel Freilich,15
+Chittenden,Hinesburg,Chittenden 1-1,U.S. Senate,NA,Independent,Daniel Freilich,18
+Chittenden,Hinesburg,Chittenden 1-2,U.S. Senate,NA,Independent,Daniel Freilich,0
+Orleans,Holland,NA,U.S. Senate,NA,Independent,Daniel Freilich,3
+Rutland,Hubbardton,NA,U.S. Senate,NA,Independent,Daniel Freilich,4
+Chittenden,Huntington,NA,U.S. Senate,NA,Independent,Daniel Freilich,13
+Lamoille,Hyde Park,NA,U.S. Senate,NA,Independent,Daniel Freilich,6
+Rutland,Ira,Rutland 1-1,U.S. Senate,NA,Independent,Daniel Freilich,0
+Rutland,Ira,Rutland 1-2,U.S. Senate,NA,Independent,Daniel Freilich,0
+Orleans,Irasburg,NA,U.S. Senate,NA,Independent,Daniel Freilich,2
+Grand Isle,Isle La Motte,NA,U.S. Senate,NA,Independent,Daniel Freilich,4
+Windham,Jamaica,NA,U.S. Senate,NA,Independent,Daniel Freilich,15
+Orleans,Jay,NA,U.S. Senate,NA,Independent,Daniel Freilich,1
+Chittenden,Jericho,NA,U.S. Senate,NA,Independent,Daniel Freilich,29
+Lamoille,Johnson,NA,U.S. Senate,NA,Independent,Daniel Freilich,6
+Rutland,Killington,NA,U.S. Senate,NA,Independent,Daniel Freilich,5
+Caledonia,Kirby,NA,U.S. Senate,NA,Independent,Daniel Freilich,6
+Bennington,Landgrove,NA,U.S. Senate,NA,Independent,Daniel Freilich,0
+Addison,Leicester,NA,U.S. Senate,NA,Independent,Daniel Freilich,1
+Essex,Lemington,NA,U.S. Senate,NA,Independent,Daniel Freilich,1
+Addison,Lincoln,NA,U.S. Senate,NA,Independent,Daniel Freilich,9
+Windham,Londonderry,NA,U.S. Senate,NA,Independent,Daniel Freilich,4
+Orleans,Lowell,NA,U.S. Senate,NA,Independent,Daniel Freilich,0
+Windsor,Ludlow,NA,U.S. Senate,NA,Independent,Daniel Freilich,9
+Essex,Lunenburg,NA,U.S. Senate,NA,Independent,Daniel Freilich,3
+Caledonia,Lyndon,NA,U.S. Senate,NA,Independent,Daniel Freilich,26
+Essex,Maidstone,NA,U.S. Senate,NA,Independent,Daniel Freilich,1
+Bennington,Manchester,NA,U.S. Senate,NA,Independent,Daniel Freilich,43
+Windham,Marlboro,NA,U.S. Senate,NA,Independent,Daniel Freilich,26
+Washington,Marshfield,NA,U.S. Senate,NA,Independent,Daniel Freilich,10
+Rutland,Mendon,NA,U.S. Senate,NA,Independent,Daniel Freilich,7
+Addison,Middlebury,NA,U.S. Senate,NA,Independent,Daniel Freilich,36
+Washington,Middlesex,NA,U.S. Senate,NA,Independent,Daniel Freilich,7
+Rutland,Middletown Springs,NA,U.S. Senate,NA,Independent,Daniel Freilich,2
+Chittenden,Milton,Chittenden 9,U.S. Senate,NA,Independent,Daniel Freilich,34
+Chittenden,Milton,Grand Isle-Chittenden 1-1,U.S. Senate,NA,Independent,Daniel Freilich,5
+Addison,Monkton,NA,U.S. Senate,NA,Independent,Daniel Freilich,15
+Franklin,Montgomery,NA,U.S. Senate,NA,Independent,Daniel Freilich,6
+Washington,Montpelier,NA,U.S. Senate,NA,Independent,Daniel Freilich,70
+Washington,Moretown,NA,U.S. Senate,NA,Independent,Daniel Freilich,12
+Orleans,Morgan,NA,U.S. Senate,NA,Independent,Daniel Freilich,5
+Lamoille,Morristown,NA,U.S. Senate,NA,Independent,Daniel Freilich,17
+Rutland,Mount Holly,NA,U.S. Senate,NA,Independent,Daniel Freilich,8
+Rutland,Mount Tabor,NA,U.S. Senate,NA,Independent,Daniel Freilich,4
+Addison,New Haven,NA,U.S. Senate,NA,Independent,Daniel Freilich,6
+Caledonia,Newark,NA,U.S. Senate,NA,Independent,Daniel Freilich,2
+Orange,Newbury,NA,U.S. Senate,NA,Independent,Daniel Freilich,2
+Windham,Newfane,NA,U.S. Senate,NA,Independent,Daniel Freilich,25
+Orleans,Newport City,NA,U.S. Senate,NA,Independent,Daniel Freilich,12
+Orleans,Newport Town,NA,U.S. Senate,NA,Independent,Daniel Freilich,8
+Grand Isle,N. Hero,NA,U.S. Senate,NA,Independent,Daniel Freilich,9
+Washington,Northfield,NA,U.S. Senate,NA,Independent,Daniel Freilich,21
+Essex,Norton,NA,U.S. Senate,NA,Independent,Daniel Freilich,0
+Windsor,Norwich,NA,U.S. Senate,NA,Independent,Daniel Freilich,8
+Orange,Orange,NA,U.S. Senate,NA,Independent,Daniel Freilich,2
+Addison,Orwell,NA,U.S. Senate,NA,Independent,Daniel Freilich,17
+Addison,Panton,NA,U.S. Senate,NA,Independent,Daniel Freilich,2
+Rutland,Pawlet,NA,U.S. Senate,NA,Independent,Daniel Freilich,8
+Caledonia,Peacham,NA,U.S. Senate,NA,Independent,Daniel Freilich,6
+Bennington,Peru,NA,U.S. Senate,NA,Independent,Daniel Freilich,0
+Rutland,Pittsfield,NA,U.S. Senate,NA,Independent,Daniel Freilich,3
+Rutland,Pittsford,NA,U.S. Senate,NA,Independent,Daniel Freilich,21
+Washington,Plainfield,NA,U.S. Senate,NA,Independent,Daniel Freilich,10
+Windsor,Plymouth,NA,U.S. Senate,NA,Independent,Daniel Freilich,2
+Windsor,Pomfret,NA,U.S. Senate,NA,Independent,Daniel Freilich,1
+Rutland,Poultney,NA,U.S. Senate,NA,Independent,Daniel Freilich,18
+Bennington,Pownal,NA,U.S. Senate,NA,Independent,Daniel Freilich,46
+Rutland,Proctor,NA,U.S. Senate,NA,Independent,Daniel Freilich,11
+Windham,Putney,NA,U.S. Senate,NA,Independent,Daniel Freilich,12
+Orange,Randolph,NA,U.S. Senate,NA,Independent,Daniel Freilich,13
+Windsor,Reading,NA,U.S. Senate,NA,Independent,Daniel Freilich,8
+Bennington,Readsboro,NA,U.S. Senate,NA,Independent,Daniel Freilich,12
+Franklin,Richford,NA,U.S. Senate,NA,Independent,Daniel Freilich,1
+Chittenden,Richmond,NA,U.S. Senate,NA,Independent,Daniel Freilich,14
+Addison,Ripton,NA,U.S. Senate,NA,Independent,Daniel Freilich,1
+Windsor,Rochester,NA,U.S. Senate,NA,Independent,Daniel Freilich,4
+Windham,Rockingham,NA,U.S. Senate,NA,Independent,Daniel Freilich,45
+Washington,Roxbury,NA,U.S. Senate,NA,Independent,Daniel Freilich,4
+Windsor,Royalton,NA,U.S. Senate,NA,Independent,Daniel Freilich,20
+Bennington,Rupert,Bennington 5,U.S. Senate,NA,Independent,Daniel Freilich,0
+Bennington,Rupert,Rutland 8,U.S. Senate,NA,Independent,Daniel Freilich,3
+Rutland,Rutland City,Rutland 5-1,U.S. Senate,NA,Independent,Daniel Freilich,21
+Rutland,Rutland City,Rutland 5-2,U.S. Senate,NA,Independent,Daniel Freilich,23
+Rutland,Rutland City,Rutland 5-3,U.S. Senate,NA,Independent,Daniel Freilich,8
+Rutland,Rutland City,Rutland 5-4,U.S. Senate,NA,Independent,Daniel Freilich,23
+Rutland,Rutland Town,NA,U.S. Senate,NA,Independent,Daniel Freilich,20
+Caledonia,Ryegate,NA,U.S. Senate,NA,Independent,Daniel Freilich,10
+Franklin,Salisbury,NA,U.S. Senate,NA,Independent,Daniel Freilich,7
+Franklin,Sandgate,NA,U.S. Senate,NA,Independent,Daniel Freilich,2
+Chittenden,Searsburg,NA,U.S. Senate,NA,Independent,Daniel Freilich,9
+Caledonia,Shaftsbury,NA,U.S. Senate,NA,Independent,Daniel Freilich,74
+Addison,Sharon,NA,U.S. Senate,NA,Independent,Daniel Freilich,3
+Bennington,Sheffield,NA,U.S. Senate,NA,Independent,Daniel Freilich,2
+Bennington,Shelburne,Chittenden 5-1,U.S. Senate,NA,Independent,Daniel Freilich,32
+Bennington,Shelburne,Chittenden 5-2,U.S. Senate,NA,Independent,Daniel Freilich,21
+Bennington,Sheldon,NA,U.S. Senate,NA,Independent,Daniel Freilich,7
+Windsor,Shoreham,NA,U.S. Senate,NA,Independent,Daniel Freilich,6
+Caledonia,Shrewsbury,NA,U.S. Senate,NA,Independent,Daniel Freilich,11
+Chittenden,S. Burlington,Chittenden 3-10,U.S. Senate,NA,Independent,Daniel Freilich,26
+Chittenden,S. Burlington,Chittenden 3-7,U.S. Senate,NA,Independent,Daniel Freilich,28
+Chittenden,S. Burlington,Chittenden 3-8,U.S. Senate,NA,Independent,Daniel Freilich,25
+Chittenden,S. Burlington,Chittenden 3-9,U.S. Senate,NA,Independent,Daniel Freilich,16
+Franklin,S. Hero,NA,U.S. Senate,NA,Independent,Daniel Freilich,15
+Addison,Springfield,Windsor 1-1,U.S. Senate,NA,Independent,Daniel Freilich,0
+Addison,Springfield,Windsor 1-2,U.S. Senate,NA,Independent,Daniel Freilich,37
+Rutland,St. Albans City,NA,U.S. Senate,NA,Independent,Daniel Freilich,29
+Chittenden,St. Albans Town,NA,U.S. Senate,NA,Independent,Daniel Freilich,18
+Grand Isle,St. George,NA,U.S. Senate,NA,Independent,Daniel Freilich,3
+Windsor,St. Johnsbury,NA,U.S. Senate,NA,Independent,Daniel Freilich,26
+Bennington,Stamford,NA,U.S. Senate,NA,Independent,Daniel Freilich,11
+Caledonia,Stannard,NA,U.S. Senate,NA,Independent,Daniel Freilich,1
+Addison,Starksboro,NA,U.S. Senate,NA,Independent,Daniel Freilich,8
+Windsor,Stockbridge,NA,U.S. Senate,NA,Independent,Daniel Freilich,7
+Lamoille,Stowe,NA,U.S. Senate,NA,Independent,Daniel Freilich,17
+Orange,Strafford,NA,U.S. Senate,NA,Independent,Daniel Freilich,3
+Windham,Stratton,NA,U.S. Senate,NA,Independent,Daniel Freilich,4
+Rutland,Sudbury,NA,U.S. Senate,NA,Independent,Daniel Freilich,5
+Bennington,Sunderland,NA,U.S. Senate,NA,Independent,Daniel Freilich,12
+Caledonia,Sutton,NA,U.S. Senate,NA,Independent,Daniel Freilich,6
+Franklin,Swanton,NA,U.S. Senate,NA,Independent,Daniel Freilich,15
+Orange,Thetford,NA,U.S. Senate,NA,Independent,Daniel Freilich,9
+Rutland,Tinmouth,NA,U.S. Senate,NA,Independent,Daniel Freilich,3
+Orange,Topsham,NA,U.S. Senate,NA,Independent,Daniel Freilich,2
+Windham,Townshend,NA,U.S. Senate,NA,Independent,Daniel Freilich,5
+Orleans,Troy,NA,U.S. Senate,NA,Independent,Daniel Freilich,8
+Orange,Tunbridge,NA,U.S. Senate,NA,Independent,Daniel Freilich,12
+Chittenden,Underhill,NA,U.S. Senate,NA,Independent,Daniel Freilich,21
+Addison,Vergennes,NA,U.S. Senate,NA,Independent,Daniel Freilich,10
+Windham,Vernon,NA,U.S. Senate,NA,Independent,Daniel Freilich,15
+Orange,Vershire,NA,U.S. Senate,NA,Independent,Daniel Freilich,1
+Essex,Victory,NA,U.S. Senate,NA,Independent,Daniel Freilich,1
+Washington,Waitsfield,NA,U.S. Senate,NA,Independent,Daniel Freilich,15
+Caledonia,Walden,NA,U.S. Senate,NA,Independent,Daniel Freilich,3
+Rutland,Wallingford,NA,U.S. Senate,NA,Independent,Daniel Freilich,13
+Addison,Waltham,NA,U.S. Senate,NA,Independent,Daniel Freilich,1
+Windham,Wardsboro,NA,U.S. Senate,NA,Independent,Daniel Freilich,7
+Washington,Warren,NA,U.S. Senate,NA,Independent,Daniel Freilich,14
+Orange,Washington,NA,U.S. Senate,NA,Independent,Daniel Freilich,3
+Washington,Waterbury,NA,U.S. Senate,NA,Independent,Daniel Freilich,25
+Caledonia,Waterford,NA,U.S. Senate,NA,Independent,Daniel Freilich,5
+Lamoille,Waterville,NA,U.S. Senate,NA,Independent,Daniel Freilich,3
+Windsor,Weathersfield,NA,U.S. Senate,NA,Independent,Daniel Freilich,9
+Rutland,Wells,NA,U.S. Senate,NA,Independent,Daniel Freilich,3
+Orange,W. Fairlee,NA,U.S. Senate,NA,Independent,Daniel Freilich,2
+Rutland,W. Haven,NA,U.S. Senate,NA,Independent,Daniel Freilich,2
+Rutland,W. Rutland,NA,U.S. Senate,NA,Independent,Daniel Freilich,11
+Windsor,W. Windsor,NA,U.S. Senate,NA,Independent,Daniel Freilich,6
+Orleans,Westfield,NA,U.S. Senate,NA,Independent,Daniel Freilich,5
+Chittenden,Westford,NA,U.S. Senate,NA,Independent,Daniel Freilich,16
+Windham,Westminster,Windham 4,U.S. Senate,NA,Independent,Daniel Freilich,4
+Windham,Westminster,Windham 5,U.S. Senate,NA,Independent,Daniel Freilich,22
+Orleans,Westmore,NA,U.S. Senate,NA,Independent,Daniel Freilich,3
+Windsor,Weston,NA,U.S. Senate,NA,Independent,Daniel Freilich,7
+Addison,Weybridge,NA,U.S. Senate,NA,Independent,Daniel Freilich,10
+Caledonia,Wheelock,NA,U.S. Senate,NA,Independent,Daniel Freilich,5
+Addison,Whiting,NA,U.S. Senate,NA,Independent,Daniel Freilich,2
+Windham,Whitingham,NA,U.S. Senate,NA,Independent,Daniel Freilich,40
+Orange,Williamstown,NA,U.S. Senate,NA,Independent,Daniel Freilich,12
+Chittenden,Williston,NA,U.S. Senate,NA,Independent,Daniel Freilich,31
+Windham,Wilmington,NA,U.S. Senate,NA,Independent,Daniel Freilich,97
+Windham,Windham,NA,U.S. Senate,NA,Independent,Daniel Freilich,4
+Windsor,Windsor,NA,U.S. Senate,NA,Independent,Daniel Freilich,17
+Bennington,Winhall,NA,U.S. Senate,NA,Independent,Daniel Freilich,12
+Chittenden,Winooski,NA,U.S. Senate,NA,Independent,Daniel Freilich,24
+Lamoille,Wolcott,NA,U.S. Senate,NA,Independent,Daniel Freilich,1
+Washington,Woodbury,NA,U.S. Senate,NA,Independent,Daniel Freilich,5
+Bennington,Woodford,NA,U.S. Senate,NA,Independent,Daniel Freilich,9
+Windsor,Woodstock,NA,U.S. Senate,NA,Independent,Daniel Freilich,13
+Washington,Worcester,NA,U.S. Senate,NA,Independent,Daniel Freilich,8
+Addison,Addison,NA,U.S. Senate,NA,U.S. Marijuana,Cris Ericson,6
+Orleans,Albany,NA,U.S. Senate,NA,U.S. Marijuana,Cris Ericson,4
+Grand Isle,Alburgh,NA,U.S. Senate,NA,U.S. Marijuana,Cris Ericson,10
+Windsor,Andover,NA,U.S. Senate,NA,U.S. Marijuana,Cris Ericson,1
+Bennington,Arlington,NA,U.S. Senate,NA,U.S. Marijuana,Cris Ericson,13
+Windham,Athens,NA,U.S. Senate,NA,U.S. Marijuana,Cris Ericson,5
+Franklin,Bakersfield,NA,U.S. Senate,NA,U.S. Marijuana,Cris Ericson,12
+Windsor,Baltimore,NA,U.S. Senate,NA,U.S. Marijuana,Cris Ericson,4
+Windsor,Barnard,NA,U.S. Senate,NA,U.S. Marijuana,Cris Ericson,7
+Caledonia,Barnet,NA,U.S. Senate,NA,U.S. Marijuana,Cris Ericson,8
+Washington,Barre City,Washington 3-1,U.S. Senate,NA,U.S. Marijuana,Cris Ericson,16
+Washington,Barre City,Washington 3-2,U.S. Senate,NA,U.S. Marijuana,Cris Ericson,19
+Washington,Barre City,Washington 3-3,U.S. Senate,NA,U.S. Marijuana,Cris Ericson,4
+Washington,Barre Town,NA,U.S. Senate,NA,U.S. Marijuana,Cris Ericson,35
+Orleans,Barton,NA,U.S. Senate,NA,U.S. Marijuana,Cris Ericson,9
+Lamoille,Belvidere,NA,U.S. Senate,NA,U.S. Marijuana,Cris Ericson,0
+Bennington,Bennington,Bennington 2-1,U.S. Senate,NA,U.S. Marijuana,Cris Ericson,50
+Bennington,Bennington,Bennington 2-2,U.S. Senate,NA,U.S. Marijuana,Cris Ericson,29
+Rutland,Benson,NA,U.S. Senate,NA,U.S. Marijuana,Cris Ericson,5
+Franklin,Berkshire,NA,U.S. Senate,NA,U.S. Marijuana,Cris Ericson,4
+Washington,Berlin,NA,U.S. Senate,NA,U.S. Marijuana,Cris Ericson,10
+Windsor,Bethel,NA,U.S. Senate,NA,U.S. Marijuana,Cris Ericson,7
+Essex,Bloomfield,NA,U.S. Senate,NA,U.S. Marijuana,Cris Ericson,0
+Chittenden,Bolton,NA,U.S. Senate,NA,U.S. Marijuana,Cris Ericson,9
+Orange,Bradford,NA,U.S. Senate,NA,U.S. Marijuana,Cris Ericson,9
+Orange,Braintree,NA,U.S. Senate,NA,U.S. Marijuana,Cris Ericson,4
+Rutland,Brandon,NA,U.S. Senate,NA,U.S. Marijuana,Cris Ericson,14
+Windham,Brattleboro,Windham 3-1,U.S. Senate,NA,U.S. Marijuana,Cris Ericson,14
+Windham,Brattleboro,Windham 3-2,U.S. Senate,NA,U.S. Marijuana,Cris Ericson,22
+Windham,Brattleboro,Windham 3-3,U.S. Senate,NA,U.S. Marijuana,Cris Ericson,18
+Windsor,Bridgewater,NA,U.S. Senate,NA,U.S. Marijuana,Cris Ericson,7
+Addison,Bridport,NA,U.S. Senate,NA,U.S. Marijuana,Cris Ericson,10
+Essex,Brighton,NA,U.S. Senate,NA,U.S. Marijuana,Cris Ericson,9
+Addison,Bristol,NA,U.S. Senate,NA,U.S. Marijuana,Cris Ericson,23
+Orange,Brookfield,NA,U.S. Senate,NA,U.S. Marijuana,Cris Ericson,6
+Windham,Brookline,NA,U.S. Senate,NA,U.S. Marijuana,Cris Ericson,6
+Orleans,Brownington,NA,U.S. Senate,NA,U.S. Marijuana,Cris Ericson,4
+Essex,Brunswick,NA,U.S. Senate,NA,U.S. Marijuana,Cris Ericson,2
+Caledonia,Burke,NA,U.S. Senate,NA,U.S. Marijuana,Cris Ericson,2
+Chittenden,Burlington,Chittenden 3-1,U.S. Senate,NA,U.S. Marijuana,Cris Ericson,22
+Chittenden,Burlington,Chittenden 3-2,U.S. Senate,NA,U.S. Marijuana,Cris Ericson,13
+Chittenden,Burlington,Chittenden 3-3,U.S. Senate,NA,U.S. Marijuana,Cris Ericson,52
+Chittenden,Burlington,Chittenden 3-4,U.S. Senate,NA,U.S. Marijuana,Cris Ericson,70
+Chittenden,Burlington,Chittenden 3-5,U.S. Senate,NA,U.S. Marijuana,Cris Ericson,39
+Chittenden,Burlington,Chittenden 3-6,U.S. Senate,NA,U.S. Marijuana,Cris Ericson,10
+Washington,Cabot,NA,U.S. Senate,NA,U.S. Marijuana,Cris Ericson,13
+Washington,Calais,NA,U.S. Senate,NA,U.S. Marijuana,Cris Ericson,9
+Lamoille,Cambridge,NA,U.S. Senate,NA,U.S. Marijuana,Cris Ericson,20
+Essex,Canaan,NA,U.S. Senate,NA,U.S. Marijuana,Cris Ericson,1
+Rutland,Castleton,NA,U.S. Senate,NA,U.S. Marijuana,Cris Ericson,13
+Windsor,Cavendish,NA,U.S. Senate,NA,U.S. Marijuana,Cris Ericson,11
+Orleans,Charleston,NA,U.S. Senate,NA,U.S. Marijuana,Cris Ericson,6
+Chittenden,Charlotte,NA,U.S. Senate,NA,U.S. Marijuana,Cris Ericson,9
+Orange,Chelsea,NA,U.S. Senate,NA,U.S. Marijuana,Cris Ericson,8
+Windsor,Chester,NA,U.S. Senate,NA,U.S. Marijuana,Cris Ericson,27
+Rutland,Chittenden,NA,U.S. Senate,NA,U.S. Marijuana,Cris Ericson,8
+Rutland,Clarendon,NA,U.S. Senate,NA,U.S. Marijuana,Cris Ericson,11
+Chittenden,Colchester,Chittenden 7-1,U.S. Senate,NA,U.S. Marijuana,Cris Ericson,16
+Chittenden,Colchester,Chittenden 7-2,U.S. Senate,NA,U.S. Marijuana,Cris Ericson,22
+Essex,Concord,NA,U.S. Senate,NA,U.S. Marijuana,Cris Ericson,10
+Orange,Corinth,NA,U.S. Senate,NA,U.S. Marijuana,Cris Ericson,7
+Addison,Cornwall,NA,U.S. Senate,NA,U.S. Marijuana,Cris Ericson,2
+Orleans,Coventry,NA,U.S. Senate,NA,U.S. Marijuana,Cris Ericson,4
+Orleans,Craftsbury,NA,U.S. Senate,NA,U.S. Marijuana,Cris Ericson,7
+Rutland,Danby,NA,U.S. Senate,NA,U.S. Marijuana,Cris Ericson,10
+Caledonia,Danville,NA,U.S. Senate,NA,U.S. Marijuana,Cris Ericson,5
+Orleans,Derby,NA,U.S. Senate,NA,U.S. Marijuana,Cris Ericson,16
+Bennington,Dorset,NA,U.S. Senate,NA,U.S. Marijuana,Cris Ericson,12
+Windham,Dover,NA,U.S. Senate,NA,U.S. Marijuana,Cris Ericson,11
+Windham,Dummerston,NA,U.S. Senate,NA,U.S. Marijuana,Cris Ericson,7
+Washington,Duxbury,NA,U.S. Senate,NA,U.S. Marijuana,Cris Ericson,9
+Essex,E. Haven,NA,U.S. Senate,NA,U.S. Marijuana,Cris Ericson,4
+Washington,E. Montpelier,NA,U.S. Senate,NA,U.S. Marijuana,Cris Ericson,5
+Lamoille,Eden,NA,U.S. Senate,NA,U.S. Marijuana,Cris Ericson,3
+Lamoille,Elmore,NA,U.S. Senate,NA,U.S. Marijuana,Cris Ericson,5
+Franklin,Enosburgh,NA,U.S. Senate,NA,U.S. Marijuana,Cris Ericson,15
+Chittenden,Essex,Chittenden 6-1,U.S. Senate,NA,U.S. Marijuana,Cris Ericson,17
+Chittenden,Essex,Chittenden 6-2,U.S. Senate,NA,U.S. Marijuana,Cris Ericson,26
+Chittenden,Essex,Chittenden 6-3,U.S. Senate,NA,U.S. Marijuana,Cris Ericson,0
+Rutland,Fair Haven,NA,U.S. Senate,NA,U.S. Marijuana,Cris Ericson,12
+Franklin,Fairfax,NA,U.S. Senate,NA,U.S. Marijuana,Cris Ericson,17
+Franklin,Fairfield,NA,U.S. Senate,NA,U.S. Marijuana,Cris Ericson,6
+Orange,Fairlee,NA,U.S. Senate,NA,U.S. Marijuana,Cris Ericson,4
+Washington,Fayston,NA,U.S. Senate,NA,U.S. Marijuana,Cris Ericson,4
+Addison,Ferrisburgh,NA,U.S. Senate,NA,U.S. Marijuana,Cris Ericson,5
+Franklin,Fletcher,NA,U.S. Senate,NA,U.S. Marijuana,Cris Ericson,2
+Franklin,Franklin,NA,U.S. Senate,NA,U.S. Marijuana,Cris Ericson,3
+Franklin,Georgia,NA,U.S. Senate,NA,U.S. Marijuana,Cris Ericson,18
+Orleans,Glover,NA,U.S. Senate,NA,U.S. Marijuana,Cris Ericson,11
+Addison,Goshen,NA,U.S. Senate,NA,U.S. Marijuana,Cris Ericson,4
+Windham,Grafton,NA,U.S. Senate,NA,U.S. Marijuana,Cris Ericson,6
+Essex,Granby,NA,U.S. Senate,NA,U.S. Marijuana,Cris Ericson,0
+Grand Isle,Grand Isle,NA,U.S. Senate,NA,U.S. Marijuana,Cris Ericson,12
+Addison,Granville,NA,U.S. Senate,NA,U.S. Marijuana,Cris Ericson,4
+Orleans,Greensboro,NA,U.S. Senate,NA,U.S. Marijuana,Cris Ericson,6
+Caledonia,Groton,NA,U.S. Senate,NA,U.S. Marijuana,Cris Ericson,7
+Essex,Guildhall,NA,U.S. Senate,NA,U.S. Marijuana,Cris Ericson,2
+Windham,Guilford,NA,U.S. Senate,NA,U.S. Marijuana,Cris Ericson,7
+Windham,Halifax,NA,U.S. Senate,NA,U.S. Marijuana,Cris Ericson,4
+Addison,Hancock,NA,U.S. Senate,NA,U.S. Marijuana,Cris Ericson,0
+Caledonia,Hardwick,NA,U.S. Senate,NA,U.S. Marijuana,Cris Ericson,15
+Windsor,Hartford,Windsor 6-1,U.S. Senate,NA,U.S. Marijuana,Cris Ericson,9
+Windsor,Hartford,Windsor 6-2,U.S. Senate,NA,U.S. Marijuana,Cris Ericson,29
+Windsor,Hartland,NA,U.S. Senate,NA,U.S. Marijuana,Cris Ericson,13
+Franklin,Highgate,NA,U.S. Senate,NA,U.S. Marijuana,Cris Ericson,8
+Chittenden,Hinesburg,Chittenden 1-1,U.S. Senate,NA,U.S. Marijuana,Cris Ericson,11
+Chittenden,Hinesburg,Chittenden 1-2,U.S. Senate,NA,U.S. Marijuana,Cris Ericson,0
+Orleans,Holland,NA,U.S. Senate,NA,U.S. Marijuana,Cris Ericson,6
+Rutland,Hubbardton,NA,U.S. Senate,NA,U.S. Marijuana,Cris Ericson,4
+Chittenden,Huntington,NA,U.S. Senate,NA,U.S. Marijuana,Cris Ericson,17
+Lamoille,Hyde Park,NA,U.S. Senate,NA,U.S. Marijuana,Cris Ericson,8
+Rutland,Ira,Rutland 1-1,U.S. Senate,NA,U.S. Marijuana,Cris Ericson,1
+Rutland,Ira,Rutland 1-2,U.S. Senate,NA,U.S. Marijuana,Cris Ericson,3
+Orleans,Irasburg,NA,U.S. Senate,NA,U.S. Marijuana,Cris Ericson,5
+Grand Isle,Isle La Motte,NA,U.S. Senate,NA,U.S. Marijuana,Cris Ericson,4
+Windham,Jamaica,NA,U.S. Senate,NA,U.S. Marijuana,Cris Ericson,9
+Orleans,Jay,NA,U.S. Senate,NA,U.S. Marijuana,Cris Ericson,2
+Chittenden,Jericho,NA,U.S. Senate,NA,U.S. Marijuana,Cris Ericson,15
+Lamoille,Johnson,NA,U.S. Senate,NA,U.S. Marijuana,Cris Ericson,13
+Rutland,Killington,NA,U.S. Senate,NA,U.S. Marijuana,Cris Ericson,9
+Caledonia,Kirby,NA,U.S. Senate,NA,U.S. Marijuana,Cris Ericson,0
+Bennington,Landgrove,NA,U.S. Senate,NA,U.S. Marijuana,Cris Ericson,0
+Addison,Leicester,NA,U.S. Senate,NA,U.S. Marijuana,Cris Ericson,5
+Essex,Lemington,NA,U.S. Senate,NA,U.S. Marijuana,Cris Ericson,0
+Addison,Lincoln,NA,U.S. Senate,NA,U.S. Marijuana,Cris Ericson,5
+Windham,Londonderry,NA,U.S. Senate,NA,U.S. Marijuana,Cris Ericson,16
+Orleans,Lowell,NA,U.S. Senate,NA,U.S. Marijuana,Cris Ericson,5
+Windsor,Ludlow,NA,U.S. Senate,NA,U.S. Marijuana,Cris Ericson,26
+Essex,Lunenburg,NA,U.S. Senate,NA,U.S. Marijuana,Cris Ericson,8
+Caledonia,Lyndon,NA,U.S. Senate,NA,U.S. Marijuana,Cris Ericson,16
+Essex,Maidstone,NA,U.S. Senate,NA,U.S. Marijuana,Cris Ericson,1
+Bennington,Manchester,NA,U.S. Senate,NA,U.S. Marijuana,Cris Ericson,15
+Windham,Marlboro,NA,U.S. Senate,NA,U.S. Marijuana,Cris Ericson,3
+Washington,Marshfield,NA,U.S. Senate,NA,U.S. Marijuana,Cris Ericson,9
+Rutland,Mendon,NA,U.S. Senate,NA,U.S. Marijuana,Cris Ericson,6
+Addison,Middlebury,NA,U.S. Senate,NA,U.S. Marijuana,Cris Ericson,25
+Washington,Middlesex,NA,U.S. Senate,NA,U.S. Marijuana,Cris Ericson,4
+Rutland,Middletown Springs,NA,U.S. Senate,NA,U.S. Marijuana,Cris Ericson,2
+Chittenden,Milton,Chittenden 9,U.S. Senate,NA,U.S. Marijuana,Cris Ericson,31
+Chittenden,Milton,Grand Isle-Chittenden 1-1,U.S. Senate,NA,U.S. Marijuana,Cris Ericson,7
+Addison,Monkton,NA,U.S. Senate,NA,U.S. Marijuana,Cris Ericson,3
+Franklin,Montgomery,NA,U.S. Senate,NA,U.S. Marijuana,Cris Ericson,7
+Washington,Montpelier,NA,U.S. Senate,NA,U.S. Marijuana,Cris Ericson,35
+Washington,Moretown,NA,U.S. Senate,NA,U.S. Marijuana,Cris Ericson,21
+Orleans,Morgan,NA,U.S. Senate,NA,U.S. Marijuana,Cris Ericson,1
+Lamoille,Morristown,NA,U.S. Senate,NA,U.S. Marijuana,Cris Ericson,28
+Rutland,Mount Holly,NA,U.S. Senate,NA,U.S. Marijuana,Cris Ericson,12
+Rutland,Mount Tabor,NA,U.S. Senate,NA,U.S. Marijuana,Cris Ericson,1
+Addison,New Haven,NA,U.S. Senate,NA,U.S. Marijuana,Cris Ericson,4
+Caledonia,Newark,NA,U.S. Senate,NA,U.S. Marijuana,Cris Ericson,5
+Orange,Newbury,NA,U.S. Senate,NA,U.S. Marijuana,Cris Ericson,14
+Windham,Newfane,NA,U.S. Senate,NA,U.S. Marijuana,Cris Ericson,14
+Orleans,Newport City,NA,U.S. Senate,NA,U.S. Marijuana,Cris Ericson,8
+Orleans,Newport Town,NA,U.S. Senate,NA,U.S. Marijuana,Cris Ericson,6
+Grand Isle,N. Hero,NA,U.S. Senate,NA,U.S. Marijuana,Cris Ericson,4
+Washington,Northfield,NA,U.S. Senate,NA,U.S. Marijuana,Cris Ericson,22
+Essex,Norton,NA,U.S. Senate,NA,U.S. Marijuana,Cris Ericson,1
+Windsor,Norwich,NA,U.S. Senate,NA,U.S. Marijuana,Cris Ericson,9
+Orange,Orange,NA,U.S. Senate,NA,U.S. Marijuana,Cris Ericson,6
+Addison,Orwell,NA,U.S. Senate,NA,U.S. Marijuana,Cris Ericson,3
+Addison,Panton,NA,U.S. Senate,NA,U.S. Marijuana,Cris Ericson,4
+Rutland,Pawlet,NA,U.S. Senate,NA,U.S. Marijuana,Cris Ericson,13
+Caledonia,Peacham,NA,U.S. Senate,NA,U.S. Marijuana,Cris Ericson,5
+Bennington,Peru,NA,U.S. Senate,NA,U.S. Marijuana,Cris Ericson,3
+Rutland,Pittsfield,NA,U.S. Senate,NA,U.S. Marijuana,Cris Ericson,2
+Rutland,Pittsford,NA,U.S. Senate,NA,U.S. Marijuana,Cris Ericson,8
+Washington,Plainfield,NA,U.S. Senate,NA,U.S. Marijuana,Cris Ericson,10
+Windsor,Plymouth,NA,U.S. Senate,NA,U.S. Marijuana,Cris Ericson,4
+Windsor,Pomfret,NA,U.S. Senate,NA,U.S. Marijuana,Cris Ericson,1
+Rutland,Poultney,NA,U.S. Senate,NA,U.S. Marijuana,Cris Ericson,13
+Bennington,Pownal,NA,U.S. Senate,NA,U.S. Marijuana,Cris Ericson,15
+Rutland,Proctor,NA,U.S. Senate,NA,U.S. Marijuana,Cris Ericson,8
+Windham,Putney,NA,U.S. Senate,NA,U.S. Marijuana,Cris Ericson,10
+Orange,Randolph,NA,U.S. Senate,NA,U.S. Marijuana,Cris Ericson,22
+Windsor,Reading,NA,U.S. Senate,NA,U.S. Marijuana,Cris Ericson,7
+Bennington,Readsboro,NA,U.S. Senate,NA,U.S. Marijuana,Cris Ericson,5
+Franklin,Richford,NA,U.S. Senate,NA,U.S. Marijuana,Cris Ericson,6
+Chittenden,Richmond,NA,U.S. Senate,NA,U.S. Marijuana,Cris Ericson,19
+Addison,Ripton,NA,U.S. Senate,NA,U.S. Marijuana,Cris Ericson,3
+Windsor,Rochester,NA,U.S. Senate,NA,U.S. Marijuana,Cris Ericson,13
+Windham,Rockingham,NA,U.S. Senate,NA,U.S. Marijuana,Cris Ericson,34
+Washington,Roxbury,NA,U.S. Senate,NA,U.S. Marijuana,Cris Ericson,7
+Windsor,Royalton,NA,U.S. Senate,NA,U.S. Marijuana,Cris Ericson,14
+Bennington,Rupert,Bennington 5,U.S. Senate,NA,U.S. Marijuana,Cris Ericson,1
+Bennington,Rupert,Rutland 8,U.S. Senate,NA,U.S. Marijuana,Cris Ericson,4
+Rutland,Rutland City,Rutland 5-1,U.S. Senate,NA,U.S. Marijuana,Cris Ericson,13
+Rutland,Rutland City,Rutland 5-2,U.S. Senate,NA,U.S. Marijuana,Cris Ericson,15
+Rutland,Rutland City,Rutland 5-3,U.S. Senate,NA,U.S. Marijuana,Cris Ericson,18
+Rutland,Rutland City,Rutland 5-4,U.S. Senate,NA,U.S. Marijuana,Cris Ericson,25
+Rutland,Rutland Town,NA,U.S. Senate,NA,U.S. Marijuana,Cris Ericson,15
+Caledonia,Ryegate,NA,U.S. Senate,NA,U.S. Marijuana,Cris Ericson,2
+Franklin,Salisbury,NA,U.S. Senate,NA,U.S. Marijuana,Cris Ericson,4
+Franklin,Sandgate,NA,U.S. Senate,NA,U.S. Marijuana,Cris Ericson,2
+Chittenden,Searsburg,NA,U.S. Senate,NA,U.S. Marijuana,Cris Ericson,2
+Caledonia,Shaftsbury,NA,U.S. Senate,NA,U.S. Marijuana,Cris Ericson,30
+Addison,Sharon,NA,U.S. Senate,NA,U.S. Marijuana,Cris Ericson,4
+Bennington,Sheffield,NA,U.S. Senate,NA,U.S. Marijuana,Cris Ericson,3
+Bennington,Shelburne,Chittenden 5-1,U.S. Senate,NA,U.S. Marijuana,Cris Ericson,18
+Bennington,Shelburne,Chittenden 5-2,U.S. Senate,NA,U.S. Marijuana,Cris Ericson,6
+Bennington,Sheldon,NA,U.S. Senate,NA,U.S. Marijuana,Cris Ericson,4
+Windsor,Shoreham,NA,U.S. Senate,NA,U.S. Marijuana,Cris Ericson,6
+Caledonia,Shrewsbury,NA,U.S. Senate,NA,U.S. Marijuana,Cris Ericson,4
+Chittenden,S. Burlington,Chittenden 3-10,U.S. Senate,NA,U.S. Marijuana,Cris Ericson,8
+Chittenden,S. Burlington,Chittenden 3-7,U.S. Senate,NA,U.S. Marijuana,Cris Ericson,6
+Chittenden,S. Burlington,Chittenden 3-8,U.S. Senate,NA,U.S. Marijuana,Cris Ericson,17
+Chittenden,S. Burlington,Chittenden 3-9,U.S. Senate,NA,U.S. Marijuana,Cris Ericson,15
+Franklin,S. Hero,NA,U.S. Senate,NA,U.S. Marijuana,Cris Ericson,7
+Addison,Springfield,Windsor 1-1,U.S. Senate,NA,U.S. Marijuana,Cris Ericson,0
+Addison,Springfield,Windsor 1-2,U.S. Senate,NA,U.S. Marijuana,Cris Ericson,59
+Rutland,St. Albans City,NA,U.S. Senate,NA,U.S. Marijuana,Cris Ericson,17
+Chittenden,St. Albans Town,NA,U.S. Senate,NA,U.S. Marijuana,Cris Ericson,15
+Grand Isle,St. George,NA,U.S. Senate,NA,U.S. Marijuana,Cris Ericson,0
+Windsor,St. Johnsbury,NA,U.S. Senate,NA,U.S. Marijuana,Cris Ericson,26
+Bennington,Stamford,NA,U.S. Senate,NA,U.S. Marijuana,Cris Ericson,5
+Caledonia,Stannard,NA,U.S. Senate,NA,U.S. Marijuana,Cris Ericson,1
+Addison,Starksboro,NA,U.S. Senate,NA,U.S. Marijuana,Cris Ericson,12
+Windsor,Stockbridge,NA,U.S. Senate,NA,U.S. Marijuana,Cris Ericson,7
+Lamoille,Stowe,NA,U.S. Senate,NA,U.S. Marijuana,Cris Ericson,24
+Orange,Strafford,NA,U.S. Senate,NA,U.S. Marijuana,Cris Ericson,7
+Windham,Stratton,NA,U.S. Senate,NA,U.S. Marijuana,Cris Ericson,0
+Rutland,Sudbury,NA,U.S. Senate,NA,U.S. Marijuana,Cris Ericson,3
+Bennington,Sunderland,NA,U.S. Senate,NA,U.S. Marijuana,Cris Ericson,5
+Caledonia,Sutton,NA,U.S. Senate,NA,U.S. Marijuana,Cris Ericson,5
+Franklin,Swanton,NA,U.S. Senate,NA,U.S. Marijuana,Cris Ericson,16
+Orange,Thetford,NA,U.S. Senate,NA,U.S. Marijuana,Cris Ericson,9
+Rutland,Tinmouth,NA,U.S. Senate,NA,U.S. Marijuana,Cris Ericson,2
+Orange,Topsham,NA,U.S. Senate,NA,U.S. Marijuana,Cris Ericson,1
+Windham,Townshend,NA,U.S. Senate,NA,U.S. Marijuana,Cris Ericson,10
+Orleans,Troy,NA,U.S. Senate,NA,U.S. Marijuana,Cris Ericson,8
+Orange,Tunbridge,NA,U.S. Senate,NA,U.S. Marijuana,Cris Ericson,7
+Chittenden,Underhill,NA,U.S. Senate,NA,U.S. Marijuana,Cris Ericson,12
+Addison,Vergennes,NA,U.S. Senate,NA,U.S. Marijuana,Cris Ericson,10
+Windham,Vernon,NA,U.S. Senate,NA,U.S. Marijuana,Cris Ericson,10
+Orange,Vershire,NA,U.S. Senate,NA,U.S. Marijuana,Cris Ericson,7
+Essex,Victory,NA,U.S. Senate,NA,U.S. Marijuana,Cris Ericson,2
+Washington,Waitsfield,NA,U.S. Senate,NA,U.S. Marijuana,Cris Ericson,7
+Caledonia,Walden,NA,U.S. Senate,NA,U.S. Marijuana,Cris Ericson,9
+Rutland,Wallingford,NA,U.S. Senate,NA,U.S. Marijuana,Cris Ericson,15
+Addison,Waltham,NA,U.S. Senate,NA,U.S. Marijuana,Cris Ericson,0
+Windham,Wardsboro,NA,U.S. Senate,NA,U.S. Marijuana,Cris Ericson,8
+Washington,Warren,NA,U.S. Senate,NA,U.S. Marijuana,Cris Ericson,14
+Orange,Washington,NA,U.S. Senate,NA,U.S. Marijuana,Cris Ericson,5
+Washington,Waterbury,NA,U.S. Senate,NA,U.S. Marijuana,Cris Ericson,18
+Caledonia,Waterford,NA,U.S. Senate,NA,U.S. Marijuana,Cris Ericson,6
+Lamoille,Waterville,NA,U.S. Senate,NA,U.S. Marijuana,Cris Ericson,5
+Windsor,Weathersfield,NA,U.S. Senate,NA,U.S. Marijuana,Cris Ericson,16
+Rutland,Wells,NA,U.S. Senate,NA,U.S. Marijuana,Cris Ericson,6
+Orange,W. Fairlee,NA,U.S. Senate,NA,U.S. Marijuana,Cris Ericson,6
+Rutland,W. Haven,NA,U.S. Senate,NA,U.S. Marijuana,Cris Ericson,2
+Rutland,W. Rutland,NA,U.S. Senate,NA,U.S. Marijuana,Cris Ericson,6
+Windsor,W. Windsor,NA,U.S. Senate,NA,U.S. Marijuana,Cris Ericson,9
+Orleans,Westfield,NA,U.S. Senate,NA,U.S. Marijuana,Cris Ericson,3
+Chittenden,Westford,NA,U.S. Senate,NA,U.S. Marijuana,Cris Ericson,4
+Windham,Westminster,Windham 4,U.S. Senate,NA,U.S. Marijuana,Cris Ericson,0
+Windham,Westminster,Windham 5,U.S. Senate,NA,U.S. Marijuana,Cris Ericson,15
+Orleans,Westmore,NA,U.S. Senate,NA,U.S. Marijuana,Cris Ericson,4
+Windsor,Weston,NA,U.S. Senate,NA,U.S. Marijuana,Cris Ericson,5
+Addison,Weybridge,NA,U.S. Senate,NA,U.S. Marijuana,Cris Ericson,2
+Caledonia,Wheelock,NA,U.S. Senate,NA,U.S. Marijuana,Cris Ericson,3
+Addison,Whiting,NA,U.S. Senate,NA,U.S. Marijuana,Cris Ericson,1
+Windham,Whitingham,NA,U.S. Senate,NA,U.S. Marijuana,Cris Ericson,3
+Orange,Williamstown,NA,U.S. Senate,NA,U.S. Marijuana,Cris Ericson,10
+Chittenden,Williston,NA,U.S. Senate,NA,U.S. Marijuana,Cris Ericson,25
+Windham,Wilmington,NA,U.S. Senate,NA,U.S. Marijuana,Cris Ericson,14
+Windham,Windham,NA,U.S. Senate,NA,U.S. Marijuana,Cris Ericson,3
+Windsor,Windsor,NA,U.S. Senate,NA,U.S. Marijuana,Cris Ericson,14
+Bennington,Winhall,NA,U.S. Senate,NA,U.S. Marijuana,Cris Ericson,11
+Chittenden,Winooski,NA,U.S. Senate,NA,U.S. Marijuana,Cris Ericson,30
+Lamoille,Wolcott,NA,U.S. Senate,NA,U.S. Marijuana,Cris Ericson,10
+Washington,Woodbury,NA,U.S. Senate,NA,U.S. Marijuana,Cris Ericson,5
+Bennington,Woodford,NA,U.S. Senate,NA,U.S. Marijuana,Cris Ericson,6
+Windsor,Woodstock,NA,U.S. Senate,NA,U.S. Marijuana,Cris Ericson,14
+Washington,Worcester,NA,U.S. Senate,NA,U.S. Marijuana,Cris Ericson,7
+Addison,Addison,NA,U.S. Senate,NA,Independent,Stephen J. Cain,2
+Orleans,Albany,NA,U.S. Senate,NA,Independent,Stephen J. Cain,1
+Grand Isle,Alburgh,NA,U.S. Senate,NA,Independent,Stephen J. Cain,12
+Windsor,Andover,NA,U.S. Senate,NA,Independent,Stephen J. Cain,1
+Bennington,Arlington,NA,U.S. Senate,NA,Independent,Stephen J. Cain,13
+Windham,Athens,NA,U.S. Senate,NA,Independent,Stephen J. Cain,2
+Franklin,Bakersfield,NA,U.S. Senate,NA,Independent,Stephen J. Cain,11
+Windsor,Baltimore,NA,U.S. Senate,NA,Independent,Stephen J. Cain,1
+Windsor,Barnard,NA,U.S. Senate,NA,Independent,Stephen J. Cain,2
+Caledonia,Barnet,NA,U.S. Senate,NA,Independent,Stephen J. Cain,9
+Washington,Barre City,Washington 3-1,U.S. Senate,NA,Independent,Stephen J. Cain,14
+Washington,Barre City,Washington 3-2,U.S. Senate,NA,Independent,Stephen J. Cain,13
+Washington,Barre City,Washington 3-3,U.S. Senate,NA,Independent,Stephen J. Cain,3
+Washington,Barre Town,NA,U.S. Senate,NA,Independent,Stephen J. Cain,28
+Orleans,Barton,NA,U.S. Senate,NA,Independent,Stephen J. Cain,10
+Lamoille,Belvidere,NA,U.S. Senate,NA,Independent,Stephen J. Cain,0
+Bennington,Bennington,Bennington 2-1,U.S. Senate,NA,Independent,Stephen J. Cain,38
+Bennington,Bennington,Bennington 2-2,U.S. Senate,NA,Independent,Stephen J. Cain,28
+Rutland,Benson,NA,U.S. Senate,NA,Independent,Stephen J. Cain,9
+Franklin,Berkshire,NA,U.S. Senate,NA,Independent,Stephen J. Cain,19
+Washington,Berlin,NA,U.S. Senate,NA,Independent,Stephen J. Cain,10
+Windsor,Bethel,NA,U.S. Senate,NA,Independent,Stephen J. Cain,3
+Essex,Bloomfield,NA,U.S. Senate,NA,Independent,Stephen J. Cain,0
+Chittenden,Bolton,NA,U.S. Senate,NA,Independent,Stephen J. Cain,2
+Orange,Bradford,NA,U.S. Senate,NA,Independent,Stephen J. Cain,12
+Orange,Braintree,NA,U.S. Senate,NA,Independent,Stephen J. Cain,7
+Rutland,Brandon,NA,U.S. Senate,NA,Independent,Stephen J. Cain,8
+Windham,Brattleboro,Windham 3-1,U.S. Senate,NA,Independent,Stephen J. Cain,10
+Windham,Brattleboro,Windham 3-2,U.S. Senate,NA,Independent,Stephen J. Cain,10
+Windham,Brattleboro,Windham 3-3,U.S. Senate,NA,Independent,Stephen J. Cain,5
+Windsor,Bridgewater,NA,U.S. Senate,NA,Independent,Stephen J. Cain,2
+Addison,Bridport,NA,U.S. Senate,NA,Independent,Stephen J. Cain,3
+Essex,Brighton,NA,U.S. Senate,NA,Independent,Stephen J. Cain,7
+Addison,Bristol,NA,U.S. Senate,NA,Independent,Stephen J. Cain,11
+Orange,Brookfield,NA,U.S. Senate,NA,Independent,Stephen J. Cain,2
+Windham,Brookline,NA,U.S. Senate,NA,Independent,Stephen J. Cain,2
+Orleans,Brownington,NA,U.S. Senate,NA,Independent,Stephen J. Cain,3
+Essex,Brunswick,NA,U.S. Senate,NA,Independent,Stephen J. Cain,1
+Caledonia,Burke,NA,U.S. Senate,NA,Independent,Stephen J. Cain,4
+Chittenden,Burlington,Chittenden 3-1,U.S. Senate,NA,Independent,Stephen J. Cain,37
+Chittenden,Burlington,Chittenden 3-2,U.S. Senate,NA,Independent,Stephen J. Cain,16
+Chittenden,Burlington,Chittenden 3-3,U.S. Senate,NA,Independent,Stephen J. Cain,25
+Chittenden,Burlington,Chittenden 3-4,U.S. Senate,NA,Independent,Stephen J. Cain,23
+Chittenden,Burlington,Chittenden 3-5,U.S. Senate,NA,Independent,Stephen J. Cain,28
+Chittenden,Burlington,Chittenden 3-6,U.S. Senate,NA,Independent,Stephen J. Cain,3
+Washington,Cabot,NA,U.S. Senate,NA,Independent,Stephen J. Cain,6
+Washington,Calais,NA,U.S. Senate,NA,Independent,Stephen J. Cain,4
+Lamoille,Cambridge,NA,U.S. Senate,NA,Independent,Stephen J. Cain,13
+Essex,Canaan,NA,U.S. Senate,NA,Independent,Stephen J. Cain,3
+Rutland,Castleton,NA,U.S. Senate,NA,Independent,Stephen J. Cain,13
+Windsor,Cavendish,NA,U.S. Senate,NA,Independent,Stephen J. Cain,11
+Orleans,Charleston,NA,U.S. Senate,NA,Independent,Stephen J. Cain,4
+Chittenden,Charlotte,NA,U.S. Senate,NA,Independent,Stephen J. Cain,16
+Orange,Chelsea,NA,U.S. Senate,NA,Independent,Stephen J. Cain,4
+Windsor,Chester,NA,U.S. Senate,NA,Independent,Stephen J. Cain,11
+Rutland,Chittenden,NA,U.S. Senate,NA,Independent,Stephen J. Cain,7
+Rutland,Clarendon,NA,U.S. Senate,NA,Independent,Stephen J. Cain,9
+Chittenden,Colchester,Chittenden 7-1,U.S. Senate,NA,Independent,Stephen J. Cain,18
+Chittenden,Colchester,Chittenden 7-2,U.S. Senate,NA,Independent,Stephen J. Cain,52
+Essex,Concord,NA,U.S. Senate,NA,Independent,Stephen J. Cain,7
+Orange,Corinth,NA,U.S. Senate,NA,Independent,Stephen J. Cain,3
+Addison,Cornwall,NA,U.S. Senate,NA,Independent,Stephen J. Cain,0
+Orleans,Coventry,NA,U.S. Senate,NA,Independent,Stephen J. Cain,8
+Orleans,Craftsbury,NA,U.S. Senate,NA,Independent,Stephen J. Cain,4
+Rutland,Danby,NA,U.S. Senate,NA,Independent,Stephen J. Cain,5
+Caledonia,Danville,NA,U.S. Senate,NA,Independent,Stephen J. Cain,12
+Orleans,Derby,NA,U.S. Senate,NA,Independent,Stephen J. Cain,16
+Bennington,Dorset,NA,U.S. Senate,NA,Independent,Stephen J. Cain,7
+Windham,Dover,NA,U.S. Senate,NA,Independent,Stephen J. Cain,2
+Windham,Dummerston,NA,U.S. Senate,NA,Independent,Stephen J. Cain,8
+Washington,Duxbury,NA,U.S. Senate,NA,Independent,Stephen J. Cain,9
+Essex,E. Haven,NA,U.S. Senate,NA,Independent,Stephen J. Cain,4
+Washington,E. Montpelier,NA,U.S. Senate,NA,Independent,Stephen J. Cain,4
+Lamoille,Eden,NA,U.S. Senate,NA,Independent,Stephen J. Cain,2
+Lamoille,Elmore,NA,U.S. Senate,NA,Independent,Stephen J. Cain,4
+Franklin,Enosburgh,NA,U.S. Senate,NA,Independent,Stephen J. Cain,3
+Chittenden,Essex,Chittenden 6-1,U.S. Senate,NA,Independent,Stephen J. Cain,26
+Chittenden,Essex,Chittenden 6-2,U.S. Senate,NA,Independent,Stephen J. Cain,33
+Chittenden,Essex,Chittenden 6-3,U.S. Senate,NA,Independent,Stephen J. Cain,5
+Rutland,Fair Haven,NA,U.S. Senate,NA,Independent,Stephen J. Cain,8
+Franklin,Fairfax,NA,U.S. Senate,NA,Independent,Stephen J. Cain,19
+Franklin,Fairfield,NA,U.S. Senate,NA,Independent,Stephen J. Cain,4
+Orange,Fairlee,NA,U.S. Senate,NA,Independent,Stephen J. Cain,4
+Washington,Fayston,NA,U.S. Senate,NA,Independent,Stephen J. Cain,7
+Addison,Ferrisburgh,NA,U.S. Senate,NA,Independent,Stephen J. Cain,7
+Franklin,Fletcher,NA,U.S. Senate,NA,Independent,Stephen J. Cain,9
+Franklin,Franklin,NA,U.S. Senate,NA,Independent,Stephen J. Cain,2
+Franklin,Georgia,NA,U.S. Senate,NA,Independent,Stephen J. Cain,12
+Orleans,Glover,NA,U.S. Senate,NA,Independent,Stephen J. Cain,3
+Addison,Goshen,NA,U.S. Senate,NA,Independent,Stephen J. Cain,1
+Windham,Grafton,NA,U.S. Senate,NA,Independent,Stephen J. Cain,6
+Essex,Granby,NA,U.S. Senate,NA,Independent,Stephen J. Cain,0
+Grand Isle,Grand Isle,NA,U.S. Senate,NA,Independent,Stephen J. Cain,11
+Addison,Granville,NA,U.S. Senate,NA,Independent,Stephen J. Cain,1
+Orleans,Greensboro,NA,U.S. Senate,NA,Independent,Stephen J. Cain,0
+Caledonia,Groton,NA,U.S. Senate,NA,Independent,Stephen J. Cain,4
+Essex,Guildhall,NA,U.S. Senate,NA,Independent,Stephen J. Cain,6
+Windham,Guilford,NA,U.S. Senate,NA,Independent,Stephen J. Cain,1
+Windham,Halifax,NA,U.S. Senate,NA,Independent,Stephen J. Cain,1
+Addison,Hancock,NA,U.S. Senate,NA,Independent,Stephen J. Cain,3
+Caledonia,Hardwick,NA,U.S. Senate,NA,Independent,Stephen J. Cain,12
+Windsor,Hartford,Windsor 6-1,U.S. Senate,NA,Independent,Stephen J. Cain,8
+Windsor,Hartford,Windsor 6-2,U.S. Senate,NA,Independent,Stephen J. Cain,19
+Windsor,Hartland,NA,U.S. Senate,NA,Independent,Stephen J. Cain,15
+Franklin,Highgate,NA,U.S. Senate,NA,Independent,Stephen J. Cain,8
+Chittenden,Hinesburg,Chittenden 1-1,U.S. Senate,NA,Independent,Stephen J. Cain,13
+Chittenden,Hinesburg,Chittenden 1-2,U.S. Senate,NA,Independent,Stephen J. Cain,1
+Orleans,Holland,NA,U.S. Senate,NA,Independent,Stephen J. Cain,4
+Rutland,Hubbardton,NA,U.S. Senate,NA,Independent,Stephen J. Cain,4
+Chittenden,Huntington,NA,U.S. Senate,NA,Independent,Stephen J. Cain,10
+Lamoille,Hyde Park,NA,U.S. Senate,NA,Independent,Stephen J. Cain,13
+Rutland,Ira,Rutland 1-1,U.S. Senate,NA,Independent,Stephen J. Cain,0
+Rutland,Ira,Rutland 1-2,U.S. Senate,NA,Independent,Stephen J. Cain,1
+Orleans,Irasburg,NA,U.S. Senate,NA,Independent,Stephen J. Cain,6
+Grand Isle,Isle La Motte,NA,U.S. Senate,NA,Independent,Stephen J. Cain,1
+Windham,Jamaica,NA,U.S. Senate,NA,Independent,Stephen J. Cain,9
+Orleans,Jay,NA,U.S. Senate,NA,Independent,Stephen J. Cain,1
+Chittenden,Jericho,NA,U.S. Senate,NA,Independent,Stephen J. Cain,21
+Lamoille,Johnson,NA,U.S. Senate,NA,Independent,Stephen J. Cain,13
+Rutland,Killington,NA,U.S. Senate,NA,Independent,Stephen J. Cain,4
+Caledonia,Kirby,NA,U.S. Senate,NA,Independent,Stephen J. Cain,1
+Bennington,Landgrove,NA,U.S. Senate,NA,Independent,Stephen J. Cain,0
+Addison,Leicester,NA,U.S. Senate,NA,Independent,Stephen J. Cain,4
+Essex,Lemington,NA,U.S. Senate,NA,Independent,Stephen J. Cain,0
+Addison,Lincoln,NA,U.S. Senate,NA,Independent,Stephen J. Cain,4
+Windham,Londonderry,NA,U.S. Senate,NA,Independent,Stephen J. Cain,7
+Orleans,Lowell,NA,U.S. Senate,NA,Independent,Stephen J. Cain,1
+Windsor,Ludlow,NA,U.S. Senate,NA,Independent,Stephen J. Cain,9
+Essex,Lunenburg,NA,U.S. Senate,NA,Independent,Stephen J. Cain,7
+Caledonia,Lyndon,NA,U.S. Senate,NA,Independent,Stephen J. Cain,23
+Essex,Maidstone,NA,U.S. Senate,NA,Independent,Stephen J. Cain,1
+Bennington,Manchester,NA,U.S. Senate,NA,Independent,Stephen J. Cain,16
+Windham,Marlboro,NA,U.S. Senate,NA,Independent,Stephen J. Cain,2
+Washington,Marshfield,NA,U.S. Senate,NA,Independent,Stephen J. Cain,4
+Rutland,Mendon,NA,U.S. Senate,NA,Independent,Stephen J. Cain,6
+Addison,Middlebury,NA,U.S. Senate,NA,Independent,Stephen J. Cain,16
+Washington,Middlesex,NA,U.S. Senate,NA,Independent,Stephen J. Cain,9
+Rutland,Middletown Springs,NA,U.S. Senate,NA,Independent,Stephen J. Cain,4
+Chittenden,Milton,Chittenden 9,U.S. Senate,NA,Independent,Stephen J. Cain,41
+Chittenden,Milton,Grand Isle-Chittenden 1-1,U.S. Senate,NA,Independent,Stephen J. Cain,11
+Addison,Monkton,NA,U.S. Senate,NA,Independent,Stephen J. Cain,6
+Franklin,Montgomery,NA,U.S. Senate,NA,Independent,Stephen J. Cain,4
+Washington,Montpelier,NA,U.S. Senate,NA,Independent,Stephen J. Cain,20
+Washington,Moretown,NA,U.S. Senate,NA,Independent,Stephen J. Cain,6
+Orleans,Morgan,NA,U.S. Senate,NA,Independent,Stephen J. Cain,2
+Lamoille,Morristown,NA,U.S. Senate,NA,Independent,Stephen J. Cain,18
+Rutland,Mount Holly,NA,U.S. Senate,NA,Independent,Stephen J. Cain,8
+Rutland,Mount Tabor,NA,U.S. Senate,NA,Independent,Stephen J. Cain,0
+Addison,New Haven,NA,U.S. Senate,NA,Independent,Stephen J. Cain,6
+Caledonia,Newark,NA,U.S. Senate,NA,Independent,Stephen J. Cain,2
+Orange,Newbury,NA,U.S. Senate,NA,Independent,Stephen J. Cain,9
+Windham,Newfane,NA,U.S. Senate,NA,Independent,Stephen J. Cain,5
+Orleans,Newport City,NA,U.S. Senate,NA,Independent,Stephen J. Cain,16
+Orleans,Newport Town,NA,U.S. Senate,NA,Independent,Stephen J. Cain,7
+Grand Isle,N. Hero,NA,U.S. Senate,NA,Independent,Stephen J. Cain,2
+Washington,Northfield,NA,U.S. Senate,NA,Independent,Stephen J. Cain,15
+Essex,Norton,NA,U.S. Senate,NA,Independent,Stephen J. Cain,1
+Windsor,Norwich,NA,U.S. Senate,NA,Independent,Stephen J. Cain,8
+Orange,Orange,NA,U.S. Senate,NA,Independent,Stephen J. Cain,6
+Addison,Orwell,NA,U.S. Senate,NA,Independent,Stephen J. Cain,9
+Addison,Panton,NA,U.S. Senate,NA,Independent,Stephen J. Cain,5
+Rutland,Pawlet,NA,U.S. Senate,NA,Independent,Stephen J. Cain,12
+Caledonia,Peacham,NA,U.S. Senate,NA,Independent,Stephen J. Cain,1
+Bennington,Peru,NA,U.S. Senate,NA,Independent,Stephen J. Cain,1
+Rutland,Pittsfield,NA,U.S. Senate,NA,Independent,Stephen J. Cain,2
+Rutland,Pittsford,NA,U.S. Senate,NA,Independent,Stephen J. Cain,14
+Washington,Plainfield,NA,U.S. Senate,NA,Independent,Stephen J. Cain,6
+Windsor,Plymouth,NA,U.S. Senate,NA,Independent,Stephen J. Cain,3
+Windsor,Pomfret,NA,U.S. Senate,NA,Independent,Stephen J. Cain,4
+Rutland,Poultney,NA,U.S. Senate,NA,Independent,Stephen J. Cain,13
+Bennington,Pownal,NA,U.S. Senate,NA,Independent,Stephen J. Cain,24
+Rutland,Proctor,NA,U.S. Senate,NA,Independent,Stephen J. Cain,10
+Windham,Putney,NA,U.S. Senate,NA,Independent,Stephen J. Cain,7
+Orange,Randolph,NA,U.S. Senate,NA,Independent,Stephen J. Cain,17
+Windsor,Reading,NA,U.S. Senate,NA,Independent,Stephen J. Cain,3
+Bennington,Readsboro,NA,U.S. Senate,NA,Independent,Stephen J. Cain,5
+Franklin,Richford,NA,U.S. Senate,NA,Independent,Stephen J. Cain,6
+Chittenden,Richmond,NA,U.S. Senate,NA,Independent,Stephen J. Cain,15
+Addison,Ripton,NA,U.S. Senate,NA,Independent,Stephen J. Cain,1
+Windsor,Rochester,NA,U.S. Senate,NA,Independent,Stephen J. Cain,8
+Windham,Rockingham,NA,U.S. Senate,NA,Independent,Stephen J. Cain,15
+Washington,Roxbury,NA,U.S. Senate,NA,Independent,Stephen J. Cain,4
+Windsor,Royalton,NA,U.S. Senate,NA,Independent,Stephen J. Cain,13
+Bennington,Rupert,Bennington 5,U.S. Senate,NA,Independent,Stephen J. Cain,0
+Bennington,Rupert,Rutland 8,U.S. Senate,NA,Independent,Stephen J. Cain,6
+Rutland,Rutland City,Rutland 5-1,U.S. Senate,NA,Independent,Stephen J. Cain,13
+Rutland,Rutland City,Rutland 5-2,U.S. Senate,NA,Independent,Stephen J. Cain,14
+Rutland,Rutland City,Rutland 5-3,U.S. Senate,NA,Independent,Stephen J. Cain,16
+Rutland,Rutland City,Rutland 5-4,U.S. Senate,NA,Independent,Stephen J. Cain,20
+Rutland,Rutland Town,NA,U.S. Senate,NA,Independent,Stephen J. Cain,14
+Caledonia,Ryegate,NA,U.S. Senate,NA,Independent,Stephen J. Cain,3
+Franklin,Salisbury,NA,U.S. Senate,NA,Independent,Stephen J. Cain,2
+Franklin,Sandgate,NA,U.S. Senate,NA,Independent,Stephen J. Cain,2
+Chittenden,Searsburg,NA,U.S. Senate,NA,Independent,Stephen J. Cain,1
+Caledonia,Shaftsbury,NA,U.S. Senate,NA,Independent,Stephen J. Cain,21
+Addison,Sharon,NA,U.S. Senate,NA,Independent,Stephen J. Cain,6
+Bennington,Sheffield,NA,U.S. Senate,NA,Independent,Stephen J. Cain,5
+Bennington,Shelburne,Chittenden 5-1,U.S. Senate,NA,Independent,Stephen J. Cain,16
+Bennington,Shelburne,Chittenden 5-2,U.S. Senate,NA,Independent,Stephen J. Cain,9
+Bennington,Sheldon,NA,U.S. Senate,NA,Independent,Stephen J. Cain,10
+Windsor,Shoreham,NA,U.S. Senate,NA,Independent,Stephen J. Cain,10
+Caledonia,Shrewsbury,NA,U.S. Senate,NA,Independent,Stephen J. Cain,6
+Chittenden,S. Burlington,Chittenden 3-10,U.S. Senate,NA,Independent,Stephen J. Cain,15
+Chittenden,S. Burlington,Chittenden 3-7,U.S. Senate,NA,Independent,Stephen J. Cain,16
+Chittenden,S. Burlington,Chittenden 3-8,U.S. Senate,NA,Independent,Stephen J. Cain,26
+Chittenden,S. Burlington,Chittenden 3-9,U.S. Senate,NA,Independent,Stephen J. Cain,20
+Franklin,S. Hero,NA,U.S. Senate,NA,Independent,Stephen J. Cain,7
+Addison,Springfield,Windsor 1-1,U.S. Senate,NA,Independent,Stephen J. Cain,1
+Addison,Springfield,Windsor 1-2,U.S. Senate,NA,Independent,Stephen J. Cain,50
+Rutland,St. Albans City,NA,U.S. Senate,NA,Independent,Stephen J. Cain,33
+Chittenden,St. Albans Town,NA,U.S. Senate,NA,Independent,Stephen J. Cain,27
+Grand Isle,St. George,NA,U.S. Senate,NA,Independent,Stephen J. Cain,4
+Windsor,St. Johnsbury,NA,U.S. Senate,NA,Independent,Stephen J. Cain,23
+Bennington,Stamford,NA,U.S. Senate,NA,Independent,Stephen J. Cain,4
+Caledonia,Stannard,NA,U.S. Senate,NA,Independent,Stephen J. Cain,2
+Addison,Starksboro,NA,U.S. Senate,NA,Independent,Stephen J. Cain,6
+Windsor,Stockbridge,NA,U.S. Senate,NA,Independent,Stephen J. Cain,2
+Lamoille,Stowe,NA,U.S. Senate,NA,Independent,Stephen J. Cain,12
+Orange,Strafford,NA,U.S. Senate,NA,Independent,Stephen J. Cain,4
+Windham,Stratton,NA,U.S. Senate,NA,Independent,Stephen J. Cain,0
+Rutland,Sudbury,NA,U.S. Senate,NA,Independent,Stephen J. Cain,4
+Bennington,Sunderland,NA,U.S. Senate,NA,Independent,Stephen J. Cain,8
+Caledonia,Sutton,NA,U.S. Senate,NA,Independent,Stephen J. Cain,2
+Franklin,Swanton,NA,U.S. Senate,NA,Independent,Stephen J. Cain,22
+Orange,Thetford,NA,U.S. Senate,NA,Independent,Stephen J. Cain,6
+Rutland,Tinmouth,NA,U.S. Senate,NA,Independent,Stephen J. Cain,3
+Orange,Topsham,NA,U.S. Senate,NA,Independent,Stephen J. Cain,2
+Windham,Townshend,NA,U.S. Senate,NA,Independent,Stephen J. Cain,5
+Orleans,Troy,NA,U.S. Senate,NA,Independent,Stephen J. Cain,4
+Orange,Tunbridge,NA,U.S. Senate,NA,Independent,Stephen J. Cain,5
+Chittenden,Underhill,NA,U.S. Senate,NA,Independent,Stephen J. Cain,6
+Addison,Vergennes,NA,U.S. Senate,NA,Independent,Stephen J. Cain,8
+Windham,Vernon,NA,U.S. Senate,NA,Independent,Stephen J. Cain,9
+Orange,Vershire,NA,U.S. Senate,NA,Independent,Stephen J. Cain,3
+Essex,Victory,NA,U.S. Senate,NA,Independent,Stephen J. Cain,0
+Washington,Waitsfield,NA,U.S. Senate,NA,Independent,Stephen J. Cain,8
+Caledonia,Walden,NA,U.S. Senate,NA,Independent,Stephen J. Cain,5
+Rutland,Wallingford,NA,U.S. Senate,NA,Independent,Stephen J. Cain,12
+Addison,Waltham,NA,U.S. Senate,NA,Independent,Stephen J. Cain,4
+Windham,Wardsboro,NA,U.S. Senate,NA,Independent,Stephen J. Cain,2
+Washington,Warren,NA,U.S. Senate,NA,Independent,Stephen J. Cain,11
+Orange,Washington,NA,U.S. Senate,NA,Independent,Stephen J. Cain,5
+Washington,Waterbury,NA,U.S. Senate,NA,Independent,Stephen J. Cain,15
+Caledonia,Waterford,NA,U.S. Senate,NA,Independent,Stephen J. Cain,4
+Lamoille,Waterville,NA,U.S. Senate,NA,Independent,Stephen J. Cain,1
+Windsor,Weathersfield,NA,U.S. Senate,NA,Independent,Stephen J. Cain,14
+Rutland,Wells,NA,U.S. Senate,NA,Independent,Stephen J. Cain,2
+Orange,W. Fairlee,NA,U.S. Senate,NA,Independent,Stephen J. Cain,0
+Rutland,W. Haven,NA,U.S. Senate,NA,Independent,Stephen J. Cain,1
+Rutland,W. Rutland,NA,U.S. Senate,NA,Independent,Stephen J. Cain,15
+Windsor,W. Windsor,NA,U.S. Senate,NA,Independent,Stephen J. Cain,6
+Orleans,Westfield,NA,U.S. Senate,NA,Independent,Stephen J. Cain,2
+Chittenden,Westford,NA,U.S. Senate,NA,Independent,Stephen J. Cain,3
+Windham,Westminster,Windham 4,U.S. Senate,NA,Independent,Stephen J. Cain,2
+Windham,Westminster,Windham 5,U.S. Senate,NA,Independent,Stephen J. Cain,13
+Orleans,Westmore,NA,U.S. Senate,NA,Independent,Stephen J. Cain,3
+Windsor,Weston,NA,U.S. Senate,NA,Independent,Stephen J. Cain,5
+Addison,Weybridge,NA,U.S. Senate,NA,Independent,Stephen J. Cain,4
+Caledonia,Wheelock,NA,U.S. Senate,NA,Independent,Stephen J. Cain,3
+Addison,Whiting,NA,U.S. Senate,NA,Independent,Stephen J. Cain,1
+Windham,Whitingham,NA,U.S. Senate,NA,Independent,Stephen J. Cain,4
+Orange,Williamstown,NA,U.S. Senate,NA,Independent,Stephen J. Cain,16
+Chittenden,Williston,NA,U.S. Senate,NA,Independent,Stephen J. Cain,38
+Windham,Wilmington,NA,U.S. Senate,NA,Independent,Stephen J. Cain,10
+Windham,Windham,NA,U.S. Senate,NA,Independent,Stephen J. Cain,2
+Windsor,Windsor,NA,U.S. Senate,NA,Independent,Stephen J. Cain,9
+Bennington,Winhall,NA,U.S. Senate,NA,Independent,Stephen J. Cain,2
+Chittenden,Winooski,NA,U.S. Senate,NA,Independent,Stephen J. Cain,27
+Lamoille,Wolcott,NA,U.S. Senate,NA,Independent,Stephen J. Cain,3
+Washington,Woodbury,NA,U.S. Senate,NA,Independent,Stephen J. Cain,6
+Bennington,Woodford,NA,U.S. Senate,NA,Independent,Stephen J. Cain,5
+Windsor,Woodstock,NA,U.S. Senate,NA,Independent,Stephen J. Cain,17
+Washington,Worcester,NA,U.S. Senate,NA,Independent,Stephen J. Cain,3
+Addison,Addison,NA,U.S. Senate,NA,Socialist,Pete Diamondstone,1
+Orleans,Albany,NA,U.S. Senate,NA,Socialist,Pete Diamondstone,5
+Grand Isle,Alburgh,NA,U.S. Senate,NA,Socialist,Pete Diamondstone,2
+Windsor,Andover,NA,U.S. Senate,NA,Socialist,Pete Diamondstone,1
+Bennington,Arlington,NA,U.S. Senate,NA,Socialist,Pete Diamondstone,3
+Windham,Athens,NA,U.S. Senate,NA,Socialist,Pete Diamondstone,2
+Franklin,Bakersfield,NA,U.S. Senate,NA,Socialist,Pete Diamondstone,4
+Windsor,Baltimore,NA,U.S. Senate,NA,Socialist,Pete Diamondstone,0
+Windsor,Barnard,NA,U.S. Senate,NA,Socialist,Pete Diamondstone,2
+Caledonia,Barnet,NA,U.S. Senate,NA,Socialist,Pete Diamondstone,4
+Washington,Barre City,Washington 3-1,U.S. Senate,NA,Socialist,Pete Diamondstone,8
+Washington,Barre City,Washington 3-2,U.S. Senate,NA,Socialist,Pete Diamondstone,13
+Washington,Barre City,Washington 3-3,U.S. Senate,NA,Socialist,Pete Diamondstone,3
+Washington,Barre Town,NA,U.S. Senate,NA,Socialist,Pete Diamondstone,11
+Orleans,Barton,NA,U.S. Senate,NA,Socialist,Pete Diamondstone,4
+Lamoille,Belvidere,NA,U.S. Senate,NA,Socialist,Pete Diamondstone,0
+Bennington,Bennington,Bennington 2-1,U.S. Senate,NA,Socialist,Pete Diamondstone,35
+Bennington,Bennington,Bennington 2-2,U.S. Senate,NA,Socialist,Pete Diamondstone,15
+Rutland,Benson,NA,U.S. Senate,NA,Socialist,Pete Diamondstone,5
+Franklin,Berkshire,NA,U.S. Senate,NA,Socialist,Pete Diamondstone,1
+Washington,Berlin,NA,U.S. Senate,NA,Socialist,Pete Diamondstone,7
+Windsor,Bethel,NA,U.S. Senate,NA,Socialist,Pete Diamondstone,2
+Essex,Bloomfield,NA,U.S. Senate,NA,Socialist,Pete Diamondstone,1
+Chittenden,Bolton,NA,U.S. Senate,NA,Socialist,Pete Diamondstone,2
+Orange,Bradford,NA,U.S. Senate,NA,Socialist,Pete Diamondstone,2
+Orange,Braintree,NA,U.S. Senate,NA,Socialist,Pete Diamondstone,4
+Rutland,Brandon,NA,U.S. Senate,NA,Socialist,Pete Diamondstone,1
+Windham,Brattleboro,Windham 3-1,U.S. Senate,NA,Socialist,Pete Diamondstone,24
+Windham,Brattleboro,Windham 3-2,U.S. Senate,NA,Socialist,Pete Diamondstone,32
+Windham,Brattleboro,Windham 3-3,U.S. Senate,NA,Socialist,Pete Diamondstone,28
+Windsor,Bridgewater,NA,U.S. Senate,NA,Socialist,Pete Diamondstone,2
+Addison,Bridport,NA,U.S. Senate,NA,Socialist,Pete Diamondstone,1
+Essex,Brighton,NA,U.S. Senate,NA,Socialist,Pete Diamondstone,2
+Addison,Bristol,NA,U.S. Senate,NA,Socialist,Pete Diamondstone,9
+Orange,Brookfield,NA,U.S. Senate,NA,Socialist,Pete Diamondstone,7
+Windham,Brookline,NA,U.S. Senate,NA,Socialist,Pete Diamondstone,3
+Orleans,Brownington,NA,U.S. Senate,NA,Socialist,Pete Diamondstone,2
+Essex,Brunswick,NA,U.S. Senate,NA,Socialist,Pete Diamondstone,0
+Caledonia,Burke,NA,U.S. Senate,NA,Socialist,Pete Diamondstone,2
+Chittenden,Burlington,Chittenden 3-1,U.S. Senate,NA,Socialist,Pete Diamondstone,16
+Chittenden,Burlington,Chittenden 3-2,U.S. Senate,NA,Socialist,Pete Diamondstone,15
+Chittenden,Burlington,Chittenden 3-3,U.S. Senate,NA,Socialist,Pete Diamondstone,27
+Chittenden,Burlington,Chittenden 3-4,U.S. Senate,NA,Socialist,Pete Diamondstone,22
+Chittenden,Burlington,Chittenden 3-5,U.S. Senate,NA,Socialist,Pete Diamondstone,33
+Chittenden,Burlington,Chittenden 3-6,U.S. Senate,NA,Socialist,Pete Diamondstone,6
+Washington,Cabot,NA,U.S. Senate,NA,Socialist,Pete Diamondstone,5
+Washington,Calais,NA,U.S. Senate,NA,Socialist,Pete Diamondstone,8
+Lamoille,Cambridge,NA,U.S. Senate,NA,Socialist,Pete Diamondstone,5
+Essex,Canaan,NA,U.S. Senate,NA,Socialist,Pete Diamondstone,2
+Rutland,Castleton,NA,U.S. Senate,NA,Socialist,Pete Diamondstone,6
+Windsor,Cavendish,NA,U.S. Senate,NA,Socialist,Pete Diamondstone,7
+Orleans,Charleston,NA,U.S. Senate,NA,Socialist,Pete Diamondstone,3
+Chittenden,Charlotte,NA,U.S. Senate,NA,Socialist,Pete Diamondstone,3
+Orange,Chelsea,NA,U.S. Senate,NA,Socialist,Pete Diamondstone,1
+Windsor,Chester,NA,U.S. Senate,NA,Socialist,Pete Diamondstone,16
+Rutland,Chittenden,NA,U.S. Senate,NA,Socialist,Pete Diamondstone,1
+Rutland,Clarendon,NA,U.S. Senate,NA,Socialist,Pete Diamondstone,4
+Chittenden,Colchester,Chittenden 7-1,U.S. Senate,NA,Socialist,Pete Diamondstone,12
+Chittenden,Colchester,Chittenden 7-2,U.S. Senate,NA,Socialist,Pete Diamondstone,10
+Essex,Concord,NA,U.S. Senate,NA,Socialist,Pete Diamondstone,4
+Orange,Corinth,NA,U.S. Senate,NA,Socialist,Pete Diamondstone,6
+Addison,Cornwall,NA,U.S. Senate,NA,Socialist,Pete Diamondstone,2
+Orleans,Coventry,NA,U.S. Senate,NA,Socialist,Pete Diamondstone,0
+Orleans,Craftsbury,NA,U.S. Senate,NA,Socialist,Pete Diamondstone,6
+Rutland,Danby,NA,U.S. Senate,NA,Socialist,Pete Diamondstone,6
+Caledonia,Danville,NA,U.S. Senate,NA,Socialist,Pete Diamondstone,7
+Orleans,Derby,NA,U.S. Senate,NA,Socialist,Pete Diamondstone,10
+Bennington,Dorset,NA,U.S. Senate,NA,Socialist,Pete Diamondstone,7
+Windham,Dover,NA,U.S. Senate,NA,Socialist,Pete Diamondstone,1
+Windham,Dummerston,NA,U.S. Senate,NA,Socialist,Pete Diamondstone,12
+Washington,Duxbury,NA,U.S. Senate,NA,Socialist,Pete Diamondstone,5
+Essex,E. Haven,NA,U.S. Senate,NA,Socialist,Pete Diamondstone,1
+Washington,E. Montpelier,NA,U.S. Senate,NA,Socialist,Pete Diamondstone,5
+Lamoille,Eden,NA,U.S. Senate,NA,Socialist,Pete Diamondstone,1
+Lamoille,Elmore,NA,U.S. Senate,NA,Socialist,Pete Diamondstone,1
+Franklin,Enosburgh,NA,U.S. Senate,NA,Socialist,Pete Diamondstone,10
+Chittenden,Essex,Chittenden 6-1,U.S. Senate,NA,Socialist,Pete Diamondstone,6
+Chittenden,Essex,Chittenden 6-2,U.S. Senate,NA,Socialist,Pete Diamondstone,10
+Chittenden,Essex,Chittenden 6-3,U.S. Senate,NA,Socialist,Pete Diamondstone,3
+Rutland,Fair Haven,NA,U.S. Senate,NA,Socialist,Pete Diamondstone,4
+Franklin,Fairfax,NA,U.S. Senate,NA,Socialist,Pete Diamondstone,6
+Franklin,Fairfield,NA,U.S. Senate,NA,Socialist,Pete Diamondstone,4
+Orange,Fairlee,NA,U.S. Senate,NA,Socialist,Pete Diamondstone,3
+Washington,Fayston,NA,U.S. Senate,NA,Socialist,Pete Diamondstone,3
+Addison,Ferrisburgh,NA,U.S. Senate,NA,Socialist,Pete Diamondstone,2
+Franklin,Fletcher,NA,U.S. Senate,NA,Socialist,Pete Diamondstone,4
+Franklin,Franklin,NA,U.S. Senate,NA,Socialist,Pete Diamondstone,3
+Franklin,Georgia,NA,U.S. Senate,NA,Socialist,Pete Diamondstone,6
+Orleans,Glover,NA,U.S. Senate,NA,Socialist,Pete Diamondstone,7
+Addison,Goshen,NA,U.S. Senate,NA,Socialist,Pete Diamondstone,0
+Windham,Grafton,NA,U.S. Senate,NA,Socialist,Pete Diamondstone,3
+Essex,Granby,NA,U.S. Senate,NA,Socialist,Pete Diamondstone,0
+Grand Isle,Grand Isle,NA,U.S. Senate,NA,Socialist,Pete Diamondstone,2
+Addison,Granville,NA,U.S. Senate,NA,Socialist,Pete Diamondstone,1
+Orleans,Greensboro,NA,U.S. Senate,NA,Socialist,Pete Diamondstone,3
+Caledonia,Groton,NA,U.S. Senate,NA,Socialist,Pete Diamondstone,4
+Essex,Guildhall,NA,U.S. Senate,NA,Socialist,Pete Diamondstone,0
+Windham,Guilford,NA,U.S. Senate,NA,Socialist,Pete Diamondstone,11
+Windham,Halifax,NA,U.S. Senate,NA,Socialist,Pete Diamondstone,3
+Addison,Hancock,NA,U.S. Senate,NA,Socialist,Pete Diamondstone,2
+Caledonia,Hardwick,NA,U.S. Senate,NA,Socialist,Pete Diamondstone,12
+Windsor,Hartford,Windsor 6-1,U.S. Senate,NA,Socialist,Pete Diamondstone,4
+Windsor,Hartford,Windsor 6-2,U.S. Senate,NA,Socialist,Pete Diamondstone,8
+Windsor,Hartland,NA,U.S. Senate,NA,Socialist,Pete Diamondstone,10
+Franklin,Highgate,NA,U.S. Senate,NA,Socialist,Pete Diamondstone,6
+Chittenden,Hinesburg,Chittenden 1-1,U.S. Senate,NA,Socialist,Pete Diamondstone,13
+Chittenden,Hinesburg,Chittenden 1-2,U.S. Senate,NA,Socialist,Pete Diamondstone,0
+Orleans,Holland,NA,U.S. Senate,NA,Socialist,Pete Diamondstone,2
+Rutland,Hubbardton,NA,U.S. Senate,NA,Socialist,Pete Diamondstone,1
+Chittenden,Huntington,NA,U.S. Senate,NA,Socialist,Pete Diamondstone,3
+Lamoille,Hyde Park,NA,U.S. Senate,NA,Socialist,Pete Diamondstone,5
+Rutland,Ira,Rutland 1-1,U.S. Senate,NA,Socialist,Pete Diamondstone,0
+Rutland,Ira,Rutland 1-2,U.S. Senate,NA,Socialist,Pete Diamondstone,0
+Orleans,Irasburg,NA,U.S. Senate,NA,Socialist,Pete Diamondstone,0
+Grand Isle,Isle La Motte,NA,U.S. Senate,NA,Socialist,Pete Diamondstone,1
+Windham,Jamaica,NA,U.S. Senate,NA,Socialist,Pete Diamondstone,2
+Orleans,Jay,NA,U.S. Senate,NA,Socialist,Pete Diamondstone,1
+Chittenden,Jericho,NA,U.S. Senate,NA,Socialist,Pete Diamondstone,12
+Lamoille,Johnson,NA,U.S. Senate,NA,Socialist,Pete Diamondstone,5
+Rutland,Killington,NA,U.S. Senate,NA,Socialist,Pete Diamondstone,1
+Caledonia,Kirby,NA,U.S. Senate,NA,Socialist,Pete Diamondstone,0
+Bennington,Landgrove,NA,U.S. Senate,NA,Socialist,Pete Diamondstone,0
+Addison,Leicester,NA,U.S. Senate,NA,Socialist,Pete Diamondstone,1
+Essex,Lemington,NA,U.S. Senate,NA,Socialist,Pete Diamondstone,0
+Addison,Lincoln,NA,U.S. Senate,NA,Socialist,Pete Diamondstone,5
+Windham,Londonderry,NA,U.S. Senate,NA,Socialist,Pete Diamondstone,6
+Orleans,Lowell,NA,U.S. Senate,NA,Socialist,Pete Diamondstone,1
+Windsor,Ludlow,NA,U.S. Senate,NA,Socialist,Pete Diamondstone,9
+Essex,Lunenburg,NA,U.S. Senate,NA,Socialist,Pete Diamondstone,2
+Caledonia,Lyndon,NA,U.S. Senate,NA,Socialist,Pete Diamondstone,9
+Essex,Maidstone,NA,U.S. Senate,NA,Socialist,Pete Diamondstone,0
+Bennington,Manchester,NA,U.S. Senate,NA,Socialist,Pete Diamondstone,7
+Windham,Marlboro,NA,U.S. Senate,NA,Socialist,Pete Diamondstone,6
+Washington,Marshfield,NA,U.S. Senate,NA,Socialist,Pete Diamondstone,11
+Rutland,Mendon,NA,U.S. Senate,NA,Socialist,Pete Diamondstone,3
+Addison,Middlebury,NA,U.S. Senate,NA,Socialist,Pete Diamondstone,16
+Washington,Middlesex,NA,U.S. Senate,NA,Socialist,Pete Diamondstone,6
+Rutland,Middletown Springs,NA,U.S. Senate,NA,Socialist,Pete Diamondstone,3
+Chittenden,Milton,Chittenden 9,U.S. Senate,NA,Socialist,Pete Diamondstone,7
+Chittenden,Milton,Grand Isle-Chittenden 1-1,U.S. Senate,NA,Socialist,Pete Diamondstone,3
+Addison,Monkton,NA,U.S. Senate,NA,Socialist,Pete Diamondstone,2
+Franklin,Montgomery,NA,U.S. Senate,NA,Socialist,Pete Diamondstone,2
+Washington,Montpelier,NA,U.S. Senate,NA,Socialist,Pete Diamondstone,38
+Washington,Moretown,NA,U.S. Senate,NA,Socialist,Pete Diamondstone,8
+Orleans,Morgan,NA,U.S. Senate,NA,Socialist,Pete Diamondstone,2
+Lamoille,Morristown,NA,U.S. Senate,NA,Socialist,Pete Diamondstone,16
+Rutland,Mount Holly,NA,U.S. Senate,NA,Socialist,Pete Diamondstone,1
+Rutland,Mount Tabor,NA,U.S. Senate,NA,Socialist,Pete Diamondstone,1
+Addison,New Haven,NA,U.S. Senate,NA,Socialist,Pete Diamondstone,1
+Caledonia,Newark,NA,U.S. Senate,NA,Socialist,Pete Diamondstone,3
+Orange,Newbury,NA,U.S. Senate,NA,Socialist,Pete Diamondstone,4
+Windham,Newfane,NA,U.S. Senate,NA,Socialist,Pete Diamondstone,6
+Orleans,Newport City,NA,U.S. Senate,NA,Socialist,Pete Diamondstone,7
+Orleans,Newport Town,NA,U.S. Senate,NA,Socialist,Pete Diamondstone,6
+Grand Isle,N. Hero,NA,U.S. Senate,NA,Socialist,Pete Diamondstone,2
+Washington,Northfield,NA,U.S. Senate,NA,Socialist,Pete Diamondstone,9
+Essex,Norton,NA,U.S. Senate,NA,Socialist,Pete Diamondstone,1
+Windsor,Norwich,NA,U.S. Senate,NA,Socialist,Pete Diamondstone,5
+Orange,Orange,NA,U.S. Senate,NA,Socialist,Pete Diamondstone,3
+Addison,Orwell,NA,U.S. Senate,NA,Socialist,Pete Diamondstone,2
+Addison,Panton,NA,U.S. Senate,NA,Socialist,Pete Diamondstone,0
+Rutland,Pawlet,NA,U.S. Senate,NA,Socialist,Pete Diamondstone,4
+Caledonia,Peacham,NA,U.S. Senate,NA,Socialist,Pete Diamondstone,3
+Bennington,Peru,NA,U.S. Senate,NA,Socialist,Pete Diamondstone,1
+Rutland,Pittsfield,NA,U.S. Senate,NA,Socialist,Pete Diamondstone,2
+Rutland,Pittsford,NA,U.S. Senate,NA,Socialist,Pete Diamondstone,1
+Washington,Plainfield,NA,U.S. Senate,NA,Socialist,Pete Diamondstone,10
+Windsor,Plymouth,NA,U.S. Senate,NA,Socialist,Pete Diamondstone,0
+Windsor,Pomfret,NA,U.S. Senate,NA,Socialist,Pete Diamondstone,4
+Rutland,Poultney,NA,U.S. Senate,NA,Socialist,Pete Diamondstone,14
+Bennington,Pownal,NA,U.S. Senate,NA,Socialist,Pete Diamondstone,10
+Rutland,Proctor,NA,U.S. Senate,NA,Socialist,Pete Diamondstone,4
+Windham,Putney,NA,U.S. Senate,NA,Socialist,Pete Diamondstone,15
+Orange,Randolph,NA,U.S. Senate,NA,Socialist,Pete Diamondstone,7
+Windsor,Reading,NA,U.S. Senate,NA,Socialist,Pete Diamondstone,0
+Bennington,Readsboro,NA,U.S. Senate,NA,Socialist,Pete Diamondstone,1
+Franklin,Richford,NA,U.S. Senate,NA,Socialist,Pete Diamondstone,1
+Chittenden,Richmond,NA,U.S. Senate,NA,Socialist,Pete Diamondstone,6
+Addison,Ripton,NA,U.S. Senate,NA,Socialist,Pete Diamondstone,6
+Windsor,Rochester,NA,U.S. Senate,NA,Socialist,Pete Diamondstone,7
+Windham,Rockingham,NA,U.S. Senate,NA,Socialist,Pete Diamondstone,21
+Washington,Roxbury,NA,U.S. Senate,NA,Socialist,Pete Diamondstone,2
+Windsor,Royalton,NA,U.S. Senate,NA,Socialist,Pete Diamondstone,8
+Bennington,Rupert,Bennington 5,U.S. Senate,NA,Socialist,Pete Diamondstone,0
+Bennington,Rupert,Rutland 8,U.S. Senate,NA,Socialist,Pete Diamondstone,3
+Rutland,Rutland City,Rutland 5-1,U.S. Senate,NA,Socialist,Pete Diamondstone,7
+Rutland,Rutland City,Rutland 5-2,U.S. Senate,NA,Socialist,Pete Diamondstone,8
+Rutland,Rutland City,Rutland 5-3,U.S. Senate,NA,Socialist,Pete Diamondstone,6
+Rutland,Rutland City,Rutland 5-4,U.S. Senate,NA,Socialist,Pete Diamondstone,7
+Rutland,Rutland Town,NA,U.S. Senate,NA,Socialist,Pete Diamondstone,6
+Caledonia,Ryegate,NA,U.S. Senate,NA,Socialist,Pete Diamondstone,2
+Franklin,Salisbury,NA,U.S. Senate,NA,Socialist,Pete Diamondstone,2
+Franklin,Sandgate,NA,U.S. Senate,NA,Socialist,Pete Diamondstone,1
+Chittenden,Searsburg,NA,U.S. Senate,NA,Socialist,Pete Diamondstone,1
+Caledonia,Shaftsbury,NA,U.S. Senate,NA,Socialist,Pete Diamondstone,11
+Addison,Sharon,NA,U.S. Senate,NA,Socialist,Pete Diamondstone,1
+Bennington,Sheffield,NA,U.S. Senate,NA,Socialist,Pete Diamondstone,2
+Bennington,Shelburne,Chittenden 5-1,U.S. Senate,NA,Socialist,Pete Diamondstone,5
+Bennington,Shelburne,Chittenden 5-2,U.S. Senate,NA,Socialist,Pete Diamondstone,8
+Bennington,Sheldon,NA,U.S. Senate,NA,Socialist,Pete Diamondstone,2
+Windsor,Shoreham,NA,U.S. Senate,NA,Socialist,Pete Diamondstone,1
+Caledonia,Shrewsbury,NA,U.S. Senate,NA,Socialist,Pete Diamondstone,2
+Chittenden,S. Burlington,Chittenden 3-10,U.S. Senate,NA,Socialist,Pete Diamondstone,9
+Chittenden,S. Burlington,Chittenden 3-7,U.S. Senate,NA,Socialist,Pete Diamondstone,11
+Chittenden,S. Burlington,Chittenden 3-8,U.S. Senate,NA,Socialist,Pete Diamondstone,5
+Chittenden,S. Burlington,Chittenden 3-9,U.S. Senate,NA,Socialist,Pete Diamondstone,10
+Franklin,S. Hero,NA,U.S. Senate,NA,Socialist,Pete Diamondstone,4
+Addison,Springfield,Windsor 1-1,U.S. Senate,NA,Socialist,Pete Diamondstone,0
+Addison,Springfield,Windsor 1-2,U.S. Senate,NA,Socialist,Pete Diamondstone,11
+Rutland,St. Albans City,NA,U.S. Senate,NA,Socialist,Pete Diamondstone,5
+Chittenden,St. Albans Town,NA,U.S. Senate,NA,Socialist,Pete Diamondstone,13
+Grand Isle,St. George,NA,U.S. Senate,NA,Socialist,Pete Diamondstone,0
+Windsor,St. Johnsbury,NA,U.S. Senate,NA,Socialist,Pete Diamondstone,15
+Bennington,Stamford,NA,U.S. Senate,NA,Socialist,Pete Diamondstone,1
+Caledonia,Stannard,NA,U.S. Senate,NA,Socialist,Pete Diamondstone,2
+Addison,Starksboro,NA,U.S. Senate,NA,Socialist,Pete Diamondstone,8
+Windsor,Stockbridge,NA,U.S. Senate,NA,Socialist,Pete Diamondstone,2
+Lamoille,Stowe,NA,U.S. Senate,NA,Socialist,Pete Diamondstone,8
+Orange,Strafford,NA,U.S. Senate,NA,Socialist,Pete Diamondstone,6
+Windham,Stratton,NA,U.S. Senate,NA,Socialist,Pete Diamondstone,0
+Rutland,Sudbury,NA,U.S. Senate,NA,Socialist,Pete Diamondstone,1
+Bennington,Sunderland,NA,U.S. Senate,NA,Socialist,Pete Diamondstone,3
+Caledonia,Sutton,NA,U.S. Senate,NA,Socialist,Pete Diamondstone,2
+Franklin,Swanton,NA,U.S. Senate,NA,Socialist,Pete Diamondstone,3
+Orange,Thetford,NA,U.S. Senate,NA,Socialist,Pete Diamondstone,7
+Rutland,Tinmouth,NA,U.S. Senate,NA,Socialist,Pete Diamondstone,2
+Orange,Topsham,NA,U.S. Senate,NA,Socialist,Pete Diamondstone,4
+Windham,Townshend,NA,U.S. Senate,NA,Socialist,Pete Diamondstone,5
+Orleans,Troy,NA,U.S. Senate,NA,Socialist,Pete Diamondstone,0
+Orange,Tunbridge,NA,U.S. Senate,NA,Socialist,Pete Diamondstone,3
+Chittenden,Underhill,NA,U.S. Senate,NA,Socialist,Pete Diamondstone,5
+Addison,Vergennes,NA,U.S. Senate,NA,Socialist,Pete Diamondstone,3
+Windham,Vernon,NA,U.S. Senate,NA,Socialist,Pete Diamondstone,11
+Orange,Vershire,NA,U.S. Senate,NA,Socialist,Pete Diamondstone,1
+Essex,Victory,NA,U.S. Senate,NA,Socialist,Pete Diamondstone,0
+Washington,Waitsfield,NA,U.S. Senate,NA,Socialist,Pete Diamondstone,0
+Caledonia,Walden,NA,U.S. Senate,NA,Socialist,Pete Diamondstone,5
+Rutland,Wallingford,NA,U.S. Senate,NA,Socialist,Pete Diamondstone,4
+Addison,Waltham,NA,U.S. Senate,NA,Socialist,Pete Diamondstone,1
+Windham,Wardsboro,NA,U.S. Senate,NA,Socialist,Pete Diamondstone,3
+Washington,Warren,NA,U.S. Senate,NA,Socialist,Pete Diamondstone,6
+Orange,Washington,NA,U.S. Senate,NA,Socialist,Pete Diamondstone,5
+Washington,Waterbury,NA,U.S. Senate,NA,Socialist,Pete Diamondstone,4
+Caledonia,Waterford,NA,U.S. Senate,NA,Socialist,Pete Diamondstone,1
+Lamoille,Waterville,NA,U.S. Senate,NA,Socialist,Pete Diamondstone,0
+Windsor,Weathersfield,NA,U.S. Senate,NA,Socialist,Pete Diamondstone,10
+Rutland,Wells,NA,U.S. Senate,NA,Socialist,Pete Diamondstone,1
+Orange,W. Fairlee,NA,U.S. Senate,NA,Socialist,Pete Diamondstone,1
+Rutland,W. Haven,NA,U.S. Senate,NA,Socialist,Pete Diamondstone,1
+Rutland,W. Rutland,NA,U.S. Senate,NA,Socialist,Pete Diamondstone,3
+Windsor,W. Windsor,NA,U.S. Senate,NA,Socialist,Pete Diamondstone,1
+Orleans,Westfield,NA,U.S. Senate,NA,Socialist,Pete Diamondstone,3
+Chittenden,Westford,NA,U.S. Senate,NA,Socialist,Pete Diamondstone,4
+Windham,Westminster,Windham 4,U.S. Senate,NA,Socialist,Pete Diamondstone,2
+Windham,Westminster,Windham 5,U.S. Senate,NA,Socialist,Pete Diamondstone,16
+Orleans,Westmore,NA,U.S. Senate,NA,Socialist,Pete Diamondstone,1
+Windsor,Weston,NA,U.S. Senate,NA,Socialist,Pete Diamondstone,1
+Addison,Weybridge,NA,U.S. Senate,NA,Socialist,Pete Diamondstone,4
+Caledonia,Wheelock,NA,U.S. Senate,NA,Socialist,Pete Diamondstone,3
+Addison,Whiting,NA,U.S. Senate,NA,Socialist,Pete Diamondstone,1
+Windham,Whitingham,NA,U.S. Senate,NA,Socialist,Pete Diamondstone,3
+Orange,Williamstown,NA,U.S. Senate,NA,Socialist,Pete Diamondstone,10
+Chittenden,Williston,NA,U.S. Senate,NA,Socialist,Pete Diamondstone,8
+Windham,Wilmington,NA,U.S. Senate,NA,Socialist,Pete Diamondstone,4
+Windham,Windham,NA,U.S. Senate,NA,Socialist,Pete Diamondstone,2
+Windsor,Windsor,NA,U.S. Senate,NA,Socialist,Pete Diamondstone,5
+Bennington,Winhall,NA,U.S. Senate,NA,Socialist,Pete Diamondstone,2
+Chittenden,Winooski,NA,U.S. Senate,NA,Socialist,Pete Diamondstone,6
+Lamoille,Wolcott,NA,U.S. Senate,NA,Socialist,Pete Diamondstone,0
+Washington,Woodbury,NA,U.S. Senate,NA,Socialist,Pete Diamondstone,7
+Bennington,Woodford,NA,U.S. Senate,NA,Socialist,Pete Diamondstone,2
+Windsor,Woodstock,NA,U.S. Senate,NA,Socialist,Pete Diamondstone,10
+Washington,Worcester,NA,U.S. Senate,NA,Socialist,Pete Diamondstone,5
+Addison,Addison,NA,U.S. Senate,NA,Independent,Johenry Nunes,2
+Orleans,Albany,NA,U.S. Senate,NA,Independent,Johenry Nunes,1
+Grand Isle,Alburgh,NA,U.S. Senate,NA,Independent,Johenry Nunes,18
+Windsor,Andover,NA,U.S. Senate,NA,Independent,Johenry Nunes,0
+Bennington,Arlington,NA,U.S. Senate,NA,Independent,Johenry Nunes,8
+Windham,Athens,NA,U.S. Senate,NA,Independent,Johenry Nunes,1
+Franklin,Bakersfield,NA,U.S. Senate,NA,Independent,Johenry Nunes,1
+Windsor,Baltimore,NA,U.S. Senate,NA,Independent,Johenry Nunes,2
+Windsor,Barnard,NA,U.S. Senate,NA,Independent,Johenry Nunes,1
+Caledonia,Barnet,NA,U.S. Senate,NA,Independent,Johenry Nunes,2
+Washington,Barre City,Washington 3-1,U.S. Senate,NA,Independent,Johenry Nunes,10
+Washington,Barre City,Washington 3-2,U.S. Senate,NA,Independent,Johenry Nunes,3
+Washington,Barre City,Washington 3-3,U.S. Senate,NA,Independent,Johenry Nunes,3
+Washington,Barre Town,NA,U.S. Senate,NA,Independent,Johenry Nunes,10
+Orleans,Barton,NA,U.S. Senate,NA,Independent,Johenry Nunes,1
+Lamoille,Belvidere,NA,U.S. Senate,NA,Independent,Johenry Nunes,0
+Bennington,Bennington,Bennington 2-1,U.S. Senate,NA,Independent,Johenry Nunes,12
+Bennington,Bennington,Bennington 2-2,U.S. Senate,NA,Independent,Johenry Nunes,10
+Rutland,Benson,NA,U.S. Senate,NA,Independent,Johenry Nunes,1
+Franklin,Berkshire,NA,U.S. Senate,NA,Independent,Johenry Nunes,1
+Washington,Berlin,NA,U.S. Senate,NA,Independent,Johenry Nunes,5
+Windsor,Bethel,NA,U.S. Senate,NA,Independent,Johenry Nunes,2
+Essex,Bloomfield,NA,U.S. Senate,NA,Independent,Johenry Nunes,1
+Chittenden,Bolton,NA,U.S. Senate,NA,Independent,Johenry Nunes,4
+Orange,Bradford,NA,U.S. Senate,NA,Independent,Johenry Nunes,5
+Orange,Braintree,NA,U.S. Senate,NA,Independent,Johenry Nunes,1
+Rutland,Brandon,NA,U.S. Senate,NA,Independent,Johenry Nunes,6
+Windham,Brattleboro,Windham 3-1,U.S. Senate,NA,Independent,Johenry Nunes,3
+Windham,Brattleboro,Windham 3-2,U.S. Senate,NA,Independent,Johenry Nunes,5
+Windham,Brattleboro,Windham 3-3,U.S. Senate,NA,Independent,Johenry Nunes,9
+Windsor,Bridgewater,NA,U.S. Senate,NA,Independent,Johenry Nunes,1
+Addison,Bridport,NA,U.S. Senate,NA,Independent,Johenry Nunes,0
+Essex,Brighton,NA,U.S. Senate,NA,Independent,Johenry Nunes,1
+Addison,Bristol,NA,U.S. Senate,NA,Independent,Johenry Nunes,3
+Orange,Brookfield,NA,U.S. Senate,NA,Independent,Johenry Nunes,3
+Windham,Brookline,NA,U.S. Senate,NA,Independent,Johenry Nunes,0
+Orleans,Brownington,NA,U.S. Senate,NA,Independent,Johenry Nunes,2
+Essex,Brunswick,NA,U.S. Senate,NA,Independent,Johenry Nunes,0
+Caledonia,Burke,NA,U.S. Senate,NA,Independent,Johenry Nunes,1
+Chittenden,Burlington,Chittenden 3-1,U.S. Senate,NA,Independent,Johenry Nunes,5
+Chittenden,Burlington,Chittenden 3-2,U.S. Senate,NA,Independent,Johenry Nunes,10
+Chittenden,Burlington,Chittenden 3-3,U.S. Senate,NA,Independent,Johenry Nunes,8
+Chittenden,Burlington,Chittenden 3-4,U.S. Senate,NA,Independent,Johenry Nunes,13
+Chittenden,Burlington,Chittenden 3-5,U.S. Senate,NA,Independent,Johenry Nunes,11
+Chittenden,Burlington,Chittenden 3-6,U.S. Senate,NA,Independent,Johenry Nunes,0
+Washington,Cabot,NA,U.S. Senate,NA,Independent,Johenry Nunes,5
+Washington,Calais,NA,U.S. Senate,NA,Independent,Johenry Nunes,0
+Lamoille,Cambridge,NA,U.S. Senate,NA,Independent,Johenry Nunes,4
+Essex,Canaan,NA,U.S. Senate,NA,Independent,Johenry Nunes,1
+Rutland,Castleton,NA,U.S. Senate,NA,Independent,Johenry Nunes,4
+Windsor,Cavendish,NA,U.S. Senate,NA,Independent,Johenry Nunes,3
+Orleans,Charleston,NA,U.S. Senate,NA,Independent,Johenry Nunes,3
+Chittenden,Charlotte,NA,U.S. Senate,NA,Independent,Johenry Nunes,6
+Orange,Chelsea,NA,U.S. Senate,NA,Independent,Johenry Nunes,5
+Windsor,Chester,NA,U.S. Senate,NA,Independent,Johenry Nunes,11
+Rutland,Chittenden,NA,U.S. Senate,NA,Independent,Johenry Nunes,4
+Rutland,Clarendon,NA,U.S. Senate,NA,Independent,Johenry Nunes,2
+Chittenden,Colchester,Chittenden 7-1,U.S. Senate,NA,Independent,Johenry Nunes,13
+Chittenden,Colchester,Chittenden 7-2,U.S. Senate,NA,Independent,Johenry Nunes,5
+Essex,Concord,NA,U.S. Senate,NA,Independent,Johenry Nunes,3
+Orange,Corinth,NA,U.S. Senate,NA,Independent,Johenry Nunes,2
+Addison,Cornwall,NA,U.S. Senate,NA,Independent,Johenry Nunes,0
+Orleans,Coventry,NA,U.S. Senate,NA,Independent,Johenry Nunes,4
+Orleans,Craftsbury,NA,U.S. Senate,NA,Independent,Johenry Nunes,4
+Rutland,Danby,NA,U.S. Senate,NA,Independent,Johenry Nunes,3
+Caledonia,Danville,NA,U.S. Senate,NA,Independent,Johenry Nunes,4
+Orleans,Derby,NA,U.S. Senate,NA,Independent,Johenry Nunes,11
+Bennington,Dorset,NA,U.S. Senate,NA,Independent,Johenry Nunes,2
+Windham,Dover,NA,U.S. Senate,NA,Independent,Johenry Nunes,3
+Windham,Dummerston,NA,U.S. Senate,NA,Independent,Johenry Nunes,2
+Washington,Duxbury,NA,U.S. Senate,NA,Independent,Johenry Nunes,2
+Essex,E. Haven,NA,U.S. Senate,NA,Independent,Johenry Nunes,1
+Washington,E. Montpelier,NA,U.S. Senate,NA,Independent,Johenry Nunes,5
+Lamoille,Eden,NA,U.S. Senate,NA,Independent,Johenry Nunes,2
+Lamoille,Elmore,NA,U.S. Senate,NA,Independent,Johenry Nunes,2
+Franklin,Enosburgh,NA,U.S. Senate,NA,Independent,Johenry Nunes,7
+Chittenden,Essex,Chittenden 6-1,U.S. Senate,NA,Independent,Johenry Nunes,8
+Chittenden,Essex,Chittenden 6-2,U.S. Senate,NA,Independent,Johenry Nunes,11
+Chittenden,Essex,Chittenden 6-3,U.S. Senate,NA,Independent,Johenry Nunes,3
+Rutland,Fair Haven,NA,U.S. Senate,NA,Independent,Johenry Nunes,4
+Franklin,Fairfax,NA,U.S. Senate,NA,Independent,Johenry Nunes,8
+Franklin,Fairfield,NA,U.S. Senate,NA,Independent,Johenry Nunes,3
+Orange,Fairlee,NA,U.S. Senate,NA,Independent,Johenry Nunes,4
+Washington,Fayston,NA,U.S. Senate,NA,Independent,Johenry Nunes,5
+Addison,Ferrisburgh,NA,U.S. Senate,NA,Independent,Johenry Nunes,1
+Franklin,Fletcher,NA,U.S. Senate,NA,Independent,Johenry Nunes,2
+Franklin,Franklin,NA,U.S. Senate,NA,Independent,Johenry Nunes,2
+Franklin,Georgia,NA,U.S. Senate,NA,Independent,Johenry Nunes,19
+Orleans,Glover,NA,U.S. Senate,NA,Independent,Johenry Nunes,1
+Addison,Goshen,NA,U.S. Senate,NA,Independent,Johenry Nunes,0
+Windham,Grafton,NA,U.S. Senate,NA,Independent,Johenry Nunes,3
+Essex,Granby,NA,U.S. Senate,NA,Independent,Johenry Nunes,1
+Grand Isle,Grand Isle,NA,U.S. Senate,NA,Independent,Johenry Nunes,16
+Addison,Granville,NA,U.S. Senate,NA,Independent,Johenry Nunes,1
+Orleans,Greensboro,NA,U.S. Senate,NA,Independent,Johenry Nunes,3
+Caledonia,Groton,NA,U.S. Senate,NA,Independent,Johenry Nunes,0
+Essex,Guildhall,NA,U.S. Senate,NA,Independent,Johenry Nunes,1
+Windham,Guilford,NA,U.S. Senate,NA,Independent,Johenry Nunes,4
+Windham,Halifax,NA,U.S. Senate,NA,Independent,Johenry Nunes,3
+Addison,Hancock,NA,U.S. Senate,NA,Independent,Johenry Nunes,1
+Caledonia,Hardwick,NA,U.S. Senate,NA,Independent,Johenry Nunes,7
+Windsor,Hartford,Windsor 6-1,U.S. Senate,NA,Independent,Johenry Nunes,3
+Windsor,Hartford,Windsor 6-2,U.S. Senate,NA,Independent,Johenry Nunes,9
+Windsor,Hartland,NA,U.S. Senate,NA,Independent,Johenry Nunes,1
+Franklin,Highgate,NA,U.S. Senate,NA,Independent,Johenry Nunes,14
+Chittenden,Hinesburg,Chittenden 1-1,U.S. Senate,NA,Independent,Johenry Nunes,8
+Chittenden,Hinesburg,Chittenden 1-2,U.S. Senate,NA,Independent,Johenry Nunes,0
+Orleans,Holland,NA,U.S. Senate,NA,Independent,Johenry Nunes,0
+Rutland,Hubbardton,NA,U.S. Senate,NA,Independent,Johenry Nunes,0
+Chittenden,Huntington,NA,U.S. Senate,NA,Independent,Johenry Nunes,2
+Lamoille,Hyde Park,NA,U.S. Senate,NA,Independent,Johenry Nunes,1
+Rutland,Ira,Rutland 1-1,U.S. Senate,NA,Independent,Johenry Nunes,0
+Rutland,Ira,Rutland 1-2,U.S. Senate,NA,Independent,Johenry Nunes,0
+Orleans,Irasburg,NA,U.S. Senate,NA,Independent,Johenry Nunes,2
+Grand Isle,Isle La Motte,NA,U.S. Senate,NA,Independent,Johenry Nunes,23
+Windham,Jamaica,NA,U.S. Senate,NA,Independent,Johenry Nunes,0
+Orleans,Jay,NA,U.S. Senate,NA,Independent,Johenry Nunes,5
+Chittenden,Jericho,NA,U.S. Senate,NA,Independent,Johenry Nunes,7
+Lamoille,Johnson,NA,U.S. Senate,NA,Independent,Johenry Nunes,5
+Rutland,Killington,NA,U.S. Senate,NA,Independent,Johenry Nunes,1
+Caledonia,Kirby,NA,U.S. Senate,NA,Independent,Johenry Nunes,2
+Bennington,Landgrove,NA,U.S. Senate,NA,Independent,Johenry Nunes,0
+Addison,Leicester,NA,U.S. Senate,NA,Independent,Johenry Nunes,0
+Essex,Lemington,NA,U.S. Senate,NA,Independent,Johenry Nunes,0
+Addison,Lincoln,NA,U.S. Senate,NA,Independent,Johenry Nunes,2
+Windham,Londonderry,NA,U.S. Senate,NA,Independent,Johenry Nunes,5
+Orleans,Lowell,NA,U.S. Senate,NA,Independent,Johenry Nunes,2
+Windsor,Ludlow,NA,U.S. Senate,NA,Independent,Johenry Nunes,4
+Essex,Lunenburg,NA,U.S. Senate,NA,Independent,Johenry Nunes,3
+Caledonia,Lyndon,NA,U.S. Senate,NA,Independent,Johenry Nunes,7
+Essex,Maidstone,NA,U.S. Senate,NA,Independent,Johenry Nunes,1
+Bennington,Manchester,NA,U.S. Senate,NA,Independent,Johenry Nunes,7
+Windham,Marlboro,NA,U.S. Senate,NA,Independent,Johenry Nunes,0
+Washington,Marshfield,NA,U.S. Senate,NA,Independent,Johenry Nunes,5
+Rutland,Mendon,NA,U.S. Senate,NA,Independent,Johenry Nunes,0
+Addison,Middlebury,NA,U.S. Senate,NA,Independent,Johenry Nunes,10
+Washington,Middlesex,NA,U.S. Senate,NA,Independent,Johenry Nunes,3
+Rutland,Middletown Springs,NA,U.S. Senate,NA,Independent,Johenry Nunes,0
+Chittenden,Milton,Chittenden 9,U.S. Senate,NA,Independent,Johenry Nunes,4
+Chittenden,Milton,Grand Isle-Chittenden 1-1,U.S. Senate,NA,Independent,Johenry Nunes,2
+Addison,Monkton,NA,U.S. Senate,NA,Independent,Johenry Nunes,1
+Franklin,Montgomery,NA,U.S. Senate,NA,Independent,Johenry Nunes,4
+Washington,Montpelier,NA,U.S. Senate,NA,Independent,Johenry Nunes,13
+Washington,Moretown,NA,U.S. Senate,NA,Independent,Johenry Nunes,3
+Orleans,Morgan,NA,U.S. Senate,NA,Independent,Johenry Nunes,0
+Lamoille,Morristown,NA,U.S. Senate,NA,Independent,Johenry Nunes,8
+Rutland,Mount Holly,NA,U.S. Senate,NA,Independent,Johenry Nunes,5
+Rutland,Mount Tabor,NA,U.S. Senate,NA,Independent,Johenry Nunes,0
+Addison,New Haven,NA,U.S. Senate,NA,Independent,Johenry Nunes,7
+Caledonia,Newark,NA,U.S. Senate,NA,Independent,Johenry Nunes,3
+Orange,Newbury,NA,U.S. Senate,NA,Independent,Johenry Nunes,6
+Windham,Newfane,NA,U.S. Senate,NA,Independent,Johenry Nunes,4
+Orleans,Newport City,NA,U.S. Senate,NA,Independent,Johenry Nunes,5
+Orleans,Newport Town,NA,U.S. Senate,NA,Independent,Johenry Nunes,0
+Grand Isle,N. Hero,NA,U.S. Senate,NA,Independent,Johenry Nunes,7
+Washington,Northfield,NA,U.S. Senate,NA,Independent,Johenry Nunes,8
+Essex,Norton,NA,U.S. Senate,NA,Independent,Johenry Nunes,0
+Windsor,Norwich,NA,U.S. Senate,NA,Independent,Johenry Nunes,2
+Orange,Orange,NA,U.S. Senate,NA,Independent,Johenry Nunes,0
+Addison,Orwell,NA,U.S. Senate,NA,Independent,Johenry Nunes,3
+Addison,Panton,NA,U.S. Senate,NA,Independent,Johenry Nunes,0
+Rutland,Pawlet,NA,U.S. Senate,NA,Independent,Johenry Nunes,3
+Caledonia,Peacham,NA,U.S. Senate,NA,Independent,Johenry Nunes,1
+Bennington,Peru,NA,U.S. Senate,NA,Independent,Johenry Nunes,1
+Rutland,Pittsfield,NA,U.S. Senate,NA,Independent,Johenry Nunes,0
+Rutland,Pittsford,NA,U.S. Senate,NA,Independent,Johenry Nunes,3
+Washington,Plainfield,NA,U.S. Senate,NA,Independent,Johenry Nunes,0
+Windsor,Plymouth,NA,U.S. Senate,NA,Independent,Johenry Nunes,2
+Windsor,Pomfret,NA,U.S. Senate,NA,Independent,Johenry Nunes,1
+Rutland,Poultney,NA,U.S. Senate,NA,Independent,Johenry Nunes,8
+Bennington,Pownal,NA,U.S. Senate,NA,Independent,Johenry Nunes,5
+Rutland,Proctor,NA,U.S. Senate,NA,Independent,Johenry Nunes,2
+Windham,Putney,NA,U.S. Senate,NA,Independent,Johenry Nunes,5
+Orange,Randolph,NA,U.S. Senate,NA,Independent,Johenry Nunes,10
+Windsor,Reading,NA,U.S. Senate,NA,Independent,Johenry Nunes,1
+Bennington,Readsboro,NA,U.S. Senate,NA,Independent,Johenry Nunes,2
+Franklin,Richford,NA,U.S. Senate,NA,Independent,Johenry Nunes,4
+Chittenden,Richmond,NA,U.S. Senate,NA,Independent,Johenry Nunes,5
+Addison,Ripton,NA,U.S. Senate,NA,Independent,Johenry Nunes,2
+Windsor,Rochester,NA,U.S. Senate,NA,Independent,Johenry Nunes,1
+Windham,Rockingham,NA,U.S. Senate,NA,Independent,Johenry Nunes,9
+Washington,Roxbury,NA,U.S. Senate,NA,Independent,Johenry Nunes,0
+Windsor,Royalton,NA,U.S. Senate,NA,Independent,Johenry Nunes,8
+Bennington,Rupert,Bennington 5,U.S. Senate,NA,Independent,Johenry Nunes,0
+Bennington,Rupert,Rutland 8,U.S. Senate,NA,Independent,Johenry Nunes,2
+Rutland,Rutland City,Rutland 5-1,U.S. Senate,NA,Independent,Johenry Nunes,1
+Rutland,Rutland City,Rutland 5-2,U.S. Senate,NA,Independent,Johenry Nunes,8
+Rutland,Rutland City,Rutland 5-3,U.S. Senate,NA,Independent,Johenry Nunes,7
+Rutland,Rutland City,Rutland 5-4,U.S. Senate,NA,Independent,Johenry Nunes,3
+Rutland,Rutland Town,NA,U.S. Senate,NA,Independent,Johenry Nunes,4
+Caledonia,Ryegate,NA,U.S. Senate,NA,Independent,Johenry Nunes,4
+Franklin,Salisbury,NA,U.S. Senate,NA,Independent,Johenry Nunes,1
+Franklin,Sandgate,NA,U.S. Senate,NA,Independent,Johenry Nunes,2
+Chittenden,Searsburg,NA,U.S. Senate,NA,Independent,Johenry Nunes,0
+Caledonia,Shaftsbury,NA,U.S. Senate,NA,Independent,Johenry Nunes,8
+Addison,Sharon,NA,U.S. Senate,NA,Independent,Johenry Nunes,1
+Bennington,Sheffield,NA,U.S. Senate,NA,Independent,Johenry Nunes,1
+Bennington,Shelburne,Chittenden 5-1,U.S. Senate,NA,Independent,Johenry Nunes,3
+Bennington,Shelburne,Chittenden 5-2,U.S. Senate,NA,Independent,Johenry Nunes,7
+Bennington,Sheldon,NA,U.S. Senate,NA,Independent,Johenry Nunes,1
+Windsor,Shoreham,NA,U.S. Senate,NA,Independent,Johenry Nunes,2
+Caledonia,Shrewsbury,NA,U.S. Senate,NA,Independent,Johenry Nunes,1
+Chittenden,S. Burlington,Chittenden 3-10,U.S. Senate,NA,Independent,Johenry Nunes,3
+Chittenden,S. Burlington,Chittenden 3-7,U.S. Senate,NA,Independent,Johenry Nunes,4
+Chittenden,S. Burlington,Chittenden 3-8,U.S. Senate,NA,Independent,Johenry Nunes,10
+Chittenden,S. Burlington,Chittenden 3-9,U.S. Senate,NA,Independent,Johenry Nunes,7
+Franklin,S. Hero,NA,U.S. Senate,NA,Independent,Johenry Nunes,7
+Addison,Springfield,Windsor 1-1,U.S. Senate,NA,Independent,Johenry Nunes,0
+Addison,Springfield,Windsor 1-2,U.S. Senate,NA,Independent,Johenry Nunes,22
+Rutland,St. Albans City,NA,U.S. Senate,NA,Independent,Johenry Nunes,8
+Chittenden,St. Albans Town,NA,U.S. Senate,NA,Independent,Johenry Nunes,15
+Grand Isle,St. George,NA,U.S. Senate,NA,Independent,Johenry Nunes,0
+Windsor,St. Johnsbury,NA,U.S. Senate,NA,Independent,Johenry Nunes,7
+Bennington,Stamford,NA,U.S. Senate,NA,Independent,Johenry Nunes,1
+Caledonia,Stannard,NA,U.S. Senate,NA,Independent,Johenry Nunes,0
+Addison,Starksboro,NA,U.S. Senate,NA,Independent,Johenry Nunes,2
+Windsor,Stockbridge,NA,U.S. Senate,NA,Independent,Johenry Nunes,1
+Lamoille,Stowe,NA,U.S. Senate,NA,Independent,Johenry Nunes,9
+Orange,Strafford,NA,U.S. Senate,NA,Independent,Johenry Nunes,0
+Windham,Stratton,NA,U.S. Senate,NA,Independent,Johenry Nunes,0
+Rutland,Sudbury,NA,U.S. Senate,NA,Independent,Johenry Nunes,2
+Bennington,Sunderland,NA,U.S. Senate,NA,Independent,Johenry Nunes,4
+Caledonia,Sutton,NA,U.S. Senate,NA,Independent,Johenry Nunes,3
+Franklin,Swanton,NA,U.S. Senate,NA,Independent,Johenry Nunes,9
+Orange,Thetford,NA,U.S. Senate,NA,Independent,Johenry Nunes,9
+Rutland,Tinmouth,NA,U.S. Senate,NA,Independent,Johenry Nunes,3
+Orange,Topsham,NA,U.S. Senate,NA,Independent,Johenry Nunes,1
+Windham,Townshend,NA,U.S. Senate,NA,Independent,Johenry Nunes,2
+Orleans,Troy,NA,U.S. Senate,NA,Independent,Johenry Nunes,2
+Orange,Tunbridge,NA,U.S. Senate,NA,Independent,Johenry Nunes,6
+Chittenden,Underhill,NA,U.S. Senate,NA,Independent,Johenry Nunes,6
+Addison,Vergennes,NA,U.S. Senate,NA,Independent,Johenry Nunes,1
+Windham,Vernon,NA,U.S. Senate,NA,Independent,Johenry Nunes,4
+Orange,Vershire,NA,U.S. Senate,NA,Independent,Johenry Nunes,5
+Essex,Victory,NA,U.S. Senate,NA,Independent,Johenry Nunes,2
+Washington,Waitsfield,NA,U.S. Senate,NA,Independent,Johenry Nunes,2
+Caledonia,Walden,NA,U.S. Senate,NA,Independent,Johenry Nunes,0
+Rutland,Wallingford,NA,U.S. Senate,NA,Independent,Johenry Nunes,0
+Addison,Waltham,NA,U.S. Senate,NA,Independent,Johenry Nunes,1
+Windham,Wardsboro,NA,U.S. Senate,NA,Independent,Johenry Nunes,0
+Washington,Warren,NA,U.S. Senate,NA,Independent,Johenry Nunes,3
+Orange,Washington,NA,U.S. Senate,NA,Independent,Johenry Nunes,1
+Washington,Waterbury,NA,U.S. Senate,NA,Independent,Johenry Nunes,4
+Caledonia,Waterford,NA,U.S. Senate,NA,Independent,Johenry Nunes,5
+Lamoille,Waterville,NA,U.S. Senate,NA,Independent,Johenry Nunes,0
+Windsor,Weathersfield,NA,U.S. Senate,NA,Independent,Johenry Nunes,4
+Rutland,Wells,NA,U.S. Senate,NA,Independent,Johenry Nunes,0
+Orange,W. Fairlee,NA,U.S. Senate,NA,Independent,Johenry Nunes,1
+Rutland,W. Haven,NA,U.S. Senate,NA,Independent,Johenry Nunes,1
+Rutland,W. Rutland,NA,U.S. Senate,NA,Independent,Johenry Nunes,4
+Windsor,W. Windsor,NA,U.S. Senate,NA,Independent,Johenry Nunes,1
+Orleans,Westfield,NA,U.S. Senate,NA,Independent,Johenry Nunes,1
+Chittenden,Westford,NA,U.S. Senate,NA,Independent,Johenry Nunes,7
+Windham,Westminster,Windham 4,U.S. Senate,NA,Independent,Johenry Nunes,0
+Windham,Westminster,Windham 5,U.S. Senate,NA,Independent,Johenry Nunes,5
+Orleans,Westmore,NA,U.S. Senate,NA,Independent,Johenry Nunes,0
+Windsor,Weston,NA,U.S. Senate,NA,Independent,Johenry Nunes,3
+Addison,Weybridge,NA,U.S. Senate,NA,Independent,Johenry Nunes,1
+Caledonia,Wheelock,NA,U.S. Senate,NA,Independent,Johenry Nunes,2
+Addison,Whiting,NA,U.S. Senate,NA,Independent,Johenry Nunes,1
+Windham,Whitingham,NA,U.S. Senate,NA,Independent,Johenry Nunes,6
+Orange,Williamstown,NA,U.S. Senate,NA,Independent,Johenry Nunes,6
+Chittenden,Williston,NA,U.S. Senate,NA,Independent,Johenry Nunes,12
+Windham,Wilmington,NA,U.S. Senate,NA,Independent,Johenry Nunes,2
+Windham,Windham,NA,U.S. Senate,NA,Independent,Johenry Nunes,1
+Windsor,Windsor,NA,U.S. Senate,NA,Independent,Johenry Nunes,6
+Bennington,Winhall,NA,U.S. Senate,NA,Independent,Johenry Nunes,0
+Chittenden,Winooski,NA,U.S. Senate,NA,Independent,Johenry Nunes,14
+Lamoille,Wolcott,NA,U.S. Senate,NA,Independent,Johenry Nunes,0
+Washington,Woodbury,NA,U.S. Senate,NA,Independent,Johenry Nunes,0
+Bennington,Woodford,NA,U.S. Senate,NA,Independent,Johenry Nunes,1
+Windsor,Woodstock,NA,U.S. Senate,NA,Independent,Johenry Nunes,4
+Washington,Worcester,NA,U.S. Senate,NA,Independent,Johenry Nunes,1
+Addison,Addison,NA,U.S. Senate,NA,NA,Write-Ins,0
+Orleans,Albany,NA,U.S. Senate,NA,NA,Write-Ins,0
+Grand Isle,Alburgh,NA,U.S. Senate,NA,NA,Write-Ins,0
+Windsor,Andover,NA,U.S. Senate,NA,NA,Write-Ins,0
+Bennington,Arlington,NA,U.S. Senate,NA,NA,Write-Ins,0
+Windham,Athens,NA,U.S. Senate,NA,NA,Write-Ins,0
+Franklin,Bakersfield,NA,U.S. Senate,NA,NA,Write-Ins,0
+Windsor,Baltimore,NA,U.S. Senate,NA,NA,Write-Ins,0
+Windsor,Barnard,NA,U.S. Senate,NA,NA,Write-Ins,0
+Caledonia,Barnet,NA,U.S. Senate,NA,NA,Write-Ins,0
+Washington,Barre City,Washington 3-1,U.S. Senate,NA,NA,Write-Ins,0
+Washington,Barre City,Washington 3-2,U.S. Senate,NA,NA,Write-Ins,0
+Washington,Barre City,Washington 3-3,U.S. Senate,NA,NA,Write-Ins,0
+Washington,Barre Town,NA,U.S. Senate,NA,NA,Write-Ins,0
+Orleans,Barton,NA,U.S. Senate,NA,NA,Write-Ins,0
+Lamoille,Belvidere,NA,U.S. Senate,NA,NA,Write-Ins,0
+Bennington,Bennington,Bennington 2-1,U.S. Senate,NA,NA,Write-Ins,0
+Bennington,Bennington,Bennington 2-2,U.S. Senate,NA,NA,Write-Ins,0
+Rutland,Benson,NA,U.S. Senate,NA,NA,Write-Ins,0
+Franklin,Berkshire,NA,U.S. Senate,NA,NA,Write-Ins,0
+Washington,Berlin,NA,U.S. Senate,NA,NA,Write-Ins,0
+Windsor,Bethel,NA,U.S. Senate,NA,NA,Write-Ins,0
+Essex,Bloomfield,NA,U.S. Senate,NA,NA,Write-Ins,0
+Chittenden,Bolton,NA,U.S. Senate,NA,NA,Write-Ins,0
+Orange,Bradford,NA,U.S. Senate,NA,NA,Write-Ins,0
+Orange,Braintree,NA,U.S. Senate,NA,NA,Write-Ins,0
+Rutland,Brandon,NA,U.S. Senate,NA,NA,Write-Ins,0
+Windham,Brattleboro,Windham 3-1,U.S. Senate,NA,NA,Write-Ins,0
+Windham,Brattleboro,Windham 3-2,U.S. Senate,NA,NA,Write-Ins,0
+Windham,Brattleboro,Windham 3-3,U.S. Senate,NA,NA,Write-Ins,0
+Windsor,Bridgewater,NA,U.S. Senate,NA,NA,Write-Ins,0
+Addison,Bridport,NA,U.S. Senate,NA,NA,Write-Ins,0
+Essex,Brighton,NA,U.S. Senate,NA,NA,Write-Ins,0
+Addison,Bristol,NA,U.S. Senate,NA,NA,Write-Ins,0
+Orange,Brookfield,NA,U.S. Senate,NA,NA,Write-Ins,0
+Windham,Brookline,NA,U.S. Senate,NA,NA,Write-Ins,0
+Orleans,Brownington,NA,U.S. Senate,NA,NA,Write-Ins,0
+Essex,Brunswick,NA,U.S. Senate,NA,NA,Write-Ins,0
+Caledonia,Burke,NA,U.S. Senate,NA,NA,Write-Ins,0
+Chittenden,Burlington,Chittenden 3-1,U.S. Senate,NA,NA,Write-Ins,0
+Chittenden,Burlington,Chittenden 3-2,U.S. Senate,NA,NA,Write-Ins,0
+Chittenden,Burlington,Chittenden 3-3,U.S. Senate,NA,NA,Write-Ins,0
+Chittenden,Burlington,Chittenden 3-4,U.S. Senate,NA,NA,Write-Ins,2
+Chittenden,Burlington,Chittenden 3-5,U.S. Senate,NA,NA,Write-Ins,3
+Chittenden,Burlington,Chittenden 3-6,U.S. Senate,NA,NA,Write-Ins,0
+Washington,Cabot,NA,U.S. Senate,NA,NA,Write-Ins,0
+Washington,Calais,NA,U.S. Senate,NA,NA,Write-Ins,0
+Lamoille,Cambridge,NA,U.S. Senate,NA,NA,Write-Ins,0
+Essex,Canaan,NA,U.S. Senate,NA,NA,Write-Ins,0
+Rutland,Castleton,NA,U.S. Senate,NA,NA,Write-Ins,0
+Windsor,Cavendish,NA,U.S. Senate,NA,NA,Write-Ins,0
+Orleans,Charleston,NA,U.S. Senate,NA,NA,Write-Ins,0
+Chittenden,Charlotte,NA,U.S. Senate,NA,NA,Write-Ins,0
+Orange,Chelsea,NA,U.S. Senate,NA,NA,Write-Ins,0
+Windsor,Chester,NA,U.S. Senate,NA,NA,Write-Ins,0
+Rutland,Chittenden,NA,U.S. Senate,NA,NA,Write-Ins,0
+Rutland,Clarendon,NA,U.S. Senate,NA,NA,Write-Ins,0
+Chittenden,Colchester,Chittenden 7-1,U.S. Senate,NA,NA,Write-Ins,0
+Chittenden,Colchester,Chittenden 7-2,U.S. Senate,NA,NA,Write-Ins,1
+Essex,Concord,NA,U.S. Senate,NA,NA,Write-Ins,0
+Orange,Corinth,NA,U.S. Senate,NA,NA,Write-Ins,0
+Addison,Cornwall,NA,U.S. Senate,NA,NA,Write-Ins,1
+Orleans,Coventry,NA,U.S. Senate,NA,NA,Write-Ins,0
+Orleans,Craftsbury,NA,U.S. Senate,NA,NA,Write-Ins,0
+Rutland,Danby,NA,U.S. Senate,NA,NA,Write-Ins,0
+Caledonia,Danville,NA,U.S. Senate,NA,NA,Write-Ins,1
+Orleans,Derby,NA,U.S. Senate,NA,NA,Write-Ins,2
+Bennington,Dorset,NA,U.S. Senate,NA,NA,Write-Ins,0
+Windham,Dover,NA,U.S. Senate,NA,NA,Write-Ins,0
+Windham,Dummerston,NA,U.S. Senate,NA,NA,Write-Ins,0
+Washington,Duxbury,NA,U.S. Senate,NA,NA,Write-Ins,0
+Essex,E. Haven,NA,U.S. Senate,NA,NA,Write-Ins,1
+Washington,E. Montpelier,NA,U.S. Senate,NA,NA,Write-Ins,0
+Lamoille,Eden,NA,U.S. Senate,NA,NA,Write-Ins,0
+Lamoille,Elmore,NA,U.S. Senate,NA,NA,Write-Ins,0
+Franklin,Enosburgh,NA,U.S. Senate,NA,NA,Write-Ins,0
+Chittenden,Essex,Chittenden 6-1,U.S. Senate,NA,NA,Write-Ins,0
+Chittenden,Essex,Chittenden 6-2,U.S. Senate,NA,NA,Write-Ins,0
+Chittenden,Essex,Chittenden 6-3,U.S. Senate,NA,NA,Write-Ins,0
+Rutland,Fair Haven,NA,U.S. Senate,NA,NA,Write-Ins,3
+Franklin,Fairfax,NA,U.S. Senate,NA,NA,Write-Ins,1
+Franklin,Fairfield,NA,U.S. Senate,NA,NA,Write-Ins,0
+Orange,Fairlee,NA,U.S. Senate,NA,NA,Write-Ins,0
+Washington,Fayston,NA,U.S. Senate,NA,NA,Write-Ins,0
+Addison,Ferrisburgh,NA,U.S. Senate,NA,NA,Write-Ins,0
+Franklin,Fletcher,NA,U.S. Senate,NA,NA,Write-Ins,0
+Franklin,Franklin,NA,U.S. Senate,NA,NA,Write-Ins,0
+Franklin,Georgia,NA,U.S. Senate,NA,NA,Write-Ins,0
+Orleans,Glover,NA,U.S. Senate,NA,NA,Write-Ins,0
+Addison,Goshen,NA,U.S. Senate,NA,NA,Write-Ins,0
+Windham,Grafton,NA,U.S. Senate,NA,NA,Write-Ins,0
+Essex,Granby,NA,U.S. Senate,NA,NA,Write-Ins,0
+Grand Isle,Grand Isle,NA,U.S. Senate,NA,NA,Write-Ins,0
+Addison,Granville,NA,U.S. Senate,NA,NA,Write-Ins,0
+Orleans,Greensboro,NA,U.S. Senate,NA,NA,Write-Ins,0
+Caledonia,Groton,NA,U.S. Senate,NA,NA,Write-Ins,0
+Essex,Guildhall,NA,U.S. Senate,NA,NA,Write-Ins,0
+Windham,Guilford,NA,U.S. Senate,NA,NA,Write-Ins,1
+Windham,Halifax,NA,U.S. Senate,NA,NA,Write-Ins,0
+Addison,Hancock,NA,U.S. Senate,NA,NA,Write-Ins,0
+Caledonia,Hardwick,NA,U.S. Senate,NA,NA,Write-Ins,0
+Windsor,Hartford,Windsor 6-1,U.S. Senate,NA,NA,Write-Ins,0
+Windsor,Hartford,Windsor 6-2,U.S. Senate,NA,NA,Write-Ins,0
+Windsor,Hartland,NA,U.S. Senate,NA,NA,Write-Ins,0
+Franklin,Highgate,NA,U.S. Senate,NA,NA,Write-Ins,1
+Chittenden,Hinesburg,Chittenden 1-1,U.S. Senate,NA,NA,Write-Ins,1
+Chittenden,Hinesburg,Chittenden 1-2,U.S. Senate,NA,NA,Write-Ins,0
+Orleans,Holland,NA,U.S. Senate,NA,NA,Write-Ins,0
+Rutland,Hubbardton,NA,U.S. Senate,NA,NA,Write-Ins,0
+Chittenden,Huntington,NA,U.S. Senate,NA,NA,Write-Ins,0
+Lamoille,Hyde Park,NA,U.S. Senate,NA,NA,Write-Ins,0
+Rutland,Ira,Rutland 1-1,U.S. Senate,NA,NA,Write-Ins,0
+Rutland,Ira,Rutland 1-2,U.S. Senate,NA,NA,Write-Ins,0
+Orleans,Irasburg,NA,U.S. Senate,NA,NA,Write-Ins,0
+Grand Isle,Isle La Motte,NA,U.S. Senate,NA,NA,Write-Ins,0
+Windham,Jamaica,NA,U.S. Senate,NA,NA,Write-Ins,0
+Orleans,Jay,NA,U.S. Senate,NA,NA,Write-Ins,0
+Chittenden,Jericho,NA,U.S. Senate,NA,NA,Write-Ins,1
+Lamoille,Johnson,NA,U.S. Senate,NA,NA,Write-Ins,0
+Rutland,Killington,NA,U.S. Senate,NA,NA,Write-Ins,0
+Caledonia,Kirby,NA,U.S. Senate,NA,NA,Write-Ins,0
+Bennington,Landgrove,NA,U.S. Senate,NA,NA,Write-Ins,0
+Addison,Leicester,NA,U.S. Senate,NA,NA,Write-Ins,0
+Essex,Lemington,NA,U.S. Senate,NA,NA,Write-Ins,0
+Addison,Lincoln,NA,U.S. Senate,NA,NA,Write-Ins,1
+Windham,Londonderry,NA,U.S. Senate,NA,NA,Write-Ins,0
+Orleans,Lowell,NA,U.S. Senate,NA,NA,Write-Ins,22
+Windsor,Ludlow,NA,U.S. Senate,NA,NA,Write-Ins,1
+Essex,Lunenburg,NA,U.S. Senate,NA,NA,Write-Ins,0
+Caledonia,Lyndon,NA,U.S. Senate,NA,NA,Write-Ins,0
+Essex,Maidstone,NA,U.S. Senate,NA,NA,Write-Ins,2
+Bennington,Manchester,NA,U.S. Senate,NA,NA,Write-Ins,0
+Windham,Marlboro,NA,U.S. Senate,NA,NA,Write-Ins,0
+Washington,Marshfield,NA,U.S. Senate,NA,NA,Write-Ins,0
+Rutland,Mendon,NA,U.S. Senate,NA,NA,Write-Ins,0
+Addison,Middlebury,NA,U.S. Senate,NA,NA,Write-Ins,1
+Washington,Middlesex,NA,U.S. Senate,NA,NA,Write-Ins,0
+Rutland,Middletown Springs,NA,U.S. Senate,NA,NA,Write-Ins,0
+Chittenden,Milton,Chittenden 9,U.S. Senate,NA,NA,Write-Ins,1
+Chittenden,Milton,Grand Isle-Chittenden 1-1,U.S. Senate,NA,NA,Write-Ins,0
+Addison,Monkton,NA,U.S. Senate,NA,NA,Write-Ins,0
+Franklin,Montgomery,NA,U.S. Senate,NA,NA,Write-Ins,0
+Washington,Montpelier,NA,U.S. Senate,NA,NA,Write-Ins,1
+Washington,Moretown,NA,U.S. Senate,NA,NA,Write-Ins,0
+Orleans,Morgan,NA,U.S. Senate,NA,NA,Write-Ins,0
+Lamoille,Morristown,NA,U.S. Senate,NA,NA,Write-Ins,2
+Rutland,Mount Holly,NA,U.S. Senate,NA,NA,Write-Ins,0
+Rutland,Mount Tabor,NA,U.S. Senate,NA,NA,Write-Ins,0
+Addison,New Haven,NA,U.S. Senate,NA,NA,Write-Ins,1
+Caledonia,Newark,NA,U.S. Senate,NA,NA,Write-Ins,0
+Orange,Newbury,NA,U.S. Senate,NA,NA,Write-Ins,2
+Windham,Newfane,NA,U.S. Senate,NA,NA,Write-Ins,0
+Orleans,Newport City,NA,U.S. Senate,NA,NA,Write-Ins,0
+Orleans,Newport Town,NA,U.S. Senate,NA,NA,Write-Ins,0
+Grand Isle,N. Hero,NA,U.S. Senate,NA,NA,Write-Ins,0
+Washington,Northfield,NA,U.S. Senate,NA,NA,Write-Ins,1
+Essex,Norton,NA,U.S. Senate,NA,NA,Write-Ins,0
+Windsor,Norwich,NA,U.S. Senate,NA,NA,Write-Ins,0
+Orange,Orange,NA,U.S. Senate,NA,NA,Write-Ins,0
+Addison,Orwell,NA,U.S. Senate,NA,NA,Write-Ins,0
+Addison,Panton,NA,U.S. Senate,NA,NA,Write-Ins,1
+Rutland,Pawlet,NA,U.S. Senate,NA,NA,Write-Ins,0
+Caledonia,Peacham,NA,U.S. Senate,NA,NA,Write-Ins,0
+Bennington,Peru,NA,U.S. Senate,NA,NA,Write-Ins,0
+Rutland,Pittsfield,NA,U.S. Senate,NA,NA,Write-Ins,0
+Rutland,Pittsford,NA,U.S. Senate,NA,NA,Write-Ins,0
+Washington,Plainfield,NA,U.S. Senate,NA,NA,Write-Ins,0
+Windsor,Plymouth,NA,U.S. Senate,NA,NA,Write-Ins,0
+Windsor,Pomfret,NA,U.S. Senate,NA,NA,Write-Ins,0
+Rutland,Poultney,NA,U.S. Senate,NA,NA,Write-Ins,1
+Bennington,Pownal,NA,U.S. Senate,NA,NA,Write-Ins,0
+Rutland,Proctor,NA,U.S. Senate,NA,NA,Write-Ins,0
+Windham,Putney,NA,U.S. Senate,NA,NA,Write-Ins,0
+Orange,Randolph,NA,U.S. Senate,NA,NA,Write-Ins,1
+Windsor,Reading,NA,U.S. Senate,NA,NA,Write-Ins,0
+Bennington,Readsboro,NA,U.S. Senate,NA,NA,Write-Ins,0
+Franklin,Richford,NA,U.S. Senate,NA,NA,Write-Ins,0
+Chittenden,Richmond,NA,U.S. Senate,NA,NA,Write-Ins,0
+Addison,Ripton,NA,U.S. Senate,NA,NA,Write-Ins,0
+Windsor,Rochester,NA,U.S. Senate,NA,NA,Write-Ins,1
+Windham,Rockingham,NA,U.S. Senate,NA,NA,Write-Ins,1
+Washington,Roxbury,NA,U.S. Senate,NA,NA,Write-Ins,0
+Windsor,Royalton,NA,U.S. Senate,NA,NA,Write-Ins,0
+Bennington,Rupert,Bennington 5,U.S. Senate,NA,NA,Write-Ins,0
+Bennington,Rupert,Rutland 8,U.S. Senate,NA,NA,Write-Ins,0
+Rutland,Rutland City,Rutland 5-1,U.S. Senate,NA,NA,Write-Ins,2
+Rutland,Rutland City,Rutland 5-2,U.S. Senate,NA,NA,Write-Ins,5
+Rutland,Rutland City,Rutland 5-3,U.S. Senate,NA,NA,Write-Ins,0
+Rutland,Rutland City,Rutland 5-4,U.S. Senate,NA,NA,Write-Ins,2
+Rutland,Rutland Town,NA,U.S. Senate,NA,NA,Write-Ins,0
+Caledonia,Ryegate,NA,U.S. Senate,NA,NA,Write-Ins,0
+Franklin,Salisbury,NA,U.S. Senate,NA,NA,Write-Ins,1
+Franklin,Sandgate,NA,U.S. Senate,NA,NA,Write-Ins,0
+Chittenden,Searsburg,NA,U.S. Senate,NA,NA,Write-Ins,0
+Caledonia,Shaftsbury,NA,U.S. Senate,NA,NA,Write-Ins,0
+Addison,Sharon,NA,U.S. Senate,NA,NA,Write-Ins,0
+Bennington,Sheffield,NA,U.S. Senate,NA,NA,Write-Ins,0
+Bennington,Shelburne,Chittenden 5-1,U.S. Senate,NA,NA,Write-Ins,0
+Bennington,Shelburne,Chittenden 5-2,U.S. Senate,NA,NA,Write-Ins,4
+Bennington,Sheldon,NA,U.S. Senate,NA,NA,Write-Ins,0
+Windsor,Shoreham,NA,U.S. Senate,NA,NA,Write-Ins,0
+Caledonia,Shrewsbury,NA,U.S. Senate,NA,NA,Write-Ins,0
+Chittenden,S. Burlington,Chittenden 3-10,U.S. Senate,NA,NA,Write-Ins,1
+Chittenden,S. Burlington,Chittenden 3-7,U.S. Senate,NA,NA,Write-Ins,0
+Chittenden,S. Burlington,Chittenden 3-8,U.S. Senate,NA,NA,Write-Ins,2
+Chittenden,S. Burlington,Chittenden 3-9,U.S. Senate,NA,NA,Write-Ins,0
+Franklin,S. Hero,NA,U.S. Senate,NA,NA,Write-Ins,0
+Addison,Springfield,Windsor 1-1,U.S. Senate,NA,NA,Write-Ins,0
+Addison,Springfield,Windsor 1-2,U.S. Senate,NA,NA,Write-Ins,0
+Rutland,St. Albans City,NA,U.S. Senate,NA,NA,Write-Ins,0
+Chittenden,St. Albans Town,NA,U.S. Senate,NA,NA,Write-Ins,1
+Grand Isle,St. George,NA,U.S. Senate,NA,NA,Write-Ins,0
+Windsor,St. Johnsbury,NA,U.S. Senate,NA,NA,Write-Ins,0
+Bennington,Stamford,NA,U.S. Senate,NA,NA,Write-Ins,0
+Caledonia,Stannard,NA,U.S. Senate,NA,NA,Write-Ins,0
+Addison,Starksboro,NA,U.S. Senate,NA,NA,Write-Ins,1
+Windsor,Stockbridge,NA,U.S. Senate,NA,NA,Write-Ins,0
+Lamoille,Stowe,NA,U.S. Senate,NA,NA,Write-Ins,0
+Orange,Strafford,NA,U.S. Senate,NA,NA,Write-Ins,0
+Windham,Stratton,NA,U.S. Senate,NA,NA,Write-Ins,0
+Rutland,Sudbury,NA,U.S. Senate,NA,NA,Write-Ins,0
+Bennington,Sunderland,NA,U.S. Senate,NA,NA,Write-Ins,0
+Caledonia,Sutton,NA,U.S. Senate,NA,NA,Write-Ins,0
+Franklin,Swanton,NA,U.S. Senate,NA,NA,Write-Ins,1
+Orange,Thetford,NA,U.S. Senate,NA,NA,Write-Ins,0
+Rutland,Tinmouth,NA,U.S. Senate,NA,NA,Write-Ins,0
+Orange,Topsham,NA,U.S. Senate,NA,NA,Write-Ins,0
+Windham,Townshend,NA,U.S. Senate,NA,NA,Write-Ins,0
+Orleans,Troy,NA,U.S. Senate,NA,NA,Write-Ins,0
+Orange,Tunbridge,NA,U.S. Senate,NA,NA,Write-Ins,2
+Chittenden,Underhill,NA,U.S. Senate,NA,NA,Write-Ins,0
+Addison,Vergennes,NA,U.S. Senate,NA,NA,Write-Ins,1
+Windham,Vernon,NA,U.S. Senate,NA,NA,Write-Ins,0
+Orange,Vershire,NA,U.S. Senate,NA,NA,Write-Ins,0
+Essex,Victory,NA,U.S. Senate,NA,NA,Write-Ins,0
+Washington,Waitsfield,NA,U.S. Senate,NA,NA,Write-Ins,0
+Caledonia,Walden,NA,U.S. Senate,NA,NA,Write-Ins,0
+Rutland,Wallingford,NA,U.S. Senate,NA,NA,Write-Ins,0
+Addison,Waltham,NA,U.S. Senate,NA,NA,Write-Ins,1
+Windham,Wardsboro,NA,U.S. Senate,NA,NA,Write-Ins,0
+Washington,Warren,NA,U.S. Senate,NA,NA,Write-Ins,0
+Orange,Washington,NA,U.S. Senate,NA,NA,Write-Ins,1
+Washington,Waterbury,NA,U.S. Senate,NA,NA,Write-Ins,0
+Caledonia,Waterford,NA,U.S. Senate,NA,NA,Write-Ins,0
+Lamoille,Waterville,NA,U.S. Senate,NA,NA,Write-Ins,0
+Windsor,Weathersfield,NA,U.S. Senate,NA,NA,Write-Ins,0
+Rutland,Wells,NA,U.S. Senate,NA,NA,Write-Ins,0
+Orange,W. Fairlee,NA,U.S. Senate,NA,NA,Write-Ins,1
+Rutland,W. Haven,NA,U.S. Senate,NA,NA,Write-Ins,0
+Rutland,W. Rutland,NA,U.S. Senate,NA,NA,Write-Ins,0
+Windsor,W. Windsor,NA,U.S. Senate,NA,NA,Write-Ins,0
+Orleans,Westfield,NA,U.S. Senate,NA,NA,Write-Ins,0
+Chittenden,Westford,NA,U.S. Senate,NA,NA,Write-Ins,0
+Windham,Westminster,Windham 4,U.S. Senate,NA,NA,Write-Ins,0
+Windham,Westminster,Windham 5,U.S. Senate,NA,NA,Write-Ins,4
+Orleans,Westmore,NA,U.S. Senate,NA,NA,Write-Ins,0
+Windsor,Weston,NA,U.S. Senate,NA,NA,Write-Ins,0
+Addison,Weybridge,NA,U.S. Senate,NA,NA,Write-Ins,0
+Caledonia,Wheelock,NA,U.S. Senate,NA,NA,Write-Ins,0
+Addison,Whiting,NA,U.S. Senate,NA,NA,Write-Ins,0
+Windham,Whitingham,NA,U.S. Senate,NA,NA,Write-Ins,0
+Orange,Williamstown,NA,U.S. Senate,NA,NA,Write-Ins,1
+Chittenden,Williston,NA,U.S. Senate,NA,NA,Write-Ins,3
+Windham,Wilmington,NA,U.S. Senate,NA,NA,Write-Ins,0
+Windham,Windham,NA,U.S. Senate,NA,NA,Write-Ins,0
+Windsor,Windsor,NA,U.S. Senate,NA,NA,Write-Ins,0
+Bennington,Winhall,NA,U.S. Senate,NA,NA,Write-Ins,0
+Chittenden,Winooski,NA,U.S. Senate,NA,NA,Write-Ins,0
+Lamoille,Wolcott,NA,U.S. Senate,NA,NA,Write-Ins,0
+Washington,Woodbury,NA,U.S. Senate,NA,NA,Write-Ins,0
+Bennington,Woodford,NA,U.S. Senate,NA,NA,Write-Ins,0
+Windsor,Woodstock,NA,U.S. Senate,NA,NA,Write-Ins,2
+Washington,Worcester,NA,U.S. Senate,NA,NA,Write-Ins,0
+Addison,Addison,NA,U.S. Senate,NA,NA,Blanks,0
+Orleans,Albany,NA,U.S. Senate,NA,NA,Blanks,0
+Grand Isle,Alburgh,NA,U.S. Senate,NA,NA,Blanks,0
+Windsor,Andover,NA,U.S. Senate,NA,NA,Blanks,0
+Bennington,Arlington,NA,U.S. Senate,NA,NA,Blanks,0
+Windham,Athens,NA,U.S. Senate,NA,NA,Blanks,0
+Franklin,Bakersfield,NA,U.S. Senate,NA,NA,Blanks,0
+Windsor,Baltimore,NA,U.S. Senate,NA,NA,Blanks,0
+Windsor,Barnard,NA,U.S. Senate,NA,NA,Blanks,0
+Caledonia,Barnet,NA,U.S. Senate,NA,NA,Blanks,0
+Washington,Barre City,Washington 3-1,U.S. Senate,NA,NA,Blanks,0
+Washington,Barre City,Washington 3-2,U.S. Senate,NA,NA,Blanks,0
+Washington,Barre City,Washington 3-3,U.S. Senate,NA,NA,Blanks,0
+Washington,Barre Town,NA,U.S. Senate,NA,NA,Blanks,0
+Orleans,Barton,NA,U.S. Senate,NA,NA,Blanks,0
+Lamoille,Belvidere,NA,U.S. Senate,NA,NA,Blanks,0
+Bennington,Bennington,Bennington 2-1,U.S. Senate,NA,NA,Blanks,0
+Bennington,Bennington,Bennington 2-2,U.S. Senate,NA,NA,Blanks,0
+Rutland,Benson,NA,U.S. Senate,NA,NA,Blanks,0
+Franklin,Berkshire,NA,U.S. Senate,NA,NA,Blanks,0
+Washington,Berlin,NA,U.S. Senate,NA,NA,Blanks,0
+Windsor,Bethel,NA,U.S. Senate,NA,NA,Blanks,0
+Essex,Bloomfield,NA,U.S. Senate,NA,NA,Blanks,0
+Chittenden,Bolton,NA,U.S. Senate,NA,NA,Blanks,0
+Orange,Bradford,NA,U.S. Senate,NA,NA,Blanks,0
+Orange,Braintree,NA,U.S. Senate,NA,NA,Blanks,0
+Rutland,Brandon,NA,U.S. Senate,NA,NA,Blanks,0
+Windham,Brattleboro,Windham 3-1,U.S. Senate,NA,NA,Blanks,0
+Windham,Brattleboro,Windham 3-2,U.S. Senate,NA,NA,Blanks,0
+Windham,Brattleboro,Windham 3-3,U.S. Senate,NA,NA,Blanks,0
+Windsor,Bridgewater,NA,U.S. Senate,NA,NA,Blanks,0
+Addison,Bridport,NA,U.S. Senate,NA,NA,Blanks,0
+Essex,Brighton,NA,U.S. Senate,NA,NA,Blanks,0
+Addison,Bristol,NA,U.S. Senate,NA,NA,Blanks,0
+Orange,Brookfield,NA,U.S. Senate,NA,NA,Blanks,0
+Windham,Brookline,NA,U.S. Senate,NA,NA,Blanks,0
+Orleans,Brownington,NA,U.S. Senate,NA,NA,Blanks,0
+Essex,Brunswick,NA,U.S. Senate,NA,NA,Blanks,0
+Caledonia,Burke,NA,U.S. Senate,NA,NA,Blanks,0
+Chittenden,Burlington,Chittenden 3-1,U.S. Senate,NA,NA,Blanks,0
+Chittenden,Burlington,Chittenden 3-2,U.S. Senate,NA,NA,Blanks,0
+Chittenden,Burlington,Chittenden 3-3,U.S. Senate,NA,NA,Blanks,0
+Chittenden,Burlington,Chittenden 3-4,U.S. Senate,NA,NA,Blanks,83
+Chittenden,Burlington,Chittenden 3-5,U.S. Senate,NA,NA,Blanks,148
+Chittenden,Burlington,Chittenden 3-6,U.S. Senate,NA,NA,Blanks,13
+Washington,Cabot,NA,U.S. Senate,NA,NA,Blanks,23
+Washington,Calais,NA,U.S. Senate,NA,NA,Blanks,42
+Lamoille,Cambridge,NA,U.S. Senate,NA,NA,Blanks,47
+Essex,Canaan,NA,U.S. Senate,NA,NA,Blanks,15
+Rutland,Castleton,NA,U.S. Senate,NA,NA,Blanks,37
+Windsor,Cavendish,NA,U.S. Senate,NA,NA,Blanks,20
+Orleans,Charleston,NA,U.S. Senate,NA,NA,Blanks,18
+Chittenden,Charlotte,NA,U.S. Senate,NA,NA,Blanks,111
+Orange,Chelsea,NA,U.S. Senate,NA,NA,Blanks,30
+Windsor,Chester,NA,U.S. Senate,NA,NA,Blanks,35
+Rutland,Chittenden,NA,U.S. Senate,NA,NA,Blanks,19
+Rutland,Clarendon,NA,U.S. Senate,NA,NA,Blanks,40
+Chittenden,Colchester,Chittenden 7-1,U.S. Senate,NA,NA,Blanks,50
+Chittenden,Colchester,Chittenden 7-2,U.S. Senate,NA,NA,Blanks,79
+Essex,Concord,NA,U.S. Senate,NA,NA,Blanks,15
+Orange,Corinth,NA,U.S. Senate,NA,NA,Blanks,16
+Addison,Cornwall,NA,U.S. Senate,NA,NA,Blanks,17
+Orleans,Coventry,NA,U.S. Senate,NA,NA,Blanks,9
+Orleans,Craftsbury,NA,U.S. Senate,NA,NA,Blanks,25
+Rutland,Danby,NA,U.S. Senate,NA,NA,Blanks,28
+Caledonia,Danville,NA,U.S. Senate,NA,NA,Blanks,75
+Orleans,Derby,NA,U.S. Senate,NA,NA,Blanks,67
+Bennington,Dorset,NA,U.S. Senate,NA,NA,Blanks,23
+Windham,Dover,NA,U.S. Senate,NA,NA,Blanks,18
+Windham,Dummerston,NA,U.S. Senate,NA,NA,Blanks,31
+Washington,Duxbury,NA,U.S. Senate,NA,NA,Blanks,19
+Essex,E. Haven,NA,U.S. Senate,NA,NA,Blanks,10
+Washington,E. Montpelier,NA,U.S. Senate,NA,NA,Blanks,33
+Lamoille,Eden,NA,U.S. Senate,NA,NA,Blanks,15
+Lamoille,Elmore,NA,U.S. Senate,NA,NA,Blanks,9
+Franklin,Enosburgh,NA,U.S. Senate,NA,NA,Blanks,53
+Chittenden,Essex,Chittenden 6-1,U.S. Senate,NA,NA,Blanks,107
+Chittenden,Essex,Chittenden 6-2,U.S. Senate,NA,NA,Blanks,130
+Chittenden,Essex,Chittenden 6-3,U.S. Senate,NA,NA,Blanks,39
+Rutland,Fair Haven,NA,U.S. Senate,NA,NA,Blanks,24
+Franklin,Fairfax,NA,U.S. Senate,NA,NA,Blanks,53
+Franklin,Fairfield,NA,U.S. Senate,NA,NA,Blanks,46
+Orange,Fairlee,NA,U.S. Senate,NA,NA,Blanks,12
+Washington,Fayston,NA,U.S. Senate,NA,NA,Blanks,19
+Addison,Ferrisburgh,NA,U.S. Senate,NA,NA,Blanks,49
+Franklin,Fletcher,NA,U.S. Senate,NA,NA,Blanks,13
+Franklin,Franklin,NA,U.S. Senate,NA,NA,Blanks,14
+Franklin,Georgia,NA,U.S. Senate,NA,NA,Blanks,29
+Orleans,Glover,NA,U.S. Senate,NA,NA,Blanks,24
+Addison,Goshen,NA,U.S. Senate,NA,NA,Blanks,1
+Windham,Grafton,NA,U.S. Senate,NA,NA,Blanks,18
+Essex,Granby,NA,U.S. Senate,NA,NA,Blanks,2
+Grand Isle,Grand Isle,NA,U.S. Senate,NA,NA,Blanks,18
+Addison,Granville,NA,U.S. Senate,NA,NA,Blanks,3
+Orleans,Greensboro,NA,U.S. Senate,NA,NA,Blanks,9
+Caledonia,Groton,NA,U.S. Senate,NA,NA,Blanks,15
+Essex,Guildhall,NA,U.S. Senate,NA,NA,Blanks,12
+Windham,Guilford,NA,U.S. Senate,NA,NA,Blanks,28
+Windham,Halifax,NA,U.S. Senate,NA,NA,Blanks,18
+Addison,Hancock,NA,U.S. Senate,NA,NA,Blanks,3
+Caledonia,Hardwick,NA,U.S. Senate,NA,NA,Blanks,52
+Windsor,Hartford,Windsor 6-1,U.S. Senate,NA,NA,Blanks,32
+Windsor,Hartford,Windsor 6-2,U.S. Senate,NA,NA,Blanks,76
+Windsor,Hartland,NA,U.S. Senate,NA,NA,Blanks,55
+Franklin,Highgate,NA,U.S. Senate,NA,NA,Blanks,38
+Chittenden,Hinesburg,Chittenden 1-1,U.S. Senate,NA,NA,Blanks,51
+Chittenden,Hinesburg,Chittenden 1-2,U.S. Senate,NA,NA,Blanks,3
+Orleans,Holland,NA,U.S. Senate,NA,NA,Blanks,10
+Rutland,Hubbardton,NA,U.S. Senate,NA,NA,Blanks,16
+Chittenden,Huntington,NA,U.S. Senate,NA,NA,Blanks,34
+Lamoille,Hyde Park,NA,U.S. Senate,NA,NA,Blanks,29
+Rutland,Ira,Rutland 1-1,U.S. Senate,NA,NA,Blanks,0
+Rutland,Ira,Rutland 1-2,U.S. Senate,NA,NA,Blanks,10
+Orleans,Irasburg,NA,U.S. Senate,NA,NA,Blanks,16
+Grand Isle,Isle La Motte,NA,U.S. Senate,NA,NA,Blanks,7
+Windham,Jamaica,NA,U.S. Senate,NA,NA,Blanks,10
+Orleans,Jay,NA,U.S. Senate,NA,NA,Blanks,7
+Chittenden,Jericho,NA,U.S. Senate,NA,NA,Blanks,55
+Lamoille,Johnson,NA,U.S. Senate,NA,NA,Blanks,28
+Rutland,Killington,NA,U.S. Senate,NA,NA,Blanks,13
+Caledonia,Kirby,NA,U.S. Senate,NA,NA,Blanks,9
+Bennington,Landgrove,NA,U.S. Senate,NA,NA,Blanks,2
+Addison,Leicester,NA,U.S. Senate,NA,NA,Blanks,13
+Essex,Lemington,NA,U.S. Senate,NA,NA,Blanks,0
+Addison,Lincoln,NA,U.S. Senate,NA,NA,Blanks,21
+Windham,Londonderry,NA,U.S. Senate,NA,NA,Blanks,19
+Orleans,Lowell,NA,U.S. Senate,NA,NA,Blanks,0
+Windsor,Ludlow,NA,U.S. Senate,NA,NA,Blanks,21
+Essex,Lunenburg,NA,U.S. Senate,NA,NA,Blanks,22
+Caledonia,Lyndon,NA,U.S. Senate,NA,NA,Blanks,56
+Essex,Maidstone,NA,U.S. Senate,NA,NA,Blanks,7
+Bennington,Manchester,NA,U.S. Senate,NA,NA,Blanks,55
+Windham,Marlboro,NA,U.S. Senate,NA,NA,Blanks,22
+Washington,Marshfield,NA,U.S. Senate,NA,NA,Blanks,27
+Rutland,Mendon,NA,U.S. Senate,NA,NA,Blanks,16
+Addison,Middlebury,NA,U.S. Senate,NA,NA,Blanks,50
+Washington,Middlesex,NA,U.S. Senate,NA,NA,Blanks,29
+Rutland,Middletown Springs,NA,U.S. Senate,NA,NA,Blanks,22
+Chittenden,Milton,Chittenden 9,U.S. Senate,NA,NA,Blanks,99
+Chittenden,Milton,Grand Isle-Chittenden 1-1,U.S. Senate,NA,NA,Blanks,16
+Addison,Monkton,NA,U.S. Senate,NA,NA,Blanks,24
+Franklin,Montgomery,NA,U.S. Senate,NA,NA,Blanks,10
+Washington,Montpelier,NA,U.S. Senate,NA,NA,Blanks,170
+Washington,Moretown,NA,U.S. Senate,NA,NA,Blanks,24
+Orleans,Morgan,NA,U.S. Senate,NA,NA,Blanks,12
+Lamoille,Morristown,NA,U.S. Senate,NA,NA,Blanks,51
+Rutland,Mount Holly,NA,U.S. Senate,NA,NA,Blanks,22
+Rutland,Mount Tabor,NA,U.S. Senate,NA,NA,Blanks,0
+Addison,New Haven,NA,U.S. Senate,NA,NA,Blanks,25
+Caledonia,Newark,NA,U.S. Senate,NA,NA,Blanks,9
+Orange,Newbury,NA,U.S. Senate,NA,NA,Blanks,30
+Windham,Newfane,NA,U.S. Senate,NA,NA,Blanks,27
+Orleans,Newport City,NA,U.S. Senate,NA,NA,Blanks,59
+Orleans,Newport Town,NA,U.S. Senate,NA,NA,Blanks,26
+Grand Isle,N. Hero,NA,U.S. Senate,NA,NA,Blanks,9
+Washington,Northfield,NA,U.S. Senate,NA,NA,Blanks,54
+Essex,Norton,NA,U.S. Senate,NA,NA,Blanks,4
+Windsor,Norwich,NA,U.S. Senate,NA,NA,Blanks,37
+Orange,Orange,NA,U.S. Senate,NA,NA,Blanks,25
+Addison,Orwell,NA,U.S. Senate,NA,NA,Blanks,40
+Addison,Panton,NA,U.S. Senate,NA,NA,Blanks,10
+Rutland,Pawlet,NA,U.S. Senate,NA,NA,Blanks,14
+Caledonia,Peacham,NA,U.S. Senate,NA,NA,Blanks,18
+Bennington,Peru,NA,U.S. Senate,NA,NA,Blanks,8
+Rutland,Pittsfield,NA,U.S. Senate,NA,NA,Blanks,8
+Rutland,Pittsford,NA,U.S. Senate,NA,NA,Blanks,27
+Washington,Plainfield,NA,U.S. Senate,NA,NA,Blanks,27
+Windsor,Plymouth,NA,U.S. Senate,NA,NA,Blanks,18
+Windsor,Pomfret,NA,U.S. Senate,NA,NA,Blanks,13
+Rutland,Poultney,NA,U.S. Senate,NA,NA,Blanks,35
+Bennington,Pownal,NA,U.S. Senate,NA,NA,Blanks,33
+Rutland,Proctor,NA,U.S. Senate,NA,NA,Blanks,23
+Windham,Putney,NA,U.S. Senate,NA,NA,Blanks,31
+Orange,Randolph,NA,U.S. Senate,NA,NA,Blanks,57
+Windsor,Reading,NA,U.S. Senate,NA,NA,Blanks,20
+Bennington,Readsboro,NA,U.S. Senate,NA,NA,Blanks,16
+Franklin,Richford,NA,U.S. Senate,NA,NA,Blanks,26
+Chittenden,Richmond,NA,U.S. Senate,NA,NA,Blanks,72
+Addison,Ripton,NA,U.S. Senate,NA,NA,Blanks,13
+Windsor,Rochester,NA,U.S. Senate,NA,NA,Blanks,23
+Windham,Rockingham,NA,U.S. Senate,NA,NA,Blanks,77
+Washington,Roxbury,NA,U.S. Senate,NA,NA,Blanks,11
+Windsor,Royalton,NA,U.S. Senate,NA,NA,Blanks,43
+Bennington,Rupert,Bennington 5,U.S. Senate,NA,NA,Blanks,4
+Bennington,Rupert,Rutland 8,U.S. Senate,NA,NA,Blanks,11
+Rutland,Rutland City,Rutland 5-1,U.S. Senate,NA,NA,Blanks,88
+Rutland,Rutland City,Rutland 5-2,U.S. Senate,NA,NA,Blanks,56
+Rutland,Rutland City,Rutland 5-3,U.S. Senate,NA,NA,Blanks,47
+Rutland,Rutland City,Rutland 5-4,U.S. Senate,NA,NA,Blanks,52
+Rutland,Rutland Town,NA,U.S. Senate,NA,NA,Blanks,93
+Caledonia,Ryegate,NA,U.S. Senate,NA,NA,Blanks,21
+Franklin,Salisbury,NA,U.S. Senate,NA,NA,Blanks,14
+Franklin,Sandgate,NA,U.S. Senate,NA,NA,Blanks,5
+Chittenden,Searsburg,NA,U.S. Senate,NA,NA,Blanks,3
+Caledonia,Shaftsbury,NA,U.S. Senate,NA,NA,Blanks,68
+Addison,Sharon,NA,U.S. Senate,NA,NA,Blanks,14
+Bennington,Sheffield,NA,U.S. Senate,NA,NA,Blanks,6
+Bennington,Shelburne,Chittenden 5-1,U.S. Senate,NA,NA,Blanks,66
+Bennington,Shelburne,Chittenden 5-2,U.S. Senate,NA,NA,Blanks,63
+Bennington,Sheldon,NA,U.S. Senate,NA,NA,Blanks,21
+Windsor,Shoreham,NA,U.S. Senate,NA,NA,Blanks,26
+Caledonia,Shrewsbury,NA,U.S. Senate,NA,NA,Blanks,22
+Chittenden,S. Burlington,Chittenden 3-10,U.S. Senate,NA,NA,Blanks,45
+Chittenden,S. Burlington,Chittenden 3-7,U.S. Senate,NA,NA,Blanks,65
+Chittenden,S. Burlington,Chittenden 3-8,U.S. Senate,NA,NA,Blanks,72
+Chittenden,S. Burlington,Chittenden 3-9,U.S. Senate,NA,NA,Blanks,59
+Franklin,S. Hero,NA,U.S. Senate,NA,NA,Blanks,20
+Addison,Springfield,Windsor 1-1,U.S. Senate,NA,NA,Blanks,0
+Addison,Springfield,Windsor 1-2,U.S. Senate,NA,NA,Blanks,95
+Rutland,St. Albans City,NA,U.S. Senate,NA,NA,Blanks,78
+Chittenden,St. Albans Town,NA,U.S. Senate,NA,NA,Blanks,57
+Grand Isle,St. George,NA,U.S. Senate,NA,NA,Blanks,10
+Windsor,St. Johnsbury,NA,U.S. Senate,NA,NA,Blanks,49
+Bennington,Stamford,NA,U.S. Senate,NA,NA,Blanks,20
+Caledonia,Stannard,NA,U.S. Senate,NA,NA,Blanks,3
+Addison,Starksboro,NA,U.S. Senate,NA,NA,Blanks,23
+Windsor,Stockbridge,NA,U.S. Senate,NA,NA,Blanks,9
+Lamoille,Stowe,NA,U.S. Senate,NA,NA,Blanks,56
+Orange,Strafford,NA,U.S. Senate,NA,NA,Blanks,15
+Windham,Stratton,NA,U.S. Senate,NA,NA,Blanks,3
+Rutland,Sudbury,NA,U.S. Senate,NA,NA,Blanks,5
+Bennington,Sunderland,NA,U.S. Senate,NA,NA,Blanks,14
+Caledonia,Sutton,NA,U.S. Senate,NA,NA,Blanks,8
+Franklin,Swanton,NA,U.S. Senate,NA,NA,Blanks,55
+Orange,Thetford,NA,U.S. Senate,NA,NA,Blanks,39
+Rutland,Tinmouth,NA,U.S. Senate,NA,NA,Blanks,17
+Orange,Topsham,NA,U.S. Senate,NA,NA,Blanks,25
+Windham,Townshend,NA,U.S. Senate,NA,NA,Blanks,23
+Orleans,Troy,NA,U.S. Senate,NA,NA,Blanks,19
+Orange,Tunbridge,NA,U.S. Senate,NA,NA,Blanks,22
+Chittenden,Underhill,NA,U.S. Senate,NA,NA,Blanks,56
+Addison,Vergennes,NA,U.S. Senate,NA,NA,Blanks,33
+Windham,Vernon,NA,U.S. Senate,NA,NA,Blanks,52
+Orange,Vershire,NA,U.S. Senate,NA,NA,Blanks,10
+Essex,Victory,NA,U.S. Senate,NA,NA,Blanks,1
+Washington,Waitsfield,NA,U.S. Senate,NA,NA,Blanks,36
+Caledonia,Walden,NA,U.S. Senate,NA,NA,Blanks,27
+Rutland,Wallingford,NA,U.S. Senate,NA,NA,Blanks,36
+Addison,Waltham,NA,U.S. Senate,NA,NA,Blanks,5
+Windham,Wardsboro,NA,U.S. Senate,NA,NA,Blanks,18
+Washington,Warren,NA,U.S. Senate,NA,NA,Blanks,47
+Orange,Washington,NA,U.S. Senate,NA,NA,Blanks,12
+Washington,Waterbury,NA,U.S. Senate,NA,NA,Blanks,64
+Caledonia,Waterford,NA,U.S. Senate,NA,NA,Blanks,25
+Lamoille,Waterville,NA,U.S. Senate,NA,NA,Blanks,7
+Windsor,Weathersfield,NA,U.S. Senate,NA,NA,Blanks,35
+Rutland,Wells,NA,U.S. Senate,NA,NA,Blanks,20
+Orange,W. Fairlee,NA,U.S. Senate,NA,NA,Blanks,6
+Rutland,W. Haven,NA,U.S. Senate,NA,NA,Blanks,4
+Rutland,W. Rutland,NA,U.S. Senate,NA,NA,Blanks,35
+Windsor,W. Windsor,NA,U.S. Senate,NA,NA,Blanks,22
+Orleans,Westfield,NA,U.S. Senate,NA,NA,Blanks,8
+Chittenden,Westford,NA,U.S. Senate,NA,NA,Blanks,31
+Windham,Westminster,Windham 4,U.S. Senate,NA,NA,Blanks,1
+Windham,Westminster,Windham 5,U.S. Senate,NA,NA,Blanks,28
+Orleans,Westmore,NA,U.S. Senate,NA,NA,Blanks,4
+Windsor,Weston,NA,U.S. Senate,NA,NA,Blanks,17
+Addison,Weybridge,NA,U.S. Senate,NA,NA,Blanks,18
+Caledonia,Wheelock,NA,U.S. Senate,NA,NA,Blanks,6
+Addison,Whiting,NA,U.S. Senate,NA,NA,Blanks,4
+Windham,Whitingham,NA,U.S. Senate,NA,NA,Blanks,18
+Orange,Williamstown,NA,U.S. Senate,NA,NA,Blanks,56
+Chittenden,Williston,NA,U.S. Senate,NA,NA,Blanks,138
+Windham,Wilmington,NA,U.S. Senate,NA,NA,Blanks,36
+Windham,Windham,NA,U.S. Senate,NA,NA,Blanks,8
+Windsor,Windsor,NA,U.S. Senate,NA,NA,Blanks,25
+Bennington,Winhall,NA,U.S. Senate,NA,NA,Blanks,21
+Chittenden,Winooski,NA,U.S. Senate,NA,NA,Blanks,63
+Lamoille,Wolcott,NA,U.S. Senate,NA,NA,Blanks,24
+Washington,Woodbury,NA,U.S. Senate,NA,NA,Blanks,24
+Bennington,Woodford,NA,U.S. Senate,NA,NA,Blanks,7
+Windsor,Woodstock,NA,U.S. Senate,NA,NA,Blanks,41
+Washington,Worcester,NA,U.S. Senate,NA,NA,Blanks,19
